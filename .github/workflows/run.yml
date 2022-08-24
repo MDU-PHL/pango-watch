@@ -29,6 +29,6 @@ jobs:
           if [ "$(git status --porcelain | head -1)" ]
           then
             git add -A
-            git commit -m "Changes Found!"
+            git commit -m ":tada: Changes Found!"
             git push
           fi
