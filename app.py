@@ -51,6 +51,7 @@ def main(
 
     # send slack
     if slack:
+        typer.echo('Sending update to slack!')
         data = {
             "blocks": [
                 {
