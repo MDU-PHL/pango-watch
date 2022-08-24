@@ -1,12 +1,13 @@
 from datetime import datetime
 import typer
 from watch import File, DB
-
+import requests
 
 def main(
     url: str = typer.Argument(
         "https://api.github.com/repos/cov-lineages/pango-designation/contents/lineage_notes.txt?ref=master"
     ),
+    slack: str = typer.Option("", help="Hook to post the results to."),
 ):
     # load the db
     db = DB(path="db.json")
@@ -49,6 +50,33 @@ def main(
                 f.write(f"- \{c}\n")
 
     # send slack
+    if slack:
+        data = {
+            "blocks": [
+                {
+                    "type": "section",
+                    "text": {
+                        "type": "mrkdwn",
+                        "text": "There has been an update to the <https://github.com/cov-lineages/pango-designation/blob/master/lineage_notes.txt|Pango-lineage designations>:"
+                    }
+                },
+                {
+                    "type": "section",
+                    "text": {
+                        "type": "mrkdwn",
+                        "text": "\n".join(diff)
+                    }
+                },
+                {
+                    "type": "section",
+                    "text": {
+                        "type": "mrkdwn",
+                        "text": "https://mdu-phl.github.io/pango-watch/"
+                    }
+                }
+            ]
+        }
+        r = requests.post(slack, json=data)
 
 
 if __name__ == "__main__":
