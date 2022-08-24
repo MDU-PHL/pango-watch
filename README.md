@@ -2,7 +2,7 @@
 
 [![.github/workflows/run.yml](https://github.com/MDU-PHL/pango-watch/actions/workflows/run.yml/badge.svg)](https://github.com/MDU-PHL/pango-watch/actions/workflows/run.yml)
 
-Watch for updates in https://github.com/cov-lineages/pango-designation/blob/master/lineage_notes.txt!
+Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-designation/blob/master/lineage_notes.txt)!
 
 ## Changes
 ### 2022-08-24 12:46:07.059647
