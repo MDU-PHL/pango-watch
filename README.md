@@ -4,6 +4,7 @@
 
 Watch for pango updates!
 
+https://mdu-phl.github.io/pango-watch/
 
 ## Changes
 ### 2022-08-24 12:00:57.768911
