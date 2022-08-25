@@ -48,6 +48,7 @@ def main(
             f.write(f"*{change['sha']}*\n")
             for c in change["changes"]:
                 f.write(f"- \{c}\n")
+            f.write("\n" )
 
     # send slack
     if slack:
