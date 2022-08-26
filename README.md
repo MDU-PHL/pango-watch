@@ -5,6 +5,12 @@
 Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-designation/blob/master/lineage_notes.txt)!
 
 ## Changes
+### 2022-08-26 12:09:15.189510
+*7cf0872512b4a0634cb1f8e843261869c98c54a1*
+- \+ BA.5.1.15	Alias of B.1.1.529.5.1.15, Peru and Brazil lineage
+- \+ BA.5.1.16	Alias of B.1.1.529.5.1.16, Japan lineage
+- \+ BA.5.1.17	Alias of B.1.1.529.5.1.17, France lineage
+
 ### 2022-08-26 11:09:31.370031
 *d45c27b309d90cc1851453cbf736eb6887bc7782*
 - \+ BA.5.2.8	Alias of B.1.1.529.5.2.8, Israel lineage
