@@ -5,6 +5,14 @@
 Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-designation/blob/master/lineage_notes.txt)!
 
 ## Changes
+### 2022-08-26 15:06:22.264647
+*c312ce1eb0636a5cf6781d55a6abac66276f51fb*
+- \+ BF.17	Alias of B.1.1.529.5.2.1.17, Australia lineage
+- \+ BF.18	Alias of B.1.1.529.5.2.1.18, Australia lineage
+- \+ BF.19	Alias of B.1.1.529.5.2.1.19, Greece lineage
+- \+ BF.20	Alias of B.1.1.529.5.2.1.20, lineage in Kenya and other countries
+- \+ BF.21	Alias of B.1.1.529.5.2.1.21, USA lineage
+
 ### 2022-08-26 14:06:22.858573
 *8a5b48431df06af446b8f514b4c4efd9c97fa312*
 - \+ BA.5.2.11	Alias of B.1.1.529.5.2.11, Philippines lineage
