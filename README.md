@@ -5,6 +5,11 @@
 Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-designation/blob/master/lineage_notes.txt)!
 
 ## Changes
+### 2022-08-28 00:13:40.248753
+*d1650158fee158f630f3e69a10a46de0e8f99da9*
+- \+ BA.4.1.9	Alias of B.1.1.529.4.1.9, mainly found in USA, England and Mexico, from pango-designation issue #926
+- \+ XAZ	Recombinant lineage of BA.2.5, BA.5. and BA.2.5, predominantly found in France, Germany, Croatia, Denmark and USA, from pango-designation issue #797
+
 ### 2022-08-26 15:06:22.264647
 *c312ce1eb0636a5cf6781d55a6abac66276f51fb*
 - \+ BF.17	Alias of B.1.1.529.5.2.1.17, Australia lineage
