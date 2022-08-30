@@ -7,7 +7,7 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
 ## Changes
-### 2022-08-30 10:02:03.685408
+### 2022-08-30 00:10:55.539323
 *8e9240aa87c70be194d6913947d1db75d328fa7e*
 - \+ [BA.5.5.2](https://cov-lineages.org/lineage.html?lineage=BA.5.5.2) Alias of B.1.1.529.5.5.2, mainly found in USA, Canada, England and Ireland, from pango-designation issue #938
 
