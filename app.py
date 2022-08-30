@@ -47,7 +47,8 @@ def main(
             f.write(f"### {change['datetime']}\n")
             f.write(f"*{change['sha']}*\n")
             for c in change["changes"]:
-                f.write(f"- \{c}\n")
+                op, lineage, *note = c.split() # +/- lineage note
+                f.write(f"- \{op} [{lineage}](https://cov-lineages.org/lineage.html?lineage={lineage}) {' '.join(note)}\n")
             f.write("\n" )
 
     # send slack
