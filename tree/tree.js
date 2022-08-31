@@ -84,12 +84,13 @@ treeJSON = d3.json("data.json", function(error, treeData) {
           }
           var find = flatten(root).find(function(d) {
             if (d.compressed_name == select)
-              return true;
+                return true;
           });
 
           doReset()
+          centerNode(find)
           while (find.parent) {
-            find.color = "red";
+            find.color = "#e74c3c";
             find = find.parent;
           }
           update(find)
@@ -419,6 +420,13 @@ treeJSON = d3.json("data.json", function(error, treeData) {
         d3.selectAll("path").style("stroke", function(d) {
                 if (d.target.color) {
                   return d.target.color
+                } else {
+                  return null
+                }
+              })
+        d3.selectAll("path").style("stroke-width", function(d) {
+                if (d.target.color) {
+                  return '4px'
                 } else {
                   return null
                 }
