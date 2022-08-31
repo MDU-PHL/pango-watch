@@ -73,6 +73,7 @@ def main(
     with open("README.md", "w") as f:
         f.writelines(readme)
         f.write("## Changes\n")
+        f.write("> Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.\n")
         for change in changes[::-1]:
             f.write(f"### {change['datetime'].split()[0]}\n")
             # f.write(f"*{change['sha']}*\n")

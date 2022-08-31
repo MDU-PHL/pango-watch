@@ -4,9 +4,10 @@
 
 Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-designation/blob/master/lineage_notes.txt)!
 
-> Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
+[Pango B lineage interactive tree](/tree/)
 
 ## Changes
+> Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 ### 2022-08-31 00:11:21.974766
 *77a3e8be601164ec3d77548ae59fe06b4ee376cf*
 - \+ [BM.1](https://cov-lineages.org/lineage.html?lineage=BM.1) Alias of B.1.1.529.2.75.3.1, mainly found in India, pango-designation issue #965
