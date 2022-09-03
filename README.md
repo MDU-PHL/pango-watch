@@ -9,6 +9,15 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-09-03
+- \+ [BP.1](https://cov-lineages.org/lineage.html?lineage=BP.1) Alias of B.1.1.529.2.3.16.1, Oceania/South East Asia lineage, from pango-designation issue #1009
+- \+ [BA.2.3.20](https://cov-lineages.org/lineage.html?lineage=BA.2.3.20) Alias of B.1.1.529.2.3.20, found globally, unclear origin, from pango-designation issue #1013
+- \+ [BN.1](https://cov-lineages.org/lineage.html?lineage=BN.1) Alias of B.1.1.529.2.75.5.1, mainly found in India, pango-designation issue #994
+- \+ [BQ.1](https://cov-lineages.org/lineage.html?lineage=BQ.1) Alias of B.1.1.529.5.3.1.1.1.1.1, Nigeria lineage, from pango-designation issue #993
+- \+ [BA.5.5.3](https://cov-lineages.org/lineage.html?lineage=BA.5.5.3) Alias of B.1.1.529.5.5.3, USA lineage, from pango-designation issue #1015
+- \- [BB.2](https://cov-lineages.org/lineage.html?lineage=BB.2) Alias of B.1.621.1.2, from pango-designation issue #232
+- \+ [BB.2](https://cov-lineages.org/lineage.html?lineage=BB.2) Alias of B.1.621.1.2, from pango-designation issue #232
+
 ### 2022-09-01
 - \+ [BF.22](https://cov-lineages.org/lineage.html?lineage=BF.22) Alias of B.1.1.529.5.2.1.22, mainly found in Japan, from pango-designation issue #1010
 
