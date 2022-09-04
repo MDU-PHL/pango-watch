@@ -4,7 +4,7 @@
 
 Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-designation/blob/master/lineage_notes.txt)!
 
-[Pango B lineage interactive tree](https://mdu-phl.github.io/pango-watch/tree/)
+[Pango lineages interactive tree](https://mdu-phl.github.io/pango-watch/tree/)
 
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
