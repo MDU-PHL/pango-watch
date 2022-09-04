@@ -51,7 +51,6 @@ treeJSON = d3.json("data.json", function(error, treeData) {
         .size([viewerHeight, viewerWidth]);
 
     var nodeList = tree.nodes(treeData);
-    console.log(treeData);
     // Returns a list of all nodes under the root.
     function flatten(root) {
         var nodes = [],
@@ -71,8 +70,20 @@ treeJSON = d3.json("data.json", function(error, treeData) {
           flatten(root).forEach(function(d) {
             d.color = undefined;
           })
+          expand(root)
           update(root);      
       }
+
+      function doCollapse(d){
+        if (d.children) {
+            d._children = d.children;
+            d._children.forEach(doCollapse);
+            if (!d.color) {
+                d.children = null;
+            }
+        }    
+    }
+
       var select = d3.select("#toolbar")
         .append("select")
         .on("change", function() {
@@ -112,11 +123,22 @@ treeJSON = d3.json("data.json", function(error, treeData) {
   
       });
 
-      d3.select("#toolbar").append("button")
-        .text("Reset").on("click", function(){
-          d3.select("select").node().value = "Select";
-          doReset();
-        });
+    d3.select("#toolbar").append("button")
+    .text("Reset").on("click", function(){
+    d3.select("select").node().value = "Select";
+    doReset();
+    });
+        
+    d3.select("#toolbar").append("button")
+    .text("Collapse").on("click", function(){
+        root.children.forEach(function(d) {
+            doCollapse(d);
+          }) 
+        
+        update(root); 
+        centerNode(root)
+    });
+  
   
   
     // define a d3 diagonal projection for use by the node paths later on.
@@ -222,9 +244,11 @@ treeJSON = d3.json("data.json", function(error, treeData) {
     function expand(d) {
         if (d._children) {
             d.children = d._children;
-            d.children.forEach(expand);
             d._children = null;
         }
+        if (d.children) {
+            d.children.forEach(expand);
+        }        
     }
 
     var overCircle = function(d) {
