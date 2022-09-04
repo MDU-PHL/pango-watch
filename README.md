@@ -9,6 +9,21 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-09-04
+- \- [BL.1](https://cov-lineages.org/lineage.html?lineage=BL.1) Alias of B.1.1.529.2.75.1.1, mainly found in India from pango-designation issue #944
+- \+ [BL.1](https://cov-lineages.org/lineage.html?lineage=BL.1) Alias of B.1.1.529.2.75.1.1, mainly found in India from pango-designation issue #944, S:R346T on polytomy
+- \+ [BL.2](https://cov-lineages.org/lineage.html?lineage=BL.2) Alias of B.1.1.529.2.75.1.2, mainly found in India, defined by S:R346T on A26612T branch
+- \+ [BL.3](https://cov-lineages.org/lineage.html?lineage=BL.3) Alias of B.1.1.529.2.75.1.3, mainly found in India, defined by ORF1a:P2685S on A26612T branch
+- \+ [BL.4](https://cov-lineages.org/lineage.html?lineage=BL.4) Alias of B.1.1.529.2.75.1.4, mainly found in India, defined by ORF7a:P45L with 11224T and 22720G branch
+- \+ [BM.1.1](https://cov-lineages.org/lineage.html?lineage=BM.1.1) Alias of B.1.1.529.2.75.3.1.1, mainly found in India (West Bengal), defined by S:346T
+- \+ [BM.2](https://cov-lineages.org/lineage.html?lineage=BM.2) Alias of B.1.1.529.2.75.3.2, mainly found in India (Telangana), defined by S:346T
+- \+ [BM.3](https://cov-lineages.org/lineage.html?lineage=BM.3) Alias of B.1.1.529.2.75.3.3, found in Nepal and globally, defined by ORF1b:P1652S
+- \+ [BR.1](https://cov-lineages.org/lineage.html?lineage=BR.1) Alias of B.1.1.529.2.75.4.1, mainly found in India (Karnataka), defined by S:K444M
+- \+ [BN.2](https://cov-lineages.org/lineage.html?lineage=BN.2) Alias of B.1.1.529.2.75.5.2, mainly found in India, pango-designation issue #1021
+- \+ [BN.2.1](https://cov-lineages.org/lineage.html?lineage=BN.2.1) Alias of B.1.1.529.2.75.5.2.1, mainly USA and Canada lineage, defined by S:H49Y and S:F490S
+- \+ [BA.2.75.6](https://cov-lineages.org/lineage.html?lineage=BA.2.75.6) Alias of B.1.1.529.2.75.6, mainly found in India, defined by S:R346T on the BA.2.75 polytomy
+- \+ [BA.2.75.7](https://cov-lineages.org/lineage.html?lineage=BA.2.75.7) Alias of B.1.1.529.2.75.7, mainly found in India, defined by S:F486S on the BA.2.75 polytomy
+
 ### 2022-09-03
 - \+ [BP.1](https://cov-lineages.org/lineage.html?lineage=BP.1) Alias of B.1.1.529.2.3.16.1, Oceania/South East Asia lineage, from pango-designation issue #1009
 - \+ [BA.2.3.20](https://cov-lineages.org/lineage.html?lineage=BA.2.3.20) Alias of B.1.1.529.2.3.20, found globally, unclear origin, from pango-designation issue #1013
