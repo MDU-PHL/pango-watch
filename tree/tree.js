@@ -50,8 +50,8 @@ treeJSON = d3.json("data.json", function(error, treeData) {
     var tree = d3.layout.tree()
         .size([viewerHeight, viewerWidth]);
 
-    var nodeList = tree.nodes(treeData.children[0]);
-    
+    var nodeList = tree.nodes(treeData);
+    console.log(treeData);
     // Returns a list of all nodes under the root.
     function flatten(root) {
         var nodes = [],
@@ -103,10 +103,12 @@ treeJSON = d3.json("data.json", function(error, treeData) {
         .text("Select");
   
       nodeList.forEach(function(d) {
-  
-        select.append("option")
-          .attr("value", d.compressed_name)
-          .text(d.compressed_name);
+        if (d.compressed_name) {
+            select.append("option")
+                .attr("value", d.compressed_name)
+                .text(d.compressed_name);
+        }
+        
   
       });
 
