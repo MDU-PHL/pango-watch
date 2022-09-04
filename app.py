@@ -32,8 +32,11 @@ def send_slack_msg(hook_url, diff):
         }
     r = requests.post(hook_url, json=data)
 
+app = typer.Typer()
 
-def main(
+
+@app.command()
+def check(
     url: str = typer.Argument(
         "https://api.github.com/repos/cov-lineages/pango-designation/contents/lineage_notes.txt?ref=master"
     ),
@@ -89,5 +92,47 @@ def main(
             send_slack_msg(hook_url, diff)
 
 
+
+def insertNodeIntoTree(node, parentName, newNode):
+  if node['name'] == parentName:
+    node['children'].append(newNode)
+  elif node['children']:
+    for child in node['children']:
+      insertNodeIntoTree(child, parentName, newNode)
+
+@app.command()
+def tree():
+    from pango_aliasor.aliasor import Aliasor
+    import json 
+    aliasor = Aliasor()
+    db = DB(path="db.json")
+    last_file = db.get_last()
+    last_text = last_file.text
+    lineages = []
+    for i, line in enumerate(last_text.split('\n')):
+        if not line or i == 0:
+            # skip header and EOF
+            continue
+        lineage = line.split('\t')[0].split()[0]
+        if lineage.startswith('*'): # remove withdrawn
+            continue
+        if lineage.startswith('X'): # remove recombinants 
+            continue
+        lineages.append({"compressed_name":lineage,"name":aliasor.uncompress(lineage)})
+    
+    root = {'name':'root', 'children':[]}
+    # build tree
+    for lineage in lineages:
+        parts = lineage['name'].split(".")
+        *parent, end = parts
+        node = {'name': lineage['name'], 'children': [], 'compressed_name':lineage['compressed_name']}
+        if not parent:
+            insertNodeIntoTree(root, 'root', node)
+            continue
+        insertNodeIntoTree(root, ".".join(parent), node)
+
+    with open('tree/data.json', 'w') as f:
+        json.dump(root, f)
+
 if __name__ == "__main__":
-    typer.run(main)
+    app()

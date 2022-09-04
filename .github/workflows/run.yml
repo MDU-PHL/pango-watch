@@ -18,10 +18,16 @@ jobs:
         with:
           command: install -d # Install all dependencies, including development ones
       
-      - name: Run script
+      - name: Run check
         uses: VaultVulp/action-pipenv@v2.0.1
         with:
-          command: run python app.py --slack ${{secrets.SLACK_HOOK}} --slack ${{secrets.SLACK_HOOK_AT}}
+          command: run python app.py check --slack ${{secrets.SLACK_HOOK}} --slack ${{secrets.SLACK_HOOK_AT}}
+
+      - name: Run tree
+        uses: VaultVulp/action-pipenv@v2.0.1
+        with:
+          command: run python app.py tree
+
       - name: Commit and push changes
         run: |
           git config --global user.name "wytamma"
