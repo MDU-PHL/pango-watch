@@ -26,4 +26,4 @@ class File:
     def diff(self, text):
         differ = Differ()
         result = differ.compare(text.splitlines(), self.text.splitlines())
-        return [l for l in result if l.startswith("- ") or l.startswith("+ ")]
+        return [l for l in result if l.startswith("+ ")]
