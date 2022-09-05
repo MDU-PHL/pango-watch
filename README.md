@@ -10,10 +10,12 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
 ### 2022-09-05
+- \+ [BA.4.6.1](https://cov-lineages.org/lineage.html?lineage=BA.4.6.1) Alias of B.1.1.529.4.6.1, mainly found in UK, USA and Germany, from pango-designation issue #900
+
+### 2022-09-05
 - \+ [BA.5.1.19](https://cov-lineages.org/lineage.html?lineage=BA.5.1.19) Alias of B.1.1.529.5.1.19, mainly found in Netherlands, Germany, USA, and England, from pango-designation issue #999
 
 ### 2022-09-04
-- \- [BL.1](https://cov-lineages.org/lineage.html?lineage=BL.1) Alias of B.1.1.529.2.75.1.1, mainly found in India from pango-designation issue #944
 - \+ [BL.1](https://cov-lineages.org/lineage.html?lineage=BL.1) Alias of B.1.1.529.2.75.1.1, mainly found in India from pango-designation issue #944, S:R346T on polytomy
 - \+ [BL.2](https://cov-lineages.org/lineage.html?lineage=BL.2) Alias of B.1.1.529.2.75.1.2, mainly found in India, defined by S:R346T on A26612T branch
 - \+ [BL.3](https://cov-lineages.org/lineage.html?lineage=BL.3) Alias of B.1.1.529.2.75.1.3, mainly found in India, defined by ORF1a:P2685S on A26612T branch
@@ -33,7 +35,6 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 - \+ [BN.1](https://cov-lineages.org/lineage.html?lineage=BN.1) Alias of B.1.1.529.2.75.5.1, mainly found in India, pango-designation issue #994
 - \+ [BQ.1](https://cov-lineages.org/lineage.html?lineage=BQ.1) Alias of B.1.1.529.5.3.1.1.1.1.1, Nigeria lineage, from pango-designation issue #993
 - \+ [BA.5.5.3](https://cov-lineages.org/lineage.html?lineage=BA.5.5.3) Alias of B.1.1.529.5.5.3, USA lineage, from pango-designation issue #1015
-- \- [BB.2](https://cov-lineages.org/lineage.html?lineage=BB.2) Alias of B.1.621.1.2, from pango-designation issue #232
 - \+ [BB.2](https://cov-lineages.org/lineage.html?lineage=BB.2) Alias of B.1.621.1.2, from pango-designation issue #232
 
 ### 2022-09-01
