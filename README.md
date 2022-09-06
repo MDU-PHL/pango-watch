@@ -10,11 +10,11 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
 ### 2022-09-06
-- \+ [*BA.2.36.1](https://cov-lineages.org/lineage.html?lineage=*BA.2.36.1) Withdrawn: Reassigned to BA.2.82
-- \+ [*BA.5.1.13](https://cov-lineages.org/lineage.html?lineage=*BA.5.1.13) Withdrawn: Defined solely by Artic v3 artefacts, see issue #1029
-- \+ [*BA.5.4](https://cov-lineages.org/lineage.html?lineage=*BA.5.4) Withdrawn: see issue #618. England, Denmark, Spain and Scotland. Sublineage of BA.5.2.1 (with G11837T (ORF1a:V3858L) (nsp6:V289L)).
-- \+ [*B.1.624](https://cov-lineages.org/lineage.html?lineage=*B.1.624) Withdrawn: India lineage, from pango-designation issue #91. Redesignated as B.1.1.526
-- \+ [*B.1.628](https://cov-lineages.org/lineage.html?lineage=*B.1.628) Withdrawn: Identified as a recombinant lineage and therefore renamed XB. Discussion in pango-designation issue #189
+- \+ [\*BA.2.36.1](https://cov-lineages.org/lineage.html?lineage=*BA.2.36.1) Withdrawn: Reassigned to BA.2.82
+- \+ [\*BA.5.1.13](https://cov-lineages.org/lineage.html?lineage=*BA.5.1.13) Withdrawn: Defined solely by Artic v3 artefacts, see issue #1029
+- \+ [\*BA.5.4](https://cov-lineages.org/lineage.html?lineage=*BA.5.4) Withdrawn: see issue #618. England, Denmark, Spain and Scotland. Sublineage of BA.5.2.1 (with G11837T (ORF1a:V3858L) (nsp6:V289L)).
+- \+ [\*B.1.624](https://cov-lineages.org/lineage.html?lineage=*B.1.624) Withdrawn: India lineage, from pango-designation issue #91. Redesignated as B.1.1.526
+- \+ [\*B.1.628](https://cov-lineages.org/lineage.html?lineage=*B.1.628) Withdrawn: Identified as a recombinant lineage and therefore renamed XB. Discussion in pango-designation issue #189
 
 ### 2022-09-05
 - \+ [BA.4.6.1](https://cov-lineages.org/lineage.html?lineage=BA.4.6.1) Alias of B.1.1.529.4.6.1, mainly found in UK, USA and Germany, from pango-designation issue #900
