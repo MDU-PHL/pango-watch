@@ -82,7 +82,10 @@ def check(
             # f.write(f"*{change['sha']}*\n")
             for c in change["changes"]:
                 op, lineage, *note = c.split() # +/- lineage note
-                f.write(f"- \{op} [{lineage}](https://cov-lineages.org/lineage.html?lineage={lineage}) {' '.join(note)}\n")
+                esc = ""
+                if lineage.startswith('*'):
+                    esc = "\\"
+                f.write(f"- \{op} [{esc}{lineage}](https://cov-lineages.org/lineage.html?lineage={lineage}) {' '.join(note)}\n")
             f.write("\n" )
 
     # send slack
