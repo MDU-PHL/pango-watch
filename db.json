@@ -167,11 +167,11 @@
                   "sha": "54534c0393d6a854dacc094a87ea4a1450eb7504",
                   "datetime": "2022-09-06 00:10:42.274033",
                   "changes": [
-                        "+ *BA.2.36.1\tWithdrawn: Reassigned to BA.2.82",
-                        "+ *BA.5.1.13\tWithdrawn: Defined solely by Artic v3 artefacts, see issue #1029",
-                        "+ *BA.5.4\tWithdrawn: see issue #618. England, Denmark, Spain and Scotland. Sublineage of BA.5.2.1 (with G11837T (ORF1a:V3858L) (nsp6:V289L)).",
-                        "+ *B.1.624\tWithdrawn: India lineage, from pango-designation issue #91. Redesignated as B.1.1.526",
-                        "+ *B.1.628\tWithdrawn: Identified as a recombinant lineage and therefore renamed XB. Discussion in pango-designation issue #189"
+                        "+ \*BA.2.36.1\tWithdrawn: Reassigned to BA.2.82",
+                        "+ \*BA.5.1.13\tWithdrawn: Defined solely by Artic v3 artefacts, see issue #1029",
+                        "+ \*BA.5.4\tWithdrawn: see issue #618. England, Denmark, Spain and Scotland. Sublineage of BA.5.2.1 (with G11837T (ORF1a:V3858L) (nsp6:V289L)).",
+                        "+ \*B.1.624\tWithdrawn: India lineage, from pango-designation issue #91. Redesignated as B.1.1.526",
+                        "+ \*B.1.628\tWithdrawn: Identified as a recombinant lineage and therefore renamed XB. Discussion in pango-designation issue #189"
                   ]
             }
       ]
