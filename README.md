@@ -9,6 +9,10 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-09-10
+- \+ [BA.5.2.14](https://cov-lineages.org/lineage.html?lineage=BA.5.2.14) Alias of B.1.1.529.5.2.14, mainly found in Denmark, Canada and Pakistan, from pango-designation issue #1002
+- \+ [BQ.1.1](https://cov-lineages.org/lineage.html?lineage=BQ.1.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1, found globally, defining mutations ORF1b:N1191S and S:R346T, from issue #993
+
 ### 2022-09-08
 - \+ [BM.4](https://cov-lineages.org/lineage.html?lineage=BM.4) Alias of B.1.1.529.2.75.3.4, mainly found in India, defined by ORF1a:Q1198K, from pango-designation issue #957
 - \+ [BM.4.1](https://cov-lineages.org/lineage.html?lineage=BM.4.1) Alias of B.1.1.529.2.75.3.4.1, mainly found in India, defined by S:F486S, from pango-designation issue #957
