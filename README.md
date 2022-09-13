@@ -9,6 +9,10 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-09-13
+- \+ [BS.1](https://cov-lineages.org/lineage.html?lineage=BS.1) Alias of B.1.1.529.2.3.2.1, Vietnam lineage, from pango-designation issue #1052
+- \+ [BA.5.2.15](https://cov-lineages.org/lineage.html?lineage=BA.5.2.15) Alias of B.1.1.529.5.2.15, found in USA and Mexico, from pango-designation issue #1054
+
 ### 2022-09-10
 - \+ [BA.5.2.14](https://cov-lineages.org/lineage.html?lineage=BA.5.2.14) Alias of B.1.1.529.5.2.14, mainly found in Denmark, Canada and Pakistan, from pango-designation issue #1002
 - \+ [BQ.1.1](https://cov-lineages.org/lineage.html?lineage=BQ.1.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1, found globally, defining mutations ORF1b:N1191S and S:R346T, from issue #993
