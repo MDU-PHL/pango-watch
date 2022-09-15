@@ -9,6 +9,12 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-09-15
+- \+ [BT.1](https://cov-lineages.org/lineage.html?lineage=BT.1) Alias of B.1.1.529.5.1.21.1, mainly found in Japan, from pango-designation issue #958
+- \+ [BA.5.1.21](https://cov-lineages.org/lineage.html?lineage=BA.5.1.21) Alias of B.1.1.529.5.1.21, mainly found in Gambia and Japan, from pango-designation issue #958
+- \+ [BA.5.2.16](https://cov-lineages.org/lineage.html?lineage=BA.5.2.16) Alias of B.1.1.529.5.2.16, Indonesia lineage, defined by ORF1a:A3697V, indirectly from pango-designation issue #1065
+- \+ [XBA](https://cov-lineages.org/lineage.html?lineage=XBA) Recombinant lineage of perhaps AY.45 and perhaps BA.2 (with perhaps 5 breakpoints), South_Africa lineage, constellation 2 from pango-designation issue #844
+
 ### 2022-09-13
 - \+ [BS.1](https://cov-lineages.org/lineage.html?lineage=BS.1) Alias of B.1.1.529.2.3.2.1, Vietnam lineage, from pango-designation issue #1052
 - \+ [BA.5.2.15](https://cov-lineages.org/lineage.html?lineage=BA.5.2.15) Alias of B.1.1.529.5.2.15, found in USA and Mexico, from pango-designation issue #1054
