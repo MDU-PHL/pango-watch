@@ -9,6 +9,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-09-17
+- \+ [BU.1](https://cov-lineages.org/lineage.html?lineage=BU.1) Alias of B.1.1.529.5.2.16.1, defined by S:444M and S:460K, from pango-designation issue #1065
+
 ### 2022-09-16
 - \+ [BF.23](https://cov-lineages.org/lineage.html?lineage=BF.23) Alias of B.1.1.529.5.2.1.23, mainly found in Czechia, from pango-designation issue #1036
 - \+ [BA.5.2.17](https://cov-lineages.org/lineage.html?lineage=BA.5.2.17) Alias of B.1.1.529.5.2.17, mainly found in Denmark, from pango-designation issue #1019
