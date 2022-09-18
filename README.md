@@ -9,6 +9,16 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-09-18
+- \+ [BL.1.1](https://cov-lineages.org/lineage.html?lineage=BL.1.1) Alias of B.1.1.529.2.75.1.1.1, from pango-designation issue #1079, defined by S:G614S
+- \+ [BL.1.2](https://cov-lineages.org/lineage.html?lineage=BL.1.2) Alias of B.1.1.529.2.75.1.1.2, mainly Austria, issue #1066, defined by S:G261D, S:V308L
+- \+ [BM.1.1.1](https://cov-lineages.org/lineage.html?lineage=BM.1.1.1) Alias of B.1.1.529.2.75.3.1.1.1, mainly found in India (West Bengal), defined by S:490S
+- \+ [BR.2](https://cov-lineages.org/lineage.html?lineage=BR.2) Alias of B.1.1.529.2.75.4.2, found in Australia, defined by S:R346T and S:486I, from issue #1063
+- \+ [BA.4.1.9](https://cov-lineages.org/lineage.html?lineage=BA.4.1.9) Alias of B.1.1.529.4.1.9, mainly found in Zambia, USA, England and Mexico, from pango-designation issue #926
+- \+ [BA.4.1.10](https://cov-lineages.org/lineage.html?lineage=BA.4.1.10) Alias of B.1.1.529.4.1.10, mainly found in France, from issue #1073, defined by S:N354D, S:R346T
+- \+ [BA.5.2.18](https://cov-lineages.org/lineage.html?lineage=BA.5.2.18) Alias of B.1.1.529.5.2.18, mainly Scandinavia, defined by S:K444R on ORF1b:1050N branch, from pango-designation issue #1025
+- \+ [XBB](https://cov-lineages.org/lineage.html?lineage=XBB) Recombinant lineage of BJ.1 and BA.2.75 with breakpoint in S1, found in USA and Singapore, from issue #1058
+
 ### 2022-09-17
 - \+ [BU.1](https://cov-lineages.org/lineage.html?lineage=BU.1) Alias of B.1.1.529.5.2.16.1, defined by S:444M and S:460K, from pango-designation issue #1065
 
