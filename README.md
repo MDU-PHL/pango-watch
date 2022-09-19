@@ -9,6 +9,21 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-09-19
+- \+ [BM.4.1.1](https://cov-lineages.org/lineage.html?lineage=BM.4.1.1) Alias of B.1.1.529.2.75.3.4.1.1, mainly found in India, defined by S:346T
+- \+ [BM.5](https://cov-lineages.org/lineage.html?lineage=BM.5) Alias of B.1.1.529.2.75.3.5, mainly found in India, defined by S:L455S, from pango-designation issue #1047
+- \+ [BY.1](https://cov-lineages.org/lineage.html?lineage=BY.1) Alias of B.1.1.529.2.75.6.1, mainly found in India, defined by S:F486S on BA.2.75.6
+- \+ [BA.2.83](https://cov-lineages.org/lineage.html?lineage=BA.2.83) Alias of B.1.1.529.2.83, mainly found in India, from pango-designation issue #1053
+- \+ [BA.2.84](https://cov-lineages.org/lineage.html?lineage=BA.2.84) Alias of B.1.1.529.2.84, mainly found in Uganda, from pango-designation issue #819
+- \+ [BF.24](https://cov-lineages.org/lineage.html?lineage=BF.24) Alias of B.1.1.529.5.2.1.24, mainly found in Indonesia, defined by ORF1a:G683C on S:1020S branch
+- \+ [BA.5.2.19](https://cov-lineages.org/lineage.html?lineage=BA.5.2.19) Alias of B.1.1.529.5.2.19, mainly Scandinavia, defined by ORF3a:T14I on ORF1b:1050N branch, from issue #916
+- \+ [BA.5.2.20](https://cov-lineages.org/lineage.html?lineage=BA.5.2.20) Alias of B.1.1.529.5.2.20, mainly Indonesia, defined by C23707T on ORF1b:1050N branch to reduce unspecified BA.5.2
+- \+ [BV.1](https://cov-lineages.org/lineage.html?lineage=BV.1) Alias of B.1.1.529.5.2.20.1, mainly found in Denmark, from pango-designation issue #1019, formerly BA.5.2.17
+- \+ [BA.5.2.21](https://cov-lineages.org/lineage.html?lineage=BA.5.2.21) Alias of B.1.1.529.5.2.21, mainly Indonesia, defined by C5284T on ORF1b:1050N branch to reduce unspecified BA.5.2
+- \+ [BW.1](https://cov-lineages.org/lineage.html?lineage=BW.1) Alias of B.1.1.529.5.6.2.1, Mexico lineage, from pango-designation issue #1059, defined by S:460K
+- \+ [BA.5.10.1](https://cov-lineages.org/lineage.html?lineage=BA.5.10.1) Alias of B.1.1.529.5.10.1, mainly from Philippines, defined by S:346T, from pango-designation issue #1031
+- \+ [\*BA.5.2.17](https://cov-lineages.org/lineage.html?lineage=*BA.5.2.17) Withdrawn: Redesignated as BV.1, being a child of BA.5.2.20
+
 ### 2022-09-18
 - \+ [BL.1.1](https://cov-lineages.org/lineage.html?lineage=BL.1.1) Alias of B.1.1.529.2.75.1.1.1, from pango-designation issue #1079, defined by S:G614S
 - \+ [BL.1.2](https://cov-lineages.org/lineage.html?lineage=BL.1.2) Alias of B.1.1.529.2.75.1.1.2, mainly Austria, issue #1066, defined by S:G261D, S:V308L
