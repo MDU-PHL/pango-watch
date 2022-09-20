@@ -9,6 +9,11 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-09-20
+- \+ [BA.2.31.1](https://cov-lineages.org/lineage.html?lineage=BA.2.31.1) Alias of B.1.1.529.2.31.1, mainly found in Uganda, defined by S:68T, from pango-designation issue #819
+- \+ [\*BA.2.36.1](https://cov-lineages.org/lineage.html?lineage=*BA.2.36.1) Withdrawn: Redesignated as BA.2.82
+- \+ [\*BA.2.84](https://cov-lineages.org/lineage.html?lineage=*BA.2.84) Withdrawn: Redesignated as BA.2.31.1
+
 ### 2022-09-19
 - \+ [BM.4.1.1](https://cov-lineages.org/lineage.html?lineage=BM.4.1.1) Alias of B.1.1.529.2.75.3.4.1.1, mainly found in India, defined by S:346T
 - \+ [BM.5](https://cov-lineages.org/lineage.html?lineage=BM.5) Alias of B.1.1.529.2.75.3.5, mainly found in India, defined by S:L455S, from pango-designation issue #1047
