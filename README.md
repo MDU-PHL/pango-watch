@@ -9,6 +9,12 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-09-22
+- \+ [CA.1](https://cov-lineages.org/lineage.html?lineage=CA.1) Alias of B.1.1.529.2.75.2.1, USA lineage, defined by S:604I and S:452R, pango-designation issue #1063
+- \+ [BR.3](https://cov-lineages.org/lineage.html?lineage=BR.3) Alias of B.1.1.529.2.75.4.3, India, Australia, Austria, defined by S:R346T, from issue #1063
+- \+ [BZ.1](https://cov-lineages.org/lineage.html?lineage=BZ.1) Alias of B.1.1.529.5.2.3.1, Denmark lineage, defined by S:Q677H
+- \+ [BE.1.2.1](https://cov-lineages.org/lineage.html?lineage=BE.1.2.1) Alias of B.1.1.529.5.3.1.1.2.1, Panama, Canada, USA, defined by S:V445A, from issue #1095
+
 ### 2022-09-21
 - \+ [BA.2.75.8](https://cov-lineages.org/lineage.html?lineage=BA.2.75.8) Alias of B.1.1.529.2.75.8, Singapore/Australia, defined by S:L452Q, issue #1085
 - \+ [BA.5.2.22](https://cov-lineages.org/lineage.html?lineage=BA.5.2.22) Alias of B.1.1.529.5.2.22, mainly found in USA, Canada and Germany, from pango-designation issue #945
