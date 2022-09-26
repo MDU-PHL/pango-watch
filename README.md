@@ -9,6 +9,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-09-26
+- \+ [BA.5.2.25](https://cov-lineages.org/lineage.html?lineage=BA.5.2.25) Alias of B.1.1.529.5.2.25, mainly found in France, USA and Canada, from pango-designation issue #1111
+
 ### 2022-09-25
 - \+ [XBC](https://cov-lineages.org/lineage.html?lineage=XBC) Recombinant lineage of BA.2 and B.1.617.2*, predominantly in Philippines, from pango-designation issue #1100
 
