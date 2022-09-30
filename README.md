@@ -9,6 +9,23 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-09-30
+- \+ [BS.1.1](https://cov-lineages.org/lineage.html?lineage=BS.1.1) Alias of B.1.1.529.2.3.2.1.1, Vietnam lineage, defined by S:K356T, from pango-designation issue #1097
+- \+ [BL.1.3](https://cov-lineages.org/lineage.html?lineage=BL.1.3) Alias of B.1.1.529.2.75.1.1.3, Switzerland, Israel, Canada, issue #1124, defined by S:490L
+- \+ [CA.2](https://cov-lineages.org/lineage.html?lineage=CA.2) Alias of B.1.1.529.2.75.2.2, international lineage, defined by S:S494P
+- \+ [BA.2.75.9](https://cov-lineages.org/lineage.html?lineage=BA.2.75.9) Alias of B.1.1.529.2.75.9, India, defined by S:R346T after 17679T
+- \+ [CB.2](https://cov-lineages.org/lineage.html?lineage=CB.2) Alias of B.1.1.529.2.75.9.1, England, defined by S:486V
+- \+ [BA.5.1.22](https://cov-lineages.org/lineage.html?lineage=BA.5.1.22) Alias of B.1.1.529.5.1.22, mainly found in Europe, defined by ORF1b:S1273L, from pango-designation issue #1135
+- \+ [BA.5.1.23](https://cov-lineages.org/lineage.html?lineage=BA.5.1.23) Alias of B.1.1.529.5.1.23, mainly found in Spain, defined by ORF1a:S302F, from pango-designation issue #1135
+- \+ [BA.5.1.24](https://cov-lineages.org/lineage.html?lineage=BA.5.1.24) Alias of B.1.1.529.5.1.24, mainly found in Finland, defined by ORF1b:V1271L, from pango-designation issue #1135
+- \+ [BA.5.1.25](https://cov-lineages.org/lineage.html?lineage=BA.5.1.25) Alias of B.1.1.529.5.1.25, mainly found in Mexico and Peru, defined by ORF7b:H42Y, from pango-designation issue #1135
+- \+ [BF.26](https://cov-lineages.org/lineage.html?lineage=BF.26) Alias of B.1.1.529.5.2.1.26, North America lineage, defined by ORF1b:G376S, issue #1142
+- \+ [BF.27](https://cov-lineages.org/lineage.html?lineage=BF.27) Alias of B.1.1.529.5.2.1.27, Singapore lineage, defined by ORF1a:A2784V, issue #1140
+- \+ [BF.28](https://cov-lineages.org/lineage.html?lineage=BF.28) Alias of B.1.1.529.5.2.1.28, Singapore lineage, defined by ORF1a:Q44L, issue #1141
+- \+ [BA.5.2.26](https://cov-lineages.org/lineage.html?lineage=BA.5.2.26) Alias of B.1.1.529.5.2.26, most common in Thailand, defined by ORF3a:L108V, from pango-designation issue #1133
+- \+ [BA.5.2.27](https://cov-lineages.org/lineage.html?lineage=BA.5.2.27) Alias of B.1.1.529.5.2.27, most common in Vietnam, defined by ORF1a:I2332V, from pango-designation issue #1133
+- \+ [BA.5.2.28](https://cov-lineages.org/lineage.html?lineage=BA.5.2.28) Alias of B.1.1.529.5.2.28, most common in Malaysia, defined by ORF1a:T1437I, from pango-designation issue #1133
+
 ### 2022-09-26
 - \+ [BA.5.2.25](https://cov-lineages.org/lineage.html?lineage=BA.5.2.25) Alias of B.1.1.529.5.2.25, mainly found in France, USA and Canada, from pango-designation issue #1111
 
