@@ -9,6 +9,30 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-10-01
+- \+ [CB.1](https://cov-lineages.org/lineage.html?lineage=CB.1) Alias of B.1.1.529.2.75.9.1, England, defined by S:486V
+- \+ [BA.2.85](https://cov-lineages.org/lineage.html?lineage=BA.2.85) Alias of B.1.1.529.2.85, mainly found in Japan, from pango-designation issue #983
+- \+ [BK.1](https://cov-lineages.org/lineage.html?lineage=BK.1) Alias of B.1.1.529.5.1.10.1, mainly found in USA, and Canada, from pango-designation issue #901
+- \+ [BT.1](https://cov-lineages.org/lineage.html?lineage=BT.1) Alias of B.1.1.529.5.1.21.1, mainly found in Japan, from pango-designation issue #958
+- \+ [BA.5.1.26](https://cov-lineages.org/lineage.html?lineage=BA.5.1.26) Alias of B.1.1.529.5.1.26, mainly found in Czechia, defined by S:R346T
+- \+ [BA.5.1.27](https://cov-lineages.org/lineage.html?lineage=BA.5.1.27) Alias of B.1.1.529.5.1.27, mainly found in North America, defined by S:R346T
+- \+ [BA.5.1.28](https://cov-lineages.org/lineage.html?lineage=BA.5.1.28) Alias of B.1.1.529.5.1.28, mainly found in North America, defined by S:R346T (and A18480G)
+- \+ [CF.1](https://cov-lineages.org/lineage.html?lineage=CF.1) Alias of B.1.1.529.5.2.27.1, US and Mexico lineage, defined by S:K97T, originally designated as BA.5.2.15 from issue #1054
+- \+ [BA.5.2.29](https://cov-lineages.org/lineage.html?lineage=BA.5.2.29) Alias of B.1.1.529.5.2.29, mainly found in Denmark, from pango-designation issue #1050
+- \+ [BA.5.2.30](https://cov-lineages.org/lineage.html?lineage=BA.5.2.30) Alias of B.1.1.529.5.2.30, Europe lineage, defined by S:G446D
+- \+ [BA.5.2.31](https://cov-lineages.org/lineage.html?lineage=BA.5.2.31) Alias of B.1.1.529.5.2.31, US lineage, defined by S:L84I
+- \+ [CD.1](https://cov-lineages.org/lineage.html?lineage=CD.1) Alias of B.1.1.529.5.2.31.1, US lineage, defined by S:G446D, S:A688T
+- \+ [CD.2](https://cov-lineages.org/lineage.html?lineage=CD.2) Alias of B.1.1.529.5.2.31.2, US lineage, defined by S:A435S
+- \+ [BA.5.2.32](https://cov-lineages.org/lineage.html?lineage=BA.5.2.32) Alias of B.1.1.529.5.2.32, Russia lineage, defined by S:N450D
+- \+ [BA.5.2.33](https://cov-lineages.org/lineage.html?lineage=BA.5.2.33) Alias of B.1.1.529.5.2.33, UK lineage, defined by ORF8:P93S
+- \+ [CE.1](https://cov-lineages.org/lineage.html?lineage=CE.1) Alias of B.1.1.529.5.2.33, UK lineage, defined by S:R346I
+- \+ [BE.1.1.2](https://cov-lineages.org/lineage.html?lineage=BE.1.1.2) Alias of B.1.1.529.5.3.1.1.1.2, Germany lineage, defined by ORF9b:S50L
+- \+ [CC.1](https://cov-lineages.org/lineage.html?lineage=CC.1) Alias of B.1.1.529.5.3.1.1.1.2.1, Germany lineage, defined by S:N450D
+- \+ [BE.4](https://cov-lineages.org/lineage.html?lineage=BE.4) Alias of B.1.1.529.5.3.1.4, Bangladesh, defined by ORF1a:T3308N, from issue #1115
+- \+ [BE.4.1](https://cov-lineages.org/lineage.html?lineage=BE.4.1) Alias of B.1.1.529.5.3.1.4.1, Bangladesh, defined by S:P209L, S:R346T, from issue #1115
+- \+ [BE.4.1.1](https://cov-lineages.org/lineage.html?lineage=BE.4.1.1) Alias of B.1.1.529.5.3.1.4.1, Bangladesh, defined by S:K444R, from issue #1115
+- \+ [\*BA.5.2.15](https://cov-lineages.org/lineage.html?lineage=*BA.5.2.15) Withdrawn: Redesignated as CF.1, being a child of BA.5.2.27, B.1.1.529.5.2.15, found in USA and Mexico, from pango-designation issue #1054
+
 ### 2022-09-30
 - \+ [BS.1.1](https://cov-lineages.org/lineage.html?lineage=BS.1.1) Alias of B.1.1.529.2.3.2.1.1, Vietnam lineage, defined by S:K356T, from pango-designation issue #1097
 - \+ [BL.1.3](https://cov-lineages.org/lineage.html?lineage=BL.1.3) Alias of B.1.1.529.2.75.1.1.3, Switzerland, Israel, Canada, issue #1124, defined by S:490L
