@@ -9,6 +9,27 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-10-12
+- \+ [CM.1](https://cov-lineages.org/lineage.html?lineage=CM.1) Alias of B.1.1.529.2.3.20.1, S:N17S, from pango-designation issue #1129
+- \+ [BG.7](https://cov-lineages.org/lineage.html?lineage=BG.7) Alias of B.1.1.529.2.12.1.7, found in Peru, from pango-designation issue #1157
+- \+ [CJ.1](https://cov-lineages.org/lineage.html?lineage=CJ.1) Alias of B.1.1.529.2.75.3.1.1.1.1, S:S486P, #1171
+- \+ [CH.1](https://cov-lineages.org/lineage.html?lineage=CH.1) Alias of B.1.1.529.2.75.3.4.1.1.1, defined by S:K444T, issue #1113
+- \+ [CH.2](https://cov-lineages.org/lineage.html?lineage=CH.2) Alias of B.1.1.529.2.75.3.4.1.1.2, defined by S:Q183H
+- \+ [BR.4](https://cov-lineages.org/lineage.html?lineage=BR.4) Alias of B.1.1.529.2.75.4.4, S:K444T and S:G446S reversion, from issue #1179
+- \+ [BA.4.6.2](https://cov-lineages.org/lineage.html?lineage=BA.4.6.2) Alias of B.1.1.529.4.6.2, Dominican Republic, USA, defined by S:V445A, from pango-designation issue #1198
+- \+ [BA.4.6.3](https://cov-lineages.org/lineage.html?lineage=BA.4.6.3) Alias of B.1.1.529.4.6.3, defined by S:444N, S:460K, S:144-, from pango-designation issue #1195
+- \+ [CL.1](https://cov-lineages.org/lineage.html?lineage=CL.1) Alias of B.1.1.529.5.1.29.1, S:150E and S:460K, issue #1187
+- \+ [BV.3](https://cov-lineages.org/lineage.html?lineage=BV.3) Alias of B.1.1.529.5.2.20.3, defined by S:K444N
+- \+ [CN.1](https://cov-lineages.org/lineage.html?lineage=CN.1) Alias of B.1.1.529.5.2.21.1, S:N450D, issue #1108
+- \+ [CK.1](https://cov-lineages.org/lineage.html?lineage=CK.1) Alias of B.1.1.529.5.2.24.1, Pakistan, defined by S:N460K, issue #1120
+- \+ [BQ.1.5](https://cov-lineages.org/lineage.html?lineage=BQ.1.5) Alias of B.1.1.529.5.3.1.1.1.1.1.5, defined by ORF1b:T1076I
+- \+ [BQ.1.6](https://cov-lineages.org/lineage.html?lineage=BQ.1.6) Alias of B.1.1.529.5.3.1.1.1.1.1.6, US lineage, defined by ORF1a:G94C
+- \+ [BQ.1.7](https://cov-lineages.org/lineage.html?lineage=BQ.1.7) Alias of B.1.1.529.5.3.1.1.1.1.1.7, defined by S:L54F
+- \+ [BQ.1.8](https://cov-lineages.org/lineage.html?lineage=BQ.1.8) Alias of B.1.1.529.5.3.1.1.1.1.1.8, defined by ORF1a:S505F and S:Y144-, issue #1202
+- \+ [BQ.1.9](https://cov-lineages.org/lineage.html?lineage=BQ.1.9) Alias of B.1.1.529.5.3.1.1.1.1.1.9, US lineage, defined by ORF1a:V2604I followed by S:346T (independent from BQ.1.1)
+- \+ [BE.4.2](https://cov-lineages.org/lineage.html?lineage=BE.4.2) Alias of B.1.1.529.5.3.1.4.2, Bangladesh, defined by S:K444N & S:N460K, from issue #1114
+- \+ [BA.5.6.3](https://cov-lineages.org/lineage.html?lineage=BA.5.6.3) Alias of B.1.1.529.5.6.3, mainly found in England, from pango-designation issue #1118
+
 ### 2022-10-11
 - \+ [BH.1](https://cov-lineages.org/lineage.html?lineage=BH.1) Alias of B.1.1.529.2.38.3.1, mainly found in India, from pango-designation issue #913
 - \+ [CE.1](https://cov-lineages.org/lineage.html?lineage=CE.1) Alias of B.1.1.529.5.2.33.1, UK lineage, defined by S:R346I
