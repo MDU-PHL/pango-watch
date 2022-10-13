@@ -9,6 +9,12 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-10-13
+- \+ [BA.2.38.4](https://cov-lineages.org/lineage.html?lineage=BA.2.38.4) Alias of B.1.1.529.2.38.4, mainly found in India, from pango-designation issue #746
+- \+ [BF.29](https://cov-lineages.org/lineage.html?lineage=BF.29) Alias of B.1.1.529.5.2.1.29, mainly found in Denmark and USA, from pango-designation issue #1162
+- \+ [BA.5.2.34](https://cov-lineages.org/lineage.html?lineage=BA.5.2.34) Alias of B.1.1.529.5.2.34, mainly found in Israel and USA, from pango-designation issue #992
+- \+ [XBD](https://cov-lineages.org/lineage.html?lineage=XBD) Recombinant lineage of BA.2.75.2 and BF.5, India and world, from pango-designation issue #1137
+
 ### 2022-10-12
 - \+ [CM.1](https://cov-lineages.org/lineage.html?lineage=CM.1) Alias of B.1.1.529.2.3.20.1, S:N17S, from pango-designation issue #1129
 - \+ [BG.7](https://cov-lineages.org/lineage.html?lineage=BG.7) Alias of B.1.1.529.2.12.1.7, found in Peru, from pango-designation issue #1157
