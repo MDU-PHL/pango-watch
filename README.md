@@ -9,6 +9,41 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-10-14
+- \+ [C.6](https://cov-lineages.org/lineage.html?lineage=C.6) Alias of B.1.1.1.6, South Africa
+- \+ [C.10](https://cov-lineages.org/lineage.html?lineage=C.10) Alias of B.1.1.1.10, Poland
+- \+ [CM.2](https://cov-lineages.org/lineage.html?lineage=CM.2) Alias of B.1.1.529.2.3.20.2, international, ORF1a:S2103F
+- \+ [BA.2.3.21](https://cov-lineages.org/lineage.html?lineage=BA.2.3.21) Alias of B.1.1.529.2.3.21, Philippines, S:P9L and 493 reversion
+- \+ [BL.2.1](https://cov-lineages.org/lineage.html?lineage=BL.2.1) Alias of B.1.1.529.2.75.1.2.1, Australia/Belgium, defined by S:K182E
+- \+ [CH.1.1](https://cov-lineages.org/lineage.html?lineage=CH.1.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1, defined by S:L452R, issue #1113
+- \+ [BN.1.1](https://cov-lineages.org/lineage.html?lineage=BN.1.1) Alias of B.1.1.529.2.75.5.1.1, India/Austria, S:S494P
+- \+ [BA.2.78](https://cov-lineages.org/lineage.html?lineage=BA.2.78) Alias of B.1.1.529.2.78, mainly found in India, from pango-designation issue #814
+- \+ [BA.2.79](https://cov-lineages.org/lineage.html?lineage=BA.2.79) Alias of B.1.1.529.2.79, Kuwait and Israel lineage, from pango-designation issue #812
+- \+ [BA.2.79.1](https://cov-lineages.org/lineage.html?lineage=BA.2.79.1) Alias of B.1.1.529.2.79.1, India lineage, from pango-designation issue #814
+- \+ [CS.1](https://cov-lineages.org/lineage.html?lineage=CS.1) Alias of B.1.1.529.4.1.10.1, Denmark, Netherlands, England, defined by S:K444R
+- \+ [BF.7.2](https://cov-lineages.org/lineage.html?lineage=BF.7.2) Alias of B.1.1.529.5.2.1.7.2, Denmark, S:H1101Y and S:V486I, issue #1216
+- \+ [BF.7.3](https://cov-lineages.org/lineage.html?lineage=BF.7.3) Alias of B.1.1.529.5.2.1.7.3, France/Czechia, S:K182E
+- \+ [BA.5.2.6](https://cov-lineages.org/lineage.html?lineage=BA.5.2.6) Alias of B.1.1.529.5.2.6, global lineage, S:R346T, from pango-designation issue #870
+- \+ [CP.1](https://cov-lineages.org/lineage.html?lineage=CP.1) Alias of B.1.1.529.5.2.6.1, global lineage, 27360C
+- \+ [CP.1.1](https://cov-lineages.org/lineage.html?lineage=CP.1.1) Alias of B.1.1.529.5.2.6.1.1, Portugal, France, Denmark, UK lineage, S:V445A
+- \+ [CR.1](https://cov-lineages.org/lineage.html?lineage=CR.1) Alias of B.1.1.529.5.2.18.1, global, S:R346T
+- \+ [CR.2](https://cov-lineages.org/lineage.html?lineage=CR.2) Alias of B.1.1.529.5.2.18.2, England, S:Y145H
+- \+ [CE.1](https://cov-lineages.org/lineage.html?lineage=CE.1) Alias of B.1.1.529.5.2.33.1, UK lineage, defined by S:R346I
+- \+ [BA.5.2.35](https://cov-lineages.org/lineage.html?lineage=BA.5.2.35) Alias of B.1.1.529.5.2.35, Pakistan lineage, defined by S:R346T after G28423C and C7006T
+- \+ [BQ.1.10](https://cov-lineages.org/lineage.html?lineage=BQ.1.10) Alias of B.1.1.529.5.3.1.1.1.1.1.10, international lineage, 27600T
+- \+ [BQ.1.11](https://cov-lineages.org/lineage.html?lineage=BQ.1.11) Alias of B.1.1.529.5.3.1.1.1.1.1.11, international lineage, 29541T
+- \+ [BQ.1.12](https://cov-lineages.org/lineage.html?lineage=BQ.1.12) Alias of B.1.1.529.5.3.1.1.1.1.1.12, international lineage, 28849T
+- \+ [BQ.1.13](https://cov-lineages.org/lineage.html?lineage=BQ.1.13) Alias of B.1.1.529.5.3.1.1.1.1.1.13, international lineage, ORF1a:V627I
+- \+ [BQ.1.14](https://cov-lineages.org/lineage.html?lineage=BQ.1.14) Alias of B.1.1.529.5.3.1.1.1.1.1.14, international lineage, 18570A
+- \+ [BQ.1.15](https://cov-lineages.org/lineage.html?lineage=BQ.1.15) Alias of B.1.1.529.5.3.1.1.1.1.1.15, international lineage, ORF1a:L3116F
+- \+ [BQ.1.16](https://cov-lineages.org/lineage.html?lineage=BQ.1.16) Alias of B.1.1.529.5.3.1.1.1.1.1.16, international lineage, ORF1a:A540V
+- \+ [BQ.1.17](https://cov-lineages.org/lineage.html?lineage=BQ.1.17) Alias of B.1.1.529.5.3.1.1.1.1.1.17, Denmark/Germany, S:K444T mutated further to S:444M
+- \+ [BQ.2](https://cov-lineages.org/lineage.html?lineage=BQ.2) Alias of B.1.1.529.5.3.1.1.1.1.2, international, S:A522P
+- \+ [CQ.1](https://cov-lineages.org/lineage.html?lineage=CQ.1) Alias of B.1.1.529.5.3.1.4.1.1, Bangladesh, defined by S:Y144- and 11866T
+- \+ [BE.5](https://cov-lineages.org/lineage.html?lineage=BE.5) Alias of B.1.1.529.5.3.1.5, international, S:P1162L
+- \+ [XAY.1](https://cov-lineages.org/lineage.html?lineage=XAY.1) South Africa/US lineage with 4 AA substitutions including S:D253G
+- \+ [XAY.2](https://cov-lineages.org/lineage.html?lineage=XAY.2) South Africa/Denmark lineage with ORF1a:Y3765C
+
 ### 2022-10-13
 - \+ [BA.2.38.4](https://cov-lineages.org/lineage.html?lineage=BA.2.38.4) Alias of B.1.1.529.2.38.4, mainly found in India, from pango-designation issue #746
 - \+ [BF.29](https://cov-lineages.org/lineage.html?lineage=BF.29) Alias of B.1.1.529.5.2.1.29, mainly found in Denmark and USA, from pango-designation issue #1162
