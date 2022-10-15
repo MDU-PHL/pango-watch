@@ -9,6 +9,27 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-10-15
+- \+ [BM.1.1.2](https://cov-lineages.org/lineage.html?lineage=BM.1.1.2) Alias of B.1.1.529.2.75.3.1.1.2, England, S:T883I, S:S939F, S:P1079T
+- \+ [BM.2.1](https://cov-lineages.org/lineage.html?lineage=BM.2.1) Alias of B.1.1.529.2.75.3.2.1, India, defined by S:F486V
+- \+ [BM.2.2](https://cov-lineages.org/lineage.html?lineage=BM.2.2) Alias of B.1.1.529.2.75.3.2.2, Japan/Israel, defined by S:L455S
+- \+ [BM.2.3](https://cov-lineages.org/lineage.html?lineage=BM.2.3) Alias of B.1.1.529.2.75.3.2.3, India/Singapore, defined by S:F486I
+- \+ [BM.6](https://cov-lineages.org/lineage.html?lineage=BM.6) Alias of B.1.1.529.2.75.3.6, India, defined by S:G75V followed by S:L455S
+- \+ [BR.1.1](https://cov-lineages.org/lineage.html?lineage=BR.1.1) Alias of B.1.1.529.2.75.4.1.1, Austria/Australia, S:N450D
+- \+ [BR.1.2](https://cov-lineages.org/lineage.html?lineage=BR.1.2) Alias of B.1.1.529.2.75.4.1.2, Italy/USA, S:F486S
+- \+ [BN.1.1.1](https://cov-lineages.org/lineage.html?lineage=BN.1.1.1) Alias of B.1.1.529.2.75.5.1.1.1, Austria, S:N185D
+- \+ [BN.1.2](https://cov-lineages.org/lineage.html?lineage=BN.1.2) Alias of B.1.1.529.2.75.5.1.2, Singapore/England, E:D76G
+- \+ [BN.1.3](https://cov-lineages.org/lineage.html?lineage=BN.1.3) Alias of B.1.1.529.2.75.5.1.3, India, ORF3a:T229I
+- \+ [BN.3](https://cov-lineages.org/lineage.html?lineage=BN.3) Alias of B.1.1.529.2.75.5.3, global, S:N450D
+- \+ [BA.2.75.10](https://cov-lineages.org/lineage.html?lineage=BA.2.75.10) Alias of B.1.1.529.2.75.10, India, ORF1a:T3959A
+- \+ [BA.4.6.4](https://cov-lineages.org/lineage.html?lineage=BA.4.6.4) Alias of B.1.1.529.4.6.4, Oceania, defined by ORF7a:Q62H
+- \+ [BF.30](https://cov-lineages.org/lineage.html?lineage=BF.30) Alias of B.1.1.529.5.2.1.30, South Africa/England, defined by S:R346T after C25916T, C14599T
+- \+ [BQ.1.1.1](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.1, Europe, ORF1b:V1639A
+- \+ [BQ.1.8.1](https://cov-lineages.org/lineage.html?lineage=BQ.1.8.1) Alias of B.1.1.529.5.3.1.1.1.1.1.8.1, England/Australia, S:256L
+- \+ [BQ.1.8.2](https://cov-lineages.org/lineage.html?lineage=BQ.1.8.2) Alias of B.1.1.529.5.3.1.1.1.1.1.8.2, England/Scotland, S:A688V
+- \+ [BQ.1.18](https://cov-lineages.org/lineage.html?lineage=BQ.1.18) Alias of B.1.1.529.5.3.1.1.1.1.1.18, Denmark/Austria, E:P71S, then S:R346T and S:Y144-
+- \+ [XBC.2](https://cov-lineages.org/lineage.html?lineage=XBC.2) Mostly Philippines, defined by S:K97R
+
 ### 2022-10-14
 - \+ [C.6](https://cov-lineages.org/lineage.html?lineage=C.6) Alias of B.1.1.1.6, South Africa
 - \+ [C.10](https://cov-lineages.org/lineage.html?lineage=C.10) Alias of B.1.1.1.10, Poland
