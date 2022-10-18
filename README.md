@@ -9,6 +9,12 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-10-18
+- \+ [BT.2](https://cov-lineages.org/lineage.html?lineage=BT.2) Alias of B.1.1.529.5.1.21.2, mainly found in Denmark, Germany and France, from pango-designation issue #1192
+- \+ [BA.5.2.37](https://cov-lineages.org/lineage.html?lineage=BA.5.2.37) Alias of B.1.1.529.5.2.37, found mainly in USA and India, from pango-designation issue #1117
+- \+ [BA.5.6.4](https://cov-lineages.org/lineage.html?lineage=BA.5.6.4) Alias of B.1.1.529.5.6.4, found in USA and Europe, from pango-designation issue #1191
+- \+ [XBB.1.2](https://cov-lineages.org/lineage.html?lineage=XBB.1.2) Singapore, defined by S:S640F
+
 ### 2022-10-17
 - \+ [BL.1.3](https://cov-lineages.org/lineage.html?lineage=BL.1.3) Alias of B.1.1.529.2.75.1.1.3, Switzerland, Israel, Canada, issue #1124, defined by S:F490L
 - \+ [BL.1.4](https://cov-lineages.org/lineage.html?lineage=BL.1.4) Alias of B.1.1.529.2.75.1.1.4, India/England/New Zealand, defined by S:F490V
