@@ -9,6 +9,18 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-10-22
+- \+ [CM.4](https://cov-lineages.org/lineage.html?lineage=CM.4) Alias of B.1.1.529.2.3.20.4, USA/Singapore/SouthKorea, ORF1b:D146G
+- \+ [CM.5](https://cov-lineages.org/lineage.html?lineage=CM.5) Alias of B.1.1.529.2.3.20.5, global, 10802T
+- \+ [CM.6](https://cov-lineages.org/lineage.html?lineage=CM.6) Alias of B.1.1.529.2.3.20.5, global, ORF1a:G30A
+- \+ [BY.1.1](https://cov-lineages.org/lineage.html?lineage=BY.1.1) Alias of B.1.1.529.2.75.6.1.1, S:L452R
+- \+ [BY.1.1.1](https://cov-lineages.org/lineage.html?lineage=BY.1.1.1) Alias of B.1.1.529.2.75.6.1.1.1, Europe, S:N185D, S:H207R,
+- \+ [BY.1.2](https://cov-lineages.org/lineage.html?lineage=BY.1.2) Alias of B.1.1.529.2.75.6.1.2, Europe, 26828T
+- \+ [BY.1.2.1](https://cov-lineages.org/lineage.html?lineage=BY.1.2.1) Alias of B.1.1.529.2.75.6.1.2.1, Austria/England, S:S494P
+- \+ [BQ.1.1.11](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.11) Alias of B.1.1.529.5.3.1.1.1.1.1.1.11, Germany/Hongkong/Denmark, S:S494P, on ORF1a:P2537H branch
+- \+ [BQ.1.1.12](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.12) Alias of B.1.1.529.5.3.1.1.1.1.1.1.12, France/US, S:S494P, on ORF1a:T4368I branch
+- \+ [B.1.575.1](https://cov-lineages.org/lineage.html?lineage=B.1.575.1) Spanish sub lineage of B.1.575 with spike mutations "S:P681H","S:S494P" and "S:T716I".
+
 ### 2022-10-21
 - \+ [BN.1.2](https://cov-lineages.org/lineage.html?lineage=BN.1.2) Alias of B.1.1.529.2.75.5.1.2, Singapore/England, E:D72G
 - \+ [BN.1.2.1](https://cov-lineages.org/lineage.html?lineage=BN.1.2.1) Alias of B.1.1.529.2.75.5.1.2.1, England/Portugal, S:T470N
