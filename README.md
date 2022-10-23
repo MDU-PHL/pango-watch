@@ -9,6 +9,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-10-23
+- \+ [XBE](https://cov-lineages.org/lineage.html?lineage=XBE) Recombinant lineage of BA.5.2 and BE.4.1, predominantly in USA and England, from pango-designation issue #1246
+
 ### 2022-10-22
 - \+ [CM.4](https://cov-lineages.org/lineage.html?lineage=CM.4) Alias of B.1.1.529.2.3.20.4, USA/Singapore/SouthKorea, ORF1b:D146G
 - \+ [CM.5](https://cov-lineages.org/lineage.html?lineage=CM.5) Alias of B.1.1.529.2.3.20.5, global, 10802T
