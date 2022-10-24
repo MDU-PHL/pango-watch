@@ -9,6 +9,15 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-10-24
+- \+ [CA.7](https://cov-lineages.org/lineage.html?lineage=CA.7) Alias of B.1.1.529.2.75.2.7, S:L452R after ORF1a:L3776I
+- \+ [CJ.1](https://cov-lineages.org/lineage.html?lineage=CJ.1) Alias of B.1.1.529.2.75.3.1.1.1.1, S:S486P, #1171
+- \+ [CV.1](https://cov-lineages.org/lineage.html?lineage=CV.1) Alias of B.1.1.529.2.75.3.1.1.3.1, Ireland, S:L452R
+- \+ [BA.5.1.30](https://cov-lineages.org/lineage.html?lineage=BA.5.1.30) Alias of B.1.1.529.5.1.30, ORF6:D6G
+- \+ [BU.3](https://cov-lineages.org/lineage.html?lineage=BU.3) Alias of B.1.1.529.5.2.16.3, Guatemala, S:K147N, S:N450D
+- \+ [BQ.1.1.13](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.13) Alias of B.1.1.529.5.3.1.1.1.1.1.1.13, Denmark/Israel/Switzerland/France, E:V62F and S:Y144-
+- \+ [XBB.1.3](https://cov-lineages.org/lineage.html?lineage=XBB.1.3) Singapore, India/Italy, defined by S:A484T
+
 ### 2022-10-23
 - \+ [XBE](https://cov-lineages.org/lineage.html?lineage=XBE) Recombinant lineage of BA.5.2 and BE.4.1, predominantly in USA and England, from pango-designation issue #1246
 
