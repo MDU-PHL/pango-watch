@@ -9,6 +9,19 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-11-01
+- \+ [BN.1.3.1](https://cov-lineages.org/lineage.html?lineage=BN.1.3.1) Alias of B.1.1.529.2.75.5.1.3.1, found mainly in Israel, England and Denmark, from pango-designation issue #1257
+- \+ [BF.7.4.1](https://cov-lineages.org/lineage.html?lineage=BF.7.4.1) Alias of B.1.1.529.5.2.1.7.4.1, found mainly in USA and Netherlands, from pango-designation issue #1253
+- \+ [BF.31](https://cov-lineages.org/lineage.html?lineage=BF.31) Alias of B.1.1.529.5.2.1.31, Chile, 23758T
+- \+ [BF.31.1](https://cov-lineages.org/lineage.html?lineage=BF.31.1) Alias of B.1.1.529.5.2.1.31.1, Chile, S:A701V and S:S247N/S:Y248-
+- \+ [BQ.1.1.14](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.14) Alias of B.1.1.529.5.3.1.1.1.1.1.1.14, England, G23608T
+- \+ [CW.1](https://cov-lineages.org/lineage.html?lineage=CW.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.14.1, England, S:G446S
+- \+ [BQ.1.1.15](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.15) Alias of B.1.1.529.5.3.1.1.1.1.1.1.15, Spain, T18897C
+- \+ [BQ.1.1.16](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.16) Alias of B.1.1.529.5.3.1.1.1.1.1.1.16, England, S:Q607H
+- \+ [BQ.1.1.17](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.17) Alias of B.1.1.529.5.3.1.1.1.1.1.1.17, France, ORF1a:S2273F
+- \+ [BQ.1.1.18](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.18) Alias of B.1.1.529.5.3.1.1.1.1.1.1.18, France, C6541T
+- \+ [BQ.1.1.19](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.19) Alias of B.1.1.529.5.3.1.1.1.1.1.1.19, England, N:Q380H
+
 ### 2022-10-24
 - \+ [CA.7](https://cov-lineages.org/lineage.html?lineage=CA.7) Alias of B.1.1.529.2.75.2.7, S:L452R after ORF1a:L3776I
 - \+ [CJ.1](https://cov-lineages.org/lineage.html?lineage=CJ.1) Alias of B.1.1.529.2.75.3.1.1.1.1, S:S486P, #1171
