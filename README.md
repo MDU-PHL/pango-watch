@@ -9,6 +9,24 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-11-02
+- \+ [BS.1.2](https://cov-lineages.org/lineage.html?lineage=BS.1.2) Alias of B.1.1.529.2.3.2.1.2, Vietnam lineage, defined by S:T430I
+- \+ [CM.5.1](https://cov-lineages.org/lineage.html?lineage=CM.5.1) Alias of B.1.1.529.2.3.20.5.1, S:Q675R
+- \+ [BA.2.9.7](https://cov-lineages.org/lineage.html?lineage=BA.2.9.7) Alias of B.1.1.529.2.9.7, found mainly in USA, from pango-designation issue #864
+- \+ [BF.7.4.2](https://cov-lineages.org/lineage.html?lineage=BF.7.4.2) Alias of B.1.1.529.5.2.1.7.4.2, Europe
+- \+ [BF.32](https://cov-lineages.org/lineage.html?lineage=BF.32) Alias of B.1.1.529.5.2.1.32, found mainly in USA, from pango-designation issue #1250
+- \+ [CP.1.2](https://cov-lineages.org/lineage.html?lineage=CP.1.2) Alias of B.1.1.529.5.2.6.1.2, England, S:K150N
+- \+ [CP.1.3](https://cov-lineages.org/lineage.html?lineage=CP.1.3) Alias of B.1.1.529.5.2.6.1.3, England, S:G446S
+- \+ [CP.2](https://cov-lineages.org/lineage.html?lineage=CP.2) Alias of B.1.1.529.5.2.6.2, Bangladesh, S:N334K
+- \+ [CP.3](https://cov-lineages.org/lineage.html?lineage=CP.3) Alias of B.1.1.529.5.2.6.3, Turkey, S:N460Y
+- \+ [CP.4](https://cov-lineages.org/lineage.html?lineage=CP.4) Alias of B.1.1.529.5.2.6.4, Turkey, S:I770V
+- \+ [CP.5](https://cov-lineages.org/lineage.html?lineage=CP.5) Alias of B.1.1.529.5.2.6.5, South Africa, S:C1247F
+- \+ [CP.6](https://cov-lineages.org/lineage.html?lineage=CP.6) Alias of B.1.1.529.5.2.6.6, S:V1264L
+- \+ [CR.1.1](https://cov-lineages.org/lineage.html?lineage=CR.1.1) Alias of B.1.1.529.5.2.18.1.1, S:V62I
+- \+ [CY.1](https://cov-lineages.org/lineage.html?lineage=CY.1) Alias of B.1.1.529.5.2.7.1, found mainly in Belgium, Netherlands and Luxembourg, from pango-designation issue #1247
+- \+ [BQ.1.21](https://cov-lineages.org/lineage.html?lineage=BQ.1.21) Alias of B.1.1.529.5.3.1.1.1.1.1.21, England/France, S:R346S, S:Y144-
+- \+ [BQ.1.22](https://cov-lineages.org/lineage.html?lineage=BQ.1.22) Alias of B.1.1.529.5.3.1.1.1.1.1.22, Canada, S:R346T after C26681T
+
 ### 2022-11-01
 - \+ [BN.1.3.1](https://cov-lineages.org/lineage.html?lineage=BN.1.3.1) Alias of B.1.1.529.2.75.5.1.3.1, found mainly in Israel, England and Denmark, from pango-designation issue #1257
 - \+ [BF.7.4.1](https://cov-lineages.org/lineage.html?lineage=BF.7.4.1) Alias of B.1.1.529.5.2.1.7.4.1, found mainly in USA and Netherlands, from pango-designation issue #1253
