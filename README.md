@@ -9,6 +9,19 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-11-03
+- \+ [CM.6](https://cov-lineages.org/lineage.html?lineage=CM.6) Alias of B.1.1.529.2.3.20.6, global, ORF1a:G30A
+- \+ [BL.4](https://cov-lineages.org/lineage.html?lineage=BL.4) Alias of B.1.1.529.2.75.1.4, mainly found in India, defined by ORF7a:P45L with 11224T and 22720G branch
+- \+ [BL.5](https://cov-lineages.org/lineage.html?lineage=BL.5) Alias of B.1.1.529.2.75.1.5, mainly found in Denmark, from pango-designation issue #1105
+- \+ [CY.1](https://cov-lineages.org/lineage.html?lineage=CY.1) Alias of B.1.1.529.5.2.7.1, found mainly in Belgium, Netherlands and Luxembourg, from pango-designation issue #1247
+- \+ [CZ.1](https://cov-lineages.org/lineage.html?lineage=CZ.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.1.1, England/SouthKorea, S:F490I
+- \+ [BQ.1.1.20](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.20) Alias of B.1.1.529.5.3.1.1.1.1.1.1.20, Denmark, S:144- and ORF3a:H204Y
+- \+ [BQ.1.1.21](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.21) Alias of B.1.1.529.5.3.1.1.1.1.1.1.21, Switzerland/France, S:144- and A17946G
+- \+ [BQ.1.1.22](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.22) Alias of B.1.1.529.5.3.1.1.1.1.1.1.22, Australia/England/Denmark, S:144- and C913A
+- \+ [BE.1.4.4](https://cov-lineages.org/lineage.html?lineage=BE.1.4.4) Alias of B.1.1.529.5.3.1.1.4.4, S:L176F
+- \+ [XAY.1.1](https://cov-lineages.org/lineage.html?lineage=XAY.1.1) South Africa with S:R346T and ORF1a:K2108N, from issue #1255
+- \+ [XAY.2](https://cov-lineages.org/lineage.html?lineage=XAY.2) South Africa/Denmark/Israel lineage with ORF1a:Y3765C
+
 ### 2022-11-02
 - \+ [BS.1.2](https://cov-lineages.org/lineage.html?lineage=BS.1.2) Alias of B.1.1.529.2.3.2.1.2, Vietnam lineage, defined by S:T430I
 - \+ [CM.5.1](https://cov-lineages.org/lineage.html?lineage=CM.5.1) Alias of B.1.1.529.2.3.20.5.1, S:Q675R
