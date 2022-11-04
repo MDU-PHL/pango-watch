@@ -9,6 +9,23 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-11-04
+- \+ [CM.7](https://cov-lineages.org/lineage.html?lineage=CM.7) Alias of B.1.1.529.2.3.20.7, Japan/Singapore, S:F486S
+- \+ [CA.3.1](https://cov-lineages.org/lineage.html?lineage=CA.3.1) Alias of B.1.1.529.2.75.2.3.1, USA, S:K444M, S:L452R
+- \+ [BF.7.13](https://cov-lineages.org/lineage.html?lineage=BF.7.13) Alias of B.1.1.529.5.2.1.7.13, Belgium, ORF1a:H388Y, ORF1a:H1160Y,
+- \+ [BF.7.13.1](https://cov-lineages.org/lineage.html?lineage=BF.7.13.1) Alias of B.1.1.529.5.2.1.7.13.1, Europe, S:T430I, S:P681Y
+- \+ [BF.7.13.2](https://cov-lineages.org/lineage.html?lineage=BF.7.13.2) Alias of B.1.1.529.5.2.1.7.13.2, Poland, S:A653V
+- \+ [BF.33](https://cov-lineages.org/lineage.html?lineage=BF.33) Alias of B.1.1.529.5.2.1.33, Brazil/France, S:R346I, S:N460K
+- \+ [DB.1](https://cov-lineages.org/lineage.html?lineage=DB.1) Alias of B.1.1.529.5.2.25.1, France/Netherlands/Spain, S:R346T, S:N460K
+- \+ [CT.1](https://cov-lineages.org/lineage.html?lineage=CT.1) Alias of B.1.1.529.5.2.36.1, India/Pakistan lineage, defined by S:K356T
+- \+ [BA.5.2.38](https://cov-lineages.org/lineage.html?lineage=BA.5.2.38) Alias of B.1.1.529.5.2.38, S:T430I
+- \+ [BA.5.2.39](https://cov-lineages.org/lineage.html?lineage=BA.5.2.39) Alias of B.1.1.529.5.2.39, USA, S:R346T
+- \+ [DA.1](https://cov-lineages.org/lineage.html?lineage=DA.1) Alias of B.1.1.529.5.2.38.1, Indonesia, S:346T
+- \+ [CZ.1](https://cov-lineages.org/lineage.html?lineage=CZ.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.1.1, England/SouthKorea/Romania, S:F490I
+- \+ [BQ.1.23](https://cov-lineages.org/lineage.html?lineage=BQ.1.23) Alias of B.1.1.529.5.3.1.1.1.1.1.23, Singapore/Indonesia/Australia, A2653G and S:Y144-
+- \+ [XBB.4.1](https://cov-lineages.org/lineage.html?lineage=XBB.4.1) England/Austria, S:L5F, S:T470N
+- \+ [XBF](https://cov-lineages.org/lineage.html?lineage=XBF) Recombinant lineage of BA.5.2.3 and CJ.1, Australia, from pango-designation issue #1259
+
 ### 2022-11-03
 - \+ [CM.6](https://cov-lineages.org/lineage.html?lineage=CM.6) Alias of B.1.1.529.2.3.20.6, global, ORF1a:G30A
 - \+ [BL.4](https://cov-lineages.org/lineage.html?lineage=BL.4) Alias of B.1.1.529.2.75.1.4, mainly found in India, defined by ORF7a:P45L with 11224T and 22720G branch
