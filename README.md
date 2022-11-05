@@ -9,6 +9,24 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-11-05
+- \+ [DD.1](https://cov-lineages.org/lineage.html?lineage=DD.1) Alias of B.1.1.529.2.3.21.1, Philippines/Australia, Δ69-70, Δ144, V213E, G339N, R346T, Y449N, N460K, N481K, Q493L, K1205N, from #1287
+- \+ [BA.2.23.1](https://cov-lineages.org/lineage.html?lineage=BA.2.23.1) Alias of B.1.1.529.2.23.1, mainly found in England, USA and Denmark, from pango-designation issue #532
+- \+ [BA.4.6.5](https://cov-lineages.org/lineage.html?lineage=BA.4.6.5) Alias of B.1.1.529.4.6.5, global, defined by ORF9b:N36S
+- \+ [DC.1](https://cov-lineages.org/lineage.html?lineage=DC.1) Alias of B.1.1.529.4.6.5.1, global, defined by S:N460S
+- \+ [CU.1](https://cov-lineages.org/lineage.html?lineage=CU.1) Alias of B.1.1.529.5.1.26.1, Central/Eastern Europe, S:T95I, S:T547K
+- \+ [DB.2](https://cov-lineages.org/lineage.html?lineage=DB.2) Alias of B.1.1.529.5.2.25.2, BeNeLux, S:A262S
+- \+ [DA.1](https://cov-lineages.org/lineage.html?lineage=DA.1) Alias of B.1.1.529.5.2.38.1, Indonesia, S:R346T
+- \+ [BA.5.2.40](https://cov-lineages.org/lineage.html?lineage=BA.5.2.40) Alias of B.1.1.529.5.2.40, Sweden, S:N450D
+- \+ [BQ.1.1.23](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.23) Alias of B.1.1.529.5.3.1.1.1.1.1.1.23, France, ORF3a:V97I, S:Y144-
+- \+ [BQ.1.1.24](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.24) Alias of B.1.1.529.5.3.1.1.1.1.1.1.24, England, 11941T, S:Y144-
+- \+ [BQ.1.24](https://cov-lineages.org/lineage.html?lineage=BQ.1.24) Alias of B.1.1.529.5.3.1.1.1.1.1.24, South Africa, S:T240I, S:R346T, #1240
+- \+ [BE.5](https://cov-lineages.org/lineage.html?lineage=BE.5) Alias of B.1.1.529.5.3.1.5, South Africa, S:R346T, #1281
+- \+ [BE.6](https://cov-lineages.org/lineage.html?lineage=BE.6) Alias of B.1.1.529.5.3.1.6, France, S:R346S
+- \+ [BE.7](https://cov-lineages.org/lineage.html?lineage=BE.7) Alias of B.1.1.529.5.3.1.7, South Africa, S:R346T, #1280
+- \+ [BE.8](https://cov-lineages.org/lineage.html?lineage=BE.8) Alias of B.1.1.529.5.3.1.8, South Africa, S:R346T, #1278
+- \+ [BA.5.11](https://cov-lineages.org/lineage.html?lineage=BA.5.11) Alias of B.1.1.529.5.11, South Africa, C1627T, S:R346T, #1277
+
 ### 2022-11-04
 - \+ [CM.7](https://cov-lineages.org/lineage.html?lineage=CM.7) Alias of B.1.1.529.2.3.20.7, Japan/Singapore, S:F486S
 - \+ [CA.3.1](https://cov-lineages.org/lineage.html?lineage=CA.3.1) Alias of B.1.1.529.2.75.2.3.1, USA, S:K444M, S:L452R
