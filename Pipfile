@@ -7,6 +7,7 @@ name = "pypi"
 typer = "*"
 requests = "*"
 pango-aliasor = "*"
+"mastodon.py" = "*"
 
 [dev-packages]
 black = "*"

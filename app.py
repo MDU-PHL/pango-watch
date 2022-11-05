@@ -1,7 +1,7 @@
 from datetime import datetime
 from typing import List, Optional
 import typer
-from watch import File, DB
+from watch import File, DB, toot
 import requests
 
 def send_slack_msg(hook_url, diff):
@@ -41,6 +41,8 @@ def check(
         "https://api.github.com/repos/cov-lineages/pango-designation/contents/lineage_notes.txt?ref=master"
     ),
     slack: Optional[List[str]] = typer.Option(None, help="Hook to post the results to."),
+    mastodon_access_token: Optional[str] = typer.Option(None, help="Access_token for mastodon api."),
+    mastodon_api_base_url: Optional[str] = typer.Option(None, help="base url for mastodon api."),
 ):
     # load the db
     db = DB(path="db.json")
@@ -93,6 +95,12 @@ def check(
         typer.echo('Sending update to slack!')
         for hook_url in slack:
             send_slack_msg(hook_url, diff)
+    
+    if mastodon_access_token and mastodon_api_base_url:
+        typer.echo(f'Tooting to {mastodon_api_base_url}!')
+        text = "There has been an update to the pango-lineage designations!\n\n-> https://mdu-phl.github.io/pango-watch/ <- \n\n"
+        text += "\n".join(diff)
+        toot(text, access_token=mastodon_access_token, api_base_url=mastodon_api_base_url)
 
 
 
