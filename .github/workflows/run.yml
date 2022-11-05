@@ -35,7 +35,7 @@ jobs:
 
         - name: Run check
           run: |
-            pipenv run python app.py check --slack ${{secrets.SLACK_HOOK}} --slack ${{secrets.SLACK_HOOK_AT}} --mastodon_access_token ${{secrets.MASTODON_TOKEN}} --mastodon_api_base_url ${{secrets.MASTODON_URL}}
+            pipenv run python app.py check --slack ${{secrets.SLACK_HOOK}} --slack ${{secrets.SLACK_HOOK_AT}} --mastodon-access-token ${{secrets.MASTODON_TOKEN}} --mastodon-api-base-url ${{secrets.MASTODON_URL}}
 
         - name: Run tree
           run: |
