@@ -9,6 +9,14 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-11-06
+- \+ [CM.8](https://cov-lineages.org/lineage.html?lineage=CM.8) Alias of B.1.1.529.2.3.20.8, S:G446S
+- \+ [DE.1](https://cov-lineages.org/lineage.html?lineage=DE.1) Alias of B.1.1.529.5.1.23.1, S:A694V
+- \+ [DE.2](https://cov-lineages.org/lineage.html?lineage=DE.2) Alias of B.1.1.529.5.1.23.1, S:R346T, S:G181V
+- \+ [CR.1.2](https://cov-lineages.org/lineage.html?lineage=CR.1.2) Alias of B.1.1.529.5.2.18.1.2, Canada/Israel, S:V445A
+- \+ [BQ.1.25](https://cov-lineages.org/lineage.html?lineage=BQ.1.25) Alias of B.1.1.529.5.3.1.1.1.1.1.25, S:R346T, T8038C, T25569C, G26031A
+- \+ [CQ.1.1](https://cov-lineages.org/lineage.html?lineage=CQ.1.1) Alias of B.1.1.529.5.3.1.4.1.1.1.1, Canada/England, S:A262S
+
 ### 2022-11-05
 - \+ [DD.1](https://cov-lineages.org/lineage.html?lineage=DD.1) Alias of B.1.1.529.2.3.21.1, Philippines/Australia, Δ69-70, Δ144, V213E, G339N, R346T, Y449N, N460K, N481K, Q493L, K1205N, from #1287
 - \+ [BA.2.23.1](https://cov-lineages.org/lineage.html?lineage=BA.2.23.1) Alias of B.1.1.529.2.23.1, mainly found in England, USA and Denmark, from pango-designation issue #532
