@@ -100,7 +100,7 @@ def check(
         typer.echo(f'Tooting to {mastodon_api_base_url}!')
         text = "There has been an update to the pango-lineage designations!\n\n-> https://mdu-phl.github.io/pango-watch/ <- \n\n"
         text += "\n".join(diff)
-        toot(text, access_token=mastodon_access_token, api_base_url=mastodon_api_base_url)
+        toot(access_token=mastodon_access_token, api_base_url=mastodon_api_base_url, text=text)
 
 
 
