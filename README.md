@@ -9,6 +9,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-11-08
+- \+ [DF.1](https://cov-lineages.org/lineage.html?lineage=DF.1) Alias of B.1.1.529.5.10.1.1, found mainly in UK, from pango-designation issue #1270
+
 ### 2022-11-07
 - \+ [DE.2](https://cov-lineages.org/lineage.html?lineage=DE.2) Alias of B.1.1.529.5.1.23.2, S:R346T, S:G181V
 - \+ [DF.1](https://cov-lineages.org/lineage.html?lineage=DF.1) Alias of B.1.1.529.5.10.1.1, found mainly in UK, from pango-designation issue #1270
