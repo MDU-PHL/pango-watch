@@ -9,6 +9,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-11-16
+- \+ [BA.5.1.31](https://cov-lineages.org/lineage.html?lineage=BA.5.1.31) Alias of B.1.1.529.5.1.31, found mainly in France and Denmark, from pango-designation issue #991
+
 ### 2022-11-15
 - \+ [CK.3](https://cov-lineages.org/lineage.html?lineage=CK.3) Alias of B.1.1.529.5.2.24.3, found mainly in Singapore and USA, from pango-designation issue #1121
 - \+ [XBG](https://cov-lineages.org/lineage.html?lineage=XBG) Recombinant lineage of BA.2.76 and BA.5.2, predominantly in UK, from pango-designation issue #896
