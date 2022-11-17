@@ -9,6 +9,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-11-17
+- \+ [XBH](https://cov-lineages.org/lineage.html?lineage=XBH) Recombinant lineage of BA.2.3.17 and BA.2.75.2, predominantly in Brunei, from pango-designation issue #1229
+
 ### 2022-11-16
 - \+ [BA.5.1.31](https://cov-lineages.org/lineage.html?lineage=BA.5.1.31) Alias of B.1.1.529.5.1.31, found mainly in France and Denmark, from pango-designation issue #991
 
