@@ -9,6 +9,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-11-21
+- \+ [BW.1.1](https://cov-lineages.org/lineage.html?lineage=BW.1.1) Alias of B.1.1.529.5.6.2.1.1, Mexico lineage, defined by S:F486S
+
 ### 2022-11-17
 - \+ [XBH](https://cov-lineages.org/lineage.html?lineage=XBH) Recombinant lineage of BA.2.3.17 and BA.2.75.2, predominantly in Brunei, from pango-designation issue #1229
 
