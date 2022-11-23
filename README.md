@@ -9,6 +9,12 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-11-23
+- \+ [CM.2.1](https://cov-lineages.org/lineage.html?lineage=CM.2.1) Alias of B.1.1.529.2.3.20.2.1, Indonesia/Australia, S:F486S, issue #1356
+- \+ [BN.1.8](https://cov-lineages.org/lineage.html?lineage=BN.1.8) Alias of B.1.1.529.2.75.5.1.8, Iceland/USA, S:A475V
+- \+ [BQ.1.1.25](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.25) Alias of B.1.1.529.5.3.1.1.1.1.1.1.25, USA/Canada, S:F490S
+- \+ [BW.1.1](https://cov-lineages.org/lineage.html?lineage=BW.1.1) Alias of B.1.1.529.5.6.2.1.1, Mexico lineage, defined by S:V486A, issue #1341
+
 ### 2022-11-21
 - \+ [BW.1.1](https://cov-lineages.org/lineage.html?lineage=BW.1.1) Alias of B.1.1.529.5.6.2.1.1, Mexico lineage, defined by S:F486S
 
