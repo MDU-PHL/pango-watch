@@ -9,6 +9,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-11-27
+- \+ [BA.5.2.43](https://cov-lineages.org/lineage.html?lineage=BA.5.2.43) Alias of B.1.1.529.5.2.43, found mainly in SouthKorea, from pango-designation issue #1312
+
 ### 2022-11-26
 - \+ [XBB.1.4.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.4.1) Mainly Denmark, Norway and Sweden, defined by S:S673G, from pango-designation issue #1352
 
