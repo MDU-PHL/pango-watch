@@ -9,6 +9,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-11-29
+- \+ [BN.1.9](https://cov-lineages.org/lineage.html?lineage=BN.1.9) Alias of B.1.1.529.2.75.5.1.9, found mainly in Indonesia, from pango-designation issue #1327
+
 ### 2022-11-27
 - \+ [BA.5.2.43](https://cov-lineages.org/lineage.html?lineage=BA.5.2.43) Alias of B.1.1.529.5.2.43, found mainly in SouthKorea, from pango-designation issue #1312
 
