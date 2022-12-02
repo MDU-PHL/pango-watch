@@ -9,6 +9,11 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-12-02
+- \+ [CH.3](https://cov-lineages.org/lineage.html?lineage=CH.3) Alias of B.1.1.529.2.75.3.4.1.1.3, defined by S:486P on ORF1b:Q2425R branch
+- \+ [BQ.1.1.26](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.26) Alias of B.1.1.529.5.3.1.1.1.1.1.1.26, S:E471Q
+- \+ [XBJ](https://cov-lineages.org/lineage.html?lineage=XBJ) Recombinant lineage of BA.2.3.20 and BA.5.2, possibly Philippines, from pango-designation issue #1268
+
 ### 2022-12-01
 - \+ [DK.1](https://cov-lineages.org/lineage.html?lineage=DK.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.7.1, S:339N, ORF1a:A1809T
 
