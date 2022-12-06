@@ -9,6 +9,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-12-06
+- \+ [CV.2](https://cov-lineages.org/lineage.html?lineage=CV.2) Alias of B.1.1.529.2.75.3.1.1.3.2, Chile, S:486P
+
 ### 2022-12-05
 - \+ [BQ.1.1.28](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.28) Alias of B.1.1.529.5.3.1.1.1.1.1.1.28, S:P251L, ORF1b:P976S, on C18828T branch
 - \+ [BQ.1.26.1](https://cov-lineages.org/lineage.html?lineage=BQ.1.26.1) Alias of B.1.1.529.5.3.1.1.1.1.1.26.1, found mainly in Denmark, from pango-designation issue #1369
