@@ -9,6 +9,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-12-08
+- \+ [DM.1](https://cov-lineages.org/lineage.html?lineage=DM.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.15.1, Spain/Europe/US, S:A348S
+
 ### 2022-12-06
 - \+ [CV.2](https://cov-lineages.org/lineage.html?lineage=CV.2) Alias of B.1.1.529.2.75.3.1.1.3.2, Chile, S:486P
 
