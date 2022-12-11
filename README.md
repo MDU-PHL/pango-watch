@@ -9,6 +9,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-12-11
+- \+ [DJ.1.2](https://cov-lineages.org/lineage.html?lineage=DJ.1.2) Alias of B.1.1.529.5.1.25.1.2, found mainly in Peru, from pango-designation issue #1379
+
 ### 2022-12-08
 - \+ [DM.1](https://cov-lineages.org/lineage.html?lineage=DM.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.15.1, Spain/Europe/US, S:A348S
 
