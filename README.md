@@ -9,6 +9,15 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-12-15
+- \+ [CM.4.1](https://cov-lineages.org/lineage.html?lineage=CM.4.1) Alias of B.1.1.529.2.3.20.4.1, S:K478R, Philippines/Japan/USA
+- \+ [CM.5.2](https://cov-lineages.org/lineage.html?lineage=CM.5.2) Alias of B.1.1.529.2.3.20.5.2, S:G485D, USA/Australia, from issue #1386
+- \+ [CJ.1.1](https://cov-lineages.org/lineage.html?lineage=CJ.1.1) Alias of B.1.1.529.2.75.3.1.1.1.1.1, S:V445A, Singapore/Malaysia/Japan, from issue #1384
+- \+ [CH.3.1](https://cov-lineages.org/lineage.html?lineage=CH.3.1) Alias of B.1.1.529.2.75.3.4.1.1.3.1, S:S494P, Australia/Indonesia, from #1421
+- \+ [CN.2](https://cov-lineages.org/lineage.html?lineage=CN.2) Alias of B.1.1.529.5.2.21.2, S:R346T, S:Y28H, USA/Canada, from #1404
+- \+ [BE.10](https://cov-lineages.org/lineage.html?lineage=BE.10) Alias of B.1.1.529.5.3.1.10, S:K444T, S:N460K, mainly Brazil, from issue #1411
+- \+ [XBK](https://cov-lineages.org/lineage.html?lineage=XBK) Recombinant lineage of BA.5.2 and CJ.1, Denmark/Europe, from pango-designation issue #1418
+
 ### 2022-12-11
 - \+ [DJ.1.2](https://cov-lineages.org/lineage.html?lineage=DJ.1.2) Alias of B.1.1.529.5.1.25.1.2, found mainly in Peru, from pango-designation issue #1379
 
