@@ -9,6 +9,10 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-12-16
+- \+ [CH.1.1.3](https://cov-lineages.org/lineage.html?lineage=CH.1.1.3) Alias of B.1.1.529.2.75.3.4.1.1.1.1.3, S:S255P, New Zealand/Australia/Hong Kong, from #1405
+- \+ [XBB.1.6](https://cov-lineages.org/lineage.html?lineage=XBB.1.6) USA, S:L216F, S:H146K, from issue #1428
+
 ### 2022-12-15
 - \+ [CM.4.1](https://cov-lineages.org/lineage.html?lineage=CM.4.1) Alias of B.1.1.529.2.3.20.4.1, S:K478R, Philippines/Japan/USA
 - \+ [CM.5.2](https://cov-lineages.org/lineage.html?lineage=CM.5.2) Alias of B.1.1.529.2.3.20.5.2, S:G485D, USA/Australia, from issue #1386
