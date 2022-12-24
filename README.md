@@ -9,6 +9,20 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2022-12-24
+- \+ [BN.1.3.2](https://cov-lineages.org/lineage.html?lineage=BN.1.3.2) Alias of B.1.1.529.2.75.5.1.3.2, S:V445A found mainly in Japan, from pango-designation issue #1397
+- \+ [BN.1.3.3](https://cov-lineages.org/lineage.html?lineage=BN.1.3.3) Alias of B.1.1.529.2.75.5.1.3.3, S:E147Q, mainly Europe
+- \+ [DJ.1.3](https://cov-lineages.org/lineage.html?lineage=DJ.1.3) Alias of B.1.1.529.5.1.25.1.3 found mainly in Peru, Colombia and USA, from pango-designation issue #1409
+- \+ [DN.1](https://cov-lineages.org/lineage.html?lineage=DN.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.5.1, S:K147N
+- \+ [BQ.1.1.11](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.11) Alias of B.1.1.529.5.3.1.1.1.1.1.1.11, S:S494P
+- \+ [BQ.1.1.29](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.29) Alias of B.1.1.529.5.3.1.1.1.1.1.1.29, S:Q613H
+- \+ [BQ.1.1.30](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.30) Alias of B.1.1.529.5.3.1.1.1.1.1.1.30, Canada, S:V445A
+- \+ [BQ.1.27](https://cov-lineages.org/lineage.html?lineage=BQ.1.27) Alias of B.1.1.529.5.3.1.1.1.1.1.27, USA/England, S:V445A
+- \+ [XBB.1.7](https://cov-lineages.org/lineage.html?lineage=XBB.1.7) USA-NY, S:V608I
+- \+ [XBB.2.1](https://cov-lineages.org/lineage.html?lineage=XBB.2.1) Defined by S:N764S
+- \+ [XBB.2.2](https://cov-lineages.org/lineage.html?lineage=XBB.2.2) Defined by S:Q613H
+- \+ [XBB.3.2](https://cov-lineages.org/lineage.html?lineage=XBB.3.2) Defined by S:M177T
+
 ### 2022-12-22
 - \+ [BN.1.3.2](https://cov-lineages.org/lineage.html?lineage=BN.1.3.2) Alias of B.1.1.529.2.75.5.1.3.2 found mainly in Japan, from pango-designation issue #1397
 - \+ [BQ.1.25.1](https://cov-lineages.org/lineage.html?lineage=BQ.1.25.1) Alias of B.1.1.529.5.3.1.1.1.1.1.25.1, found mainly in USA, from pango-designation issue #1451
