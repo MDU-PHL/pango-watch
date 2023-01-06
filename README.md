@@ -9,6 +9,41 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-01-06
+- \+ [P.1](https://cov-lineages.org/lineage.html?lineage=P.1) Alias of B.1.1.28.1, Brazilian lineage with a number of spike mutations with likely functional significance E484K, K417T, and N501Y. Described in https://virological.org/t/genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-manaus-preliminary-findings/586.
+- \+ [B.1.1.33](https://cov-lineages.org/lineage.html?lineage=B.1.1.33) Brazilian
+- \+ [B.1.1.41](https://cov-lineages.org/lineage.html?lineage=B.1.1.41) England lineage
+- \+ [B.1.1.58](https://cov-lineages.org/lineage.html?lineage=B.1.1.58) European lineage
+- \+ [B.1.1.119](https://cov-lineages.org/lineage.html?lineage=B.1.1.119) Northern Ireland lineage
+- \+ [B.1.1.271](https://cov-lineages.org/lineage.html?lineage=B.1.1.271) German and Austrian lineage
+- \+ [B.1.1.332](https://cov-lineages.org/lineage.html?lineage=B.1.1.332) Brazilian Lineage
+- \+ [B.1.1.485](https://cov-lineages.org/lineage.html?lineage=B.1.1.485) Ghanaian Lineage
+- \+ [BA.2.80](https://cov-lineages.org/lineage.html?lineage=BA.2.80) Alias of B.1.1.529.2.80, found in Denmark, from pango-designation issue #733
+- \+ [B.1.8](https://cov-lineages.org/lineage.html?lineage=B.1.8) Netherlands, South Africa, Denmark, USA
+- \+ [B.1.36](https://cov-lineages.org/lineage.html?lineage=B.1.36) Global many sublineages (see below)
+- \+ [B.1.36.7](https://cov-lineages.org/lineage.html?lineage=B.1.36.7) UK (reassigned from Oman lineage)
+- \+ [B.1.36.8](https://cov-lineages.org/lineage.html?lineage=B.1.36.8) Predominantly Indian lineage with global records (inc. Canada)
+- \+ [B.1.36.10](https://cov-lineages.org/lineage.html?lineage=B.1.36.10) Jordan/Saudi Arabia (single recent record from USA)
+- \+ [B.1.36.26](https://cov-lineages.org/lineage.html?lineage=B.1.36.26) Canada/USA
+- \+ [B.1.36.33](https://cov-lineages.org/lineage.html?lineage=B.1.36.33) Denmark
+- \+ [B.1.128](https://cov-lineages.org/lineage.html?lineage=B.1.128) Canada, Switzerland and DRC
+- \+ [B.1.177.25](https://cov-lineages.org/lineage.html?lineage=B.1.177.25) Gibraltar lineage
+- \+ [B.1.177.32](https://cov-lineages.org/lineage.html?lineage=B.1.177.32) Swiss and Portuguese mostly
+- \+ [B.1.436](https://cov-lineages.org/lineage.html?lineage=B.1.436) USA lineage reassigned from previous tree
+- \+ [B.1.456](https://cov-lineages.org/lineage.html?lineage=B.1.456) SE Asian (reassigned)
+- \+ [B.1.462](https://cov-lineages.org/lineage.html?lineage=B.1.462) UK/Nigeria
+- \+ [B.1.468](https://cov-lineages.org/lineage.html?lineage=B.1.468) Indonesia/Singapore. Seq names misassigned in original file
+- \+ [B.1.471](https://cov-lineages.org/lineage.html?lineage=B.1.471) UK with global representation
+- \+ [B.1.474](https://cov-lineages.org/lineage.html?lineage=B.1.474) Denmark/ Luxembourg lineage
+- \+ [B.1.595.1](https://cov-lineages.org/lineage.html?lineage=B.1.595.1) USA (FL into Louisiana)
+- \+ [AY.134](https://cov-lineages.org/lineage.html?lineage=AY.134) European lineage within diversity of B.1.617.2. Previously assigned AY.39.4, pango-designation issue #406
+- \+ [B.1.9.5](https://cov-lineages.org/lineage.html?lineage=B.1.9.5) European sublineage highly represented in Turkey
+- \+ [B.4.2](https://cov-lineages.org/lineage.html?lineage=B.4.2) Bahrain lineage
+- \+ [\*B.1.1.235](https://cov-lineages.org/lineage.html?lineage=*B.1.1.235) Withdrawn: merged with B.1.1.115
+- \+ [\*BA.2.3.3](https://cov-lineages.org/lineage.html?lineage=*BA.2.3.3) Withdrawn: Does not have a reliable defining mutation, see issue #524
+- \+ [\*B.1.177.13](https://cov-lineages.org/lineage.html?lineage=*B.1.177.13) Withdrawn: now part of B.1.177.17
+- \+ [\*AY.39.4](https://cov-lineages.org/lineage.html?lineage=*AY.39.4) Withdrawn: Reassigned AY.134. Denmark lineage, pango-designation issue #406
+
 ### 2023-01-04
 - \+ [DR.1](https://cov-lineages.org/lineage.html?lineage=DR.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.3.1, found mainly in USA, from pango-designation issue #1420
 - \+ [\*BQ.1.1.33](https://cov-lineages.org/lineage.html?lineage=*BQ.1.1.33) Withdrawn: Alias of B.1.1.529.5.3.1.1.1.1.1.1.33, US lineage, child of BQ.1.1.3
