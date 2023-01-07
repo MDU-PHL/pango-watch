@@ -9,6 +9,10 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-01-07
+- \+ [BF.7.14](https://cov-lineages.org/lineage.html?lineage=BF.7.14) Alias of B.1.1.529.5.2.1.7.14 found mainly in China, Singapore and Italy, from pango-designation issue #1470
+- \+ [BA.5.2.48](https://cov-lineages.org/lineage.html?lineage=BA.5.2.48) Alias of B.1.1.529.5.2.48 found mainly in China, Singapore and Italy, from pango-designation issue #1471
+
 ### 2023-01-06
 - \+ [P.1](https://cov-lineages.org/lineage.html?lineage=P.1) Alias of B.1.1.28.1, Brazilian lineage with a number of spike mutations with likely functional significance E484K, K417T, and N501Y. Described in https://virological.org/t/genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-manaus-preliminary-findings/586.
 - \+ [B.1.1.33](https://cov-lineages.org/lineage.html?lineage=B.1.1.33) Brazilian
