@@ -9,6 +9,17 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-01-08
+- \+ [CM.10](https://cov-lineages.org/lineage.html?lineage=CM.10) Alias of B.1.1.529.2.3.20.10, USA/South Korea/Singapore, S:K478T reversion, S:V445A
+- \+ [BL.6](https://cov-lineages.org/lineage.html?lineage=BL.6) Alias of B.1.1.529.2.75.1.6, mainly South Korea, S:R346T, S:V445A, from issue #1531
+- \+ [CH.1.1.4](https://cov-lineages.org/lineage.html?lineage=CH.1.1.4) Alias of B.1.1.529.2.75.3.4.1.1.1.1.4, S:H681R, Austria, from #1370
+- \+ [DS.1](https://cov-lineages.org/lineage.html?lineage=DS.1) Alias of B.1.1.529.2.75.5.1.3.1.1, USA/Ireland/Austria, S:F486S, S:R403K
+- \+ [XBB.1.8](https://cov-lineages.org/lineage.html?lineage=XBB.1.8) Denmark, S:186insSGG, C3241T
+- \+ [XBC.1.1](https://cov-lineages.org/lineage.html?lineage=XBC.1.1) Mostly Australia, ORF1a:I3619T, ORF8:V114L
+- \+ [XBC.1.1.1](https://cov-lineages.org/lineage.html?lineage=XBC.1.1.1) Australia, S:G476S
+- \+ [XBC.1.2](https://cov-lineages.org/lineage.html?lineage=XBC.1.2) Philippines/Netherlands/Denmark, T11269C
+- \+ [XBC.1.2.1](https://cov-lineages.org/lineage.html?lineage=XBC.1.2.1) Denmark, ORF1b:T132I
+
 ### 2023-01-07
 - \+ [BF.7.14](https://cov-lineages.org/lineage.html?lineage=BF.7.14) Alias of B.1.1.529.5.2.1.7.14 found mainly in China, Singapore and Italy, from pango-designation issue #1470
 - \+ [BA.5.2.48](https://cov-lineages.org/lineage.html?lineage=BA.5.2.48) Alias of B.1.1.529.5.2.48 found mainly in China, Singapore and Italy, from pango-designation issue #1471
