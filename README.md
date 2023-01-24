@@ -9,6 +9,10 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-01-24
+- \+ [BQ.1.1.37](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.37) Alias of B.1.1.529.5.3.1.1.1.1.1.1.37 found mainly in Italy, from pango-designation issue #1571
+- \+ [DW.1](https://cov-lineages.org/lineage.html?lineage=DW.1) Alias of B.1.1.529.5.3.1.1.2.1.1 found mainly in Costa Rica, from pango-designation issue #1564
+
 ### 2023-01-23
 - \+ [BA.5.2.50](https://cov-lineages.org/lineage.html?lineage=BA.5.2.50) Alias of B.1.1.529.5.2.50 found mainly in China, from pango-designation issue #1542
 
