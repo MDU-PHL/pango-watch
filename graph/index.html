@@ -1,0 +1,238 @@
+<html>
+    <style>
+        .toolbar {
+            position: fixed;
+            top: 10px;
+            left: 10px;
+        }
+        body {
+            margin: 0px
+        }
+    </style>
+<body>
+    <div id="toolbar" class="toolbar"></div>
+    <svg id='viz'></svg>
+</body>
+
+<script src='https://d3js.org/d3.v5.min.js'></script>
+<script>
+var width = window.innerWidth;
+var height = window.innerHeight;
+// size of the diagram
+var color = d3.scaleOrdinal(d3.schemeCategory10);
+// var color = d3.scaleSequential(d3.interpolateViridis).domain([0, 140])
+d3.json("data.json").then(function(graph) {
+
+var label = {
+    'nodes': [],
+    'links': []
+};
+
+graph.nodes.forEach(function(d, i) {
+    label.nodes.push({node: d});
+    label.nodes.push({node: d});
+    label.links.push({
+        source: i * 2,
+        target: i * 2 + 1
+    });
+});
+
+var graphLayout = d3.forceSimulation(graph.nodes)
+    .force("charge", d3.forceManyBody().strength(-3000))
+    .force("center", d3.forceCenter(width / 2, height / 2))
+    .force("x", d3.forceX(width / 2).strength(1))
+    .force("y", d3.forceY(height / 2).strength(1))
+    .force("link", d3.forceLink(graph.links).id(function(d) {return d.id; }).distance(50).strength(1))
+    .on("tick", ticked)
+
+var adjlist = [];
+
+graph.links.forEach(function(d) {
+    adjlist[d.source.index + "-" + d.target.index] = true;
+    adjlist[d.target.index + "-" + d.source.index] = true;
+});
+
+function neigh(a, b) {
+    return a == b || adjlist[a + "-" + b];
+}
+
+var nodeChildren = {}
+
+graph.nodes.forEach(function(d) {
+    // adjlist[d.source.index + "-" + d.target.index] = true;
+    // console.log(d);
+});
+
+function isChild(parentIndex, childIndex) {
+    return nodeChildren[parentIndex].includes(childIndex)
+}
+
+var svg = d3.select("#viz").attr("width", width).attr("height", height);
+var container = svg.append("g");
+
+function zoom() {
+    if(d3.event.transform != null) {
+        container.attr("transform", d3.event.transform );
+    }
+}
+
+// define the zoomListener which calls the zoom function on the "zoom" event constrained within the scaleExtents
+var zoomListener = d3.zoom().scaleExtent([.01, 2]).on("zoom", zoom);
+
+svg.call(zoomListener);
+
+var link = container.append("g").attr("class", "links")
+    .selectAll("line")
+    .data(graph.links)
+    .enter()
+    .append("line")
+    .attr("stroke", "#aaa")
+    .attr("stroke-width", "1px");
+
+function centerNode(source) {
+  t = d3.zoomTransform(svg.node());
+  x = -source.x
+  y = -source.y
+  x = (x * t.k) + (width / 2);
+  y = y * t.k + height / 2;
+  d3.select('svg').transition().duration(750).call( zoomListener.transform, d3.zoomIdentity.translate(x,y).scale(t.k) );
+}
+
+var node = container.append("g").attr("class", "nodes")
+    .selectAll("g")
+    .data(graph.nodes)
+    .enter()
+    .append("circle")
+    .attr("r", 12)
+    .attr("fill", function(d) { return color(d.group); })
+    .attr("stroke-width", 2)
+
+node.on("mouseover", focus).on("mouseout", unfocus);
+
+node.call(
+    d3.drag()
+        .on("start", dragstarted)
+        .on("drag", dragged)
+        .on("end", dragended)
+);
+
+var labelNode = container.append("g").attr("class", "labelNodes")
+    .selectAll("text")
+    .data(label.nodes)
+    .enter()
+    .append("text")
+    .text(function(d, i) { return i % 2 == 0 ? "" : d.node.label; })
+    .style("fill", "#555")
+    .style("font-family", "Arial")
+    .style("font-size", 15)
+    .style("pointer-events", "none"); // to prevent mouseover/drag capture
+
+node.on("mouseover", focus).on("mouseout", unfocus);
+
+function ticked() {
+
+    node.call(updateNode);
+    link.call(updateLink);
+
+    labelNode.each(function(d, i) {
+        d.x = d.node.x - (d.node.label.length * 4.3);
+        d.y = d.node.y - 15;
+    });
+    labelNode.call(updateNode);
+
+}
+
+function fixna(x) {
+    if (isFinite(x)) return x;
+    return 0;
+}
+
+
+
+function focus(d) {
+    var index = d3.select(d3.event.target).datum().index;
+    var group = d3.select(d3.event.target).datum().group;
+    node.style("opacity", function(o) {
+        return neigh(index, o.index) || group == o.group ? 1 : 0.1;
+    });
+    node.style("stroke", function(o) {
+        return index == o.index ? "black" : "none";
+    });
+    labelNode.attr("display", function(o) {
+      return neigh(index, o.node.index) || group == o.node.group ? "block" : "none";
+    });
+    link.style("opacity", function(o) {
+        return o.source.group == group || o.target.index == index ? 1 : 0.1;
+    });
+}
+
+function unfocus() {
+   labelNode.attr("display", "block");
+   node.style("opacity", 1);
+   node.style("stroke", "none");
+   link.style("opacity", 1);
+}
+
+function updateLink(link) {
+    link.attr("x1", function(d) { return fixna(d.source.x); })
+        .attr("y1", function(d) { return fixna(d.source.y); })
+        .attr("x2", function(d) { return fixna(d.target.x); })
+        .attr("y2", function(d) { return fixna(d.target.y); });
+}
+
+function updateNode(node) {
+    node.attr("transform", function(d) {
+        return "translate(" + fixna(d.x) + "," + fixna(d.y) + ")";
+    });
+}
+
+function dragstarted(d) {
+    d3.event.sourceEvent.stopPropagation();
+    if (!d3.event.active) graphLayout.alphaTarget(0.3).restart();
+    d.fx = d.x;
+    d.fy = d.y;
+}
+
+function dragged(d) {
+    d.fx = d3.event.x;
+    d.fy = d3.event.y;
+}
+
+function dragended(d) {
+    if (!d3.event.active) graphLayout.alphaTarget(0);
+    d.fx = null;
+    d.fy = null;
+}
+
+var select = d3.select("#toolbar")
+    .append("select")
+    .on("change", function() {
+        var select = d3.select("select").node().value;
+        if (select == "Select"){
+            return;
+        }
+        
+        var find = graph.nodes.find(function(d) {
+        if (d.label == select)
+            return true;
+        });
+        centerNode(find)
+    });
+
+
+select.append("option")
+    .attr("value", "Select")
+    .attr("selected", "true")
+    .text("Select");
+
+graph.nodes.forEach(function(d) {
+    if (d.label) {
+        select.append("option")
+            .attr("value", d.label)
+            .text(d.label);
+    }
+});
+
+}); // d3.json
+</script>
+</html>
