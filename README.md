@@ -6,8 +6,16 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 
 [Pango lineages interactive tree](https://mdu-phl.github.io/pango-watch/tree/)
 
+[Pango lineages interactive graph](https://mdu-phl.github.io/pango-watch/graph/)
+
+![](graph/graph.png)
+
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
+
+### 2023-01-27
+- \+ [BF.7.14.1](https://cov-lineages.org/lineage.html?lineage=BF.7.14.1) Alias of B.1.1.529.5.2.1.7.14.1 found mainly in China and Japan, from pango-designation issue #1580
+- \+ [BQ.1.11.1](https://cov-lineages.org/lineage.html?lineage=BQ.1.11.1) Alias of B.1.1.529.5.3.1.1.1.1.1.11.1 found mainly in USA and Peru, from pango-designation issue #1581
 
 ### 2023-01-25
 - \+ [BQ.1.1.38](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.38) Alias of B.1.1.529.5.3.1.1.1.1.1.1.38 found mainly in South Africa and USA, from pango-designation issue #1419
