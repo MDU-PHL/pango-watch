@@ -1,0 +1,59 @@
+{
+    "name": "root",
+    "children": [
+        {
+            "name": "A",
+            "children": [
+                {
+                    "name": "A.1",
+                    "children": [],
+                    "compressed_name": "A.1"
+                },
+                {
+                    "name": "A.2",
+                    "children": [
+                        {
+                            "name": "A.2.2",
+                            "children": [],
+                            "compressed_name": "A.2.2"
+                        },
+                        {
+                            "name": "A.2.3",
+                            "children": [],
+                            "compressed_name": "A.2.3"
+                        },
+                        {
+                            "name": "A.2.4",
+                            "children": [],
+                            "compressed_name": "A.2.4"
+                        },
+                        {
+                            "name": "A.2.5",
+                            "children": [
+                                {
+                                    "name": "XTEST",
+                                    "children": [],
+                                    "compressed_name": "XTEST",
+                                    "otherParents": ["A.2.2"]
+                                },
+                                {
+                                    "name": "A.2.5.2",
+                                    "children": [],
+                                    "compressed_name": "A.2.5.2"
+                                },
+                                {
+                                    "name": "A.2.5.3",
+                                    "children": [],
+                                    "compressed_name": "A.2.5.3"
+                                }
+                            ],
+                            "compressed_name": "A.2.5"
+                        }
+                    ],
+                    "compressed_name": "A.2"
+                }
+            ]
+        }
+    ]
+}
+            

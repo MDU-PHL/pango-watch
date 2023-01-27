@@ -51,6 +51,28 @@ treeJSON = d3.json("data.json", function(error, treeData) {
         .size([viewerHeight, viewerWidth]);
 
     var nodeList = tree.nodes(treeData);
+
+    let additionalLinks = []
+    for (let index = 0; index < nodeList.length; index++) {
+        let node = nodeList[index];
+        if (node.otherParents) {
+            node.otherParents.forEach(parent => {
+                let parentNode = nodeList.filter(function(d) {
+                    return d['name'] === parent;
+                })[0];
+                let link = new Object();
+                link.source = parentNode;
+                link.target = node;
+                link._source = parentNode; // backup source
+                link._target = node; // backup target
+                additionalLinks.push(link)
+
+            })
+        }
+        
+        
+    }
+
     // Returns a list of all nodes under the root.
     function flatten(root) {
         var nodes = [],
@@ -125,8 +147,8 @@ treeJSON = d3.json("data.json", function(error, treeData) {
 
     d3.select("#toolbar").append("button")
     .text("Reset").on("click", function(){
-    d3.select("select").node().value = "Select";
-    doReset();
+        d3.select("select").node().value = "Select";
+        doReset();
     });
         
     d3.select("#toolbar").append("button")
@@ -139,7 +161,11 @@ treeJSON = d3.json("data.json", function(error, treeData) {
         centerNode(root)
     });
   
-  
+    d3.select("#toolbar").append("button")
+    .text("Recombinants").on("click", function(){
+        d3.select("select").node().value = "Select";
+        doReset();
+    });
   
     // define a d3 diagonal projection for use by the node paths later on.
     var diagonal = d3.svg.diagonal()
@@ -148,7 +174,6 @@ treeJSON = d3.json("data.json", function(error, treeData) {
         });
 
     // A recursive helper function for performing some setup by walking through all nodes
-
     function visit(parent, visitFn, childrenFn) {
         if (!parent) return;
 
@@ -218,7 +243,7 @@ treeJSON = d3.json("data.json", function(error, treeData) {
 
 
     // define the zoomListener which calls the zoom function on the "zoom" event constrained within the scaleExtents
-    var zoomListener = d3.behavior.zoom().scaleExtent([0.1, 3]).on("zoom", zoom);
+    var zoomListener = d3.behavior.zoom().scaleExtent([0.05, 3]).on("zoom", zoom);
 
 
 
@@ -279,7 +304,16 @@ treeJSON = d3.json("data.json", function(error, treeData) {
     // Toggle children function
 
     function toggleChildren(d) {
-        if (d.children) {
+        additionalLinks.forEach(function(link){
+            if (link._source.name == d.name) {
+                // console.log(link);
+                // remove recomb when click on otherParent 
+                // you would have to remove the node for the parent's children
+                // and and remove the link from other parent
+                // the info to do this is in link 
+            }
+        })
+        if (d.children ) {
             d._children = d.children;
             d.children = null;
         } else if (d._children) {
@@ -294,8 +328,35 @@ treeJSON = d3.json("data.json", function(error, treeData) {
     function click(d) {
         if (d3.event.defaultPrevented) return; // click suppressed
         d = toggleChildren(d);
+        // update additional links
+        
+        additionalLinks.forEach(function(link){
+            let sourceVisible = false;
+            let targetVisible = false;
+            tree.nodes(root).filter(function(n) {
+                if(n["name"] == link._source.name){
+                    sourceVisible = true;
+                }
+                if(n["name"] == link._target.name){
+                    targetVisible = true;
+                }
+            });
+            if(sourceVisible && targetVisible){
+                link.source = link._source;
+                link.target = link._target;
+            }
+            else if(!sourceVisible && targetVisible 
+                        || !sourceVisible && !targetVisible){
+                link.source = d;
+                link.target = link.source;
+            }
+            else if(sourceVisible && !targetVisible){
+                link.source = link._source;
+                link.target = link.source;
+            }
+        });
         update(d);
-        centerNode(d);
+        //centerNode(d);
     }
 
     function update(source) {
@@ -476,6 +537,29 @@ treeJSON = d3.json("data.json", function(error, treeData) {
                 });
             })
             .remove();
+        
+        // ======== add additional links (mpLinks) ========
+        let mpLink = svgGroup.selectAll("path.mpLink")
+        .data(additionalLinks);
+
+        mpLink.enter().insert("path", "g")
+        .attr("class", "mpLink")
+        .attr("d", function(d) {
+        var o = {x: source.x0, y: source.y0};
+        return diagonal({source: o, target: o});
+        });
+
+        mpLink.transition()
+        .duration(duration)
+        .attr("d", diagonal)
+
+        mpLink.exit().transition()
+        .duration(duration)
+        .attr("d", function (d) {
+            let o = { x: source.x, y: source.y };
+            return diagonal({ source: o, target: o });
+        })
+        .remove();
 
         // Stash the old positions for transition.
         nodes.forEach(function(d) {

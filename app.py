@@ -111,6 +111,40 @@ def insertNodeIntoTree(node, parentName, newNode):
     for child in node['children']:
       insertNodeIntoTree(child, parentName, newNode)
 
+def load_alias_key():
+    import urllib.request, json
+
+    with urllib.request.urlopen(
+        "https://raw.githubusercontent.com/cov-lineages/pango-designation/master/pango_designation/alias_key.json"
+    ) as data:
+        file = json.load(data)
+    return file 
+
+
+def clean_parents(lineages, uncompressor):
+    parents = []
+    for lineage in lineages:
+        lineage = lineage.replace('*', '')
+        if '/' in lineage:
+            # "BA.4/5"
+            first, second = lineage.split('/')
+            parents.append(first)
+            parents.append(f"{first[:-1]}{second}")
+        else:
+            parents.append(lineage)
+    return [uncompressor(p) for p in parents]
+    
+def treeTograph(node, nodes=[], links=[]):
+    if node['children']:
+        for child in node['children']:
+            links.append({'source':node['name'], 'target': child['name']})
+            if 'otherParents' in child:
+                for source in child['otherParents']:
+                    links.append({'source':source, 'target': child['name']})
+            treeTograph(child, nodes=nodes, links=links)
+    nodes.append(dict(id=node['name'], label=node['compressed_name'], group=node['group']))
+    return nodes, links
+
 @app.command()
 def tree():
     from pango_aliasor.aliasor import Aliasor
@@ -120,6 +154,8 @@ def tree():
     last_file = db.get_last()
     last_text = last_file.text
     lineages = []
+    groups = []
+    alias_key = load_alias_key()
     for i, line in enumerate(last_text.split('\n')):
         if not line or i == 0:
             # skip header and EOF
@@ -127,23 +163,50 @@ def tree():
         lineage = line.split('\t')[0].split()[0]
         if lineage.startswith('*'): # remove withdrawn
             continue
-        if lineage.startswith('X'): # remove recombinants 
-            continue
-        lineages.append({"compressed_name":lineage,"name":aliasor.uncompress(lineage)})
-    
-    root = {'name':'root', 'children':[]}
+        if lineage.startswith('X'): # process recombinants 
+            parents = lineage.split('.')
+            if len(parents) == 1:
+                parents = clean_parents(alias_key[parents[0]], uncompressor=aliasor.uncompress)
+            else:
+                parents = [lineage]
+            lineages.append({"compressed_name":lineage,"name":aliasor.uncompress(lineage), "recombinant": True, "parents": parents})
+        else:
+            lineages.append({"compressed_name":lineage,"name":aliasor.uncompress(lineage), "recombinant": False})
+
+    root = {'name':'root', 'children':[], 'compressed_name': 'SARS-CoV-2', 'group': None}
     # build tree
-    for lineage in lineages:
-        parts = lineage['name'].split(".")
-        *parent, end = parts
-        node = {'name': lineage['name'], 'children': [], 'compressed_name':lineage['compressed_name']}
+    for i, lineage in enumerate(lineages):
+        if lineage['recombinant']:
+            # recombinant
+            *parent, end = lineage['parents'][0].split(".")
+            node = {
+                    'name': lineage['name'], 
+                    'children': [], 
+                    'compressed_name':lineage['compressed_name'], 
+                    'otherParents': lineage['parents'][1:],
+                }
+        else:
+            parts = lineage['name'].split(".")
+            *parent, end = parts
+            node = {'name': lineage['name'], 'children': [], 'compressed_name':lineage['compressed_name']}
+        group: str = node['compressed_name'].split('.')[0]
+        if group.startswith('X'):
+            group = 'Recombinant'
+        if group not in groups:
+            groups.append(group)
+        node['group'] = groups.index(group)
         if not parent:
+            print(lineage)
             insertNodeIntoTree(root, 'root', node)
             continue
         insertNodeIntoTree(root, ".".join(parent), node)
 
     with open('tree/data.json', 'w') as f:
         json.dump(root, f)
+
+    nodes, links = treeTograph(root)
+    with open('graph/data.json', 'w') as f:
+        json.dump({'nodes':nodes, 'links':links}, f)
 
 if __name__ == "__main__":
     app()
