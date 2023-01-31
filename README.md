@@ -13,6 +13,13 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-01-31
+- \+ [DN.1.1.1](https://cov-lineages.org/lineage.html?lineage=DN.1.1.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.5.1.1.1 UK, S:Y453F
+- \+ [DN.1.1.2](https://cov-lineages.org/lineage.html?lineage=DN.1.1.2) Alias of B.1.1.529.5.3.1.1.1.1.1.1.5.1.1.2 UK, S:P479L
+- \+ [BQ.1.1.48](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.48) Alias of B.1.1.529.5.3.1.1.1.1.1.1.48 S:H245N
+- \+ [BQ.1.1.49](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.49) Alias of B.1.1.529.5.3.1.1.1.1.1.1.48 S:H1083D
+- \+ [XBP](https://cov-lineages.org/lineage.html?lineage=XBP) Recombinant lineage of BA.2.75* and BQ.1*, predominantly in England and Canada, from pango-designation issue #1393
+
 ### 2023-01-29
 - \+ [CM.8.1.1](https://cov-lineages.org/lineage.html?lineage=CM.8.1.1) Alias of B.1.1.529.2.3.20.8.1.1, Singapore/Malaysia, S:K147N
 - \+ [CM.8.1.2](https://cov-lineages.org/lineage.html?lineage=CM.8.1.2) Alias of B.1.1.529.2.3.20.8.1.2, Germany/USA, S:K147I
