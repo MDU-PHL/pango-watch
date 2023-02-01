@@ -13,6 +13,15 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-02-01
+- \+ [DJ.1.1.1](https://cov-lineages.org/lineage.html?lineage=DJ.1.1.1) Alias of B.1.1.529.5.1.25.1.1.1 found mainly in Peru and USA, from pango-designation issue #1407
+- \+ [DY.1.1](https://cov-lineages.org/lineage.html?lineage=DY.1.1) Alias of B.1.1.529.5.2.48.1.1 found mainly in China, from pango-designation issue #1599
+- \+ [DZ.2](https://cov-lineages.org/lineage.html?lineage=DZ.2) Alias of B.1.1.529.5.2.49.2, China, S:G75V
+- \+ [XBB.1.11](https://cov-lineages.org/lineage.html?lineage=XBB.1.11) Indonesia/Malaysia/Singapore/US, C13968A and G16377A
+- \+ [XBB.1.11.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.11.1) Indonesia/Malaysia/Singapore, S:S486P
+- \+ [XBB.2.3](https://cov-lineages.org/lineage.html?lineage=XBB.2.3) Defined by S:P521S and S:S486P, India/Indonesia/Singapore/USA
+- \+ [XBB.7](https://cov-lineages.org/lineage.html?lineage=XBB.7) Defined by S:Q613H, Malaysia
+
 ### 2023-01-31
 - \+ [DN.1.1.1](https://cov-lineages.org/lineage.html?lineage=DN.1.1.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.5.1.1.1 UK, S:Y453F
 - \+ [DN.1.1.2](https://cov-lineages.org/lineage.html?lineage=DN.1.1.2) Alias of B.1.1.529.5.3.1.1.1.1.1.1.5.1.1.2 UK, S:P479L
