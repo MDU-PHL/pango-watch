@@ -13,6 +13,13 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-02-04
+- \+ [BA.4.1.11](https://cov-lineages.org/lineage.html?lineage=BA.4.1.11) Alias of B.1.1.529.4.1.11 found mainly in Denmark, from pango-designation issue #1606
+- \+ [DT.2](https://cov-lineages.org/lineage.html?lineage=DT.2) Alias of B.1.1.529.5.3.1.1.1.1.1.1.32.2 found mainly in USA, from pango-designation issue #1612
+- \+ [XBB.1.9.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.9.1) S:F486P (after C11956T), Indonesia/Singapore/Malaysia/England
+- \+ [XBB.1.9.2](https://cov-lineages.org/lineage.html?lineage=XBB.1.9.2) S:F486P (after 27507C, 16878T), Indonesia/Singapore
+- \+ [XBB.2.4](https://cov-lineages.org/lineage.html?lineage=XBB.2.4) Defined by S:S486P, Spain/Denmark/Germany
+
 ### 2023-02-03
 - \+ [BN.1.3.5](https://cov-lineages.org/lineage.html?lineage=BN.1.3.5) Alias of B.1.1.529.2.75.5.1.3.5 found mainly in SouthKorea, Japan and USA, from pango-designation issue #1516
 
