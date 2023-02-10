@@ -13,6 +13,10 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-02-10
+- \+ [AY.134](https://cov-lineages.org/lineage.html?lineage=AY.134) Alias of B.1.617.2.134, European lineage, previously assigned AY.39.4, pango-designation issue #406
+- \+ [XBB.1.12](https://cov-lineages.org/lineage.html?lineage=XBB.1.12) Spain/Sweden/Germany, S:Y453F
+
 ### 2023-02-09
 - \+ [B.1.1.229](https://cov-lineages.org/lineage.html?lineage=B.1.1.229) Italy
 - \+ [B.1.1.230](https://cov-lineages.org/lineage.html?lineage=B.1.1.230) USA
