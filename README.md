@@ -13,6 +13,34 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-02-11
+- \+ [BF.5.4](https://cov-lineages.org/lineage.html?lineage=BF.5.4) Alias of B.1.1.529.5.2.1.5.4 Japan, ORF1a:K3839R
+- \+ [BQ.1.1.49](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.49) Alias of B.1.1.529.5.3.1.1.1.1.1.1.49 S:H1083D
+- \+ [BQ.1.1.50](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.50) Alias of B.1.1.529.5.3.1.1.1.1.1.1.50 found mainly in Peru, from pango-designation issue #1577
+- \+ [BQ.1.1.51](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.51) Alias of B.1.1.529.5.3.1.1.1.1.1.1.51 USA, ORF3a:L101F
+- \+ [BW.1](https://cov-lineages.org/lineage.html?lineage=BW.1) Alias of B.1.1.529.5.6.2.1, Mexico lineage, from pango-designation issue #1059, defined by S:460K
+- \+ [BW.1.1](https://cov-lineages.org/lineage.html?lineage=BW.1.1) Alias of B.1.1.529.5.6.2.1.1, Mexico lineage, defined by S:V486A, issue #1341
+- \+ [BW.1.1.1](https://cov-lineages.org/lineage.html?lineage=BW.1.1.1) Alias of B.1.1.529.5.6.2.1.1.1, Mexico, ORF1a:L864F
+- \+ [BW.1.1.2](https://cov-lineages.org/lineage.html?lineage=BW.1.1.2) Alias of B.1.1.529.5.6.2.1.1.2, Mexico, ORF1b:P1101S
+- \+ [BW.1.2](https://cov-lineages.org/lineage.html?lineage=BW.1.2) Alias of B.1.1.529.5.6.2.1.2, Mexico lineage, defined by S:R346S
+- \+ [XAY.1.1.1](https://cov-lineages.org/lineage.html?lineage=XAY.1.1.1) Europe, S:D1153Y, #1569
+- \+ [XAY.2.1](https://cov-lineages.org/lineage.html?lineage=XAY.2.1) Denmark, N:T24A
+- \+ [XAY.2.2](https://cov-lineages.org/lineage.html?lineage=XAY.2.2) Denmark, ORF1a:N447S
+- \+ [XBB.1.5.4](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.4) USA, S:T883I directly on XBB.1.5 polytomy
+- \+ [XBB.1.5.5](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.5) USA, S:K1181I
+- \+ [XBB.1.5.6](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.6) USA, S:V952I
+- \+ [XBB.1.5.7](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.7) USA, ORF1b:V248F
+- \+ [XBB.1.5.8](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.8) USA, N:R10Q
+- \+ [XBB.1.5.9](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.9) USA, N:S327L
+- \+ [XBB.1.5.10](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.10) USA-NC, S:F456L, from #1614
+- \+ [XBB.1.13](https://cov-lineages.org/lineage.html?lineage=XBB.1.13) S:S490P from #1487
+- \+ [XBB.1.14](https://cov-lineages.org/lineage.html?lineage=XBB.1.14) S:G75V, S:E554K
+- \+ [XBC.1.3](https://cov-lineages.org/lineage.html?lineage=XBC.1.3) Philippines/Australia, C25614T
+- \+ [XBC.1.4](https://cov-lineages.org/lineage.html?lineage=XBC.1.4) Australia, S:G184S
+- \+ [XBF.1](https://cov-lineages.org/lineage.html?lineage=XBF.1) Mostly Australia, S:S939F
+- \+ [XBF.2](https://cov-lineages.org/lineage.html?lineage=XBF.2) Australia, ORF8:V62A
+- \+ [XBF.3](https://cov-lineages.org/lineage.html?lineage=XBF.3) Australia, ORF1a:V274I
+
 ### 2023-02-10
 - \+ [AY.134](https://cov-lineages.org/lineage.html?lineage=AY.134) Alias of B.1.617.2.134, European lineage, previously assigned AY.39.4, pango-designation issue #406
 - \+ [XBB.1.12](https://cov-lineages.org/lineage.html?lineage=XBB.1.12) Spain/Sweden/Germany, S:Y453F
