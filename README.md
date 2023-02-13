@@ -13,6 +13,25 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-02-13
+- \+ [BF.7.19.1](https://cov-lineages.org/lineage.html?lineage=BF.7.19.1) Alias of B.1.1.529.5.2.1.7.19.1, Japan, T7111C,C1915T,C16470T,A26219G on ORF8:T87I branch
+- \+ [BF.7.26](https://cov-lineages.org/lineage.html?lineage=BF.7.26) Alias of B.1.1.529.5.2.1.7.25, G20679A
+- \+ [EE.1](https://cov-lineages.org/lineage.html?lineage=EE.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.4.1, USA, N:T366I
+- \+ [EE.2](https://cov-lineages.org/lineage.html?lineage=EE.2) Alias of B.1.1.529.5.3.1.1.1.1.1.1.4.2, ORF1b:V1538I
+- \+ [EE.3](https://cov-lineages.org/lineage.html?lineage=EE.3) Alias of B.1.1.529.5.3.1.1.1.1.1.1.4.3, Canada/USA, C22498T
+- \+ [EE.4](https://cov-lineages.org/lineage.html?lineage=EE.4) Alias of B.1.1.529.5.3.1.1.1.1.1.1.4.4, Europe, S:Q52H
+- \+ [EE.5](https://cov-lineages.org/lineage.html?lineage=EE.5) Alias of B.1.1.529.5.3.1.1.1.1.1.1.4.5, USA, S:N185Y
+- \+ [EF.1](https://cov-lineages.org/lineage.html?lineage=EF.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.13.1, C6040T
+- \+ [EF.1.1](https://cov-lineages.org/lineage.html?lineage=EF.1.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.13.1.1, C23086T,T7783C
+- \+ [EF.1.1.1](https://cov-lineages.org/lineage.html?lineage=EF.1.1.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.13.1.1.1, Brazil, S:F157L
+- \+ [EF.1.2](https://cov-lineages.org/lineage.html?lineage=EF.1.2) Alias of B.1.1.529.5.3.1.1.1.1.1.1.13.1.2, Spain, T15492C
+- \+ [EF.1.3](https://cov-lineages.org/lineage.html?lineage=EF.1.3) Alias of B.1.1.529.5.3.1.1.1.1.1.1.13.1.3, N:T166I
+- \+ [EF.2](https://cov-lineages.org/lineage.html?lineage=EF.2) Alias of B.1.1.529.5.3.1.1.1.1.1.1.13, UK, ORF1b:V119I
+- \+ [ED.1](https://cov-lineages.org/lineage.html?lineage=ED.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.18.1, Japan, ORF3a:L108F, ORF1a:C433S
+- \+ [ED.2](https://cov-lineages.org/lineage.html?lineage=ED.2) Alias of B.1.1.529.5.3.1.1.1.1.1.1.18.2, USA, ORF1a:D928Y
+- \+ [ED.3](https://cov-lineages.org/lineage.html?lineage=ED.3) Alias of B.1.1.529.5.3.1.1.1.1.1.1.18.3, USA, S:D843N
+- \+ [BQ.1.1.52](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.52) Alias of B.1.1.529.5.3.1.1.1.1.1.1.52 USA/Mexico, C7006T
+
 ### 2023-02-12
 - \+ [CL.1.1](https://cov-lineages.org/lineage.html?lineage=CL.1.1) Alias of B.1.1.529.5.1.29.1.1, S:P1162L
 - \+ [CL.1.2](https://cov-lineages.org/lineage.html?lineage=CL.1.2) Alias of B.1.1.529.5.1.29.1.2, S:T883I
