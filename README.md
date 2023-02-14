@@ -13,6 +13,16 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-02-14
+- \+ [BF.7.26](https://cov-lineages.org/lineage.html?lineage=BF.7.26) Alias of B.1.1.529.5.2.1.7.26, G20679A
+- \+ [BF.26](https://cov-lineages.org/lineage.html?lineage=BF.26) Alias of B.1.1.529.5.2.1.26, North America lineage, defined by ORF1b:G376S, on C5284T branch, issue #1142
+- \+ [BF.32](https://cov-lineages.org/lineage.html?lineage=BF.32) Alias of B.1.1.529.5.2.1.32, found mainly in USA, on C5284T branch, from pango-designation issue #1250
+- \+ [BF.37](https://cov-lineages.org/lineage.html?lineage=BF.37) Alias of B.1.1.529.5.2.1.37, Japan, ORF1a:S944L, S:G446D, on C5284T branch
+- \+ [BF.40](https://cov-lineages.org/lineage.html?lineage=BF.40) Alias of B.1.1.529.5.2.1.40, S:V445A, on C5284T branch
+- \+ [EF.2](https://cov-lineages.org/lineage.html?lineage=EF.2) Alias of B.1.1.529.5.3.1.1.1.1.1.1.13.2, UK, ORF1b:V119I
+- \+ [XBB.2.1](https://cov-lineages.org/lineage.html?lineage=XBB.2.1) Defined by S:N764R (C23853G), two step mutation on top of C23854A (S:N764K defining of all Omicrons)
+- \+ [\*BF.7.25](https://cov-lineages.org/lineage.html?lineage=*BF.7.25) Withdrawn: Invisible to pangolin as positions C29708T is part of masked regions 1-255 and 29674-29903. Alias of B.1.1.529.5.2.1.7.25, C29708T
+
 ### 2023-02-13
 - \+ [BF.7.19.1](https://cov-lineages.org/lineage.html?lineage=BF.7.19.1) Alias of B.1.1.529.5.2.1.7.19.1, Japan, T7111C,C1915T,C16470T,A26219G on ORF8:T87I branch
 - \+ [BF.7.26](https://cov-lineages.org/lineage.html?lineage=BF.7.26) Alias of B.1.1.529.5.2.1.7.25, G20679A
