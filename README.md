@@ -13,6 +13,57 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-02-20
+- \+ [DV.4](https://cov-lineages.org/lineage.html?lineage=DV.4) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.4, Malaysia/Singapore, S:I714V, from #1617
+- \+ [CH.1.1.5](https://cov-lineages.org/lineage.html?lineage=CH.1.1.5) Alias of B.1.1.529.2.75.3.4.1.1.1.1.5, ORF3a:P104S, found mainly in Denmark and UK, from pango-designation issue #1539
+- \+ [CH.1.1.10](https://cov-lineages.org/lineage.html?lineage=CH.1.1.10) Alias of B.1.1.529.2.75.3.4.1.1.1.1.10, Ireland, ORF1a:G442S
+- \+ [CH.1.1.11](https://cov-lineages.org/lineage.html?lineage=CH.1.1.11) Alias of B.1.1.529.2.75.3.4.1.1.1.1.11, ORF1a:A1176T
+- \+ [CH.1.1.12](https://cov-lineages.org/lineage.html?lineage=CH.1.1.12) Alias of B.1.1.529.2.75.3.4.1.1.1.1.12, S:L858I on ORF1a:A486V branch, Denmark
+- \+ [CH.1.1.13](https://cov-lineages.org/lineage.html?lineage=CH.1.1.13) Alias of B.1.1.529.2.75.3.4.1.1.1.1.13, ORF3a:S171L
+- \+ [CH.1.1.14](https://cov-lineages.org/lineage.html?lineage=CH.1.1.14) Alias of B.1.1.529.2.75.3.4.1.1.1.1.14, N:T362I
+- \+ [BN.1.2.2](https://cov-lineages.org/lineage.html?lineage=BN.1.2.2) Alias of B.1.1.529.2.75.5.1.2.2, C29546T
+- \+ [BN.1.2.3](https://cov-lineages.org/lineage.html?lineage=BN.1.2.3) Alias of B.1.1.529.2.75.5.1.2.3, C1471T
+- \+ [BN.1.2.4](https://cov-lineages.org/lineage.html?lineage=BN.1.2.4) Alias of B.1.1.529.2.75.5.1.2.4, ORF1b:D1746H
+- \+ [DS.3](https://cov-lineages.org/lineage.html?lineage=DS.3) Alias of B.1.1.529.2.75.5.1.3.1.3, Denmark, ORF3a:G254V
+- \+ [BN.1.3.5](https://cov-lineages.org/lineage.html?lineage=BN.1.3.5) Alias of B.1.1.529.2.75.5.1.3.5 ORF7b:C41W, found mainly in SouthKorea, Japan and USA, from pango-designation issue #1516
+- \+ [BN.1.3.6](https://cov-lineages.org/lineage.html?lineage=BN.1.3.6) Alias of B.1.1.529.2.75.5.1.3.6 M:R174Q
+- \+ [BN.1.3.7](https://cov-lineages.org/lineage.html?lineage=BN.1.3.7) Alias of B.1.1.529.2.75.5.1.3.7 ORF1a:T1429I
+- \+ [BN.1.3.8](https://cov-lineages.org/lineage.html?lineage=BN.1.3.8) Alias of B.1.1.529.2.75.5.1.3.8 S:D1139H
+- \+ [EJ.1](https://cov-lineages.org/lineage.html?lineage=EJ.1) Alias of B.1.1.529.2.75.5.1.3.8.1, S:I1225V
+- \+ [EJ.2](https://cov-lineages.org/lineage.html?lineage=EJ.2) Alias of B.1.1.529.2.75.5.1.3.8.2, ORF1a:T4355I
+- \+ [BN.1.4.2](https://cov-lineages.org/lineage.html?lineage=BN.1.4.2) Alias of B.1.1.529.2.75.5.1.4.2, S:Q1113K
+- \+ [BN.1.4.3](https://cov-lineages.org/lineage.html?lineage=BN.1.4.3) Alias of B.1.1.529.2.75.5.1.4.3, ORF1a:P1096T
+- \+ [BN.1.4.4](https://cov-lineages.org/lineage.html?lineage=BN.1.4.4) Alias of B.1.1.529.2.75.5.1.4.4, ORF1b:V1149L, ORF1b:V1723M
+- \+ [BN.1.4.5](https://cov-lineages.org/lineage.html?lineage=BN.1.4.5) Alias of B.1.1.529.2.75.5.1.4.5, ORF1a:T3287I
+- \+ [BN.1.5.2](https://cov-lineages.org/lineage.html?lineage=BN.1.5.2) Alias of B.1.1.529.2.75.5.1.5.2, S:N481K
+- \+ [BF.7.14.4](https://cov-lineages.org/lineage.html?lineage=BF.7.14.4) Alias of B.1.1.529.5.2.1.7.14.4 China, ORF1a:T1844I
+- \+ [BF.7.14.5](https://cov-lineages.org/lineage.html?lineage=BF.7.14.5) Alias of B.1.1.529.5.2.1.7.14.5 China, C20703T
+- \+ [BF.7.14.6](https://cov-lineages.org/lineage.html?lineage=BF.7.14.6) Alias of B.1.1.529.5.2.1.7.14.6 China, C1973T
+- \+ [BF.7.27](https://cov-lineages.org/lineage.html?lineage=BF.7.27) Alias of B.1.1.529.5.2.1.7.27, C8752T, sibling of BF.7.14
+- \+ [DY.2](https://cov-lineages.org/lineage.html?lineage=DY.2) Alias of B.1.1.529.5.2.48.2, China, N:Q241K, from #1478
+- \+ [DY.3](https://cov-lineages.org/lineage.html?lineage=DY.3) Alias of B.1.1.529.5.2.48.3, China, ORF1a:T1788M, from #1472
+- \+ [DY.4](https://cov-lineages.org/lineage.html?lineage=DY.4) Alias of B.1.1.529.5.2.48.4, China, ORF1b:T2432I
+- \+ [EH.1](https://cov-lineages.org/lineage.html?lineage=EH.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.28.1, Europe, S:S247N, S:Y248S, from #1648
+- \+ [XBB.1.5.11](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.11) ORF1a:G401S
+- \+ [XBB.1.5.12](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.12) S:T323I
+- \+ [XBB.1.5.13](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.13) T21880C, G28079T
+- \+ [EK.1](https://cov-lineages.org/lineage.html?lineage=EK.1) Alias of XBB.1.5.13.1, S:K417S, Austria from #1638
+- \+ [EG.1](https://cov-lineages.org/lineage.html?lineage=EG.1) Alias of XBB.1.9.2.1, S:Q613H on N:L219F branch, from #1664 and https://github.com/jmcbroome/auto-pango-designation/pull/193
+- \+ [XBB.1.9.3](https://cov-lineages.org/lineage.html?lineage=XBB.1.9.3) ORF1b:G2005S, ORF1b:G1568C, Europe, from https://github.com/jmcbroome/auto-pango-designation/pull/193
+- \+ [XBB.1.15](https://cov-lineages.org/lineage.html?lineage=XBB.1.15) Defined by ORF1a:A540V on ORF8:G8* polytomy, found in USA, Guatemala, and Mexico. Automatically inferred by https://github.com/jmcbroome/autolin.
+- \+ [XBB.2.5](https://cov-lineages.org/lineage.html?lineage=XBB.2.5) S:Q613H, from https://github.com/jmcbroome/auto-pango-designation/pull/193
+- \+ [XBF.4](https://cov-lineages.org/lineage.html?lineage=XBF.4) Europe, ORF1a:H417Y, from https://github.com/jmcbroome/auto-pango-designation/pull/193
+- \+ [XBF.5](https://cov-lineages.org/lineage.html?lineage=XBF.5) Australia, C2455T
+- \+ [XBF.6](https://cov-lineages.org/lineage.html?lineage=XBF.6) Australia, ORF1a:V3986A
+- \+ [XBF.7](https://cov-lineages.org/lineage.html?lineage=XBF.7) Global, N:T379I (not on ORF1a:K120N branch)
+- \+ [XBF.7.1](https://cov-lineages.org/lineage.html?lineage=XBF.7.1) S:T323I
+- \+ [XBF.8](https://cov-lineages.org/lineage.html?lineage=XBF.8) Australia, T9931C, C12970T
+- \+ [XBK.1](https://cov-lineages.org/lineage.html?lineage=XBK.1) S:P1162S, from #1551 and https://github.com/jmcbroome/auto-pango-designation/pull/193
+- \+ [XBQ](https://cov-lineages.org/lineage.html?lineage=XBQ) Recombinant lineage of BA.5.2 and CJ.1, defined by ORF1b:M454I, England and Canada, issue #1440 and autolin
+- \+ [XBR](https://cov-lineages.org/lineage.html?lineage=XBR) Recombinant lineage of BA.2.75* and BQ.1 (with S:R346T), England, Canada, USA, from issue #1637
+- \+ [XBS](https://cov-lineages.org/lineage.html?lineage=XBS) Recombinant lineage of BA.2.75* and BQ.1 (with S:R346T), England, from issue #1567
+- \+ [XBT](https://cov-lineages.org/lineage.html?lineage=XBT) Recombinant lineage of BA.5.2.34, BA.2.75, BA.5.2.34, Germany, from issue #1576
+
 ### 2023-02-15
 - \+ [BA.5.2.63](https://cov-lineages.org/lineage.html?lineage=BA.5.2.63) Alias of B.1.1.529.5.2.63 found mainly in Canada, from pango-designation issue #1636
 
