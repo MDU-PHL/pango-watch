@@ -13,6 +13,11 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-02-21
+- \+ [XBB.1.5.14](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.14) C2695T, Europe/US
+- \+ [EL.1](https://cov-lineages.org/lineage.html?lineage=EL.1) Alias of XBB.1.5.14.1, S:Q675H, Europe
+- \+ [XBC.1.4](https://cov-lineages.org/lineage.html?lineage=XBC.1.4) Australia, S:G184S, #1622
+
 ### 2023-02-20
 - \+ [DV.4](https://cov-lineages.org/lineage.html?lineage=DV.4) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.4, Malaysia/Singapore, S:I714V, from #1617
 - \+ [CH.1.1.5](https://cov-lineages.org/lineage.html?lineage=CH.1.1.5) Alias of B.1.1.529.2.75.3.4.1.1.1.1.5, ORF3a:P104S, found mainly in Denmark and UK, from pango-designation issue #1539
