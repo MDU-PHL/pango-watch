@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-02-23
+- \+ [BA.5.2.64](https://cov-lineages.org/lineage.html?lineage=BA.5.2.64) Alias of B.1.1.529.5.2.64 found mainly in Switzerland, France and Germany, from pango-designation issue #1640
+
 ### 2023-02-22
 - \+ [EL.1](https://cov-lineages.org/lineage.html?lineage=EL.1) Alias of XBB.1.5.14.1, S:Q675H, Europe, from #1631
 
