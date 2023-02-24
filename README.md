@@ -13,6 +13,11 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-02-24
+- \+ [DB.3](https://cov-lineages.org/lineage.html?lineage=DB.3) Alias of B.1.1.529.5.2.25.3 found mainly in Europe, from pango-designation issue #1613
+- \+ [BA.5.12](https://cov-lineages.org/lineage.html?lineage=BA.5.12) Alias of B.1.1.529.5.12 found mainly in Switzerland, France and Germany, from pango-designation issue #1640
+- \+ [\*BA.5.2.64](https://cov-lineages.org/lineage.html?lineage=*BA.5.2.64) Withdrawn: Reassigned BA.5.12 Switzerland lineage
+
 ### 2023-02-23
 - \+ [BA.5.2.64](https://cov-lineages.org/lineage.html?lineage=BA.5.2.64) Alias of B.1.1.529.5.2.64 found mainly in Switzerland, France and Germany, from pango-designation issue #1640
 
