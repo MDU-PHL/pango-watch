@@ -13,6 +13,24 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-02-27
+- \+ [EP.1](https://cov-lineages.org/lineage.html?lineage=EP.1) Alias of B.1.1.529.2.75.3.1.1.4.1, S:L452R, Bhutan, from #1676
+- \+ [EP.2](https://cov-lineages.org/lineage.html?lineage=EP.2) Alias of B.1.1.529.2.75.3.1.1.4.2, S:S1147L, N:G212S, Belgium/Europe
+- \+ [DY.1](https://cov-lineages.org/lineage.html?lineage=DY.1) Alias of B.1.1.529.5.2.48.1, China, S:A570S, from #1479
+- \+ [EN.1](https://cov-lineages.org/lineage.html?lineage=EN.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.46.1 France, S:V1264L, from #1696
+- \+ [EM.1](https://cov-lineages.org/lineage.html?lineage=EM.1) Alias of XBB.1.5.7.1, UK, S:R214L
+- \+ [EK.2](https://cov-lineages.org/lineage.html?lineage=EK.2) Alias of XBB.1.5.13.2, S:T259I, USA
+- \+ [XBB.1.5.15](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.15) G15957T, USA
+- \+ [XBB.1.5.16](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.16) T14766C, USA
+- \+ [XBB.1.5.17](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.17) C23635T, USA
+- \+ [XBB.1.5.18](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.18) ORF1a:T2300I, England/Europe
+- \+ [XBB.1.5.19](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.19) ORF1b:R172C, USA
+- \+ [XBB.1.5.20](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.20) C9532T, USA
+- \+ [XBB.1.5.21](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.21) ORF1a:K322R, C22945T, USA
+- \+ [XBB.2.6](https://cov-lineages.org/lineage.html?lineage=XBB.2.6) Mostly Peru, C5144T, T5731A
+- \+ [XBB.8](https://cov-lineages.org/lineage.html?lineage=XBB.8) T14574C after ORF1a:D82G, India/Malaysia/Brunei
+- \+ [XBC.1.5](https://cov-lineages.org/lineage.html?lineage=XBC.1.5) Philippines/South Korea/Japan, ORF1a:T708I after A10042C, from #1671
+
 ### 2023-02-26
 - \+ [DV.3.1](https://cov-lineages.org/lineage.html?lineage=DV.3.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.3.1 found mainly in Portugal and UK, from pango-designation issue #1626
 - \+ [BF.7.14.7](https://cov-lineages.org/lineage.html?lineage=BF.7.14.7) Alias of B.1.1.529.5.2.1.7.14.7 found mainly in China, from pango-designation issue #1672
