@@ -163,7 +163,7 @@ def tree():
         lineage = line.split('\t')[0].split()[0]
         if lineage.startswith('*'): # remove withdrawn
             continue
-        if lineage.startswith('X'): # process recombinants 
+        if lineage.startswith('X'): # process recombinants
             parents = lineage.split('.')
             if len(parents) == 1:
                 parents = clean_parents(alias_key[parents[0]], uncompressor=aliasor.uncompress)
@@ -179,6 +179,8 @@ def tree():
         if lineage['recombinant']:
             # recombinant
             *parent, end = lineage['parents'][0].split(".")
+            if not parent[0].startswith('X'):
+                parent.append(end)
             node = {
                     'name': lineage['name'], 
                     'children': [], 
@@ -189,14 +191,13 @@ def tree():
             parts = lineage['name'].split(".")
             *parent, end = parts
             node = {'name': lineage['name'], 'children': [], 'compressed_name':lineage['compressed_name']}
-        group: str = node['compressed_name'].split('.')[0]
+        group: str = node['compressed_name'].split('.')[0]  # TODO recomb sub-lineages are not grouped correctly (e.g. EL, EK)
         if group.startswith('X'):
             group = 'Recombinant'
         if group not in groups:
             groups.append(group)
         node['group'] = groups.index(group)
         if not parent:
-            print(lineage)
             insertNodeIntoTree(root, 'root', node)
             continue
         insertNodeIntoTree(root, ".".join(parent), node)
