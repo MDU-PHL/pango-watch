@@ -191,8 +191,8 @@ def tree():
             parts = lineage['name'].split(".")
             *parent, end = parts
             node = {'name': lineage['name'], 'children': [], 'compressed_name':lineage['compressed_name']}
-        group: str = node['compressed_name'].split('.')[0]  # TODO recomb sub-lineages are not grouped correctly (e.g. EL, EK)
-        if group.startswith('X'):
+        group: str = node['compressed_name'].split('.')[0]
+        if node['name'].startswith('X'):
             group = 'Recombinant'
         if group not in groups:
             groups.append(group)
