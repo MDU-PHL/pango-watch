@@ -210,4 +210,4 @@ def tree():
         json.dump({'nodes':nodes, 'links':links}, f)
 
 if __name__ == "__main__":
-    app(['tree'])
+    app()
