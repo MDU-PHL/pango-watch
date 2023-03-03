@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-03-03
+- \+ [CP.7](https://cov-lineages.org/lineage.html?lineage=CP.7) Alias of B.1.1.529.5.2.6.7 found mainly in Japan, from pango-designation issue #1473
+
 ### 2023-03-01
 - \+ [EQ.1](https://cov-lineages.org/lineage.html?lineage=EQ.1) Alias of B.1.1.529.5.1.33.1 found mainly in Germany, France, Japan and Denmark, from pango-designation issue #1522
 - \+ [CY.2](https://cov-lineages.org/lineage.html?lineage=CY.2) Alias of B.1.1.529.5.2.7.2 found in Japan, from pango-designation issue #1474
