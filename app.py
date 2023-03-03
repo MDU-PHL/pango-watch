@@ -169,7 +169,7 @@ def tree():
                 parents = clean_parents(alias_key[parents[0]], uncompressor=aliasor.uncompress)
             else:
                 parents = [lineage]
-            lineages.append({"compressed_name":lineage,"name":aliasor.uncompress(lineage), "recombinant": True, "parents": parents})
+            lineages.append({"compressed_name":lineage,"name":aliasor.uncompress(lineage), "recombinant": True, "parents": list(set(parents))})
         else:
             lineages.append({"compressed_name":lineage,"name":aliasor.uncompress(lineage), "recombinant": False})
 
@@ -210,4 +210,4 @@ def tree():
         json.dump({'nodes':nodes, 'links':links}, f)
 
 if __name__ == "__main__":
-    app()
+    app(['tree'])
