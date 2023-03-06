@@ -160,27 +160,27 @@ def tree():
         if not line or i == 0:
             # skip header and EOF
             continue
-        lineage = line.split('\t')[0].split()[0]
-        if lineage.startswith('*'): # remove withdrawn
+        compressed_lineage = line.split('\t')[0].split()[0]
+        if compressed_lineage.startswith('*'): # remove withdrawn
             continue
-        if lineage.startswith('X'): # process recombinants
-            parents = lineage.split('.')
-            if len(parents) == 1:
-                parents = clean_parents(alias_key[parents[0]], uncompressor=aliasor.uncompress)
-            else:
-                parents = [lineage]
-            lineages.append({"compressed_name":lineage,"name":aliasor.uncompress(lineage), "recombinant": True, "parents": list(set(parents))})
+        uncompressed_lineage = aliasor.uncompress(compressed_lineage)
+        # process recombinants but only XBB not XBB.1
+        if uncompressed_lineage.startswith('X') and len(compressed_lineage.split('.')) == 1: 
+            # base lineage e.g. XBB
+            unclean_parents = alias_key[compressed_lineage]
+            parents = clean_parents(unclean_parents, uncompressor=aliasor.uncompress)
+            # unique and order
+            parents = sorted(list(set(parents)), reverse=True)
+            lineages.append({"compressed_name":compressed_lineage,"name":uncompressed_lineage, "recombinant": True, "parents": parents})
         else:
-            lineages.append({"compressed_name":lineage,"name":aliasor.uncompress(lineage), "recombinant": False})
+            lineages.append({"compressed_name":compressed_lineage,"name":uncompressed_lineage, "recombinant": False})
 
     root = {'name':'root', 'children':[], 'compressed_name': 'SARS-CoV-2', 'group': None}
     # build tree
     for i, lineage in enumerate(lineages):
         if lineage['recombinant']:
             # recombinant
-            *parent, end = lineage['parents'][0].split(".")
-            if not parent[0].startswith('X'):
-                parent.append(end)
+            parent = lineage['parents'][0].split(".")
             node = {
                     'name': lineage['name'], 
                     'children': [], 
