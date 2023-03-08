@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-03-08
+- \+ [ER.1.1](https://cov-lineages.org/lineage.html?lineage=ER.1.1) B.1.1.529.5.3.1.1.1.1.1.1.22.1.1 found mainly in UK, from pango-designation issue #1715
+
 ### 2023-03-06
 - \+ [ER.1](https://cov-lineages.org/lineage.html?lineage=ER.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.22.1 found mainly in UK, from pango-designation issue #1492
 - \+ [XBB.1.16](https://cov-lineages.org/lineage.html?lineage=XBB.1.16) Defined by S:E180V, found in India, USA, Singapore, and Europe, from pango-designation issue #1723
