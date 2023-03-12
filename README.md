@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-03-12
+- \+ [BQ.1.32](https://cov-lineages.org/lineage.html?lineage=BQ.1.32) Alias of B.1.1.529.5.3.1.1.1.1.1.32 found mainly in USA and Mexico, from pango-designation issue #1731
+
 ### 2023-03-11
 - \+ [BF.7.4.3](https://cov-lineages.org/lineage.html?lineage=BF.7.4.3) Alias of B.1.1.529.5.2.1.7.4.3, Japan, S:F157L, N:A90S, from #1743
 
