@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-03-16
+- \+ [ER.1.1](https://cov-lineages.org/lineage.html?lineage=ER.1.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.22.1.1 found mainly in UK, from pango-designation issue #1715
+
 ### 2023-03-12
 - \+ [BQ.1.32](https://cov-lineages.org/lineage.html?lineage=BQ.1.32) Alias of B.1.1.529.5.3.1.1.1.1.1.32 found mainly in USA and Mexico, from pango-designation issue #1731
 
