@@ -13,6 +13,11 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-03-17
+- \+ [ET.1](https://cov-lineages.org/lineage.html?lineage=ET.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.35.1 found mainly in UK and Belgium, from pango-designation issue #1732
+- \+ [XBB](https://cov-lineages.org/lineage.html?lineage=XBB) Recombinant lineage of BJ.1 and BM.1.1.1 with breakpoint in S1, found in USA and Singapore, from issue #1058
+- \+ [XBC.1.6](https://cov-lineages.org/lineage.html?lineage=XBC.1.6) found in Australia, from pango-designation issue #1755
+
 ### 2023-03-16
 - \+ [ER.1.1](https://cov-lineages.org/lineage.html?lineage=ER.1.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.22.1.1 found mainly in UK, from pango-designation issue #1715
 
