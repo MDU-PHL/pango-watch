@@ -13,6 +13,17 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-03-19
+- \+ [XBB.1.5.22](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.22) ORF1a:E1498A, pre T17124C, Australia
+- \+ [XBB.1.5.23](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.23) ORF1a:P4220L, pre T17124C
+- \+ [XBB.1.5.24](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.24) C2710T, pre T17124C
+- \+ [XBB.1.5.25](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.25) S:97T on T10204C branch, South Africa, from #1643
+- \+ [XBB.1.17](https://cov-lineages.org/lineage.html?lineage=XBB.1.17) Defined by T27995C and ORF1a:L469F, from issue #1712
+- \+ [XBB.1.17.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.17.1) Defined by S:215H, S:S486P, from issue #1712
+- \+ [XBB.1.17.2](https://cov-lineages.org/lineage.html?lineage=XBB.1.17.2) Defined by ORF1a:A698S, Russia, from issue #1712
+- \+ [XBB.1.18](https://cov-lineages.org/lineage.html?lineage=XBB.1.18) Defined by A8001G, Brazil
+- \+ [XBB.1.18.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.18.1) Defined by S:F486P, Brazil
+
 ### 2023-03-17
 - \+ [ET.1](https://cov-lineages.org/lineage.html?lineage=ET.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.35.1 found mainly in UK and Belgium, from pango-designation issue #1732
 - \+ [XBB](https://cov-lineages.org/lineage.html?lineage=XBB) Recombinant lineage of BJ.1 and BM.1.1.1 with breakpoint in S1, found in USA and Singapore, from issue #1058
