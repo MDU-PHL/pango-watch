@@ -13,6 +13,36 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-03-20
+- \+ [DV.1.1](https://cov-lineages.org/lineage.html?lineage=DV.1.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.1.1, defined by S:Q613H and N:T265I, from #1720
+- \+ [CP.8](https://cov-lineages.org/lineage.html?lineage=CP.8) Alias of B.1.1.529.5.2.6.8 ORF1b:D1939G, C15240T, A15486G, C28651T, related to #1627
+- \+ [XBB.1.5.26](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.26) 920T, USA, from #1688
+- \+ [EU.1](https://cov-lineages.org/lineage.html?lineage=EU.1) Alias of XBB.1.5.26.1, S:P521S, Germany/Netherlands, from #1688
+- \+ [EU.1.1](https://cov-lineages.org/lineage.html?lineage=EU.1.1) Alias of XBB.1.5.26.1.1, S:I410V, Germany/Netherlands, from #1688
+- \+ [XBB.1.5.27](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.27) S:F486P, on T13704C branch, from #1654
+- \+ [XBB.1.9.4](https://cov-lineages.org/lineage.html?lineage=XBB.1.9.4) 28603T, Europe
+- \+ [XBB.1.9.5](https://cov-lineages.org/lineage.html?lineage=XBB.1.9.5) ORF1a:D629E, Russia
+- \+ [XBB.1.19](https://cov-lineages.org/lineage.html?lineage=XBB.1.19) Defined by S:486P, C541T, A10042G, T21363C, pre ORF8:8*, Pakistan, from #1680
+- \+ [XBB.1.19.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.19.1) Defined by S:E554K
+- \+ [XBB.1.20](https://cov-lineages.org/lineage.html?lineage=XBB.1.20) Defined by C541T, ORF3a:A72V, ORF1a:P4312T, pre ORF8:8*, Malaysia
+- \+ [XBB.1.21](https://cov-lineages.org/lineage.html?lineage=XBB.1.21) Defined by S:486A, ORF1a:K1247R, Turkey, from #1646
+- \+ [XBB.1.22](https://cov-lineages.org/lineage.html?lineage=XBB.1.22) Defined by S:486P, on 28297C branch, from #1704
+- \+ [XBB.1.22.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.22.1) Defined by S:Y200C, from #1704
+- \+ [XBB.1.22.2](https://cov-lineages.org/lineage.html?lineage=XBB.1.22.2) Defined by ORF1a:L3829F, C15237T
+- \+ [XBB.1.23](https://cov-lineages.org/lineage.html?lineage=XBB.1.23) Defined by E:S68F, South East Asia
+- \+ [XBB.2.7](https://cov-lineages.org/lineage.html?lineage=XBB.2.7) ORF1a:R3662H, parent of lineage proposed in #1725
+- \+ [XBC.2.1](https://cov-lineages.org/lineage.html?lineage=XBC.2.1) S:K444T, Australia, from #1538
+- \+ [XBF.8.1](https://cov-lineages.org/lineage.html?lineage=XBF.8.1) Australia, S:P621S, from #1651
+- \+ [XBJ.1](https://cov-lineages.org/lineage.html?lineage=XBJ.1) A16011G, from #1591
+- \+ [XBJ.1.1](https://cov-lineages.org/lineage.html?lineage=XBJ.1.1) S:G485D, N:R195K, from #1591
+- \+ [XBJ.2](https://cov-lineages.org/lineage.html?lineage=XBJ.2) C22006T, Europe
+- \+ [XBJ.3](https://cov-lineages.org/lineage.html?lineage=XBJ.3) ORF1a:K2928N, Europe
+- \+ [XBJ.4](https://cov-lineages.org/lineage.html?lineage=XBJ.4) S:G485D, Japan/Thailand
+- \+ [XBU](https://cov-lineages.org/lineage.html?lineage=XBU) Recombinant lineage of BA.2.75.3, BQ.1, BA.2.75.3, from issue #1425
+- \+ [XBV](https://cov-lineages.org/lineage.html?lineage=XBV) Recombinant lineage of CR.1, XBB.1, from issue #1460
+- \+ [XBW](https://cov-lineages.org/lineage.html?lineage=XBW) Recombinant lineage of XBB.1.5, BQ.1.14, from issue #1505
+- \+ [XBY](https://cov-lineages.org/lineage.html?lineage=XBY) Recombinant lineage of BR.2.1, XBF, from issue #1669
+
 ### 2023-03-19
 - \+ [XBB.1.5.22](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.22) ORF1a:E1498A, pre T17124C, Australia
 - \+ [XBB.1.5.23](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.23) ORF1a:P4220L, pre T17124C
