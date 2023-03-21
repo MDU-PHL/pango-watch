@@ -13,6 +13,15 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-03-21
+- \+ [DV.5](https://cov-lineages.org/lineage.html?lineage=DV.5) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.5, England/Australia, ORF1a:R24C, S:613H, from #1753
+- \+ [CH.1.1.16](https://cov-lineages.org/lineage.html?lineage=CH.1.1.16) Alias of B.1.1.529.2.75.3.4.1.1.1.1.16, S:613H, ORF3a:S26L, on C193T branch, Germany/Sweden, from #1753
+- \+ [CH.1.1.17](https://cov-lineages.org/lineage.html?lineage=CH.1.1.17) Alias of B.1.1.529.2.75.3.4.1.1.1.1.17, M:S212G, on C21811T branch, from #1753
+- \+ [XBB.1.23](https://cov-lineages.org/lineage.html?lineage=XBB.1.23) Defined by E:S68F, on 28297C branch, South East Asia
+- \+ [XBB.1.24](https://cov-lineages.org/lineage.html?lineage=XBB.1.24) Defined by S:F486P, on T13704C branch, from #1654
+- \+ [XBB.1.25](https://cov-lineages.org/lineage.html?lineage=XBB.1.25) Defined by C673T, G487T, on 28297C branch
+- \+ [XBB.1.26](https://cov-lineages.org/lineage.html?lineage=XBB.1.26) Defined by T10663C on 28297C branch, Canada
+
 ### 2023-03-20
 - \+ [DV.1.1](https://cov-lineages.org/lineage.html?lineage=DV.1.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.1.1, defined by S:Q613H and N:T265I, from #1720
 - \+ [CP.8](https://cov-lineages.org/lineage.html?lineage=CP.8) Alias of B.1.1.529.5.2.6.8 ORF1b:D1939G, C15240T, A15486G, C28651T, related to #1627
