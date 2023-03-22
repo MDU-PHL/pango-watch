@@ -13,6 +13,41 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-03-22
+- \+ [DR.1](https://cov-lineages.org/lineage.html?lineage=DR.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.3.1, S:M153I, found mainly in USA, from pango-designation issue #1420
+- \+ [DR.2](https://cov-lineages.org/lineage.html?lineage=DR.2) Alias of B.1.1.529.5.3.1.1.1.1.1.1.3.2, S:478R, USA
+- \+ [FA.1](https://cov-lineages.org/lineage.html?lineage=FA.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.10.1, S:K478R, USA
+- \+ [FA.2](https://cov-lineages.org/lineage.html?lineage=FA.2) Alias of B.1.1.529.5.3.1.1.1.1.1.1.10.2, S:T323I, Denmark
+- \+ [EY.1](https://cov-lineages.org/lineage.html?lineage=EY.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.13.1.1.1.1, Brazil/USA, S:Q613H
+- \+ [EW.1](https://cov-lineages.org/lineage.html?lineage=EW.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.38.1 South Africa/Germany, S:478R
+- \+ [EW.2](https://cov-lineages.org/lineage.html?lineage=EW.2) Alias of B.1.1.529.5.3.1.1.1.1.1.1.38.2 S:A701V
+- \+ [EW.3](https://cov-lineages.org/lineage.html?lineage=EW.3) Alias of B.1.1.529.5.3.1.1.1.1.1.1.38.3 S:A348S, South Africa
+- \+ [EZ.1](https://cov-lineages.org/lineage.html?lineage=EZ.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.43.1 Portugal, S:S247N, S:Y248S
+- \+ [EV.1](https://cov-lineages.org/lineage.html?lineage=EV.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.71.1 S:Y248H, England
+- \+ [BQ.1.1.72](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.72) Alias of B.1.1.529.5.3.1.1.1.1.1.1.72 ORF1b:D100A
+- \+ [FC.1](https://cov-lineages.org/lineage.html?lineage=FC.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.72.1 S:478R, Indonesia
+- \+ [FB.1](https://cov-lineages.org/lineage.html?lineage=FB.1) Alias of B.1.1.529.5.3.1.1.1.1.1.2.1.1 S:D253G, Singapore/Taiwan/Japan
+- \+ [FB.2](https://cov-lineages.org/lineage.html?lineage=FB.2) Alias of B.1.1.529.5.3.1.1.1.1.1.2.1.2 S:478R, USA/South Korea/Mongolia
+- \+ [BE.6](https://cov-lineages.org/lineage.html?lineage=BE.6) Alias of B.1.1.529.5.3.1.6, France, S:R346S, on 28693C, 22624C
+- \+ [BE.7](https://cov-lineages.org/lineage.html?lineage=BE.7) Alias of B.1.1.529.5.3.1.7, South Africa, S:R346T on 28693C, 22624C, #1280
+- \+ [BE.8](https://cov-lineages.org/lineage.html?lineage=BE.8) Alias of B.1.1.529.5.3.1.8, South Africa, S:R346T on 28693C, #1278
+- \+ [BE.9](https://cov-lineages.org/lineage.html?lineage=BE.9) Alias of B.1.1.529.5.3.1.9, S:144-, S:444T, S:460K, on 28693C, Brazil, from pango-designation issue #1302
+- \+ [BE.11](https://cov-lineages.org/lineage.html?lineage=BE.11) Alias of B.1.1.529.5.3.1.11, T3049C, on 28693C
+- \+ [BE.12](https://cov-lineages.org/lineage.html?lineage=BE.12) Alias of B.1.1.529.5.3.1.12, C10834T, T18975C, A29359G, on 28693C
+- \+ [BE.13](https://cov-lineages.org/lineage.html?lineage=BE.13) Alias of B.1.1.529.5.3.1.13, S:346T, S:478R, on 28693C, South Africa
+- \+ [EK.2.1](https://cov-lineages.org/lineage.html?lineage=EK.2.1) Alias of XBB.1.5.13.2.1, S:478R, USA/Canada/Scotland
+- \+ [EK.3](https://cov-lineages.org/lineage.html?lineage=EK.3) Alias of XBB.1.5.13.3, S:P251S, Scotland/England/Ireland
+- \+ [FD.1](https://cov-lineages.org/lineage.html?lineage=FD.1) Alias of XBB.1.5.15.1, ORF7b:E3*, England/Canada
+- \+ [FD.1.1](https://cov-lineages.org/lineage.html?lineage=FD.1.1) Alias of XBB.1.5.15.1.1, S:F456L, Canada-QC
+- \+ [XBB.1.5.27](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.27) S:K478R, on T11431C branch, USA
+- \+ [XBB.1.5.28](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.28) S:K478R, on 17124C polytomy, USA
+- \+ [XBB.1.5.29](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.29) S:A348V, USA-NE
+- \+ [XBB.1.5.30](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.30) S:A348T, USA
+- \+ [XBB.1.16](https://cov-lineages.org/lineage.html?lineage=XBB.1.16) Defined by S:E180V, S:478R, found in India, USA, Singapore, and Europe, from pango-designation issue #1723
+- \+ [XBB.1.16.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.1) Defined by S:T547I
+- \+ [FE.1](https://cov-lineages.org/lineage.html?lineage=FE.1) Alias of XBB.1.18.1.1, S:F456L, Brazil/Chile
+- \+ [XBB.1.27](https://cov-lineages.org/lineage.html?lineage=XBB.1.27) Defined by S:478R, S:A890V, Mexico/US/India
+
 ### 2023-03-21
 - \+ [DV.5](https://cov-lineages.org/lineage.html?lineage=DV.5) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.5, England/Australia, ORF1a:R24C, S:613H, from #1753
 - \+ [CH.1.1.16](https://cov-lineages.org/lineage.html?lineage=CH.1.1.16) Alias of B.1.1.529.2.75.3.4.1.1.1.1.16, S:613H, ORF3a:S26L, on C193T branch, Germany/Sweden, from #1753
