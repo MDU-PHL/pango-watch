@@ -13,6 +13,12 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-03-29
+- \+ [CH.1.1.21](https://cov-lineages.org/lineage.html?lineage=CH.1.1.21) Alias of B.1.1.529.2.75.3.4.1.1.1.1.21, England, S:N481Y, from #1799
+- \+ [XBB.2.3](https://cov-lineages.org/lineage.html?lineage=XBB.2.3) Defined by S:P521S and S:S486P, India/Indonesia/Singapore/USA
+- \+ [XBB.2.3.2](https://cov-lineages.org/lineage.html?lineage=XBB.2.3.2) Defined by S:G184V, ORF1a:R2159W, India, from #1776
+- \+ [XBZ](https://cov-lineages.org/lineage.html?lineage=XBZ) Recombinant lineage of BA.5.2* and EF.1.3, predominantly in Denmark, Germany and Austria, from pango-designation issue #1666
+
 ### 2023-03-28
 - \+ [FD.2](https://cov-lineages.org/lineage.html?lineage=FD.2) Alias of XBB.1.5.15.2, S:Q146K, ORF1a:G519S, USA, from #1600
 - \+ [FH.1](https://cov-lineages.org/lineage.html?lineage=FH.1) Alias of XBB.1.5.17.1, S:T883I, C4633T, USA
