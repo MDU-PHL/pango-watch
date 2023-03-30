@@ -13,6 +13,10 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-03-30
+- \+ [FJ.1](https://cov-lineages.org/lineage.html?lineage=FJ.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.19.1, ORF1a:A1204V, England
+- \+ [CH.1.1.22](https://cov-lineages.org/lineage.html?lineage=CH.1.1.22) Alias of B.1.1.529.2.75.3.4.1.1.1.1.22, found mainly in Denmark, from pango-designation issue #1670
+
 ### 2023-03-29
 - \+ [CH.1.1.21](https://cov-lineages.org/lineage.html?lineage=CH.1.1.21) Alias of B.1.1.529.2.75.3.4.1.1.1.1.21, England, S:N481Y, from #1799
 - \+ [XBB.2.3](https://cov-lineages.org/lineage.html?lineage=XBB.2.3) Defined by S:P521S and S:S486P, India/Indonesia/Singapore/USA
