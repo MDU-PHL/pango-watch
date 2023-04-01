@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-04-01
+- \+ [FK.1](https://cov-lineages.org/lineage.html?lineage=FK.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1, found mainly in New Zealand and Australia, from pango-designation issue #1718
+
 ### 2023-03-31
 - \+ [BN.1.3.10](https://cov-lineages.org/lineage.html?lineage=BN.1.3.10) Alias of B.1.1.529.2.75.5.1.3.10 ORF1a:Q1918R, C13608T, Asia/Oceania
 
