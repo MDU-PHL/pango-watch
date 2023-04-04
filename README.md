@@ -13,6 +13,10 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-04-04
+- \+ [BQ.1.1.73](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.73) B.1.1.529.5.3.1.1.1.1.1.1.73, found mainly in Canada and Spain, from pango-designation issue #1740
+- \+ [XCA](https://cov-lineages.org/lineage.html?lineage=XCA) Recombinant lineage of BA.2.75* and BQ.1*, predominantly in UK, from pango-designation issue #1752
+
 ### 2023-04-01
 - \+ [FK.1](https://cov-lineages.org/lineage.html?lineage=FK.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1, found mainly in New Zealand and Australia, from pango-designation issue #1718
 
