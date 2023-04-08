@@ -13,6 +13,12 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-04-08
+- \+ [CJ.1.2](https://cov-lineages.org/lineage.html?lineage=CJ.1.2) Alias of B.1.1.529.2.75.3.1.1.1.1.2, ORF1a:L2609F, Sweden/France/England
+- \+ [CJ.1.3](https://cov-lineages.org/lineage.html?lineage=CJ.1.3) Alias of B.1.1.529.2.75.3.1.1.1.1.3, A261G reversion, G4960A, C14790T, South Korea
+- \+ [EG.1.1](https://cov-lineages.org/lineage.html?lineage=EG.1.1) Alias of XBB.1.9.2.1.1, S:V70F and ORF1a:T403I, Luxembourg/Belgium/France
+- \+ [XBB.1.28.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.28.1) Defined by S:356T, Indonesia, global
+
 ### 2023-04-06
 - \+ [BQ.1.1.73](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.73) Alias of B.1.1.529.5.3.1.1.1.1.1.1.73, found mainly in Canada and Spain, from pango-designation issue #1740
 - \+ [BQ.1.1.74](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.74) Alias of B.1.1.529.5.3.1.1.1.1.1.1.74, S:182E, found mainly in Botswana and UK, from pango-designation issue #1817
