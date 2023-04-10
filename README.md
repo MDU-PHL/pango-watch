@@ -13,6 +13,11 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-04-10
+- \+ [XBF.1](https://cov-lineages.org/lineage.html?lineage=XBF.1) Australia/England, S:S939F
+- \+ [XBF.1.1](https://cov-lineages.org/lineage.html?lineage=XBF.1.1) England, S:P621S
+- \+ [XBF.10](https://cov-lineages.org/lineage.html?lineage=XBF.10) Australia, S:M153I
+
 ### 2023-04-08
 - \+ [CJ.1.2](https://cov-lineages.org/lineage.html?lineage=CJ.1.2) Alias of B.1.1.529.2.75.3.1.1.1.1.2, ORF1a:L2609F, Sweden/France/England
 - \+ [CJ.1.3](https://cov-lineages.org/lineage.html?lineage=CJ.1.3) Alias of B.1.1.529.2.75.3.1.1.1.1.3, A261G reversion, G4960A, C14790T, South Korea
