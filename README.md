@@ -13,6 +13,11 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-04-12
+- \+ [CH.1.1.23](https://cov-lineages.org/lineage.html?lineage=CH.1.1.23) Alias of B.1.1.529.2.75.3.4.1.1.1.1.23, found mainly in UK, from pango-designation issue #1862
+- \+ [BF.42](https://cov-lineages.org/lineage.html?lineage=BF.42) Alias of B.1.1.529.5.2.1.42, found in Japan, from pango-designation issue #1855
+- \+ [FP.1](https://cov-lineages.org/lineage.html?lineage=FP.1) Alias of XBB.1.11.1.1, found mainly in Singapore, from pango-designation issue #1847
+
 ### 2023-04-10
 - \+ [XBF.1](https://cov-lineages.org/lineage.html?lineage=XBF.1) Australia/England, S:S939F
 - \+ [XBF.1.1](https://cov-lineages.org/lineage.html?lineage=XBF.1.1) England, S:P621S
