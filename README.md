@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-04-14
+- \+ [FK.1.1](https://cov-lineages.org/lineage.html?lineage=FK.1.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.1, found mainly in New Zealand and Australia, from pango-designation issue #1881
+
 ### 2023-04-13
 - \+ [XBB.2.3.5](https://cov-lineages.org/lineage.html?lineage=XBB.2.3.5) Defined by S:K478N, found mainly in USA and India, from pango-designation issue #1846
 
