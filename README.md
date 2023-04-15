@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-04-15
+- \+ [XCB](https://cov-lineages.org/lineage.html?lineage=XCB) Recombinant lineage of BF.31.1and BQ.1.10*, predominantly in Chile, from pango-designation issue #1668
+
 ### 2023-04-14
 - \+ [FK.1.1](https://cov-lineages.org/lineage.html?lineage=FK.1.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.1, found mainly in New Zealand and Australia, from pango-designation issue #1881
 
