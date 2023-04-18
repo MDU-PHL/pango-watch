@@ -13,6 +13,11 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-04-18
+- \+ [EQ.1](https://cov-lineages.org/lineage.html?lineage=EQ.1) Alias of B.1.1.529.5.1.33.1 S:Q14H, found mainly in Germany, France, Japan and Denmark, from pango-designation issue #1522
+- \+ [FQ.1](https://cov-lineages.org/lineage.html?lineage=FQ.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.39.1, found mainly in Sweden, France and Australia, from pango-designation issue #1797
+- \+ [XCB](https://cov-lineages.org/lineage.html?lineage=XCB) Recombinant lineage of BF.31.1 and BQ.1.10*, predominantly in Chile, from pango-designation issue #1668
+
 ### 2023-04-15
 - \+ [XCB](https://cov-lineages.org/lineage.html?lineage=XCB) Recombinant lineage of BF.31.1and BQ.1.10*, predominantly in Chile, from pango-designation issue #1668
 
