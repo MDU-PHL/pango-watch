@@ -13,6 +13,13 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-04-20
+- \+ [XBB.2.3.6](https://cov-lineages.org/lineage.html?lineage=XBB.2.3.6) Defined by N:T166I, mainly Singapore
+- \+ [XBB.2.3.7](https://cov-lineages.org/lineage.html?lineage=XBB.2.3.7) Defined by ORF1a:T4087I
+- \+ [XBL.1](https://cov-lineages.org/lineage.html?lineage=XBL.1) S:V635I, T2461C
+- \+ [XBL.2](https://cov-lineages.org/lineage.html?lineage=XBL.2) A1393G
+- \+ [XBL.3](https://cov-lineages.org/lineage.html?lineage=XBL.3) C11824T, G14400T
+
 ### 2023-04-19
 - \+ [XBB.1.33](https://cov-lineages.org/lineage.html?lineage=XBB.1.33) Defined by S:A376T, found mainly in Italy, from pango-designation issue #1879
 
