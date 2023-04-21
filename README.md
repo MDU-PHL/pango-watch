@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-04-21
+- \+ [XBB.1.34](https://cov-lineages.org/lineage.html?lineage=XBB.1.34) Defined by S:681R, found mainly in USA and UK, from pango-designation issue #1621
+
 ### 2023-04-20
 - \+ [XBB.2.3.6](https://cov-lineages.org/lineage.html?lineage=XBB.2.3.6) Defined by N:T166I, mainly Singapore
 - \+ [XBB.2.3.7](https://cov-lineages.org/lineage.html?lineage=XBB.2.3.7) Defined by ORF1a:T4087I
