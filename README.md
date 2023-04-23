@@ -13,6 +13,31 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-04-23
+- \+ [FK.1.1](https://cov-lineages.org/lineage.html?lineage=FK.1.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.2, ORF1a:L384F, ORF1a:R550H
+- \+ [XAY.1.1.2](https://cov-lineages.org/lineage.html?lineage=XAY.1.1.2) Germany/South Africa, C14838T
+- \+ [XAY.1.1.3](https://cov-lineages.org/lineage.html?lineage=XAY.1.1.3) Germany/China/Luxembourg, C6040T, C8290T, T15153C
+- \+ [XAY.2.3](https://cov-lineages.org/lineage.html?lineage=XAY.2.3) Denmark, ORF1a:A131V
+- \+ [FT.1](https://cov-lineages.org/lineage.html?lineage=FT.1) Alias of XBB.1.5.39.1, S:I197V, Canada, #1745
+- \+ [XBB.1.5.41](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.41) S:V772I, S:P521T, USA, from #1941
+- \+ [XBB.1.5.42](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.42) S:E281D, Asia/USA, from #1933
+- \+ [FL.2.1](https://cov-lineages.org/lineage.html?lineage=FL.2.1) Alias of XBB.1.9.1.2.1, C10228T, Germany, global
+- \+ [FL.2.2](https://cov-lineages.org/lineage.html?lineage=FL.2.2) Alias of XBB.1.9.1.2.2, S:T478R, Indonesia, from #1927
+- \+ [FL.3](https://cov-lineages.org/lineage.html?lineage=FL.3) Alias of XBB.1.9.1.3, T1753C, England
+- \+ [FL.4](https://cov-lineages.org/lineage.html?lineage=FL.4) Alias of XBB.1.9.1.4, ORF1b:V1092F
+- \+ [FL.5](https://cov-lineages.org/lineage.html?lineage=FL.5) Alias of XBB.1.9.1.5, N:T362I
+- \+ [EG.1.2](https://cov-lineages.org/lineage.html?lineage=EG.1.2) Alias of XBB.1.9.2.1.2, ORF7b:H42Y, mostly Austria
+- \+ [EG.1.3](https://cov-lineages.org/lineage.html?lineage=EG.1.3) Alias of XBB.1.9.2.1.3, C3784T, A6613G, Europe
+- \+ [EG.1.4](https://cov-lineages.org/lineage.html?lineage=EG.1.4) Alias of XBB.1.9.2.1.4, ORF1a:S2500F, Europe
+- \+ [EG.3](https://cov-lineages.org/lineage.html?lineage=EG.3) Alias of XBB.1.9.2.3, ORF1a:L2778F on N:L219F branch
+- \+ [EG.4](https://cov-lineages.org/lineage.html?lineage=EG.4) Alias of XBB.1.9.2.4, C28651T
+- \+ [EG.5](https://cov-lineages.org/lineage.html?lineage=EG.5) Alias of XBB.1.9.2.5, S:F456L, ORF1a:A690V, ORF1a:A3143V, Indonesia
+- \+ [FU.1](https://cov-lineages.org/lineage.html?lineage=FU.1) Alias of XBB.1.16.1.1, T3802C
+- \+ [FU.2](https://cov-lineages.org/lineage.html?lineage=FU.2) Alias of XBB.1.16.1.2, C8692T
+- \+ [XBB.1.16.2](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.2) Defined by ORF3a:V13L, ORF1a:P926H, India
+- \+ [XBB.1.16.3](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.3) Defined by A2893C, India
+- \+ [XCC](https://cov-lineages.org/lineage.html?lineage=XCC) Recombinant lineage of CH.1.1.1 and XBB.1.9.1, predominantly Pakistan, Austrlia, from #1876
+
 ### 2023-04-22
 - \+ [FS.1](https://cov-lineages.org/lineage.html?lineage=FS.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.12.1, found mainly in Denmark, from pango-designation issue #1816
 - \+ [FR.1](https://cov-lineages.org/lineage.html?lineage=FR.1) Alias of B.1.1.529.2.75.5.1.2.3.1, found mainly in Japan, Taiwan and USA, from pango-designation issue #1814
