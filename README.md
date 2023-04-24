@@ -13,6 +13,18 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-04-24
+- \+ [FK.1.2](https://cov-lineages.org/lineage.html?lineage=FK.1.2) Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.2, ORF1a:L384F, ORF1a:R550H
+- \+ [XBB.1.5.43](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.43) C18501T, Singapore/Malaysia/Indonesia
+- \+ [XBB.1.5.44](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.44) S:K356T, S:T572I, USA, from #1907
+- \+ [XBB.1.5.45](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.45) S:478R, C27425T, G28079T, India-GJ/MH
+- \+ [XBB.1.5.46](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.46) C5770T, C15279T, Germany/France
+- \+ [XBB.1.35](https://cov-lineages.org/lineage.html?lineage=XBB.1.35) ORF1a:V89A, Indonesia
+- \+ [XBC.1.6.1](https://cov-lineages.org/lineage.html?lineage=XBC.1.6.1) ORF8:P36L, Australia
+- \+ [XBC.1.6.2](https://cov-lineages.org/lineage.html?lineage=XBC.1.6.2) ORF1a:D827N, Australia
+- \+ [XBC.1.6.3](https://cov-lineages.org/lineage.html?lineage=XBC.1.6.3) N:A173V, Australia
+- \+ [XCC](https://cov-lineages.org/lineage.html?lineage=XCC) Recombinant lineage of CH.1.1.1 and XBB.1.9.1, predominantly Pakistan, Australia, from #1876
+
 ### 2023-04-23
 - \+ [FK.1.1](https://cov-lineages.org/lineage.html?lineage=FK.1.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.2, ORF1a:L384F, ORF1a:R550H
 - \+ [XAY.1.1.2](https://cov-lineages.org/lineage.html?lineage=XAY.1.1.2) Germany/South Africa, C14838T
