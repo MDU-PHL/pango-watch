@@ -13,6 +13,12 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-04-25
+- \+ [XBB.1.36](https://cov-lineages.org/lineage.html?lineage=XBB.1.36) Defined by S:S490P, found mainly in Malaysia, Indonesia and Singapore, from pango-designation issue #1781
+- \+ [XBB.3.4](https://cov-lineages.org/lineage.html?lineage=XBB.3.4) Defined by S:E990D
+- \+ [XBB.8.1](https://cov-lineages.org/lineage.html?lineage=XBB.8.1) S:486P, Malaysia
+- \+ [XBB.9](https://cov-lineages.org/lineage.html?lineage=XBB.9) N:T49I after ORF1a:D82G, Philippines
+
 ### 2023-04-24
 - \+ [FK.1.2](https://cov-lineages.org/lineage.html?lineage=FK.1.2) Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.2, ORF1a:L384F, ORF1a:R550H
 - \+ [XBB.1.5.43](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.43) C18501T, Singapore/Malaysia/Indonesia
