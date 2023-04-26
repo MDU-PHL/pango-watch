@@ -13,6 +13,17 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-04-26
+- \+ [EU.1](https://cov-lineages.org/lineage.html?lineage=EU.1) Alias of XBB.1.5.26.1, S:P521S, Germany/Netherlands, from #1688
+- \+ [EU.1.1](https://cov-lineages.org/lineage.html?lineage=EU.1.1) Alias of XBB.1.5.26.1.1, S:I410V, Germany/Netherlands, from #1688
+- \+ [EU.1.1.1](https://cov-lineages.org/lineage.html?lineage=EU.1.1.1) Alias of XBB.1.5.26.1.1.1, C21646T, Germany
+- \+ [XBB.1.5.47](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.47) C1912T, USA/England
+- \+ [XBB.1.5.48](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.48) A24730T, USA/Canada/England
+- \+ [XBB.1.5.49](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.49) T6886C, USA
+- \+ [XBB.1.5.50](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.50) S:621S, N:T49I, USA/Canada
+- \+ [XBB.1.5.51](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.51) ORF1a:D3009A, USA
+- \+ [XBB.1.5.52](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.52) C3589T
+
 ### 2023-04-25
 - \+ [XBB.1.36](https://cov-lineages.org/lineage.html?lineage=XBB.1.36) Defined by S:S490P, found mainly in Malaysia, Indonesia and Singapore, from pango-designation issue #1781
 - \+ [XBB.3.4](https://cov-lineages.org/lineage.html?lineage=XBB.3.4) Defined by S:E990D
