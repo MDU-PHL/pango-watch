@@ -13,6 +13,11 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-05-04
+- \+ [FD.3](https://cov-lineages.org/lineage.html?lineage=FD.3) Alias of XBB.1.5.15.3, S:A348S, T8503C, USA/Finland/Japan
+- \+ [XBB.1.5.55](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.55) ORF1a:T3356I, USA/Canada
+- \+ [FL.6](https://cov-lineages.org/lineage.html?lineage=FL.6) Alias of XBB.1.9.1.6, ORF1a:I849V, Bahrain/Egypt/Oman/Austria
+
 ### 2023-05-02
 - \+ [EK.4](https://cov-lineages.org/lineage.html?lineage=EK.4) Alias of XBB.1.5.13.4, S:Q675K, USA/France
 - \+ [XBB.1.5.54](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.54) C14358T,C20016T,C29311T, Central/Eastern Europe
