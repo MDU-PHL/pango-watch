@@ -13,6 +13,15 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-05-05
+- \+ [EG.1.2](https://cov-lineages.org/lineage.html?lineage=EG.1.2) Alias of XBB.1.9.2.1.2, ORF7b:H42Y, mostly Austria, from #1711
+- \+ [FY.1](https://cov-lineages.org/lineage.html?lineage=FY.1) Alias of XBB.1.22.1.1, Defined by ORF1b:D1782N
+- \+ [FY.2](https://cov-lineages.org/lineage.html?lineage=FY.2) Alias of XBB.1.22.1.2, S:I197T, ORF1b:S997P, Indonesia, from #1859
+- \+ [FY.3](https://cov-lineages.org/lineage.html?lineage=FY.3) Alias of XBB.1.22.1.3, ORF1a:E750K, C23191T, China
+- \+ [FY.4](https://cov-lineages.org/lineage.html?lineage=FY.4) Alias of XBB.1.22.1.4, S:Y451H, A8374G, C25517T, Kenya, from #1979
+- \+ [XBB.2.3.9](https://cov-lineages.org/lineage.html?lineage=XBB.2.3.9) Defined by C18744T, C19200T, S:S98F, India
+- \+ [XBB.2.3.10](https://cov-lineages.org/lineage.html?lineage=XBB.2.3.10) Defined by T5947C, India
+
 ### 2023-05-04
 - \+ [FD.3](https://cov-lineages.org/lineage.html?lineage=FD.3) Alias of XBB.1.5.15.3, S:A348S, T8503C, USA/Finland/Japan
 - \+ [XBB.1.5.55](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.55) ORF1a:T3356I, USA/Canada
