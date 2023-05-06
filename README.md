@@ -13,6 +13,17 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-05-06
+- \+ [FZ.1](https://cov-lineages.org/lineage.html?lineage=FZ.1) Alias of XBB.1.5.47.1, S:E583D, England/Scotland
+- \+ [FZ.1.1](https://cov-lineages.org/lineage.html?lineage=FZ.1.1) Alias of XBB.1.5.47.1.1, S:L858I, England/Scotland
+- \+ [FZ.2](https://cov-lineages.org/lineage.html?lineage=FZ.2) Alias of XBB.1.5.47.2, S:Q836R, USA
+- \+ [XBB.1.5.56](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.56) S:A852S, USA
+- \+ [XBB.1.5.57](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.57) A20379G, C28312T, pre-T17124C, probable Spike-donor of XBL, #1973
+- \+ [XBB.1.16.4](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.4) Defined by S:T678I, India, from #1903
+- \+ [FE.1.1](https://cov-lineages.org/lineage.html?lineage=FE.1.1) Alias of XBB.1.18.1.1.1, ORF8:S67F, T4579A
+- \+ [FE.1.2](https://cov-lineages.org/lineage.html?lineage=FE.1.2) Alias of XBB.1.18.1.1.2, A5488G
+- \+ [XBL](https://cov-lineages.org/lineage.html?lineage=XBL) Recombinant lineage of XBB.1.5.57-BA.2.75* (short segment from ~1k-~5k)-XBB.1.5.57, Malaysia, from issue #1532
+
 ### 2023-05-05
 - \+ [EG.1.2](https://cov-lineages.org/lineage.html?lineage=EG.1.2) Alias of XBB.1.9.2.1.2, ORF7b:H42Y, mostly Austria, from #1711
 - \+ [FY.1](https://cov-lineages.org/lineage.html?lineage=FY.1) Alias of XBB.1.22.1.1, Defined by ORF1b:D1782N
