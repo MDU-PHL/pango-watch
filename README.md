@@ -13,6 +13,33 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-05-07
+- \+ [DV.6](https://cov-lineages.org/lineage.html?lineage=DV.6) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.6, T15591C
+- \+ [CH.1.1.24](https://cov-lineages.org/lineage.html?lineage=CH.1.1.24) Alias of B.1.1.529.2.75.3.4.1.1.1.1.24, T931C, T6676C
+- \+ [CH.1.1.25](https://cov-lineages.org/lineage.html?lineage=CH.1.1.25) Alias of B.1.1.529.2.75.3.4.1.1.1.1.25, ORF1a:S330L, ORF1a:P4197S, US
+- \+ [CH.1.1.26](https://cov-lineages.org/lineage.html?lineage=CH.1.1.26) Alias of B.1.1.529.2.75.3.4.1.1.1.1.26, C29296T, Japan
+- \+ [CH.1.1.27](https://cov-lineages.org/lineage.html?lineage=CH.1.1.27) Alias of B.1.1.529.2.75.3.4.1.1.1.1.27, ORF1a:S538L, New Zealand
+- \+ [FD.4](https://cov-lineages.org/lineage.html?lineage=FD.4) Alias of XBB.1.5.15.4, ORF1a:L4191F, USA
+- \+ [GB.1](https://cov-lineages.org/lineage.html?lineage=GB.1) Alias of XBB.1.5.46.1, S:L518V, France, from #1969
+- \+ [XBB.1.5.58](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.58) S:704L, ORF1b:V1607I, ORF6:D6G, Guinea, from #1860
+- \+ [XBB.1.5.59](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.59) S:F456L, ORF1a:S2822P, England, from #1949
+- \+ [XBB.1.5.60](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.60) S:M177I, ORF1a:T2106I, S:Q146K, Netherlands/Germany
+- \+ [XBB.1.5.61](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.61) T11536C, USA
+- \+ [XBB.1.5.62](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.62) C29095T
+- \+ [XBB.1.5.63](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.63) C346T, Germany/Mauritius
+- \+ [XBB.1.5.64](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.64) C29708T
+- \+ [XBB.1.5.65](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.65) C583T, Germany
+- \+ [XBB.1.5.66](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.66) ORF1a:G519S, USA
+- \+ [XBB.1.5.67](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.67) C21691T, USA
+- \+ [XBB.1.5.68](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.68) S:P521T, ORF3a:L71I, C18501T, USA
+- \+ [FL.7](https://cov-lineages.org/lineage.html?lineage=FL.7) Alias of XBB.1.9.1.7, S:T51I
+- \+ [XBB.1.16.5](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.5) Defined by T9991C,C16332T, India, from #1983
+- \+ [GA.1](https://cov-lineages.org/lineage.html?lineage=GA.1) Alias of XBB.1.17.1.1, ORF1a:G728C
+- \+ [GA.2](https://cov-lineages.org/lineage.html?lineage=GA.2) Alias of XBB.1.17.1.2, ORF3a:I179F, T6640C, Africa
+- \+ [GA.3](https://cov-lineages.org/lineage.html?lineage=GA.3) Alias of XBB.1.17.1.3, ORF1b:A186V, Ghana
+- \+ [XBB.1.37](https://cov-lineages.org/lineage.html?lineage=XBB.1.37) Defined by A5371G, Indonesia/Russia
+- \+ [XBB.1.37.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.37.1) Defined by S:486P, A1846G, G7459T, T27285C, Russia/South Korea, from #1929
+
 ### 2023-05-06
 - \+ [FZ.1](https://cov-lineages.org/lineage.html?lineage=FZ.1) Alias of XBB.1.5.47.1, S:E583D, England/Scotland
 - \+ [FZ.1.1](https://cov-lineages.org/lineage.html?lineage=FZ.1.1) Alias of XBB.1.5.47.1.1, S:L858I, England/Scotland
