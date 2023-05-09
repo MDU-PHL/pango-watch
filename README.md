@@ -13,6 +13,10 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-05-09
+- \+ [FL.12](https://cov-lineages.org/lineage.html?lineage=FL.12) Alias of XBB.1.9.1.12, ORF1a:C2210F
+- \+ [XBB.1.32.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.32.1) S:Y453F, ORF1a:L642F, ORF1b:L2497I, Philippines/Thailand, from #1908
+
 ### 2023-05-08
 - \+ [CH.1.1.28](https://cov-lineages.org/lineage.html?lineage=CH.1.1.28) Alias of B.1.1.529.2.75.3.4.1.1.1.1.28, ORF1b:V1092F, Europe
 - \+ [FR.1](https://cov-lineages.org/lineage.html?lineage=FR.1) Alias of B.1.1.529.2.75.5.1.2.3.1, S:K187E, S:T366I, Japan/Taiwan/USA, from #1814
