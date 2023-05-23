@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-05-23
+- \+ [XBB.1.5.70](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.70) Defined by ORF1a:A4068S S:L455F and S:F456L, found mainly in Brazil and USA, from pango-designation issue #1982
+
 ### 2023-05-12
 - \+ [XBB.2.9](https://cov-lineages.org/lineage.html?lineage=XBB.2.9) Defined by ORF1a:V2027I and S:F486P, found mainly in Russia, from pango-designation issue #1877
 
