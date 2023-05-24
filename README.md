@@ -13,6 +13,16 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-05-24
+- \+ [GF.1](https://cov-lineages.org/lineage.html?lineage=GF.1) Alias of XBB.1.5.24.1 S:E748V, C19524T
+- \+ [GG.1](https://cov-lineages.org/lineage.html?lineage=GG.1) Alias of XBB.1.5.38.1 S:478R, Europe, from sars-cov-2-variants/lineage-proposals#48
+- \+ [FL.1.4](https://cov-lineages.org/lineage.html?lineage=FL.1.4) Alias of XBB.1.9.1.1.4, S:478R, S:Q1208H, Vietnam, from issue #1985
+- \+ [FL.4.1](https://cov-lineages.org/lineage.html?lineage=FL.4.1) Alias of XBB.1.9.1.4.1, S:N450I
+- \+ [FL.4.2](https://cov-lineages.org/lineage.html?lineage=FL.4.2) Alias of XBB.1.9.1.4.2, ORF1a:T951I, China
+- \+ [FL.13](https://cov-lineages.org/lineage.html?lineage=FL.13) Alias of XBB.1.9.1.13, G4354A
+- \+ [FL.13.1](https://cov-lineages.org/lineage.html?lineage=FL.13.1) Alias of XBB.1.9.1.13.1, S:A411S, ORF1a:P80S, China, from #1996
+- \+ [FL.14](https://cov-lineages.org/lineage.html?lineage=FL.14) Alias of XBB.1.9.1.14, S:V1122M, C29311T, C22978T, Russia/Finland
+
 ### 2023-05-23
 - \+ [XBB.1.5.70](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.70) Defined by ORF1a:A4068S S:L455F and S:F456L, found mainly in Brazil and USA, from pango-designation issue #1982
 
