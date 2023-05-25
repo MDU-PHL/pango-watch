@@ -13,6 +13,19 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-05-25
+- \+ [FK.1.1](https://cov-lineages.org/lineage.html?lineage=FK.1.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.1, ORF1a:A1060T, on C27804T>ORF1b:L2580I>N:G34E branch, New Zealand, from #1881
+- \+ [FK.1.2.1](https://cov-lineages.org/lineage.html?lineage=FK.1.2.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.2.1, ORF1a:T891I, Germany/Denmark/Finland/Austria
+- \+ [FK.1.3](https://cov-lineages.org/lineage.html?lineage=FK.1.3) Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.3, ORF1b:M1839I, on C27804T>ORF1b:L2580I>N:G34E branch, Australia
+- \+ [FK.1.4](https://cov-lineages.org/lineage.html?lineage=FK.1.4) Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.4, S:S704L, on C27804>ORF7a:Y40H branch, Australia
+- \+ [GF.1](https://cov-lineages.org/lineage.html?lineage=GF.1) Alias of XBB.1.5.24.1, S:E748V, C19524T
+- \+ [EG.5.1](https://cov-lineages.org/lineage.html?lineage=EG.5.1) Alias of XBB.1.9.2.5.1, S:Q52H, China
+- \+ [EG.5.2](https://cov-lineages.org/lineage.html?lineage=EG.5.2) Alias of XBB.1.9.2.5.2, N:L161F
+- \+ [FY.1.1](https://cov-lineages.org/lineage.html?lineage=FY.1.1) Alias of XBB.1.22.1.1.1, S:A83S, Malaysia/Japan
+- \+ [FY.3.1](https://cov-lineages.org/lineage.html?lineage=FY.3.1) Alias of XBB.1.22.1.3.1, S:I210T, China
+- \+ [FY.4.1](https://cov-lineages.org/lineage.html?lineage=FY.4.1) Alias of XBB.1.22.1.4.1, S:S494P, Kenya
+- \+ [XBB.1.41](https://cov-lineages.org/lineage.html?lineage=XBB.1.41) S:L335S, S:R403K, S:486P, possibly common in Central/West Africa, from #1997
+
 ### 2023-05-24
 - \+ [GF.1](https://cov-lineages.org/lineage.html?lineage=GF.1) Alias of XBB.1.5.24.1 S:E748V, C19524T
 - \+ [GG.1](https://cov-lineages.org/lineage.html?lineage=GG.1) Alias of XBB.1.5.38.1 S:478R, Europe, from sars-cov-2-variants/lineage-proposals#48
