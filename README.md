@@ -13,6 +13,10 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-05-26
+- \+ [XBB.1.5.71](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.71) S:V511I, Spain
+- \+ [XBB.1.16.7](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.7) S:T732I after T12214C, Singapore/Japan/SouthKorea
+
 ### 2023-05-25
 - \+ [FK.1.1](https://cov-lineages.org/lineage.html?lineage=FK.1.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.1, ORF1a:A1060T, on C27804T>ORF1b:L2580I>N:G34E branch, New Zealand, from #1881
 - \+ [FK.1.2.1](https://cov-lineages.org/lineage.html?lineage=FK.1.2.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.2.1, ORF1a:T891I, Germany/Denmark/Finland/Austria
