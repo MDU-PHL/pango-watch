@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-05-27
+- \+ [XBB.1.16.8](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.8) S:T732I after C28531T, India/USA/China/Australia
+
 ### 2023-05-26
 - \+ [XBB.1.5.71](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.71) S:V511I, Spain
 - \+ [XBB.1.16.7](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.7) S:T732I after T12214C, Singapore/Japan/SouthKorea
