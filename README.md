@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-05-30
+- \+ [FL.15](https://cov-lineages.org/lineage.html?lineage=FL.15) Alias of XBB.1.9.1.15, found mainly in China and South Korea, from pango-designation issue #1994
+
 ### 2023-05-28
 - \+ [FR.1](https://cov-lineages.org/lineage.html?lineage=FR.1) Alias of B.1.1.529.2.75.5.1.2.3.1, S:K187E, N:T366I, Japan/Taiwan/USA, from #1814
 
