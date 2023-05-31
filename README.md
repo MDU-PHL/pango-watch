@@ -13,6 +13,28 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-05-31
+- \+ [CM.7.1](https://cov-lineages.org/lineage.html?lineage=CM.7.1) Alias of B.1.1.529.2.3.20.7.1, S:K147E, Europe
+- \+ [XBB.1.5.10](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.10) S:F456L (T22928C), USA-NC from #1614
+- \+ [FD.1.1](https://cov-lineages.org/lineage.html?lineage=FD.1.1) Alias of XBB.1.5.15.1.1, S:F456L (T22928C), Canada-QC
+- \+ [XBB.1.5.59](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.59) S:F456L (T22928C), ORF1a:S2822P, England, from #1949
+- \+ [XBB.1.5.70](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.70) S:L455F, S:F456L (T22928C), ORF1a:A4068S, Brazil, from #1982
+- \+ [XBB.1.5.72](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.72) S:F456L (T22928C), ORF1a:G445S, T9823C, T10204C, South America
+- \+ [FL.15](https://cov-lineages.org/lineage.html?lineage=FL.15) Alias of XBB.1.9.1.15, S:F456L (T22928C), ORF1a:E637K, Vietnam/China/South Korea, from #1994
+- \+ [EG.5](https://cov-lineages.org/lineage.html?lineage=EG.5) Alias of XBB.1.9.2.5, S:F456L (T22930A), ORF1a:A690V, ORF1a:A3143V, Indonesia
+- \+ [EG.6](https://cov-lineages.org/lineage.html?lineage=EG.6) Alias of XBB.1.9.2.6, C1684T, Israel
+- \+ [EG.6.1](https://cov-lineages.org/lineage.html?lineage=EG.6.1) Alias of XBB.1.9.2.6.1, S:456L (T22928C), Israel/Japan/Canada
+- \+ [XBB.1.9.7](https://cov-lineages.org/lineage.html?lineage=XBB.1.9.7) S:486P, S:478R, ORF1a:P1018T, Indonesia
+- \+ [FP.1](https://cov-lineages.org/lineage.html?lineage=FP.1) Alias of XBB.1.11.1.1, A6616G, C21642T, following ORF1a:T2016I, Singapore, from #1847
+- \+ [FP.2](https://cov-lineages.org/lineage.html?lineage=FP.2) Alias of XBB.1.11.1.2, S:F186S, ORF1a:V3078I, Indonesia/Malaysia/Singapore
+- \+ [FP.2.1](https://cov-lineages.org/lineage.html?lineage=FP.2.1) Alias of XBB.1.11.1.2.1, S:478R, ORF1a:I693T, ORF1a:T951A, ORF3a:W149C, Indonesia
+- \+ [FP.3](https://cov-lineages.org/lineage.html?lineage=FP.3) Alias of XBB.1.11.1.3, S:478R, Indonesia/Malaysia
+- \+ [FP.4](https://cov-lineages.org/lineage.html?lineage=FP.4) Alias of XBB.1.11.1.4, C3241T, C2536T, Vietnam/South Korea/Japan
+- \+ [XBB.1.16.6](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.6) S:F456L (T22930A), A12397G, USA/Canada/China
+- \+ [XBB.1.16.9](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.9) S:F456L (T22930G), ORF1a:S2500F, Canada/Sweden/SouthKorea/USA
+- \+ [FE.1](https://cov-lineages.org/lineage.html?lineage=FE.1) Alias of XBB.1.18.1.1, S:F456L (T22928C), Brazil/Chile
+- \+ [XBB.2.10](https://cov-lineages.org/lineage.html?lineage=XBB.2.10) S:Q52H, Latvia/Poland
+
 ### 2023-05-30
 - \+ [FL.15](https://cov-lineages.org/lineage.html?lineage=FL.15) Alias of XBB.1.9.1.15, found mainly in China and South Korea, from pango-designation issue #1994
 
