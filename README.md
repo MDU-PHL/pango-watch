@@ -13,6 +13,22 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-06-02
+- \+ [FD.2.1](https://cov-lineages.org/lineage.html?lineage=FD.2.1) Alias of XBB.1.5.15.2.1, ORF1a:D3022N, Peru
+- \+ [XBB.1.5.73](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.73) T28271C, USA/Peru
+- \+ [XBB.1.5.74](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.74) S:K462R, ORF1b:V728I, Peru, from #1998
+- \+ [XBB.1.5.75](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.75) C3695T, Peru/France
+- \+ [XBB.1.5.76](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.76) ORF1a:T3696A, Chile
+- \+ [XBB.1.5.77](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.77) T18732C, Colombia/USA
+- \+ [XBB.1.5.78](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.78) ORF1a:N460D, Mexico
+- \+ [XBB.1.5.79](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.79) N:Q260L, Mexico/USA
+- \+ [XBB.1.5.80](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.80) A16812G, C21812T, USA/Romania
+- \+ [XBB.1.5.81](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.81) S:478R, G4657A, South Africa
+- \+ [XBB.2.3.12](https://cov-lineages.org/lineage.html?lineage=XBB.2.3.12) S:S494P, from #2029
+- \+ [XBB.2.6.1](https://cov-lineages.org/lineage.html?lineage=XBB.2.6.1) S:P521S, Peru, from #1869
+- \+ [GH.1](https://cov-lineages.org/lineage.html?lineage=GH.1) Alias of XBB.2.6.1, ORF9b:P51Q, T6895C, T9148C, A15192C, Peru, from #1869
+- \+ [XBB.2.6.2](https://cov-lineages.org/lineage.html?lineage=XBB.2.6.2) S:T19L, Peru
+
 ### 2023-06-01
 - \+ [FR.1.1](https://cov-lineages.org/lineage.html?lineage=FR.1.1) Alias of B.1.1.529.2.75.5.1.2.3.1.1, S:P82H, ORF1a:L293F, China
 - \+ [FR.1.2](https://cov-lineages.org/lineage.html?lineage=FR.1.2) Alias of B.1.1.529.2.75.5.1.2.3.1.2, S:R190M, China
