@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-06-03
+- \+ [GJ.1](https://cov-lineages.org/lineage.html?lineage=GJ.1) Alias of XBB.2.3.3.1, found mainly in China and USA, from pango-designation issue #2005
+
 ### 2023-06-02
 - \+ [FD.2.1](https://cov-lineages.org/lineage.html?lineage=FD.2.1) Alias of XBB.1.5.15.2.1, ORF1a:D3022N, Peru
 - \+ [XBB.1.5.73](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.73) T28271C, USA/Peru
