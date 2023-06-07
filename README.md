@@ -13,6 +13,15 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-06-07
+- \+ [GK.1](https://cov-lineages.org/lineage.html?lineage=GK.1) Alias of XBB.1.5.70.1, S:S704L, Brazil, from #2025
+- \+ [FL.1.5](https://cov-lineages.org/lineage.html?lineage=FL.1.5) Alias of XBB.1.9.1.1.5, S:456L (T22928C), ORF1b:K2557R, from #1985 and #2036
+- \+ [FL.1.5.1](https://cov-lineages.org/lineage.html?lineage=FL.1.5.1) Alias of XBB.1.9.1.1.5.1, S:478R, from #2036
+- \+ [XBB.1.34](https://cov-lineages.org/lineage.html?lineage=XBB.1.34) S:486P,S:681R, N:A50V, Uganda/Sudan, from pango-designation issue #1621
+- \+ [XBB.1.34.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.34.1) S:E554K, ORF1b:P970L
+- \+ [XBB.1.34.2](https://cov-lineages.org/lineage.html?lineage=XBB.1.34.2) S:K182I, ORF8:C90F, ORF1a:G989C
+- \+ [GH.1](https://cov-lineages.org/lineage.html?lineage=GH.1) Alias of XBB.2.6.1.1, ORF9b:P51Q, T6895C, T9148C, A15192C, Peru, from #1869
+
 ### 2023-06-03
 - \+ [GJ.1](https://cov-lineages.org/lineage.html?lineage=GJ.1) Alias of XBB.2.3.3.1, found mainly in China and USA, from pango-designation issue #2005
 
