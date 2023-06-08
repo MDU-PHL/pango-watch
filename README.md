@@ -13,6 +13,10 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-06-08
+- \+ [XBB.8.2](https://cov-lineages.org/lineage.html?lineage=XBB.8.2) S:486P, ORF1a:A2529V, Reunion/Mayotte/Mauritius, from #1995
+- \+ [XCD](https://cov-lineages.org/lineage.html?lineage=XCD) Recombinant lineage of XBB.1* and BQ.1.1.25*, with S:R214H, S:478I, Indonesia, from #2042
+
 ### 2023-06-07
 - \+ [GK.1](https://cov-lineages.org/lineage.html?lineage=GK.1) Alias of XBB.1.5.70.1, S:S704L, Brazil, from #2025
 - \+ [FL.1.5](https://cov-lineages.org/lineage.html?lineage=FL.1.5) Alias of XBB.1.9.1.1.5, S:456L (T22928C), ORF1b:K2557R, from #1985 and #2036
