@@ -13,6 +13,17 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-06-10
+- \+ [GL.1](https://cov-lineages.org/lineage.html?lineage=GL.1) Alias of XAY.1.1.1.1 Europe, S:D420N, C19441T, from issue #2032
+- \+ [FL.10.1](https://cov-lineages.org/lineage.html?lineage=FL.10.1) Alias of XBB.1.9.1.10.1, S:E554K, C4234T, South Korea
+- \+ [EG.7](https://cov-lineages.org/lineage.html?lineage=EG.7) Alias of XBB.1.9.2.7, S:R403K, S:L513F, ORF1a:N2531S, Germany/England
+- \+ [FE.1.1.1](https://cov-lineages.org/lineage.html?lineage=FE.1.1.1) Alias of XBB.1.18.1.1.1.1, ORF1a:T999I, North America
+- \+ [FE.1.1.2](https://cov-lineages.org/lineage.html?lineage=FE.1.1.2) Alias of XBB.1.18.1.1.1.2, S:K1086R, Brazil/USA
+- \+ [XBB.1.41.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.41.1) S:478R, France
+- \+ [GJ.1.1](https://cov-lineages.org/lineage.html?lineage=GJ.1.1) Alias of XBB.2.3.3.1.1, S:A222V, N:R319H, ORF1a:V1915I
+- \+ [GJ.2](https://cov-lineages.org/lineage.html?lineage=GJ.2) Alias of XBB.2.3.3.2, S:I1114S, Europe
+- \+ [XCE](https://cov-lineages.org/lineage.html?lineage=XCE) Recombinant lineage of BQ.1* and FY.1 (XBB.1.22.1.1), Indonesia, South Korea, France, from lineage-proposals#123
+
 ### 2023-06-08
 - \+ [XBB.8.2](https://cov-lineages.org/lineage.html?lineage=XBB.8.2) S:486P, ORF1a:A2529V, Reunion/Mayotte/Mauritius, from #1995
 - \+ [XCD](https://cov-lineages.org/lineage.html?lineage=XCD) Recombinant lineage of XBB.1* and BQ.1.1.25*, with S:R214H, S:478I, Indonesia, from #2042
