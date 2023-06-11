@@ -13,6 +13,40 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-06-11
+- \+ [DV.6.1](https://cov-lineages.org/lineage.html?lineage=DV.6.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.6.1, S:Q613H, T15591C, Central Europe
+- \+ [DV.6.2](https://cov-lineages.org/lineage.html?lineage=DV.6.2) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.6.2, S:Q613H, C6628T, Asia
+- \+ [DV.7](https://cov-lineages.org/lineage.html?lineage=DV.7) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7, S:L858I, ORF1a:A3548V, England, from #2038
+- \+ [DV.8](https://cov-lineages.org/lineage.html?lineage=DV.8) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.8, S:Q613H, C8299T, C19602T, Sweden
+- \+ [GQ.1](https://cov-lineages.org/lineage.html?lineage=GQ.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.3.1, S:486P, ORF1a:H1545Q, ORF1b:V1520L, Australia/New Zealand, from #1872
+- \+ [GP.1](https://cov-lineages.org/lineage.html?lineage=GP.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.11.1, S:Q52H, ORF7a:T28I, Europe
+- \+ [GP.2](https://cov-lineages.org/lineage.html?lineage=GP.2) Alias of B.1.1.529.2.75.3.4.1.1.1.1.11.2, ORF6:S41F, T13450C, Europe
+- \+ [GP.3](https://cov-lineages.org/lineage.html?lineage=GP.3) Alias of B.1.1.529.2.75.3.4.1.1.1.1.11.3, T5218C, A16878G, A26519G, C29236T, Ireland
+- \+ [FK.1.2.2](https://cov-lineages.org/lineage.html?lineage=FK.1.2.2) Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.2.2, ORF1a:D139N, ORF1a:R226K, ORF1a:Q556K, ORF3a:T64N, T11737C, AUS/NZ
+- \+ [CH.1.1.29](https://cov-lineages.org/lineage.html?lineage=CH.1.1.29) Alias of B.1.1.529.2.75.3.4.1.1.1.1.29, S:613H, ORF1a:P371S, Europe/Canada
+- \+ [CH.1.1.30](https://cov-lineages.org/lineage.html?lineage=CH.1.1.30) Alias of B.1.1.529.2.75.3.4.1.1.1.1.30, ORF1a:Y2968H, C17913T, Germany/Netherlands/Austria
+- \+ [BR.5.1](https://cov-lineages.org/lineage.html?lineage=BR.5.1) Alias of B.1.1.529.2.75.4.5.1 ORF1a:K2029N, ORF1b:T5923I, A20289G, South Korea
+- \+ [FR.1.3](https://cov-lineages.org/lineage.html?lineage=FR.1.3) Alias of B.1.1.529.2.75.5.1.2.3.1.2, ORF1a:A206V, ORF1b:A517V, N:G34E, China, from #2039
+- \+ [BN.1.3.12](https://cov-lineages.org/lineage.html?lineage=BN.1.3.12) Alias of B.1.1.529.2.75.5.1.3.12 C14358T, T22672C, South Korea/Thailand/Germany
+- \+ [EN.1.1](https://cov-lineages.org/lineage.html?lineage=EN.1.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.46.1.1 S:M153I, France
+- \+ [BQ.1.1.75](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.75) Alias of B.1.1.529.5.3.1.1.1.1.1.1.75, S:K182N, S:F456L, Reunion
+- \+ [BQ.1.1.76](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.76) Alias of B.1.1.529.5.3.1.1.1.1.1.1.76, C15180T, Slovenia/Austria
+- \+ [BQ.1.1.77](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.77) Alias of B.1.1.529.5.3.1.1.1.1.1.1.77, C12853T, ORF1b:A1428V, USA/France
+- \+ [BQ.1.1.78](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.78) Alias of B.1.1.529.5.3.1.1.1.1.1.1.78, ORF1a:M315I, ORF1b:P1953L, Japan
+- \+ [GN.1](https://cov-lineages.org/lineage.html?lineage=GN.1) Alias of XBB.1.5.73.1, S:F456L (22928C), Peru/Costa Rica
+- \+ [XBB.1.5.82](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.82) S:K444R, Sweden/Reunion
+- \+ [XBB.1.5.83](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.83) A10624G, South Africa
+- \+ [XBB.1.5.84](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.84) S:M177I, South Africa
+- \+ [XBB.1.5.85](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.85) S:L176F, S:478R, Trinidad and Tobago/Hong Kong
+- \+ [XBB.1.5.86](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.86) ORF1a:G2868S, Brazil
+- \+ [GM.1](https://cov-lineages.org/lineage.html?lineage=GM.1) Alias of XBB.2.3.6.1, S:P621S, Singapore
+- \+ [GM.2](https://cov-lineages.org/lineage.html?lineage=GM.2) Alias of XBB.2.3.6.2, S:G181R, Singapore
+- \+ [XBC.1.1.2](https://cov-lineages.org/lineage.html?lineage=XBC.1.1.2) S:L244F, ORF7b:L32F, Australia
+- \+ [XBC.1.6](https://cov-lineages.org/lineage.html?lineage=XBC.1.6) S:346S, S:M452R, found in Australia, from pango-designation issue #1755
+- \+ [XBC.1.7](https://cov-lineages.org/lineage.html?lineage=XBC.1.7) S:478R, S:444T, Philippines/Australia/Hong Kong
+- \+ [XBL.3.1](https://cov-lineages.org/lineage.html?lineage=XBL.3.1) S:I726V, C10252T, G29702A, Singapore/South Korea/Thailand
+- \+ [XCF](https://cov-lineages.org/lineage.html?lineage=XCF) Recombinant lineage of XBB* and FE.1 (XBB.1.18.1.1), possibly South America, from lineage-proposals#2
+
 ### 2023-06-10
 - \+ [GL.1](https://cov-lineages.org/lineage.html?lineage=GL.1) Alias of XAY.1.1.1.1 Europe, S:D420N, C19441T, from issue #2032
 - \+ [FL.10.1](https://cov-lineages.org/lineage.html?lineage=FL.10.1) Alias of XBB.1.9.1.10.1, S:E554K, C4234T, South Korea
