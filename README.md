@@ -13,6 +13,30 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-06-12
+- \+ [BR.5.1](https://cov-lineages.org/lineage.html?lineage=BR.5.1) Alias of B.1.1.529.2.75.4.5.1 ORF1a:K2029N, ORF1b:T1522I, A20289G, South Korea
+- \+ [XBB.1.4.2](https://cov-lineages.org/lineage.html?lineage=XBB.1.4.2) S:486P, ORf1a:V3595F, Brazil
+- \+ [EU.1.1.2](https://cov-lineages.org/lineage.html?lineage=EU.1.1.2) Alias of XBB.1.5.26.1.1.2, S:A1070S, Germany/Finland/Denmark/Sweden
+- \+ [XBB.1.12](https://cov-lineages.org/lineage.html?lineage=XBB.1.12) Spain/Sweden/Germany, S:Y453F, ORF1a:S216F, ORF1a:A2832V
+- \+ [XBB.1.13.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.13.1) S:Q564E, S:N856K, Czechia
+- \+ [XBB.1.14.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.14.1) S:N148T, N:A211S, Russia
+- \+ [XBB.1.15](https://cov-lineages.org/lineage.html?lineage=XBB.1.15) ORF1a:A540V on ORF8:G8* polytomy, Colombia, USA, Guatemala, and Mexico. Automatically inferred by https://github.com/jmcbroome/autolin.
+- \+ [XBB.1.15.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.15.1) S:486P, A19464G, C9803T, Brazil/Chile/USA
+- \+ [XBB.1.38.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.38.1) S:T883I, Russia
+- \+ [XBB.1.44](https://cov-lineages.org/lineage.html?lineage=XBB.1.44) S:T747I, Russia
+- \+ [XBB.1.44.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.44.1) S:486P, ORF3a:S195F, Russia/China, from #2043
+- \+ [XBB.1.45](https://cov-lineages.org/lineage.html?lineage=XBB.1.45) T21000C, USA/Singapore/Malaysia
+- \+ [XBB.1.45.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.45.1) S:486P, A3139G, A19137G, C28291T, USA/Portugal
+- \+ [XBB.1.46](https://cov-lineages.org/lineage.html?lineage=XBB.1.46) ORF1a:C1114F, Singapore/Malaysia
+- \+ [XBB.1.47](https://cov-lineages.org/lineage.html?lineage=XBB.1.47) ORF1a:T1761I, ORF1a:C2180Y, ORF1a:I2854V, Philippines/Singapore/Japan
+- \+ [XBB.1.47.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.47.1) S:486P, S:A260V, S:V1122G, Japan/USA/Australia/Germany
+- \+ [XBB.1.48](https://cov-lineages.org/lineage.html?lineage=XBB.1.48) S:L455F, S:F456L (22928C), C2509T, Pakistan
+- \+ [XBB.2.6.3](https://cov-lineages.org/lineage.html?lineage=XBB.2.6.3) S:T883I, C25587T, Peru
+- \+ [XBB.2.11](https://cov-lineages.org/lineage.html?lineage=XBB.2.11) C18129T
+- \+ [XBB.2.11.1](https://cov-lineages.org/lineage.html?lineage=XBB.2.11.1) C4084T, C9559T, T16521C, USA
+- \+ [XBB.2.12](https://cov-lineages.org/lineage.html?lineage=XBB.2.12) S:Q613H (G23401C), C4090T, T24194C, India
+- \+ [XCG](https://cov-lineages.org/lineage.html?lineage=XCG) Recombinant lineage of BA.5.2* and XBB.1, Mexico
+
 ### 2023-06-11
 - \+ [DV.6.1](https://cov-lineages.org/lineage.html?lineage=DV.6.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.6.1, S:Q613H, T15591C, Central Europe
 - \+ [DV.6.2](https://cov-lineages.org/lineage.html?lineage=DV.6.2) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.6.2, S:Q613H, C6628T, Asia
