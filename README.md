@@ -13,6 +13,20 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-06-13
+- \+ [FR.1.3](https://cov-lineages.org/lineage.html?lineage=FR.1.3) Alias of B.1.1.529.2.75.5.1.2.3.1.3, ORF1a:A206V, ORF1b:A517V, N:G34E, China, from #2039
+- \+ [GL.1](https://cov-lineages.org/lineage.html?lineage=GL.1) Alias of XAY.1.1.1.1, Europe, S:D420N, C19441T, from issue #2032
+- \+ [GR.1](https://cov-lineages.org/lineage.html?lineage=GR.1) Alias of XBB.1.5.42.1, S:445S, Vietnam
+- \+ [GB.2](https://cov-lineages.org/lineage.html?lineage=GB.2) Alias of XBB.1.5.46.2, S:478R, England/China, from #1891
+- \+ [FL.2.2.1](https://cov-lineages.org/lineage.html?lineage=FL.2.2.1) Alias of XBB.1.9.1.2.2.1, S:T307I, Indonesia
+- \+ [FL.2.3](https://cov-lineages.org/lineage.html?lineage=FL.2.3) Alias of XBB.1.9.1.2.3, ORF1b:K1383R, China, from #2016
+- \+ [FL.16](https://cov-lineages.org/lineage.html?lineage=FL.16) Alias of XBB.1.9.1.16, S:D215V, C3511T, China, from #2001
+- \+ [XBB.1.16.10](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.10) N:G25D, from #1984
+- \+ [FY.1.2](https://cov-lineages.org/lineage.html?lineage=FY.1.2) Alias of XBB.1.22.1.1.2, S:T572I, ORF1b:P218L, Europe
+- \+ [FY.1.3](https://cov-lineages.org/lineage.html?lineage=FY.1.3) Alias of XBB.1.22.1.1.3, S:E583D, South Korea
+- \+ [FY.5](https://cov-lineages.org/lineage.html?lineage=FY.5) Alias of XBB.1.22.1.5, S:478R, Indonesia, from #1965
+- \+ [GS.1](https://cov-lineages.org/lineage.html?lineage=GS.1) Alias of XBB.2.3.11.1, S:213D, C4582T, C25075T, Australia, from #2023
+
 ### 2023-06-12
 - \+ [BR.5.1](https://cov-lineages.org/lineage.html?lineage=BR.5.1) Alias of B.1.1.529.2.75.4.5.1 ORF1a:K2029N, ORF1b:T1522I, A20289G, South Korea
 - \+ [XBB.1.4.2](https://cov-lineages.org/lineage.html?lineage=XBB.1.4.2) S:486P, ORf1a:V3595F, Brazil
