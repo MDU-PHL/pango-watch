@@ -13,6 +13,14 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-06-15
+- \+ [FL.17](https://cov-lineages.org/lineage.html?lineage=FL.17) Alias of XBB.1.9.1.17, T3898C, C28333T
+- \+ [FL.17.1](https://cov-lineages.org/lineage.html?lineage=FL.17.1) Alias of XBB.1.9.1.17.1, S:N74H, South Korea
+- \+ [FL.17.2](https://cov-lineages.org/lineage.html?lineage=FL.17.2) Alias of XBB.1.9.1.17.2, S:L452R, from sars-cov-2-variants/lineage-proposals#53
+- \+ [XBB.1.16.11](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.11) S:P521T, India
+- \+ [GT.1](https://cov-lineages.org/lineage.html?lineage=GT.1) Alias of XBC.1.6.1.1, S:I105V, C28333T, Australia
+- \+ [XBC.1.6.4](https://cov-lineages.org/lineage.html?lineage=XBC.1.6.4) ORF1a:V1117I, T20286C, Australia
+
 ### 2023-06-14
 - \+ [XBB.1.5.87](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.87) S:478R, ORF1a:E1633K, ORF1a:M1588K, C9763T, C20946T, Indonesia
 - \+ [FL.1.6](https://cov-lineages.org/lineage.html?lineage=FL.1.6) Alias of XBB.1.9.1.1.5, S:N481K, S:Q1208H
