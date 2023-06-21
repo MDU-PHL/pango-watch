@@ -13,6 +13,15 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-06-21
+- \+ [GU.1](https://cov-lineages.org/lineage.html?lineage=GU.1) Alias of XBB.1.5.41.1, S:N481S, USA/Canada
+- \+ [GV.1](https://cov-lineages.org/lineage.html?lineage=GV.1) Alias of XBB.1.5.48.1, S:478R
+- \+ [FL.1.6](https://cov-lineages.org/lineage.html?lineage=FL.1.6) Alias of XBB.1.9.1.1.6, S:N481K, S:Q1208H
+- \+ [FL.4.3](https://cov-lineages.org/lineage.html?lineage=FL.4.3) Alias of XBB.1.9.1.4.3, S:A766S, G7393T, Myanmar
+- \+ [FL.17.2](https://cov-lineages.org/lineage.html?lineage=FL.17.2) Alias of XBB.1.9.1.17.2, S:L452R, ORF7a:V104L, from sars-cov-2-variants/lineage-proposals#53
+- \+ [EG.5.1.1](https://cov-lineages.org/lineage.html?lineage=EG.5.1.1) Alias of XBB.1.9.2.5.1.1, found mainly in China, from pango-designation issue #2020
+- \+ [FU.2.1](https://cov-lineages.org/lineage.html?lineage=FU.2.1) Alias of XBB.1.16.1.2.1, S:E619Q, Vietnam
+
 ### 2023-06-15
 - \+ [FL.17](https://cov-lineages.org/lineage.html?lineage=FL.17) Alias of XBB.1.9.1.17, T3898C, C28333T
 - \+ [FL.17.1](https://cov-lineages.org/lineage.html?lineage=FL.17.1) Alias of XBB.1.9.1.17.1, S:N74H, South Korea
