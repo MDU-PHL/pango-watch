@@ -13,6 +13,15 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-06-27
+- \+ [DV.7.1](https://cov-lineages.org/lineage.html?lineage=DV.7.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7, S:L455F, S:F456L, Spain/Austria, from sars-cov-2-variants/lineage-proposals#135
+- \+ [BN.1.2.7](https://cov-lineages.org/lineage.html?lineage=BN.1.2.7) Alias of B.1.1.529.2.75.5.1.2.7, N:N8S, C16332T, Taiwan, from #1923
+- \+ [GY.1](https://cov-lineages.org/lineage.html?lineage=GY.1) Alias of XBB.1.16.2.1, S:L84I, ORF1a:A4068S, China, from #2066
+- \+ [GY.2](https://cov-lineages.org/lineage.html?lineage=GY.2) Alias of XBB.1.16.2.2, S:T883I
+- \+ [GW.1](https://cov-lineages.org/lineage.html?lineage=GW.1) Alias of XBB.1.19.1.1, ORF1a:D264N, N:M322V, China
+- \+ [GW.2](https://cov-lineages.org/lineage.html?lineage=GW.2) Alias of XBB.1.19.1.2, S:D936G, USA
+- \+ [GJ.1.2](https://cov-lineages.org/lineage.html?lineage=GJ.1.2) Alias of XBB.2.3.3.1.2, ORF1b:V1110I, from #2059
+
 ### 2023-06-21
 - \+ [GU.1](https://cov-lineages.org/lineage.html?lineage=GU.1) Alias of XBB.1.5.41.1, S:N481S, USA/Canada
 - \+ [GV.1](https://cov-lineages.org/lineage.html?lineage=GV.1) Alias of XBB.1.5.48.1, S:478R
