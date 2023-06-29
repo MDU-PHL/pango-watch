@@ -13,6 +13,23 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-06-29
+- \+ [BQ.1.1.79](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.79) Alias of B.1.1.529.5.3.1.1.1.1.1.1.79, S:Q613H, C1594T, C16362T, T24079C, Greece
+- \+ [HC.1](https://cov-lineages.org/lineage.html?lineage=HC.1) Alias of XBB.1.5.44.1, S:P631S, USA
+- \+ [HA.1](https://cov-lineages.org/lineage.html?lineage=HA.1) Alias of XBB.1.5.86.1, S:F456L (22930A), Brazil/Canada
+- \+ [HA.2](https://cov-lineages.org/lineage.html?lineage=HA.2) Alias of XBB.1.5.86.2, S:P521S, Brazil
+- \+ [XBB.1.5.88](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.88) C2299T, South Africa
+- \+ [XBB.1.5.89](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.89) S:478R, S:554A, Canada/Italy/France
+- \+ [FL.13.2](https://cov-lineages.org/lineage.html?lineage=FL.13.2) Alias of XBB.1.9.1.13.2, S:K356T, China, from #2073
+- \+ [FL.18](https://cov-lineages.org/lineage.html?lineage=FL.18) Alias of XBB.1.9.1.18, ORF1a:T2007I
+- \+ [FL.18.1](https://cov-lineages.org/lineage.html?lineage=FL.18.1) Alias of XBB.1.9.1.18.1, N:T166I, A27507C, from #2019
+- \+ [FL.18.1.1](https://cov-lineages.org/lineage.html?lineage=FL.18.1.1) Alias of XBB.1.9.1.18.1.1, S:Y200C, S:478R, Australia/Indonesia
+- \+ [FL.19](https://cov-lineages.org/lineage.html?lineage=FL.19) Alias of XBB.1.9.1.18, T2377C
+- \+ [EG.2.1](https://cov-lineages.org/lineage.html?lineage=EG.2.1) Alias of XBB.1.9.2.2.1, S:F456L (T22930A), S:V327I, Indonesia
+- \+ [FU.3](https://cov-lineages.org/lineage.html?lineage=FU.3) Alias of XBB.1.16.1.3, C11665T, India-RJ
+- \+ [HB.1](https://cov-lineages.org/lineage.html?lineage=HB.1) Alias of XBB.1.34.2.1, S:F456L (22928C), US/China/Canada, from sars-cov-2-variants/lineage-proposals#217
+- \+ [GZ.1](https://cov-lineages.org/lineage.html?lineage=GZ.1) Alias of XBB.2.3.4.1, S:F186L, India-GJ
+
 ### 2023-06-27
 - \+ [DV.7.1](https://cov-lineages.org/lineage.html?lineage=DV.7.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7, S:L455F, S:F456L, Spain/Austria, from sars-cov-2-variants/lineage-proposals#135
 - \+ [BN.1.2.7](https://cov-lineages.org/lineage.html?lineage=BN.1.2.7) Alias of B.1.1.529.2.75.5.1.2.7, N:N8S, C16332T, Taiwan, from #1923
