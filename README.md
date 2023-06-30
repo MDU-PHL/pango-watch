@@ -13,6 +13,18 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-06-30
+- \+ [FL.1.1.1](https://cov-lineages.org/lineage.html?lineage=FL.1.1.1) Alias of XBB.1.9.1.1.1.1, S:A688S, Australia/Mauritius
+- \+ [FL.1.7](https://cov-lineages.org/lineage.html?lineage=FL.1.7) Alias of XBB.1.9.1.1.7, S:478R, S:C1235F, Indonesia
+- \+ [FL.4.1.1](https://cov-lineages.org/lineage.html?lineage=FL.4.1.1) Alias of XBB.1.9.1.4.1.1, S:K478R, ORF1a:I2286T, Indonesia/Australia
+- \+ [FL.4.4](https://cov-lineages.org/lineage.html?lineage=FL.4.4) Alias of XBB.1.9.1.4.4, ORF1a:T1542I, T24544C, S:478T (reversion), Indonesia
+- \+ [FL.4.5](https://cov-lineages.org/lineage.html?lineage=FL.4.5) Alias of XBB.1.9.1.4.5, ORF8:S67F, ORF1a:D1228G, C23635T
+- \+ [FL.4.6](https://cov-lineages.org/lineage.html?lineage=FL.4.6) Alias of XBB.1.9.1.4.6, T5098C, C13965T, Australia/China
+- \+ [FL.4.7](https://cov-lineages.org/lineage.html?lineage=FL.4.7) Alias of XBB.1.9.1.4.7, S:L452R, Singapore
+- \+ [FL.19](https://cov-lineages.org/lineage.html?lineage=FL.19) Alias of XBB.1.9.1.19, T2377C
+- \+ [FL.20](https://cov-lineages.org/lineage.html?lineage=FL.20) Alias of XBB.1.9.1.20, S:F456L (22928C), S:Q52H, Spain, from #2072
+- \+ [XBB.1.31.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.31.1) S:E554K, Indonesia
+
 ### 2023-06-29
 - \+ [BQ.1.1.79](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.79) Alias of B.1.1.529.5.3.1.1.1.1.1.1.79, S:Q613H, C1594T, C16362T, T24079C, Greece
 - \+ [HC.1](https://cov-lineages.org/lineage.html?lineage=HC.1) Alias of XBB.1.5.44.1, S:P631S, USA
