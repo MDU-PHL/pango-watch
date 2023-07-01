@@ -13,6 +13,22 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-07-01
+- \+ [FL.5.1](https://cov-lineages.org/lineage.html?lineage=FL.5.1) Alias of XBB.1.9.1.5.1, S:M177T
+- \+ [FL.21](https://cov-lineages.org/lineage.html?lineage=FL.21) Alias of XBB.1.9.1.21, A10564T, South Korea/China
+- \+ [FL.22](https://cov-lineages.org/lineage.html?lineage=FL.22) Alias of XBB.1.9.1.22, ORF1b:I1416V, T24184C
+- \+ [FL.23](https://cov-lineages.org/lineage.html?lineage=FL.23) Alias of XBB.1.9.1.23, ORF1b:V1132I, Philippines
+- \+ [EG.1.4.1](https://cov-lineages.org/lineage.html?lineage=EG.1.4.1) Alias of XBB.1.9.2.1.4.1, S:P217L, South Korea
+- \+ [EG.1.5](https://cov-lineages.org/lineage.html?lineage=EG.1.5) Alias of XBB.1.9.2.1.5, S:S98F, Europe
+- \+ [EG.8](https://cov-lineages.org/lineage.html?lineage=EG.8) Alias of XBB.1.9.2.8, ORF1a:S2303F, Europe
+- \+ [GD.2](https://cov-lineages.org/lineage.html?lineage=GD.2) Alias of XBB.1.9.3.2, S:L212S, Philippines
+- \+ [GD.3](https://cov-lineages.org/lineage.html?lineage=GD.3) Alias of XBB.1.9.3.3, S:F59L, Russia
+- \+ [GY.2.1](https://cov-lineages.org/lineage.html?lineage=GY.2.1) Alias of XBB.1.16.2.2.1, S:S255F, South Korea
+- \+ [GY.3](https://cov-lineages.org/lineage.html?lineage=GY.3) Alias of XBB.1.16.2.3, S:M177I, Thailand
+- \+ [XBB.1.16.12](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.12) S:Q52H, South Korea
+- \+ [XBB.1.16.13](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.13) ORF1a:G519S, ORF1a:G1101D, India
+- \+ [FY.6](https://cov-lineages.org/lineage.html?lineage=FY.6) Alias of XBB.1.22.1.6, T2935C, ORF1a:A591V, France
+
 ### 2023-06-30
 - \+ [FL.1.1.1](https://cov-lineages.org/lineage.html?lineage=FL.1.1.1) Alias of XBB.1.9.1.1.1.1, S:A688S, Australia/Mauritius
 - \+ [FL.1.7](https://cov-lineages.org/lineage.html?lineage=FL.1.7) Alias of XBB.1.9.1.1.7, S:478R, S:C1235F, Indonesia
