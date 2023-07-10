@@ -13,6 +13,22 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-07-10
+- \+ [CM.8.1.5](https://cov-lineages.org/lineage.html?lineage=CM.8.1.5) Alias of B.1.1.529.2.3.20.8.1.5, S:K150E, S:Y248H, N:A155V, Philippines
+- \+ [CJ.1.3.1](https://cov-lineages.org/lineage.html?lineage=CJ.1.3.1) Alias of B.1.1.529.2.75.3.1.1.1.1.3.1, S:R214S, ORF1a:G3578S, South Korea/Japan
+- \+ [CJ.1.3.2](https://cov-lineages.org/lineage.html?lineage=CJ.1.3.2) Alias of B.1.1.529.2.75.3.1.1.1.1.3.2, S:D936H, South Korea
+- \+ [GQ.1.1](https://cov-lineages.org/lineage.html?lineage=GQ.1.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.3.1.1, S:G213E, New Zealand
+- \+ [FK.1.3.1](https://cov-lineages.org/lineage.html?lineage=FK.1.3.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.3.1, S:E583D, Australia
+- \+ [FK.1.3.2](https://cov-lineages.org/lineage.html?lineage=FK.1.3.2) Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.3.2, C9391T, T13596C, Australia/Japan
+- \+ [FK.1.5](https://cov-lineages.org/lineage.html?lineage=FK.1.5) Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.5, G5155A, C12439T, Australia/New Zealand
+- \+ [FR.1.4](https://cov-lineages.org/lineage.html?lineage=FR.1.4) Alias of B.1.1.529.2.75.5.1.2.3.1.4, A3715G, C15960T, on shared T2372C, C7318T, ORF1a:L293F branch with FR.1.1, China
+- \+ [CK.1.1.1](https://cov-lineages.org/lineage.html?lineage=CK.1.1.1) Alias of B.1.1.529.5.2.24.1.1.1, S:E654K, G6742T, C8782T, Japan
+- \+ [CK.1.3](https://cov-lineages.org/lineage.html?lineage=CK.1.3) Alias of B.1.1.529.5.2.24.1.3, Mexico, S:F157L, S:G181V
+- \+ [CK.1.4](https://cov-lineages.org/lineage.html?lineage=CK.1.4) Alias of B.1.1.529.5.2.24.1.4, C10228T, C25824T, C27741T, on C25614T branch
+- \+ [CK.1.5](https://cov-lineages.org/lineage.html?lineage=CK.1.5) Alias of B.1.1.529.5.2.24.1.5, C9118T, C15951T, ORF1a:M3733V, on C25614T branch
+- \+ [EU.1.1.3](https://cov-lineages.org/lineage.html?lineage=EU.1.1.3) Alias of XBB.1.5.26.1.1.3, S:F157L, Europe
+- \+ [FL.24](https://cov-lineages.org/lineage.html?lineage=FL.24) Alias of XBB.1.9.1.24, S:Q613H, S:A688V
+
 ### 2023-07-01
 - \+ [FL.5.1](https://cov-lineages.org/lineage.html?lineage=FL.5.1) Alias of XBB.1.9.1.5.1, S:M177T
 - \+ [FL.21](https://cov-lineages.org/lineage.html?lineage=FL.21) Alias of XBB.1.9.1.21, A10564T, South Korea/China
