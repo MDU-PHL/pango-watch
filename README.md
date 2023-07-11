@@ -13,6 +13,18 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-07-11
+- \+ [GK.2](https://cov-lineages.org/lineage.html?lineage=GK.2) Alias of XBB.1.5.70.2, S:V511I
+- \+ [XBB.1.5.90](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.90) S:P621S, ORF1ab:S6713L, Belgium/France
+- \+ [XBB.1.5.91](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.91) S:P621S, USA
+- \+ [FL.2.4](https://cov-lineages.org/lineage.html?lineage=FL.2.4) Alias of XBB.1.9.1.2.4, ORF8:S67F, China
+- \+ [FL.25](https://cov-lineages.org/lineage.html?lineage=FL.25) Alias of XBB.1.9.1.25, S:E554K, USA/England
+- \+ [FL.26](https://cov-lineages.org/lineage.html?lineage=FL.26) Alias of XBB.1.9.1.26, C22264T
+- \+ [FL.26.1](https://cov-lineages.org/lineage.html?lineage=FL.26.1) Alias of XBB.1.9.1.26.1, S:493L, Sweden
+- \+ [XBB.1.16.14](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.14) S:L452Q, after A11782G, India/France/Canada
+- \+ [XCF.1](https://cov-lineages.org/lineage.html?lineage=XCF.1) S:F157L, USA
+- \+ [XCF.2](https://cov-lineages.org/lineage.html?lineage=XCF.2) S:S929I, Canada
+
 ### 2023-07-10
 - \+ [CM.8.1.5](https://cov-lineages.org/lineage.html?lineage=CM.8.1.5) Alias of B.1.1.529.2.3.20.8.1.5, S:K150E, S:Y248H, N:A155V, Philippines
 - \+ [CJ.1.3.1](https://cov-lineages.org/lineage.html?lineage=CJ.1.3.1) Alias of B.1.1.529.2.75.3.1.1.1.1.3.1, S:R214S, ORF1a:G3578S, South Korea/Japan
