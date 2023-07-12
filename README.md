@@ -13,6 +13,25 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-07-12
+- \+ [CM.8.1.5](https://cov-lineages.org/lineage.html?lineage=CM.8.1.5) Alias of B.1.1.529.2.3.20.8.1.5, S:K150E, S:Y248H, N:A155V, Philippines, from sars-cov-2-variants/lineage-proposals#293
+- \+ [CJ.1.3.1](https://cov-lineages.org/lineage.html?lineage=CJ.1.3.1) Alias of B.1.1.529.2.75.3.1.1.1.1.3.1, S:R214S, ORF1a:G3578S, South Korea/Japan, sars-cov-2-variants/lineage-proposals#287
+- \+ [CJ.1.3.2](https://cov-lineages.org/lineage.html?lineage=CJ.1.3.2) Alias of B.1.1.529.2.75.3.1.1.1.1.3.2, S:D936H, South Korea, sars-cov-2-variants/lineage-proposals#287
+- \+ [GQ.1.1](https://cov-lineages.org/lineage.html?lineage=GQ.1.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.3.1.1, S:G213E, New Zealand, from sars-cov-2-variants/lineage-proposals#343
+- \+ [FR.1.4](https://cov-lineages.org/lineage.html?lineage=FR.1.4) Alias of B.1.1.529.2.75.5.1.2.3.1.4, A3715G, C15960T, on shared T2372C, C7318T, ORF1a:L293F branch with FR.1.1, China, sars-cov-2-variants/lineage-proposals#256
+- \+ [EU.1.1.3](https://cov-lineages.org/lineage.html?lineage=EU.1.1.3) Alias of XBB.1.5.26.1.1.3, S:F157L, Europe, from sars-cov-2-variants/lineage-proposals#312
+- \+ [GK.2](https://cov-lineages.org/lineage.html?lineage=GK.2) Alias of XBB.1.5.70.2, S:V511I, from sars-cov-2-variants/lineage-proposals#300
+- \+ [XBB.1.5.90](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.90) S:P621S, ORF1ab:S6713L, Belgium/France, from #1849
+- \+ [XBB.1.5.92](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.92) ORF1a:T1168I, Ecuador
+- \+ [XBB.1.5.93](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.93) C337T, C19186T, USA
+- \+ [HD.1](https://cov-lineages.org/lineage.html?lineage=HD.1) Alias of XBB.1.5.93.1, S:T346I, USA/Dominican Republic
+- \+ [FL.10.1](https://cov-lineages.org/lineage.html?lineage=FL.10.1) Alias of XBB.1.9.1.10.1, S:E554K, C4234T, South Korea, from #2040
+- \+ [FL.24](https://cov-lineages.org/lineage.html?lineage=FL.24) Alias of XBB.1.9.1.24, S:Q613H, S:A688V, from sars-cov-2-variants/lineage-proposals#284
+- \+ [FL.25](https://cov-lineages.org/lineage.html?lineage=FL.25) Alias of XBB.1.9.1.25, S:E554K, USA/England, from #2040
+- \+ [FU.4](https://cov-lineages.org/lineage.html?lineage=FU.4) Alias of XBB.1.16.1.4, S:Y453F, T29410C
+- \+ [XBB.1.16.14](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.14) S:L452Q, after A11782G, India/France/Canada, from sars-cov-2-variants/lineage-proposals#329
+- \+ [XCF.1](https://cov-lineages.org/lineage.html?lineage=XCF.1) S:F157L, USA, from sars-cov-2-variants/lineage-proposals#274
+
 ### 2023-07-11
 - \+ [GK.2](https://cov-lineages.org/lineage.html?lineage=GK.2) Alias of XBB.1.5.70.2, S:V511I
 - \+ [XBB.1.5.90](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.90) S:P621S, ORF1ab:S6713L, Belgium/France
