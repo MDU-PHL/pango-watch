@@ -13,6 +13,17 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-07-14
+- \+ [AY.3.5](https://cov-lineages.org/lineage.html?lineage=AY.3.5) Alias of B.1.617.2.3.5, S:Q52H, USA
+- \+ [GK.1.1](https://cov-lineages.org/lineage.html?lineage=GK.1.1) Alias of XBB.1.5.70.1.1, S:T573I, Brazil
+- \+ [GK.1.2](https://cov-lineages.org/lineage.html?lineage=GK.1.2) Alias of XBB.1.5.70.1.2, S:N185D, Brazil
+- \+ [GK.1.3](https://cov-lineages.org/lineage.html?lineage=GK.1.3) Alias of XBB.1.5.70.1.3, ORF1a:E633A, ORF1b:D1130G, USA/Canada
+- \+ [HF.1](https://cov-lineages.org/lineage.html?lineage=HF.1) XBB.1.16.13.1, S:K304N, South Korea/Japan
+- \+ [XBB.1.16.16](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.16) S:Q613H, S:S412N, India-GJ/USA/Pakistan
+- \+ [HE.1](https://cov-lineages.org/lineage.html?lineage=HE.1) Alias of XBB.1.18.1.1.1.1.1, S:V622I, ORF8:A55V, USA/Puerto Rico
+- \+ [FE.1.1.3](https://cov-lineages.org/lineage.html?lineage=FE.1.1.3) Alias of XBB.1.18.1.1.1.3, A24775G, China
+- \+ [FE.1.1.4](https://cov-lineages.org/lineage.html?lineage=FE.1.1.4) Alias of XBB.1.18.1.1.1.4, A4336G, T24073C, Brazil
+
 ### 2023-07-13
 - \+ [XBB.1.16.15](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.15) S:K147N, S:P521S, T10756C, T14067C, on C27513T branch, from #2092
 
