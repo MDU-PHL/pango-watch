@@ -13,6 +13,20 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-07-15
+- \+ [CM.7.1](https://cov-lineages.org/lineage.html?lineage=CM.7.1) Alias of B.1.1.529.2.3.20.7.1, S:K147E, Europe, from sars-cov-2-variants/lineage-proposals#37
+- \+ [CM.7.1.1](https://cov-lineages.org/lineage.html?lineage=CM.7.1.1) Alias of B.1.1.529.2.3.20.7.1, S:R403K, Europe, from sars-cov-2-variants/lineage-proposals#37
+- \+ [XBB.1.5.94](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.94) S:Q613H, T25461C, France
+- \+ [EG.1.6](https://cov-lineages.org/lineage.html?lineage=EG.1.6) Alias of XBB.1.9.2.1.6, G26235T
+- \+ [XBB.1.49](https://cov-lineages.org/lineage.html?lineage=XBB.1.49) S:346S, S:486P, on C16648A, A27965G, pre ORF8:8* branch with XBB.1.33, Somalia
+- \+ [HH.1](https://cov-lineages.org/lineage.html?lineage=HH.1) Alias of XBB.2.3.2.1, ORF1a:T2977I, T20697C
+- \+ [HH.1.1](https://cov-lineages.org/lineage.html?lineage=HH.1.1) Alias of XBB.2.3.2.1.1, S:G181A
+- \+ [HH.2](https://cov-lineages.org/lineage.html?lineage=HH.2) Alias of XBB.2.3.2.2, ORF1a:D48Y
+- \+ [GJ.3](https://cov-lineages.org/lineage.html?lineage=GJ.3) Alias of XBB.2.3.3.3, ORF1a:P971S, ORF1b:V2371L
+- \+ [HG.1](https://cov-lineages.org/lineage.html?lineage=HG.1) Alias of XBB.2.3.8.1, S:S98F, South Korea
+- \+ [XBB.2.3.13](https://cov-lineages.org/lineage.html?lineage=XBB.2.3.13) ORF1a:T1822I, Spain
+- \+ [XBB.2.3.14](https://cov-lineages.org/lineage.html?lineage=XBB.2.3.14) ORF1a:Q998H
+
 ### 2023-07-14
 - \+ [AY.3.5](https://cov-lineages.org/lineage.html?lineage=AY.3.5) Alias of B.1.617.2.3.5, S:Q52H, USA
 - \+ [GK.1.1](https://cov-lineages.org/lineage.html?lineage=GK.1.1) Alias of XBB.1.5.70.1.1, S:T573I, Brazil
