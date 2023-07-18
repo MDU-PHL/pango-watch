@@ -13,6 +13,33 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-07-18
+- \+ [HC.1](https://cov-lineages.org/lineage.html?lineage=HC.1) Alias of XBB.1.5.44.1, S:P631S, USA, from sars-cov-2-variants/lineage-proposals#106
+- \+ [XBB.1.5.45](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.45) S:478R, C27425T, G28079T, India-GJ/MH, from #1792
+- \+ [GK.1.2](https://cov-lineages.org/lineage.html?lineage=GK.1.2) Alias of XBB.1.5.70.1.2, S:N185D, Brazil from #2093
+- \+ [XBB.1.5.89](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.89) S:478R, S:554A, Canada/Italy/France, from sars-cov-2-variants/lineage-proposals#175
+- \+ [HD.1](https://cov-lineages.org/lineage.html?lineage=HD.1) Alias of XBB.1.5.93.1, S:T346I, USA/Dominican Republic from sars-cov-2-variants/lineage-proposals#363
+- \+ [FL.1](https://cov-lineages.org/lineage.html?lineage=FL.1) Alias of XBB.1.9.1.1, S:701V, ORF1a:G993S, from #1808
+- \+ [FL.1.5](https://cov-lineages.org/lineage.html?lineage=FL.1.5) Alias of XBB.1.9.1.1.5, S:456L (T22928C), ORF1b:K2557R, from #2036
+- \+ [FL.1.7](https://cov-lineages.org/lineage.html?lineage=FL.1.7) Alias of XBB.1.9.1.1.7, S:478R, S:C1235F, Indonesia, from #1985
+- \+ [FL.4.1.1](https://cov-lineages.org/lineage.html?lineage=FL.4.1.1) Alias of XBB.1.9.1.4.1.1, S:K478R, ORF1a:I2286T, Indonesia/Australia, from sars-cov-2-variants/lineage-proposals#107
+- \+ [FL.4.5](https://cov-lineages.org/lineage.html?lineage=FL.4.5) Alias of XBB.1.9.1.4.5, ORF8:S67F, ORF1a:D1228G, C23635T, from #2018
+- \+ [FL.4.7](https://cov-lineages.org/lineage.html?lineage=FL.4.7) Alias of XBB.1.9.1.4.7, S:L452R, Singapore, from sars-cov-2-variants/lineage-proposals#92
+- \+ [FL.5.1](https://cov-lineages.org/lineage.html?lineage=FL.5.1) Alias of XBB.1.9.1.5.1, S:M177T, from #2041
+- \+ [EG.5.1](https://cov-lineages.org/lineage.html?lineage=EG.5.1) Alias of XBB.1.9.2.5.1, S:Q52H
+- \+ [EG.5.1.1](https://cov-lineages.org/lineage.html?lineage=EG.5.1.1) Alias of XBB.1.9.2.5.1.1, China, from pango-designation issue #2020
+- \+ [XBB.1.12.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.12.1) S:Q613H, S:E1202Q, Argentina/Chile/Spain from https://github.com/sars-cov-2-variants/lineage-proposals/issues/336
+- \+ [FU.4](https://cov-lineages.org/lineage.html?lineage=FU.4) Alias of XBB.1.16.1.4, S:Y453F, T29410C from #1832
+- \+ [HF.1](https://cov-lineages.org/lineage.html?lineage=HF.1) XBB.1.16.13.1, S:K304N, South Korea/Japan from #2083
+- \+ [XBB.1.16.16](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.16) S:Q613H, S:S412N, India-GJ/USA/Pakistan from sars-cov-2-variants/lineage-proposals#54
+- \+ [HE.1](https://cov-lineages.org/lineage.html?lineage=HE.1) Alias of XBB.1.18.1.1.1.1.1, S:V622I, ORF8:A55V, USA/Puerto Rico, from #2067
+- \+ [GW.1](https://cov-lineages.org/lineage.html?lineage=GW.1) Alias of XBB.1.19.1.1, ORF1a:D264N, N:M322V, China, from sars-cov-2-variants/lineage-proposals#157
+- \+ [XBB.1.42.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.42.1) S:478R from https://github.com/sars-cov-2-variants/lineage-proposals/issues/198
+- \+ [XBB.1.49](https://cov-lineages.org/lineage.html?lineage=XBB.1.49) S:346S, S:486P, on C16648A, A27965G, pre ORF8:8* branch with XBB.1.33, Somalia from sars-cov-2-variants/lineage-proposals#208
+- \+ [HH.1.1](https://cov-lineages.org/lineage.html?lineage=HH.1.1) Alias of XBB.2.3.2.1.1, S:G181A from sars-cov-2-variants/lineage-proposals#183
+- \+ [XBB.2.3.4](https://cov-lineages.org/lineage.html?lineage=XBB.2.3.4) S:478Q, India, from #1822
+- \+ [XBB.3.5](https://cov-lineages.org/lineage.html?lineage=XBB.3.5) ORF1a:T4083M, Mozambique, from #1778
+
 ### 2023-07-15
 - \+ [CM.7.1](https://cov-lineages.org/lineage.html?lineage=CM.7.1) Alias of B.1.1.529.2.3.20.7.1, S:K147E, Europe, from sars-cov-2-variants/lineage-proposals#37
 - \+ [CM.7.1.1](https://cov-lineages.org/lineage.html?lineage=CM.7.1.1) Alias of B.1.1.529.2.3.20.7.1, S:R403K, Europe, from sars-cov-2-variants/lineage-proposals#37
