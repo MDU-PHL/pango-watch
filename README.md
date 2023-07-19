@@ -13,6 +13,30 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-07-19
+- \+ [C.1](https://cov-lineages.org/lineage.html?lineage=C.1) Alias of B.1.1.1.1, South Africa, from #2
+- \+ [P.1.1](https://cov-lineages.org/lineage.html?lineage=P.1.1) Alias of B.1.1.28.1.1, European lineage in Italy and Germany, from #28
+- \+ [P.3](https://cov-lineages.org/lineage.html?lineage=P.3) Alias of B.1.1.28.3, Lineage predominantly in the Philippines with spike mutations E484K, N501Y, P681H, 141-143del. Described in Tablizo et al 2021: https://www.medrxiv.org/content/10.1101/2021.03.03.21252812v2, from #27
+- \+ [N.9](https://cov-lineages.org/lineage.html?lineage=N.9) Alias of B.1.1.33.9, Brazilian lineage, from #26
+- \+ [BQ.1.1.41](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.41) Alias of B.1.1.529.5.3.1.1.1.1.1.1.41 USA, defined by S:K182I，from #1291
+- \+ [BQ.1.1.45](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.45) Alias of B.1.1.529.5.3.1.1.1.1.1.1.45 Europe, S:Y248D，from #1512
+- \+ [B.1.214.1](https://cov-lineages.org/lineage.html?lineage=B.1.214.1) Congo/ France lineage, from #21
+- \+ [B.1.214.2](https://cov-lineages.org/lineage.html?lineage=B.1.214.2) Lineage from Belgium with a number of key spike mutations and a 9bp spike insertion, from #20
+- \+ [B.1.214.3](https://cov-lineages.org/lineage.html?lineage=B.1.214.3) France, Belgium and Mayotte lineage, from #20
+- \+ [B.1.214.4](https://cov-lineages.org/lineage.html?lineage=B.1.214.4) Danish lineage, from #20
+- \+ [B.1.429](https://cov-lineages.org/lineage.html?lineage=B.1.429) A lineage predominantly circulating in California but with exports to other countries. Characterised by the spike L452R mutation but also has spike:W152C orf1ab:D5584Y, and N:T205I, from #3
+- \+ [B.1.525](https://cov-lineages.org/lineage.html?lineage=B.1.525) International lineage with E484K, del69-70 among other defining mutations, from #4
+- \+ [B.1.526](https://cov-lineages.org/lineage.html?lineage=B.1.526) A lineage predominantly circulating in New York but with a few exports to other countries. Characterised by spike mutations T95I and D253G, plus others. The most frequent spike mutation pattern is L5F T95I D253G E484K D614G A701V, with a smaller fraction having S477N instead of E484K. Spike mutation E484K is present in about half of this lineage (as of 2021-02-10) - Very possible not all new additions carry T95I and D253G (someone should check this, e.g. for USA/NY-Wadsworth-21008455-01/2021 and Aruba/AW-RIVM-11403/2021), from #6
+- \+ [XBB.1.5.53](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.53) S:F140I, S:L582F, S:R403K, South Africa，from #1804
+- \+ [XBB.1.9.2](https://cov-lineages.org/lineage.html?lineage=XBB.1.9.2) S:F486P (after 27507C, 16878T), Indonesia/Singapore，from #1602
+- \+ [XBB.1.11](https://cov-lineages.org/lineage.html?lineage=XBB.1.11) Indonesia/Malaysia/Singapore/US, C13968A and G16377A，from #1490
+- \+ [XBB.1.11.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.11.1) Indonesia/Malaysia/Singapore, S:S486P，from #1490
+- \+ [XBB.1.19.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.19.1) Defined by S:E554K，from #1765
+- \+ [FY.3.1](https://cov-lineages.org/lineage.html?lineage=FY.3.1) Alias of XBB.1.22.1.3.1, S:I210T, China，from #2009
+- \+ [XBB.1.42](https://cov-lineages.org/lineage.html?lineage=XBB.1.42) S:486P, S:Q613H, on ORF1a:T4175I branch with XBB.1.9, Indonesia/Malaysia/China，from #1954
+- \+ [XBB.2.3](https://cov-lineages.org/lineage.html?lineage=XBB.2.3) Defined by S:P521S and S:S486P, India/Indonesia/Singapore/USA，from #1603 and #1535
+- \+ [XBB.2.4](https://cov-lineages.org/lineage.html?lineage=XBB.2.4) Defined by S:S486P, Spain/Denmark/Germany，from #1603 and #1518
+
 ### 2023-07-18
 - \+ [HC.1](https://cov-lineages.org/lineage.html?lineage=HC.1) Alias of XBB.1.5.44.1, S:P631S, USA, from sars-cov-2-variants/lineage-proposals#106
 - \+ [XBB.1.5.45](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.45) S:478R, C27425T, G28079T, India-GJ/MH, from #1792
