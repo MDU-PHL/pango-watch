@@ -13,6 +13,26 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-07-20
+- \+ [HJ.1](https://cov-lineages.org/lineage.html?lineage=HJ.1) Alias of XBB.1.5.1.1, S:E324K, C4543T, USA
+- \+ [FD.4.1](https://cov-lineages.org/lineage.html?lineage=FD.4.1) Alias of XBB.1.5.15.4.1, ORF1a:T4355I, ORF1b:I2634F
+- \+ [XBB.1.5.95](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.95) ORF1:A1851V
+- \+ [XBB.1.5.96](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.96) C28603T
+- \+ [FL.23.1](https://cov-lineages.org/lineage.html?lineage=FL.23.1) Alias of XBB.1.9.1.23.1, ORF1a:A2584V, C8016, C8311T
+- \+ [FL.27](https://cov-lineages.org/lineage.html?lineage=FL.27) Alias of XBB.1.9.1.27, ORF1a:V3747I
+- \+ [EG.4.1](https://cov-lineages.org/lineage.html?lineage=EG.4.1) Alias of XBB.1.9.2.4.1, S:I870V, N:A119S
+- \+ [EG.4.2](https://cov-lineages.org/lineage.html?lineage=EG.4.2) Alias of XBB.1.9.2.4.2, S:A623V, T14652C, China
+- \+ [EG.4.3](https://cov-lineages.org/lineage.html?lineage=EG.4.3) Alias of XBB.1.9.2.4.3, S:Q613H
+- \+ [FU.3.1](https://cov-lineages.org/lineage.html?lineage=FU.3.1) Alias of XBB.1.16.1.3.1, S:G184S
+- \+ [GY.4](https://cov-lineages.org/lineage.html?lineage=GY.4) Alias of XBB.1.16.2.4, S:N450K, C29095T, Laos
+- \+ [GY.5](https://cov-lineages.org/lineage.html?lineage=GY.5) Alias of XBB.1.16.2.5, G9190C
+- \+ [GY.6](https://cov-lineages.org/lineage.html?lineage=GY.6) Alias of XBB.1.16.2.6, ORF1a:V1765I
+- \+ [GY.7](https://cov-lineages.org/lineage.html?lineage=GY.7) Alias of XBB.1.16.2.7, ORF1a:G3617C, G5515T, Thailand/Laos
+- \+ [XBB.1.19.1](https://cov-lineages.org/lineage.html?lineage=XBB.1.19.1) Defined by S:E554K，Pakistan, from #1765
+- \+ [GW.3](https://cov-lineages.org/lineage.html?lineage=GW.3) Alias of XBB.1.19.1.3, ORF1a:S100N, ORF1a:N3537S
+- \+ [GW.4](https://cov-lineages.org/lineage.html?lineage=GW.4) Alias of XBB.1.19.1.4, ORF1a:M3280I
+- \+ [XBB.1.31.2](https://cov-lineages.org/lineage.html?lineage=XBB.1.31.2) ORF1a:A1049V, Indonesia
+
 ### 2023-07-19
 - \+ [C.1](https://cov-lineages.org/lineage.html?lineage=C.1) Alias of B.1.1.1.1, South Africa, from #2
 - \+ [P.1.1](https://cov-lineages.org/lineage.html?lineage=P.1.1) Alias of B.1.1.28.1.1, European lineage in Italy and Germany, from #28
