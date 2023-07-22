@@ -13,6 +13,44 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-07-22
+- \+ [BA.2.75.9](https://cov-lineages.org/lineage.html?lineage=BA.2.75.9) Alias of B.1.1.529.2.75.9, India, defined by S:R346T after 17679T From #1098
+- \+ [CB.1](https://cov-lineages.org/lineage.html?lineage=CB.1) Alias of B.1.1.529.2.75.9.1, England, defined by S:486V From #1098
+- \+ [CK.2](https://cov-lineages.org/lineage.html?lineage=CK.2) Alias of B.1.1.529.5.2.24.2, Pakistan, defined by E:V62F From #1190
+- \+ [CK.2.1.1](https://cov-lineages.org/lineage.html?lineage=CK.2.1.1) Alias of B.1.1.529.5.2.24.2.1.1, defined by S:S255F From #1190
+- \+ [BA.5.2.36](https://cov-lineages.org/lineage.html?lineage=BA.5.2.36) Alias of B.1.1.529.5.2.36, India/Pakistan lineage, defined by S:K444T From #1203
+- \+ [CT.1](https://cov-lineages.org/lineage.html?lineage=CT.1) Alias of B.1.1.529.5.2.36.1, India/Pakistan lineage, defined by S:K356T From #1203
+- \+ [BA.5.2.38](https://cov-lineages.org/lineage.html?lineage=BA.5.2.38) Alias of B.1.1.529.5.2.38, S:T430I From #1254
+- \+ [DA.1](https://cov-lineages.org/lineage.html?lineage=DA.1) Alias of B.1.1.529.5.2.38.1, Indonesia, S:R346T From #1254
+- \+ [AY.13](https://cov-lineages.org/lineage.html?lineage=AY.13) Alias of B.1.617.2.13, USA lineage From #198
+- \+ [AY.14](https://cov-lineages.org/lineage.html?lineage=AY.14) Alias of B.1.617.2.14, USA lineage From #198
+- \+ [AY.15](https://cov-lineages.org/lineage.html?lineage=AY.15) Alias of B.1.617.2.15, Canada lineage From #198
+- \+ [AY.16](https://cov-lineages.org/lineage.html?lineage=AY.16) Alias of B.1.617.2.16, lineage in Kenya and multiple other countries From #198
+- \+ [AY.17](https://cov-lineages.org/lineage.html?lineage=AY.17) Alias of B.1.617.2.17, Ireland and Northern Ireland lineage From #198
+- \+ [AY.18](https://cov-lineages.org/lineage.html?lineage=AY.18) Alias of B.1.617.2.18, Canada lineage From #198
+- \+ [AY.19](https://cov-lineages.org/lineage.html?lineage=AY.19) Alias of B.1.617.2.19, South Africa lineage From #198
+- \+ [AY.20](https://cov-lineages.org/lineage.html?lineage=AY.20) Alias of B.1.617.2.20, USA and Mexico lineage From #198
+- \+ [AY.21](https://cov-lineages.org/lineage.html?lineage=AY.21) Alias of B.1.617.2.21, lineage predominantly in Italy and Switzerland From #198
+- \+ [AY.22](https://cov-lineages.org/lineage.html?lineage=AY.22) Alias of B.1.617.2.22, predominantly Portugal lineage From #198
+- \+ [AY.34.1.1](https://cov-lineages.org/lineage.html?lineage=AY.34.1.1) Alias of B.1.617.2.34.1.1, Brazil and Chile lineage From #255
+- \+ [AY.58](https://cov-lineages.org/lineage.html?lineage=AY.58) Alias of B.1.617.2.58, European lineage From #286
+- \+ [AY.63](https://cov-lineages.org/lineage.html?lineage=AY.63) Alias of B.1.617.2.63, Norway lineage From #286
+- \+ [AY.99](https://cov-lineages.org/lineage.html?lineage=AY.99) Alias of B.1.617.2.99, South Africa and Nigeria lineage From #258
+- \+ [AY.99.1](https://cov-lineages.org/lineage.html?lineage=AY.99.1) Alias of B.1.617.2.99.1, Brazil lineage From #258
+- \+ [AY.99.2](https://cov-lineages.org/lineage.html?lineage=AY.99.2) Alias of B.1.617.2.99.2, Brazil lineage From #258
+- \+ [AY.112.1](https://cov-lineages.org/lineage.html?lineage=AY.112.1) Alias of B.1.617.2.112.1, Bahrain lineage From #283
+- \+ [AY.121.1](https://cov-lineages.org/lineage.html?lineage=AY.121.1) Alias of B.1.617.2.121.1, Poland and Germany lineage From #344
+- \+ [AY.122](https://cov-lineages.org/lineage.html?lineage=AY.122) Alias of B.1.617.2.122, European lineage From #320
+- \+ [FL.2.2.1](https://cov-lineages.org/lineage.html?lineage=FL.2.2.1) Alias of XBB.1.9.1.2.2.1, S:T307I, Indonesia, from #2027
+- \+ [FL.18.1.1](https://cov-lineages.org/lineage.html?lineage=FL.18.1.1) Alias of XBB.1.9.1.18.1.1, S:Y200C, S:478R, Australia/Indonesia, from #2019
+- \+ [FL.23.1](https://cov-lineages.org/lineage.html?lineage=FL.23.1) Alias of XBB.1.9.1.23.1, ORF1a:A2584V, C23185T, C8311T
+- \+ [EG.4.2](https://cov-lineages.org/lineage.html?lineage=EG.4.2) Alias of XBB.1.9.2.4.2, S:A623V, T14652C, China From sars-cov-2-variants/lineage-proposals/#46
+- \+ [GY.4](https://cov-lineages.org/lineage.html?lineage=GY.4) Alias of XBB.1.16.2.4, S:N450K, C29095T, Laos, from https://github.com/sars-cov-2-variants/lineage-proposals/issues/345
+- \+ [GY.6](https://cov-lineages.org/lineage.html?lineage=GY.6) Alias of XBB.1.16.2.6, ORF1a:V1765I From sars-cov-2-variants/lineage-proposals/#308
+- \+ [XBB.1.32](https://cov-lineages.org/lineage.html?lineage=XBB.1.32) Defined by ORF1a:E148D, Philippines From #1827
+- \+ [XBB.1.37](https://cov-lineages.org/lineage.html?lineage=XBB.1.37) Defined by A5371G, Indonesia/Russia From #1929
+- \+ [XBF.1.1](https://cov-lineages.org/lineage.html?lineage=XBF.1.1) England, S:P621S From #1651
+
 ### 2023-07-21
 - \+ [C.2.1](https://cov-lineages.org/lineage.html?lineage=C.2.1) Alias of B.1.1.1.2.1, Aruba and Curacao From #32
 - \+ [C.39](https://cov-lineages.org/lineage.html?lineage=C.39) Alias of B.1.1.1.39, Chile and Peru lineage From #178
