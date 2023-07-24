@@ -13,6 +13,45 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-07-24
+- \+ [HM.1](https://cov-lineages.org/lineage.html?lineage=HM.1) Alias of XBB.1.5.30.1, S:N481K, Canada/Australia
+- \+ [FT.2](https://cov-lineages.org/lineage.html?lineage=FT.2) Alias of XBB.1.5.39.2, S:K1045N, Canada-QC/USA-NY
+- \+ [FT.3](https://cov-lineages.org/lineage.html?lineage=FT.3) Alias of XBB.1.5.39.3, S:Q52H, USA
+- \+ [FT.3.1](https://cov-lineages.org/lineage.html?lineage=FT.3.1) Alias of XBB.1.5.39.3.1, S:K478R, S:D1168H, Canada/USA
+- \+ [FT.4](https://cov-lineages.org/lineage.html?lineage=FT.4) Alias of XBB.1.5.39.4, S:E180Q, Germany
+- \+ [GN.1.1](https://cov-lineages.org/lineage.html?lineage=GN.1.1) Alias of XBB.1.5.73.1.1, ORF1b:A1643V, Peru
+- \+ [GN.2](https://cov-lineages.org/lineage.html?lineage=GN.2) Alias of XBB.1.5.73.2, ORF3a:A99G, Peru
+- \+ [GN.3](https://cov-lineages.org/lineage.html?lineage=GN.3) Alias of XBB.1.5.73.3, C27143T, Peru
+- \+ [GN.4](https://cov-lineages.org/lineage.html?lineage=GN.4) Alias of XBB.1.5.73.4, ORF1a:Q3966L, Peru
+- \+ [GN.5](https://cov-lineages.org/lineage.html?lineage=GN.5) Alias of XBB.1.5.73.5, ORF1a:L1110I, ORF1a:S4135F, Peru
+- \+ [HD.1.1](https://cov-lineages.org/lineage.html?lineage=HD.1.1) Alias of XBB.1.5.93.1.1, S:K356T, Dominican Republic
+- \+ [FL.2.3.1](https://cov-lineages.org/lineage.html?lineage=FL.2.3.1) Alias of XBB.1.9.1.2.3.1, S:K356T, China
+- \+ [FL.13.3](https://cov-lineages.org/lineage.html?lineage=FL.13.3) Alias of XBB.1.9.1.13.3, T19110C
+- \+ [FL.13.3.1](https://cov-lineages.org/lineage.html?lineage=FL.13.3.1) Alias of XBB.1.9.1.13.3.1, S:E154Q, England
+- \+ [FL.28](https://cov-lineages.org/lineage.html?lineage=FL.28) Alias of XBB.1.9.1.28, S:K478R, ORF1a:S1520F, ORF3a:R68I, Spain
+- \+ [HK.1](https://cov-lineages.org/lineage.html?lineage=HK.1) Alias of XBB.1.9.2.5.1.1.1, S:G257V, China
+- \+ [HK.2](https://cov-lineages.org/lineage.html?lineage=HK.2) Alias of XBB.1.9.2.5.1.1.2, S:Q14H, China
+- \+ [HK.3](https://cov-lineages.org/lineage.html?lineage=HK.3) Alias of XBB.1.9.2.5.1.1.3, S:L455F, China
+- \+ [HK.4](https://cov-lineages.org/lineage.html?lineage=HK.4) Alias of XBB.1.9.2.5.1.1.4, S:T883I, China
+- \+ [HK.5](https://cov-lineages.org/lineage.html?lineage=HK.5) Alias of XBB.1.9.2.5.1.1.5, S:Q677H, China
+- \+ [EG.5.1.2](https://cov-lineages.org/lineage.html?lineage=EG.5.1.2) Alias of XBB.1.9.2.5.1.2, Japan, ORF1b:V1644I
+- \+ [EG.5.1.3](https://cov-lineages.org/lineage.html?lineage=EG.5.1.3) Alias of XBB.1.9.2.5.1.3, ORF1a:R542C, C22570T
+- \+ [EG.5.1.4](https://cov-lineages.org/lineage.html?lineage=EG.5.1.4) Alias of XBB.1.9.2.5.1.4, ORF1b:K2557R
+- \+ [EG.5.1.5](https://cov-lineages.org/lineage.html?lineage=EG.5.1.5) Alias of XBB.1.9.2.5.1.5, ORF1a:L3293I, ORF1b:T1274I, ORF1b:L2349V, Portugal
+- \+ [EG.5.1.6](https://cov-lineages.org/lineage.html?lineage=EG.5.1.6) Alias of XBB.1.9.2.5.1.6, S:F157L, ORF1a:S1857L, USA
+- \+ [XBB.1.16.17](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.17) S:E554K
+- \+ [GA.4](https://cov-lineages.org/lineage.html?lineage=GA.4) Alias of XBB.1.17.1.4, S:K356T, ORF1a:N1080D, ORF1a:S2553F, Nigeria
+- \+ [GA.5](https://cov-lineages.org/lineage.html?lineage=GA.5) Alias of XBB.1.17.1.5, T23797C
+- \+ [GA.6](https://cov-lineages.org/lineage.html?lineage=GA.6) Alias of XBB.1.17.1.6, ORF1a:I2138V, G8785A, Ghana
+- \+ [GA.6.1](https://cov-lineages.org/lineage.html?lineage=GA.6.1) Alias of XBB.1.17.1.6.1, S:478R, A19767G, C29642T
+- \+ [FY.2.1](https://cov-lineages.org/lineage.html?lineage=FY.2.1) Alias of XBB.1.22.1.2.1, S:A684V
+- \+ [FY.4.1.1](https://cov-lineages.org/lineage.html?lineage=FY.4.1.1) Alias of XBB.1.22.1.4.1.1, S:S704L
+- \+ [FY.7](https://cov-lineages.org/lineage.html?lineage=FY.7) Alias of XBB.1.22.1.7, S:G769A, S:D1168E
+- \+ [FW.3](https://cov-lineages.org/lineage.html?lineage=FW.3) Alias of XBB.1.28.1.3, ORF1a:D2627N
+- \+ [XBB.1.42.2](https://cov-lineages.org/lineage.html?lineage=XBB.1.42.2) C6040T, G9049A
+- \+ [HL.1](https://cov-lineages.org/lineage.html?lineage=HL.1) Alias of XBB.1.42.2.1, S:E583D
+- \+ [HL.2](https://cov-lineages.org/lineage.html?lineage=HL.2) Alias of XBB.1.42.2.2, S:S929N, China
+
 ### 2023-07-22
 - \+ [BA.2.75.9](https://cov-lineages.org/lineage.html?lineage=BA.2.75.9) Alias of B.1.1.529.2.75.9, India, defined by S:R346T after 17679T From #1098
 - \+ [CB.1](https://cov-lineages.org/lineage.html?lineage=CB.1) Alias of B.1.1.529.2.75.9.1, England, defined by S:486V From #1098
