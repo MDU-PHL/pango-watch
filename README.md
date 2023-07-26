@@ -13,6 +13,20 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-07-26
+- \+ [DV.7.1](https://cov-lineages.org/lineage.html?lineage=DV.7.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1, S:L455F, S:F456L, Spain/Austria, from sars-cov-2-variants/lineage-proposals#135
+- \+ [DV.7.2](https://cov-lineages.org/lineage.html?lineage=DV.7.2) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.2, C703T, England
+- \+ [XBB.1.5.98](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.98) S:E554K, ORF8:V32L, Ghana
+- \+ [XBB.1.5.99](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.99) S:E554K, ORF1a:T1168I, C823T, Ecuador
+- \+ [EG.5.2.1](https://cov-lineages.org/lineage.html?lineage=EG.5.2.1) Alias of XBB.1.9.2.5.2.1, S:S704L, USA
+- \+ [EG.5.2.2](https://cov-lineages.org/lineage.html?lineage=EG.5.2.2) Alias of XBB.1.9.2.5.2.2, ORF1b:T239I, China
+- \+ [EG.5.2.3](https://cov-lineages.org/lineage.html?lineage=EG.5.2.3) Alias of XBB.1.9.2.5.2.3, S:S704L, S:N1178D, Austria/USA
+- \+ [XBB.1.16.18](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.18) ORF7a:T39I
+- \+ [XBB.1.16.19](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.19) ORF1b:V839I
+- \+ [XBB.1.16.20](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.20) ORF7b:S31L
+- \+ [XBB.1.16.21](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.21) ORF1a:V4072I
+- \+ [XBB.1.16.22](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.22) ORF3a:E242Q
+
 ### 2023-07-25
 - \+ [FK.1.1.1](https://cov-lineages.org/lineage.html?lineage=FK.1.1.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.1.1, S:V445A, Australia
 - \+ [FK.1.1.2](https://cov-lineages.org/lineage.html?lineage=FK.1.1.2) Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.1.2, C9223T, T23071G
