@@ -13,6 +13,21 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-07-27
+- \+ [HT.1](https://cov-lineages.org/lineage.html?lineage=HT.1) Alias of XBB.1.5.49.1, S:148T, T4798C, Mexico
+- \+ [HT.2](https://cov-lineages.org/lineage.html?lineage=HT.2) Alias of XBB.1.5.49.2, S:T51I
+- \+ [HP.1](https://cov-lineages.org/lineage.html?lineage=HP.1) Alias of XBB.1.5.55.1, N:L13F, US/Mexico
+- \+ [HP.1.1](https://cov-lineages.org/lineage.html?lineage=HP.1.1) Alias of XBB.1.5.55.1.1, S:478R, Mexico
+- \+ [HR.1](https://cov-lineages.org/lineage.html?lineage=HR.1) Alias of XBB.1.5.77.1, S:478R, N:I292V, Costa Rica/USA
+- \+ [XBB.1.5.92](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.92) ORF1a:T1168I, C823T, Ecuador
+- \+ [HQ.1](https://cov-lineages.org/lineage.html?lineage=HQ.1) Alias of XBB.1.5.92.1, S:E554K, Ecuador
+- \+ [XBB.1.5.95](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.95) ORF1a:A1851V
+- \+ [HS.1](https://cov-lineages.org/lineage.html?lineage=HS.1) Alias of XBB.1.5.95.1, S:478R, Mexico
+- \+ [XBB.1.5.99](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.99) ORF1a:V1122A, ORF1a:T2121I, Slovakia/Austria
+- \+ [FL.20.1](https://cov-lineages.org/lineage.html?lineage=FL.20.1) Alias of XBB.1.9.1.20.1, S:L455W, Northern Ireland/England, from #2145
+- \+ [GW.5](https://cov-lineages.org/lineage.html?lineage=GW.5) Alias of XBB.1.19.1.5, S:K478I, S:L455F, S:L456L, Pakistan
+- \+ [XBB.1.19.2](https://cov-lineages.org/lineage.html?lineage=XBB.1.19.2) Defined by S:P521S, Pakistan
+
 ### 2023-07-26
 - \+ [DV.7.1](https://cov-lineages.org/lineage.html?lineage=DV.7.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1, S:L455F, S:F456L, Spain/Austria, from sars-cov-2-variants/lineage-proposals#135
 - \+ [DV.7.2](https://cov-lineages.org/lineage.html?lineage=DV.7.2) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.2, C703T, England
