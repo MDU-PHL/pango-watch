@@ -13,6 +13,16 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-07-28
+- \+ [FT.3.1.1](https://cov-lineages.org/lineage.html?lineage=FT.3.1.1) Alias of XBB.1.5.39.3.1.1, S:A348S, USA
+- \+ [FL.19](https://cov-lineages.org/lineage.html?lineage=FL.19) Alias of XBB.1.9.1.19, T2377C, C17502T, T24505G, South Korea
+- \+ [FL.19.1](https://cov-lineages.org/lineage.html?lineage=FL.19.1) Alias of XBB.1.9.1.19.1, S:F456L (22928C), ORF1b:A1877V, Spain/Italy/Puerto Rico, from #2138
+- \+ [FL.21.1](https://cov-lineages.org/lineage.html?lineage=FL.21.1) Alias of XBB.1.9.1.21.1, S:D1084N, South Korea
+- \+ [FL.21.2](https://cov-lineages.org/lineage.html?lineage=FL.21.2) Alias of XBB.1.9.1.21.1, ORF1a:V1019F, ORF1a:I2873M, China
+- \+ [FU.5](https://cov-lineages.org/lineage.html?lineage=FU.5) Alias of XBB.1.16.1.5, S:K97E, ORF1a:R542C, Bangladesh, from #2137
+- \+ [HU.1](https://cov-lineages.org/lineage.html?lineage=HU.1) Alias of XBB.1.22.2.1, S:K529N
+- \+ [HU.2](https://cov-lineages.org/lineage.html?lineage=HU.2) Alias of XBB.1.22.2.2, S:T76I, ORF1a:R24H, ORF1b:A1428V, Australia/New Zealand
+
 ### 2023-07-27
 - \+ [HT.1](https://cov-lineages.org/lineage.html?lineage=HT.1) Alias of XBB.1.5.49.1, S:148T, T4798C, Mexico
 - \+ [HT.2](https://cov-lineages.org/lineage.html?lineage=HT.2) Alias of XBB.1.5.49.2, S:T51I
