@@ -13,6 +13,18 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-08-08
+- \+ [XBB.1.5.101](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.101) ORF7a:E3Q, C14877T, Scandinavia/Poland/Vietnam
+- \+ [FL.2.5](https://cov-lineages.org/lineage.html?lineage=FL.2.5) Alias of XBB.1.9.1.2.5, S:Q314E
+- \+ [EG.11](https://cov-lineages.org/lineage.html?lineage=EG.11) Alias of XBB.1.9.2.11, S:E554K, A26319G, Malaysia
+- \+ [EG.12](https://cov-lineages.org/lineage.html?lineage=EG.12) Alias of XBB.1.9.2.12, S:E554K, N:R195T, ORF1a:T4159I, Oman/Austria/Brunei/India
+- \+ [GY.8](https://cov-lineages.org/lineage.html?lineage=GY.8) Alias of XBB.1.16.2.8, S:F456L, C25452T, Japan
+- \+ [FY.4.2](https://cov-lineages.org/lineage.html?lineage=FY.4.2) Alias of XBB.1.22.1.4.2, ORF1a:Y2171F, ORF1b:V2287I, Kenya/USA/Japan
+- \+ [HU.1](https://cov-lineages.org/lineage.html?lineage=HU.1) Alias of XBB.1.22.2.1, S:K529N, France, from #2136
+- \+ [HU.1.1](https://cov-lineages.org/lineage.html?lineage=HU.1.1) Alias of XBB.1.22.2.1.1, S:E471Q, S:Y28H, France/USA
+- \+ [XBB.1.22.3](https://cov-lineages.org/lineage.html?lineage=XBB.1.22.3) Defined by ORF1a:P3504L, ORF1b:H1838N, Japan
+- \+ [GJ.4](https://cov-lineages.org/lineage.html?lineage=GJ.4) Alias of XBB.2.3.3.4, S:M153I
+
 ### 2023-08-07
 - \+ [BN.1.3.13](https://cov-lineages.org/lineage.html?lineage=BN.1.3.13) Alias of B.1.1.529.2.75.5.1.3.13 S:V445A, C3817T, C17818T, Taiwan/Japan/South Korea
 
