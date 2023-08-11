@@ -13,6 +13,11 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-08-11
+- \+ [JB.1](https://cov-lineages.org/lineage.html?lineage=JB.1) Alias of XBB.1.5.53.1, S:N148T, South Africa
+- \+ [JB.2](https://cov-lineages.org/lineage.html?lineage=JB.2) Alias of XBB.1.5.53.2, S:K478R, South Africa/USA
+- \+ [JA.1](https://cov-lineages.org/lineage.html?lineage=JA.1) Alias of XBB.2.3.13.1, S:F456L (T22928C), Spain/England/France, see sars-cov-2-variants/lineage-proposals#240
+
 ### 2023-08-08
 - \+ [XBB.1.5.101](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.101) ORF7a:E3Q, C14877T, Scandinavia/Poland/Vietnam
 - \+ [FL.2.5](https://cov-lineages.org/lineage.html?lineage=FL.2.5) Alias of XBB.1.9.1.2.5, S:Q314E
