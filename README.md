@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-08-18
+- \+ [BA.2.86](https://cov-lineages.org/lineage.html?lineage=BA.2.86) Alias of B.1.1.529.2.86, from pango-designation issue #2183
+
 ### 2023-08-16
 - \+ [HP.1](https://cov-lineages.org/lineage.html?lineage=HP.1) Alias of XBB.1.5.55.1, N:L13F, US/Mexico From sars-cov-2-variants/lineage-proposals#277
 - \+ [HP.1.1](https://cov-lineages.org/lineage.html?lineage=HP.1.1) Alias of XBB.1.5.55.1.1, S:478R, Mexico From sars-cov-2-variants/lineage-proposals#277
