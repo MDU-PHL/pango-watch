@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-08-19
+- \+ [XBB.1.5.92](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.92) ORF1a:T1168I, Ecuador
+
 ### 2023-08-18
 - \+ [BA.2.86](https://cov-lineages.org/lineage.html?lineage=BA.2.86) Alias of B.1.1.529.2.86, from pango-designation issue #2183
 
