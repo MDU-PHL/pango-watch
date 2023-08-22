@@ -13,6 +13,18 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-08-22
+- \+ [BN.1.3.13](https://cov-lineages.org/lineage.html?lineage=BN.1.3.13) Alias of B.1.1.529.2.75.5.1.3.13 S:V445A, C3817T, C17818T, Taiwan/Japan/South Korea From sars-cov-2-variants/lineage-proposals#218
+- \+ [HQ.1](https://cov-lineages.org/lineage.html?lineage=HQ.1) Alias of XBB.1.5.92.1, S:E554K, Ecuador From sars-cov-2-variants/lineage-proposals#170
+- \+ [FP.2.1](https://cov-lineages.org/lineage.html?lineage=FP.2.1) Alias of XBB.1.11.1.2.1, S:478R, ORF1a:I693T, ORF1a:T951A, ORF3a:W149C, Indonesia From #2012
+- \+ [GA.4.1](https://cov-lineages.org/lineage.html?lineage=GA.4.1) Alias of XBB.1.17.1.4.1, S:K478R, S:S704L, S:E554K, USA/Qatar
+- \+ [FY.4.2](https://cov-lineages.org/lineage.html?lineage=FY.4.2) Alias of XBB.1.22.1.4.2, ORF1a:Y2171F, ORF1b:V2287I, Kenya/USA/Japan From sars-cov-2-variants/lineage-proposals#487
+- \+ [FW.1.1](https://cov-lineages.org/lineage.html?lineage=FW.1.1) Alias of XBB.1.28.1.1.1, S:N148T, UK
+- \+ [JC.1](https://cov-lineages.org/lineage.html?lineage=JC.1) Alias of XBB.1.41.1.1, S:K77R, Japan/Hawaii
+- \+ [XBB.1.41.2](https://cov-lineages.org/lineage.html?lineage=XBB.1.41.2) S:S494P
+- \+ [GE.1.1](https://cov-lineages.org/lineage.html?lineage=GE.1.1) Alias of XBB.2.3.10.1.1, S:E554K, Bangladesh/Singapore
+- \+ [GE.1.2](https://cov-lineages.org/lineage.html?lineage=GE.1.2) Alias of XBB.2.3.10.1.2, S:N148T, Kenya
+
 ### 2023-08-19
 - \+ [XBB.1.5.92](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.92) ORF1a:T1168I, Ecuador
 
