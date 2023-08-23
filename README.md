@@ -13,6 +13,10 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-08-23
+- \+ [XBB.1.5.102](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.102) C6896T, C14085T, C19488T, Brazil-Amazonas
+- \+ [JD.1](https://cov-lineages.org/lineage.html?lineage=JD.1) Alias of XBB.1.5.102, S:L455F, S:F456L (T22928C), A14634G, T28282C, Brazil, from #2071
+
 ### 2023-08-22
 - \+ [BN.1.3.13](https://cov-lineages.org/lineage.html?lineage=BN.1.3.13) Alias of B.1.1.529.2.75.5.1.3.13 S:V445A, C3817T, C17818T, Taiwan/Japan/South Korea From sars-cov-2-variants/lineage-proposals#218
 - \+ [HQ.1](https://cov-lineages.org/lineage.html?lineage=HQ.1) Alias of XBB.1.5.92.1, S:E554K, Ecuador From sars-cov-2-variants/lineage-proposals#170
