@@ -13,6 +13,24 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-08-24
+- \+ [JB.2.1](https://cov-lineages.org/lineage.html?lineage=JB.2.1) Alias of XBB.1.5.53.2.1, S:H245Y, S:E554D, South Africa
+- \+ [GK.1.4](https://cov-lineages.org/lineage.html?lineage=GK.1.4) Alias of XBB.1.5.70.1.4, S:478R, S:98F, Brazil
+- \+ [GK.2.1](https://cov-lineages.org/lineage.html?lineage=GK.2.1) Alias of XBB.1.5.70.2.1, ORF1a:L624I, ORF1a:L3641S, ORF1b:S763C
+- \+ [FL.1.5.2](https://cov-lineages.org/lineage.html?lineage=FL.1.5.2) Alias of XBB.1.9.1.1.5.2, S:N481K, S:H681R, England/France/Denmark
+- \+ [HK.3.1](https://cov-lineages.org/lineage.html?lineage=HK.3.1) Alias of XBB.1.9.2.5.1.1.3.1, S:F157L, China
+- \+ [HK.6](https://cov-lineages.org/lineage.html?lineage=HK.6) Alias of XBB.1.9.2.5.1.1.6, S:D253G, ORF1a:A1923T, UK/USA
+- \+ [JF.1](https://cov-lineages.org/lineage.html?lineage=JF.1) Alias of XBB.1.16.6.1, S:L455F, USA
+- \+ [JF.2](https://cov-lineages.org/lineage.html?lineage=JF.2) Alias of XBB.1.16.6.2, S:Q675H, USA/Wales
+- \+ [JE.1](https://cov-lineages.org/lineage.html?lineage=JE.1) Alias of XBB.2.3.3.1.2.1.1, S:478R, Singapore/SouthKorea/US
+- \+ [HG.2](https://cov-lineages.org/lineage.html?lineage=HG.2) Alias of XBB.2.3.8.2, S:T259I, South Korea/USA
+- \+ [GE.1.3](https://cov-lineages.org/lineage.html?lineage=GE.1.3) Alias of XBB.2.3.10.1.3, S:T732I
+- \+ [GS.2](https://cov-lineages.org/lineage.html?lineage=GS.2) Alias of XBB.2.3.11.2, S:T470N, Singapore/Brunei
+- \+ [GS.3](https://cov-lineages.org/lineage.html?lineage=GS.3) Alias of XBB.2.3.11.3, S:R190S, USA/UK
+- \+ [GS.4](https://cov-lineages.org/lineage.html?lineage=GS.4) Alias of XBB.2.3.11.4, M:A104V, ORF1a:A104V, France
+- \+ [GS.4.1](https://cov-lineages.org/lineage.html?lineage=GS.4.1) Alias of XBB.2.3.11.4.1, S:N185D, ORF3a:G172C, France
+- \+ [XCH](https://cov-lineages.org/lineage.html?lineage=XCH) Recombinant lineage of GK.1.3 and XBB.1.9 (or XBB.1.16), GK.1.3 Spike with ORF9b:I5T from donor, from #2173
+
 ### 2023-08-23
 - \+ [XBB.1.5.102](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.102) C6896T, C14085T, C19488T, Brazil-Amazonas
 - \+ [JD.1](https://cov-lineages.org/lineage.html?lineage=JD.1) Alias of XBB.1.5.102, S:L455F, S:F456L (T22928C), A14634G, T28282C, Brazil, from #2071
