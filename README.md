@@ -13,6 +13,15 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-08-25
+- \+ [HC.2](https://cov-lineages.org/lineage.html?lineage=HC.2) Alias of XBB.1.5.44.2, S:F157L, Canada
+- \+ [JD.1](https://cov-lineages.org/lineage.html?lineage=JD.1) Alias of XBB.1.5.102.1, S:L455F, S:F456L (T22928C), A14634G, T28282C, Brazil, from #2071
+- \+ [EG.5.1.7](https://cov-lineages.org/lineage.html?lineage=EG.5.1.7) Alias of XBB.1.9.2.5.1.7, S:K278N
+- \+ [GM.3](https://cov-lineages.org/lineage.html?lineage=GM.3) Alias of XBB.2.3.6.3, ORF1a:R4017K, Singapore
+- \+ [GM.3.1](https://cov-lineages.org/lineage.html?lineage=GM.3.1) Alias of XBB.2.3.6.3.1, S:N388K, Japan
+- \+ [GS.4](https://cov-lineages.org/lineage.html?lineage=GS.4) Alias of XBB.2.3.11.4, M:A104V, ORF1a:A181T, France
+- \+ [XCJ](https://cov-lineages.org/lineage.html?lineage=XCJ) Recombinant lineage of GM.2 with a little FP.1 (XBB.1.11.1.1) sandwich inserted in ORF1ab, from lineage-proposals#609
+
 ### 2023-08-24
 - \+ [JB.2.1](https://cov-lineages.org/lineage.html?lineage=JB.2.1) Alias of XBB.1.5.53.2.1, S:H245Y, S:E554D, South Africa
 - \+ [GK.1.4](https://cov-lineages.org/lineage.html?lineage=GK.1.4) Alias of XBB.1.5.70.1.4, S:478R, S:98F, Brazil
