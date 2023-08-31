@@ -13,6 +13,16 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-08-31
+- \+ [XBB.1.5.103](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.103) S:F456L (T22928C), S:180/184del, S:N185D, ORF1a:T1437I, ORF7b:C41W, T21357C, Argentina
+- \+ [EG.2.2](https://cov-lineages.org/lineage.html?lineage=EG.2.2) Alias of XBB.1.9.2.2.2, S:K304N, Indonesia/Japan
+- \+ [EG.2.3](https://cov-lineages.org/lineage.html?lineage=EG.2.3) Alias of XBB.1.9.2.2.3, S:I742V, Indonesia/Singapore
+- \+ [EG.2.4](https://cov-lineages.org/lineage.html?lineage=EG.2.4) Alias of XBB.1.9.2.2.4, S:K356T, ORF1a:G2265D, Singapore
+- \+ [EG.2.5](https://cov-lineages.org/lineage.html?lineage=EG.2.5) Alias of XBB.1.9.2.2.4, S:Q675H, Indonesia
+- \+ [HK.7](https://cov-lineages.org/lineage.html?lineage=HK.7) Alias of XBB.1.9.2.5.1.1.7, S:N148T, China
+- \+ [JG.1](https://cov-lineages.org/lineage.html?lineage=JG.1) Alias of XBB.1.9.2.5.1.3.1, S:T732I, France
+- \+ [XCH.1](https://cov-lineages.org/lineage.html?lineage=XCH.1) S:T573I
+
 ### 2023-08-26
 - \+ [JD.1.1](https://cov-lineages.org/lineage.html?lineage=JD.1.1) Alias of XBB.1.5.102.1.1, S:A475V, Brazil/USA/Spain
 - \+ [JD.1.2](https://cov-lineages.org/lineage.html?lineage=JD.1.2) Alias of XBB.1.5.102.1.2, S:P1162S, Brazil
