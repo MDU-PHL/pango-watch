@@ -13,6 +13,21 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-09-01
+- \+ [BQ.1.2.2](https://cov-lineages.org/lineage.html?lineage=BQ.1.2.2) Alias of B.1.1.529.5.3.1.1.1.1.1.2.2, S:K147E, S:R346T, S:V445A, West Africa from #1861
+- \+ [JH.1](https://cov-lineages.org/lineage.html?lineage=JH.1) Alias of B.1.1.529.5.3.1.1.1.1.1.2.2.1, S:K182E, S:486A, S:S494P, S:E554K, from #2068
+- \+ [JH.2](https://cov-lineages.org/lineage.html?lineage=JH.2) Alias of B.1.1.529.5.3.1.1.1.1.1.2.2.2, S:A484T, S:V486A, USA/Canada/Finland, from https://github.com/sars-cov-2-variants/lineage-proposals/issues/650
+- \+ [FL.2.6](https://cov-lineages.org/lineage.html?lineage=FL.2.6) Alias of XBB.1.9.1.2.6, S:N641K, from #2180
+- \+ [FL.4.8](https://cov-lineages.org/lineage.html?lineage=FL.4.8) Alias of XBB.1.9.1.4.8, S:478R, Indonesia
+- \+ [FL.4.9](https://cov-lineages.org/lineage.html?lineage=FL.4.9) Alias of XBB.1.9.1.4.9, S:S254P, ORF3a:D173G
+- \+ [FL.4.10](https://cov-lineages.org/lineage.html?lineage=FL.4.10) Alias of XBB.1.9.1.4.10, S:V1129I, China
+- \+ [FL.10.1](https://cov-lineages.org/lineage.html?lineage=FL.10.1) Alias of XBB.1.9.1.10.1, S:E554K, C4234T, 220bp deletion in ORF8, South Korea, from #2040
+- \+ [FL.10.2](https://cov-lineages.org/lineage.html?lineage=FL.10.2) Alias of XBB.1.9.1.10.2, S:K356T, S:T523N, Canada/USA
+- \+ [EG.13](https://cov-lineages.org/lineage.html?lineage=EG.13) Alias of XBB.1.9.2.13, ORF1a:K789N
+- \+ [FY.3.2](https://cov-lineages.org/lineage.html?lineage=FY.3.2) Alias of XBB.1.22.1.3.2, ORF1a:E3764G, China, from #2000
+- \+ [FY.3.3](https://cov-lineages.org/lineage.html?lineage=FY.3.3) Alias of XBB.1.22.1.3.3, ORF3a:V48F, China
+- \+ [XCK](https://cov-lineages.org/lineage.html?lineage=XCK) Recombinant lineage of FL.1.5.1 (5' up to and including S:701) and BQ.1.2.2, from #2215
+
 ### 2023-08-31
 - \+ [XBB.1.5.103](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.103) S:F456L (T22928C), S:180/184del, S:N185D, ORF1a:T1437I, ORF7b:C41W, T21357C, Argentina
 - \+ [EG.2.2](https://cov-lineages.org/lineage.html?lineage=EG.2.2) Alias of XBB.1.9.2.2.2, S:K304N, Indonesia/Japan
