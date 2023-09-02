@@ -13,6 +13,23 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-09-02
+- \+ [JK.1](https://cov-lineages.org/lineage.html?lineage=JK.1) Alias of XBB.1.5.3.1, S:K304Q, USA
+- \+ [GK.2.2](https://cov-lineages.org/lineage.html?lineage=GK.2.2) Alias of XBB.1.5.70.2.2, S:E554D
+- \+ [HS.1.1](https://cov-lineages.org/lineage.html?lineage=HS.1.1) Alias of XBB.1.5.95.1.1, S:F456L, USA, from #2237
+- \+ [XBB.1.5.104](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.104) S:K304Q, USA
+- \+ [XBB.1.5.105](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.105) S:K304N, USA/Europe
+- \+ [FL.30](https://cov-lineages.org/lineage.html?lineage=FL.30) Alias of XBB.1.9.1.30, S:484K, Greece, from #2206
+- \+ [HK.8](https://cov-lineages.org/lineage.html?lineage=HK.8) Alias of XBB.1.9.2.5.1.1.8, S:L455F, on C11779T branch, China
+- \+ [HK.9](https://cov-lineages.org/lineage.html?lineage=HK.9) Alias of XBB.1.9.2.5.1.1.9, S:R190K, on C11779T branch, England
+- \+ [HK.10](https://cov-lineages.org/lineage.html?lineage=HK.10) Alias of XBB.1.9.2.5.1.1.10, S:L455F, on C19983T branch, China/England/Denmark
+- \+ [JJ.1](https://cov-lineages.org/lineage.html?lineage=JJ.1) Alias of XBB.1.9.2.5.1.4.1, S:L455F, ORF3a:I47V, China/Japan
+- \+ [HF.1.1](https://cov-lineages.org/lineage.html?lineage=HF.1.1) XBB.1.16.13.1.1, S:H1101Y, on N:A35T branch, South Korea/USA/Canada
+- \+ [HF.1.2](https://cov-lineages.org/lineage.html?lineage=HF.1.2) XBB.1.16.13.1.2, S:A688V, on ORF1a:P1158S branch, USA
+- \+ [XBB.1.16.23](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.23) S:K304Q, India/USA/Japan/Singapore
+- \+ [GW.1.1](https://cov-lineages.org/lineage.html?lineage=GW.1.1) Alias of XBB.1.19.1.1.1, S:F456L, China/Japan/Singapore
+- \+ [XCL](https://cov-lineages.org/lineage.html?lineage=XCL) Recombinant lineage of XBB (possibly XBB.1.5.68 or FY.4) from 5' up to 12468-15754, GK.2.1 onwards, Europe, from #2227
+
 ### 2023-09-01
 - \+ [BQ.1.2.2](https://cov-lineages.org/lineage.html?lineage=BQ.1.2.2) Alias of B.1.1.529.5.3.1.1.1.1.1.2.2, S:K147E, S:R346T, S:V445A, West Africa from #1861
 - \+ [JH.1](https://cov-lineages.org/lineage.html?lineage=JH.1) Alias of B.1.1.529.5.3.1.1.1.1.1.2.2.1, S:K182E, S:486A, S:S494P, S:E554K, from #2068
