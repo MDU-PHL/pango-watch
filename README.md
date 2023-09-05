@@ -13,6 +13,14 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-09-05
+- \+ [JL.1](https://cov-lineages.org/lineage.html?lineage=JL.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.3.2.1, S:E1111Q, Japan, from #2168
+- \+ [HK.11](https://cov-lineages.org/lineage.html?lineage=HK.11) Alias of XBB.1.9.2.5.1.1.11, S:G184S, China/England/SouthKorea, from #2255
+- \+ [JG.2](https://cov-lineages.org/lineage.html?lineage=JG.2) Alias of XBB.1.9.2.5.1.3.2, S:G75V, Europe, from #2249
+- \+ [XBB.1.16.24](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.24) S:K182E, S:V551I, S:E554K, on A25410G branch, India, from #2223
+- \+ [\*BQ.1.1.33](https://cov-lineages.org/lineage.html?lineage=*BQ.1.1.33) Withdrawn: Alias of B.1.1.529.5.3.1.1.1.1.1.1.33, US lineage, child of BQ.1.1.3
+- \+ [\*HK.10](https://cov-lineages.org/lineage.html?lineage=*HK.10) Withdrawn unless lineage grows: Alias of XBB.1.9.2.5.1.1.10, S:L455F, on C19983T branch, China
+
 ### 2023-09-02
 - \+ [JK.1](https://cov-lineages.org/lineage.html?lineage=JK.1) Alias of XBB.1.5.3.1, S:K304Q, USA
 - \+ [GK.2.2](https://cov-lineages.org/lineage.html?lineage=GK.2.2) Alias of XBB.1.5.70.2.2, S:E554D
