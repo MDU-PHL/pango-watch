@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-09-07
+- \+ [FY.4.1.2](https://cov-lineages.org/lineage.html?lineage=FY.4.1.2) Alias of XBB.1.22.1.4.1.2, ORF1a:S2926F, Kenya
+
 ### 2023-09-06
 - \+ [BA.2.48](https://cov-lineages.org/lineage.html?lineage=BA.2.48) Alias of B.1.1.529.2.48, ORF1a:T1322I, S:Y248S, T4579A, mainly found in USA, Scotland and England, from pango-designation issue #634
 - \+ [DV.7.1](https://cov-lineages.org/lineage.html?lineage=DV.7.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1, S:L455F, S:F456L(T22928C), Spain/Austria, from sars-cov-2-variants/lineage-proposals#135
