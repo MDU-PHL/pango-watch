@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-09-08
+- \+ [EG.6.1.1](https://cov-lineages.org/lineage.html?lineage=EG.6.1.1) Alias of XBB.1.9.2.6.1.1, S:484K, S:L242I
+
 ### 2023-09-07
 - \+ [FY.4.1.2](https://cov-lineages.org/lineage.html?lineage=FY.4.1.2) Alias of XBB.1.22.1.4.1.2, ORF1a:S2926F, Kenya
 
