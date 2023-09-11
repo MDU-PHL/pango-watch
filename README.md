@@ -13,6 +13,19 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-09-11
+- \+ [CK.1.1.2](https://cov-lineages.org/lineage.html?lineage=CK.1.1.2) Alias of B.1.1.529.5.2.24.1.1.2, S:V1264L, Japan, #2271
+- \+ [EF.3](https://cov-lineages.org/lineage.html?lineage=EF.3) Alias of B.1.1.529.5.3.1.1.1.1.1.1.13.2, Japan, S:S704T
+- \+ [GK.3.2](https://cov-lineages.org/lineage.html?lineage=GK.3.2) Alias of XBB.1.5.70.3.2, S:T572I, USA, #2272
+- \+ [FL.4.11](https://cov-lineages.org/lineage.html?lineage=FL.4.11) Alias of XBB.1.9.1.4.11, S:D1259Y, N:T334I, China/Japan
+- \+ [HK.3.2](https://cov-lineages.org/lineage.html?lineage=HK.3.2) Alias of XBB.1.9.2.5.1.1.3.2, S:Q14K, China
+- \+ [HK.3.3](https://cov-lineages.org/lineage.html?lineage=HK.3.3) Alias of XBB.1.9.2.5.1.1.3.3, S:S256L, N:P364L, China/Singapore
+- \+ [EG.14](https://cov-lineages.org/lineage.html?lineage=EG.14) Alias of XBB.1.9.2.14, Orf1b:K1383R, #2274
+- \+ [GJ.1.2.2](https://cov-lineages.org/lineage.html?lineage=GJ.1.2.2) Alias of XBB.2.3.3.1.2.2, S:478R, Europe/US/Australia
+- \+ [GJ.1.2.3](https://cov-lineages.org/lineage.html?lineage=GJ.1.2.3) Alias of XBB.2.3.3.1.2.3, S:T76I, Japan
+- \+ [GJ.1.2.4](https://cov-lineages.org/lineage.html?lineage=GJ.1.2.4) Alias of XBB.2.3.3.1.2.4, S:S255F, on ORF1a:H919Y branch, Japan/USA/South Korea
+- \+ [GJ.1.2.5](https://cov-lineages.org/lineage.html?lineage=GJ.1.2.5) Alias of XBB.2.3.3.1.2.5, S:I834V, Singapore/South Korea/USA
+
 ### 2023-09-08
 - \+ [EG.6.1.1](https://cov-lineages.org/lineage.html?lineage=EG.6.1.1) Alias of XBB.1.9.2.6.1.1, S:484K, S:L242I
 
