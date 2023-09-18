@@ -13,6 +13,13 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-09-18
+- \+ [GK.2.3](https://cov-lineages.org/lineage.html?lineage=GK.2.3) Alias of XBB.1.5.70.2.3, S:K356T, England
+- \+ [GK.4](https://cov-lineages.org/lineage.html?lineage=GK.4) Alias of XBB.1.5.70.4, S:A475V, ORF1a:T2859I, ORF1ab:T4711I
+- \+ [XBB.1.5.106](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.106) S:A623V, ORF1a:V28I, ORF1a:R3542H, Guatemala, from #2270
+- \+ [JG.3](https://cov-lineages.org/lineage.html?lineage=JG.3) Alias of XBB.1.9.2.5.1.3.3, S:L455F, S:S704L, Europe
+- \+ [EG.5.1.9](https://cov-lineages.org/lineage.html?lineage=EG.5.1.9) Alias of XBB.1.9.2.5.1.9, S:L176F (on ORF1a:D982G branch)
+
 ### 2023-09-12
 - \+ [DV.7.1.1](https://cov-lineages.org/lineage.html?lineage=DV.7.1.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1.1, S:K679R, Spain
 - \+ [DV.7.1.2](https://cov-lineages.org/lineage.html?lineage=DV.7.1.2) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1.2, ORF1a:A4162V, Spain/England
