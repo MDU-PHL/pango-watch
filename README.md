@@ -13,6 +13,19 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-09-22
+- \+ [FL.10.3](https://cov-lineages.org/lineage.html?lineage=FL.10.3) Alias of XBB.1.9.1.10.3, S:G181R
+- \+ [FL.20.2](https://cov-lineages.org/lineage.html?lineage=FL.20.2) Alias of XBB.1.9.1.20.2, S:478R
+- \+ [FL.31](https://cov-lineages.org/lineage.html?lineage=FL.31) Alias of XBB.1.9.1.31, ORF1b:M657I
+- \+ [FL.31.1](https://cov-lineages.org/lineage.html?lineage=FL.31.1) Alias of XBB.1.9.1.31.1, S:478R, S:D80H, S:Q613H, Morocco/Europe/US/Canada, from sars-cov-2-variants/lineage-proposals#836
+- \+ [FL.32](https://cov-lineages.org/lineage.html?lineage=FL.32) Alias of XBB.1.9.1.32, S:E554Q, S:V6L
+- \+ [FL.32.1](https://cov-lineages.org/lineage.html?lineage=FL.32.1) Alias of XBB.1.9.1.32.1, S:F456L, USA
+- \+ [FL.33](https://cov-lineages.org/lineage.html?lineage=FL.33) Alias of XBB.1.9.1.33, ORF1b:A1377V
+- \+ [FL.33.1](https://cov-lineages.org/lineage.html?lineage=FL.33.1) Alias of XBB.1.9.1.33.1, S:478R, Georgia
+- \+ [FL.34](https://cov-lineages.org/lineage.html?lineage=FL.34) Alias of XBB.1.9.1.34, S:D1118Y
+- \+ [FL.35](https://cov-lineages.org/lineage.html?lineage=FL.35) Alias of XBB.1.9.1.35, ORF8:S103L, South Africa
+- \+ [XCN](https://cov-lineages.org/lineage.html?lineage=XCN) Recombinant lineage of FR.1.1 and EG.5.1.1 (breakpoint between 22630-22663), China (Anhui/Shanghai), from sars-cov-2-variants/lineage-proposals#842
+
 ### 2023-09-18
 - \+ [GK.2.3](https://cov-lineages.org/lineage.html?lineage=GK.2.3) Alias of XBB.1.5.70.2.3, S:K356T, England
 - \+ [GK.4](https://cov-lineages.org/lineage.html?lineage=GK.4) Alias of XBB.1.5.70.4, S:A475V, ORF1a:T2859I, ORF1ab:T4711I
