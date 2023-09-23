@@ -13,6 +13,11 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-09-23
+- \+ [JM.1](https://cov-lineages.org/lineage.html?lineage=JM.1) Alias of XBB.1.16.15.1, S:Q52H, England/Wales
+- \+ [JM.2](https://cov-lineages.org/lineage.html?lineage=JM.2) Alias of XBB.1.16.15.2, S:R78S, Europe/North America
+- \+ [GS.5](https://cov-lineages.org/lineage.html?lineage=GS.5) Alias of XBB.2.3.11.5, M:A104V, S:Q218H
+
 ### 2023-09-22
 - \+ [FL.10.3](https://cov-lineages.org/lineage.html?lineage=FL.10.3) Alias of XBB.1.9.1.10.3, S:G181R
 - \+ [FL.20.2](https://cov-lineages.org/lineage.html?lineage=FL.20.2) Alias of XBB.1.9.1.20.2, S:478R
