@@ -13,6 +13,16 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-09-25
+- \+ [CH.1.1.31](https://cov-lineages.org/lineage.html?lineage=CH.1.1.31) Alias of B.1.1.529.2.75.3.4.1.1.1.1.31, ORF1a:N593S, ORF1a:P1497S, ORF1a:T2791I, ORF1b:D1024N, South Africa
+- \+ [JP.1](https://cov-lineages.org/lineage.html?lineage=JP.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.31.1, S:R403K, S:V36I, S:G181E, South Africa
+- \+ [CH.1.1.32](https://cov-lineages.org/lineage.html?lineage=CH.1.1.32) Alias of B.1.1.529.2.75.3.4.1.1.1.1.32, S:L858I, N:P80Q, ORF1a:E974A
+- \+ [GK.2.1.1](https://cov-lineages.org/lineage.html?lineage=GK.2.1.1) Alias of XBB.1.5.70.2.1.1, S:P1162S
+- \+ [FL.4.11](https://cov-lineages.org/lineage.html?lineage=FL.4.11) Alias of XBB.1.9.1.4.11, S:D1259Y, N:T334I, China/Japan，from #2074
+- \+ [EG.4.5](https://cov-lineages.org/lineage.html?lineage=EG.4.5) Alias of XBB.1.9.2.4.5, S:478R, Indonesia/France
+- \+ [HK.3.2](https://cov-lineages.org/lineage.html?lineage=HK.3.2) Alias of XBB.1.9.2.5.1.1.3.2, S:Q14K, China，from sars-cov-2-variants/lineage-proposals#730
+- \+ [GJ.1.2.5](https://cov-lineages.org/lineage.html?lineage=GJ.1.2.5) Alias of XBB.2.3.3.1.2.5, S:I834V, Singapore/South Korea/USA，from https://github.com/sars-cov-2-variants/lineage-proposals/issues/628
+
 ### 2023-09-23
 - \+ [JM.1](https://cov-lineages.org/lineage.html?lineage=JM.1) Alias of XBB.1.16.15.1, S:Q52H, England/Wales
 - \+ [JM.2](https://cov-lineages.org/lineage.html?lineage=JM.2) Alias of XBB.1.16.15.2, S:R78S, Europe/North America
