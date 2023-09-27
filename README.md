@@ -13,6 +13,19 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-09-27
+- \+ [EP.1.1](https://cov-lineages.org/lineage.html?lineage=EP.1.1) Alias of B.1.1.529.2.75.3.1.1.4.1.1, ORF1a:P4120S, ORF8:Q18H, Bhutan
+- \+ [EP.1.1.1](https://cov-lineages.org/lineage.html?lineage=EP.1.1.1) Alias of B.1.1.529.2.75.3.1.1.4.1.1.1, S:T22N, S:T76I, S:T1006A, Bhutan/Thailand/Singapore
+- \+ [FR.1.5](https://cov-lineages.org/lineage.html?lineage=FR.1.5) Alias of B.1.1.529.2.75.5.1.2.3.1.5, ORF1a:V116M, ORF1a:S2242F, ORF1a:M4071T, Japan
+- \+ [HC.3](https://cov-lineages.org/lineage.html?lineage=HC.3) Alias of XBB.1.5.44.3, S:P793S, USA
+- \+ [HC.4](https://cov-lineages.org/lineage.html?lineage=HC.4) Alias of XBB.1.5.44.4, S:D1084H, ORF1a:A1352V, UK/Canada
+- \+ [JD.1.1.1](https://cov-lineages.org/lineage.html?lineage=JD.1.1.1) Alias of XBB.1.5.102.1.1.1, S:Y248H
+- \+ [JD.1.1.2](https://cov-lineages.org/lineage.html?lineage=JD.1.1.2) Alias of XBB.1.5.102.1.1.1, S:E583D, Ireland/UK
+- \+ [FL.36](https://cov-lineages.org/lineage.html?lineage=FL.36) Alias of XBB.1.9.1.36, S:76I, S:190S, S:356T, S:572I, S:899S, S:1070T, England/US/Denmark, sars-cov-2-variants/lineage-proposals#805
+- \+ [EG.5.1.10](https://cov-lineages.org/lineage.html?lineage=EG.5.1.10) Alias of XBB.1.9.2.5.1.10, ORF1a:I3758V, Portugal/Spain
+- \+ [GA.4.1.1](https://cov-lineages.org/lineage.html?lineage=GA.4.1.1) Alias of XBB.1.17.1.4.1.1, S:Q675H
+- \+ [XCP](https://cov-lineages.org/lineage.html?lineage=XCP) Recombinant lineage of EG.5.1.10 and JD.1.1 (breakpoint between 14190-14633), France/Denmark/England, from sars-cov-2-variants/lineage-proposals#772
+
 ### 2023-09-25
 - \+ [CH.1.1.31](https://cov-lineages.org/lineage.html?lineage=CH.1.1.31) Alias of B.1.1.529.2.75.3.4.1.1.1.1.31, ORF1a:N593S, ORF1a:P1497S, ORF1a:T2791I, ORF1b:D1024N, South Africa
 - \+ [JP.1](https://cov-lineages.org/lineage.html?lineage=JP.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.31.1, S:R403K, S:V36I, S:G181E, South Africa
