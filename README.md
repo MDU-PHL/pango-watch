@@ -13,6 +13,20 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-10-04
+- \+ [XBB.1.3](https://cov-lineages.org/lineage.html?lineage=XBB.1.3) Singapore, India/Italy, defined by S:A484T, pre ORF8:8*
+- \+ [XBB.1.5.43](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.43) C18501T, pre T17124C, Singapore/Malaysia/Indonesia
+- \+ [XBB.1.5.45](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.45) S:478R, C27425T, G28079T, pre T17124C, India-GJ/MH, from #1792
+- \+ [XBB.1.5.58](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.58) S:704L, ORF1b:V1607I, ORF6:D6G, pre T17124C, Guinea, from #1860
+- \+ [XBB.1.5.87](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.87) S:478R, ORF1a:E1633K, ORF1a:M1588K, C9763T, C20946T, pre T17124C, Indonesia
+- \+ [XBB.1.10](https://cov-lineages.org/lineage.html?lineage=XBB.1.10) USA/Japan, S:A852V, S:R403K, pre ORF8:8*
+- \+ [XBB.1.19](https://cov-lineages.org/lineage.html?lineage=XBB.1.19) Defined by S:486P, A10042G, T21363C, on C541T, pre ORF8:8* branch, Pakistan, from #1680
+- \+ [GW.5](https://cov-lineages.org/lineage.html?lineage=GW.5) Alias of XBB.1.19.1.5, S:K478I, S:L455F, S:F456L(T22928C), Pakistan, from #2142
+- \+ [XBB.1.20](https://cov-lineages.org/lineage.html?lineage=XBB.1.20) Defined by ORF3a:A72V, ORF1a:P4312T on C541T, pre ORF8:8* branch, Malaysia
+- \+ [XBB.1.33](https://cov-lineages.org/lineage.html?lineage=XBB.1.33) Defined by S:A376Trev, on ORF1b:L1061I, A27965G, pre ORF8:8* branch, found mainly in Italy, from pango-designation issue #1879
+- \+ [XBB.1.48](https://cov-lineages.org/lineage.html?lineage=XBB.1.48) S:L455F, S:F456L (22928C), C2509T, on C541T, pre ORF8:8* branch, Pakistan, from #1681
+- \+ [XBB.1.49](https://cov-lineages.org/lineage.html?lineage=XBB.1.49) S:346S, S:486P, on ORF1b:L1061I, A27965G, pre ORF8:8* branch with XBB.1.33, Somalia from sars-cov-2-variants/lineage-proposals#208
+
 ### 2023-09-30
 - \+ [C.2.1](https://cov-lineages.org/lineage.html?lineage=C.2.1) Alias of B.1.1.1.2.1, Aruba and Curacao, from #32
 - \+ [C.39](https://cov-lineages.org/lineage.html?lineage=C.39) Alias of B.1.1.1.39, Chile and Peru lineage, from #178
