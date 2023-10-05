@@ -13,6 +13,19 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-10-05
+- \+ [JD.1.1.2](https://cov-lineages.org/lineage.html?lineage=JD.1.1.2) Alias of XBB.1.5.102.1.1.2, S:E583D, Ireland/UK, from sars-cov-2-variants/lineage-proposals#754
+- \+ [JD.1.1.3](https://cov-lineages.org/lineage.html?lineage=JD.1.1.3) Alias of XBB.1.5.102.1.1.3, S:T470N, ORF1a:V1584M, France/Denmark
+- \+ [JD.2](https://cov-lineages.org/lineage.html?lineage=JD.2) Alias of XBB.1.5.102.2, ORF1b:H2388Y, G4255A, Brazil
+- \+ [JE.1.1](https://cov-lineages.org/lineage.html?lineage=JE.1.1) Alias of XBB.2.3.3.1.2.1.1.1, S:Q52R
+- \+ [GJ.1.2.3](https://cov-lineages.org/lineage.html?lineage=GJ.1.2.3) Alias of XBB.2.3.3.1.2.3, S:T76I, Japan, on ORF1b:S997P branch
+- \+ [GJ.1.2.5](https://cov-lineages.org/lineage.html?lineage=GJ.1.2.5) Alias of XBB.2.3.3.1.2.5, S:I834V, Singapore/South Korea/USA，on ORF1b:S997P branch, from sars-cov-2-variants/lineage-proposals#628
+- \+ [GJ.1.2.6](https://cov-lineages.org/lineage.html?lineage=GJ.1.2.6) Alias of XBB.2.3.3.1.2.6, S:478R, on ORF1b:S997P branch
+- \+ [GJ.1.2.7](https://cov-lineages.org/lineage.html?lineage=GJ.1.2.7) Alias of XBB.2.3.3.1.2.7, S:478R, T6511C, on ORF1a:H919Y branch
+- \+ [GJ.1.2.8](https://cov-lineages.org/lineage.html?lineage=GJ.1.2.8) Alias of XBB.2.3.3.1.2.8, S:T747I, USA
+- \+ [GJ.5](https://cov-lineages.org/lineage.html?lineage=GJ.5) Alias of XBB.2.3.3.5, S:478R, A11794G, C13138T
+- \+ [GJ.5.1](https://cov-lineages.org/lineage.html?lineage=GJ.5.1) Alias of XBB.2.3.3.5.1, S:S255F, ORF1a:A540V, ORF1a:A3963V
+
 ### 2023-10-04
 - \+ [XBB.1.3](https://cov-lineages.org/lineage.html?lineage=XBB.1.3) Singapore, India/Italy, defined by S:A484T, pre ORF8:8*
 - \+ [XBB.1.5.43](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.43) C18501T, pre T17124C, Singapore/Malaysia/Indonesia
