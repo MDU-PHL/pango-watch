@@ -13,6 +13,44 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-10-13
+- \+ [JN.2](https://cov-lineages.org/lineage.html?lineage=JN.2) Alias of B.1.1.529.2.86.1.2, ORF1a:Y621C, Europe/North America
+- \+ [JN.3](https://cov-lineages.org/lineage.html?lineage=JN.3) Alias of B.1.1.529.2.86.1.3, ORF1a:T2087I, Europe
+- \+ [BA.2.86.2](https://cov-lineages.org/lineage.html?lineage=BA.2.86.2) Alias of B.1.1.529.2.86.2, ORF7a:E22D, South Africa/Botswana
+- \+ [BA.2.86.3](https://cov-lineages.org/lineage.html?lineage=BA.2.86.3) Alias of B.1.1.529.2.86.3, C222T, C1960T, T12775C, South Africa
+- \+ [JQ.1](https://cov-lineages.org/lineage.html?lineage=JQ.1) Alias of B.1.1.529.2.86.3.1, S:T95I, Denmark/France/South Africa
+- \+ [GK.2.4](https://cov-lineages.org/lineage.html?lineage=GK.2.4) Alias of XBB.1.5.70.2.4, S:K356T, USA-NY
+- \+ [HK.1.1](https://cov-lineages.org/lineage.html?lineage=HK.1.1) Alias of XBB.1.9.2.5.1.1.1.1, S:455F (G22927T), China
+- \+ [HK.1.2](https://cov-lineages.org/lineage.html?lineage=HK.1.2) Alias of XBB.1.9.2.5.1.1.1.2, S:455F (G22927C), S:T307I, China/New Zealand
+- \+ [HK.12](https://cov-lineages.org/lineage.html?lineage=HK.12) Alias of XBB.1.9.2.5.1.1.12, S:K356T, China/Singapore
+- \+ [HK.13](https://cov-lineages.org/lineage.html?lineage=HK.13) Alias of XBB.1.9.2.5.1.1.13, S:L455F (G22927C), China
+- \+ [HK.13.1](https://cov-lineages.org/lineage.html?lineage=HK.13.1) Alias of XBB.1.9.2.5.1.1.13.1, C13378T, A24604G
+- \+ [HK.13.2](https://cov-lineages.org/lineage.html?lineage=HK.13.2) Alias of XBB.1.9.2.5.1.1.13.2, S:F797L, S:D1153H
+- \+ [HK.14](https://cov-lineages.org/lineage.html?lineage=HK.14) Alias of XBB.1.9.2.5.1.1.14, S:L455F (G22927C), on C11779T branch, China
+- \+ [HK.15](https://cov-lineages.org/lineage.html?lineage=HK.15) Alias of XBB.1.9.2.5.1.1.15, S:A262T, on C11779T branch
+- \+ [HK.16](https://cov-lineages.org/lineage.html?lineage=HK.16) Alias of XBB.1.9.2.5.1.1.16, N:P67S, S:A684V, S:V1264L
+- \+ [HK.17](https://cov-lineages.org/lineage.html?lineage=HK.17) Alias of XBB.1.9.2.5.1.1.17, S:S494P, China
+- \+ [HK.18](https://cov-lineages.org/lineage.html?lineage=HK.18) Alias of XBB.1.9.2.5.1.1.18, S:L452R
+- \+ [HK.19](https://cov-lineages.org/lineage.html?lineage=HK.19) Alias of XBB.1.9.2.5.1.1.19, S:F157L
+- \+ [HV.1.1](https://cov-lineages.org/lineage.html?lineage=HV.1.1) Alias of XBB.1.9.2.5.1.6.1.1, S:K444T, on ORF1a:T4083M branch, USA
+- \+ [HV.1.2](https://cov-lineages.org/lineage.html?lineage=HV.1.2) Alias of XBB.1.9.2.5.1.6.1.2, S:S514F, on ORF1a:T4083M branch, USA
+- \+ [HV.1.3](https://cov-lineages.org/lineage.html?lineage=HV.1.3) Alias of XBB.1.9.2.5.1.6.1.3, S:493L, USA
+- \+ [HV.1.4](https://cov-lineages.org/lineage.html?lineage=HV.1.4) Alias of XBB.1.9.2.5.1.6.1.4, S:A1078S, USA
+- \+ [EG.5.1.11](https://cov-lineages.org/lineage.html?lineage=EG.5.1.11) Alias of XBB.1.9.2.5.1.11, S:K182Q, Indonesia
+- \+ [JR.1](https://cov-lineages.org/lineage.html?lineage=JR.1) Alias of XBB.1.9.2.5.1.11.1, S:478R, ORF3a:Y91C, Indonesia
+- \+ [JR.1.1](https://cov-lineages.org/lineage.html?lineage=JR.1.1) Alias of XBB.1.9.2.5.1.11.1.1, S:L455F (G22927C)
+- \+ [EG.6.1.2](https://cov-lineages.org/lineage.html?lineage=EG.6.1.2) Alias of XBB.1.9.2.6.1.2, S:V705I, Israel
+- \+ [GA.2.1](https://cov-lineages.org/lineage.html?lineage=GA.2.1) Alias of XBB.1.17.1.2.1, S:E554K
+- \+ [GA.2.1.1](https://cov-lineages.org/lineage.html?lineage=GA.2.1.1) Alias of XBB.1.17.1.2.1.1, S:N450D, S:K478R
+- \+ [GA.4.1.2](https://cov-lineages.org/lineage.html?lineage=GA.4.1.2) Alias of XBB.1.17.1.4.1.2, S:T572I, England
+- \+ [GA.4.2](https://cov-lineages.org/lineage.html?lineage=GA.4.2) Alias of XBB.1.17.1.4.2, S:K558N, S:G1124S, England/Italy
+- \+ [GA.4.3](https://cov-lineages.org/lineage.html?lineage=GA.4.3) Alias of XBB.1.17.1.4.3, S:F186L, S:L585F, Greece/Romania
+- \+ [XBB.2.3.15](https://cov-lineages.org/lineage.html?lineage=XBB.2.3.15) ORF1a:I4308V
+- \+ [JS.1](https://cov-lineages.org/lineage.html?lineage=JS.1) Alias of XBB.2.3.15.1, S:S256T
+- \+ [JS.2](https://cov-lineages.org/lineage.html?lineage=JS.2) Alias of XBB.2.3.15.2, S:T323I
+- \+ [XBB.2.3.16](https://cov-lineages.org/lineage.html?lineage=XBB.2.3.16) S:K478N, USA
+- \+ [XCQ](https://cov-lineages.org/lineage.html?lineage=XCQ) Recombinant lineage of XBB.2.3 and XBB.1.5 (breakpoint between 23123-27431), Guatemala, from #2289
+
 ### 2023-10-05
 - \+ [JD.1.1.2](https://cov-lineages.org/lineage.html?lineage=JD.1.1.2) Alias of XBB.1.5.102.1.1.2, S:E583D, Ireland/UK, from sars-cov-2-variants/lineage-proposals#754
 - \+ [JD.1.1.3](https://cov-lineages.org/lineage.html?lineage=JD.1.1.3) Alias of XBB.1.5.102.1.1.3, S:T470N, ORF1a:V1584M, France/Denmark
