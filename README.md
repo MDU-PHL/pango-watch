@@ -13,6 +13,24 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-10-14
+- \+ [JN.2](https://cov-lineages.org/lineage.html?lineage=JN.2) Alias of B.1.1.529.2.86.1.2, ORF1a:Y621C, Europe/North America，from #2284
+- \+ [BA.2.86.2](https://cov-lineages.org/lineage.html?lineage=BA.2.86.2) Alias of B.1.1.529.2.86.2, ORF7a:E22D, South Africa/Botswana，from sars-cov-2-variants/lineage-proposals/issues/756
+- \+ [GL.2](https://cov-lineages.org/lineage.html?lineage=GL.2) Alias of XAY.1.1.1.2, ORF1a:S723P, South Korea/Japan/HongKong
+- \+ [GL.3](https://cov-lineages.org/lineage.html?lineage=GL.3) Alias of XAY.1.1.1.3, ORF1a:P1640S, Germany
+- \+ [JD.2.1](https://cov-lineages.org/lineage.html?lineage=JD.2.1) Alias of XBB.1.5.102.2.1, S:E554K, Brazil
+- \+ [GW.5.2](https://cov-lineages.org/lineage.html?lineage=GW.5.2) Alias of XBB.1.19.1.5.2, N:T379I
+- \+ [GW.5.3](https://cov-lineages.org/lineage.html?lineage=GW.5.3) Alias of XBB.1.19.1.5.3, T20310C, C28519T
+- \+ [GW.5.3.1](https://cov-lineages.org/lineage.html?lineage=GW.5.3.1) Alias of XBB.1.19.1.5.3.1, S:A475V, S:G184A
+- \+ [XBB.2.3.17](https://cov-lineages.org/lineage.html?lineage=XBB.2.3.17) S:N450D, USA
+- \+ [HW.1.2](https://cov-lineages.org/lineage.html?lineage=HW.1.2) Alias of XBC.1.6.3.1.2, G15957A, Australia
+- \+ [HW.1.3](https://cov-lineages.org/lineage.html?lineage=HW.1.3) Alias of XBC.1.6.3.1.3, N:T391I, Australia
+- \+ [XBC.1.6.5](https://cov-lineages.org/lineage.html?lineage=XBC.1.6.5) ORF7a:Q90*, C1594T, C15601T, Australia
+- \+ [XBC.1.6.6](https://cov-lineages.org/lineage.html?lineage=XBC.1.6.6) T8707C, C26735T, Australia
+- \+ [JT.1](https://cov-lineages.org/lineage.html?lineage=JT.1) Alias of XBC.1.6.6.1, S:V445A
+- \+ [XCR](https://cov-lineages.org/lineage.html?lineage=XCR) Recombinant lineage of GK.1.1 and FU.1 (breakpoint between 23674-24372), USA, from #2323
+- \+ [\*HK.1.1](https://cov-lineages.org/lineage.html?lineage=*HK.1.1) Withdrawn as smaller than thought (only 6 sequences have 257V and G22927T): Alias of XBB.1.9.2.5.1.1.1.1, S:455F (G22927T), China
+
 ### 2023-10-13
 - \+ [JN.2](https://cov-lineages.org/lineage.html?lineage=JN.2) Alias of B.1.1.529.2.86.1.2, ORF1a:Y621C, Europe/North America
 - \+ [JN.3](https://cov-lineages.org/lineage.html?lineage=JN.3) Alias of B.1.1.529.2.86.1.3, ORF1a:T2087I, Europe
