@@ -13,6 +13,10 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-11-12
+- \+ [BA.2.86.1](https://cov-lineages.org/lineage.html?lineage=BA.2.86.1) Alias of B.1.1.529.2.86.1, ORF1a:K1973R, mostly with C12815T, mainly Europe, from #2236
+- \+ [JN.4](https://cov-lineages.org/lineage.html?lineage=JN.4) Alias of B.1.1.529.2.86.1.4, S:A475V, lacking C12815T of most BA.2.86.1, Belgium/Netherlands/Denmark
+
 ### 2023-11-03
 - \+ [HK.20](https://cov-lineages.org/lineage.html?lineage=HK.20) Alias of XBB.1.9.2.5.1.1.20, S:L455F, on ORF1a:P2144S branch, China
 - \+ [HK.20.1](https://cov-lineages.org/lineage.html?lineage=HK.20.1) Alias of XBB.1.9.2.5.1.1.20.1, S:G482R
