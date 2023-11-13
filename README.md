@@ -13,6 +13,14 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-11-13
+- \+ [JD.1.2.1](https://cov-lineages.org/lineage.html?lineage=JD.1.2.1) Alias of XBB.1.5.102.1.2.1, S:E554Q, from sars-cov-2-variants/lineage-proposals#870
+- \+ [HK.3.2](https://cov-lineages.org/lineage.html?lineage=HK.3.2) Alias of XBB.1.9.2.5.1.1.3.2, S:Q14K, C853T, China，from sars-cov-2-variants/lineage-proposals#730
+- \+ [HK.21](https://cov-lineages.org/lineage.html?lineage=HK.21) Alias of XBB.1.9.2.5.1.1.21, S:T470N, S:796H, from #2367
+- \+ [HK.22](https://cov-lineages.org/lineage.html?lineage=HK.22) Alias of XBB.1.9.2.5.1.1.22, S:L455F, S:L452Q, Australia/China, from #2357
+- \+ [XBB.1.16.26](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.26) S:L455F, S:F456L, China
+- \+ [XCT.1](https://cov-lineages.org/lineage.html?lineage=XCT.1) S:S704L, from #2358
+
 ### 2023-11-12
 - \+ [BA.2.86.1](https://cov-lineages.org/lineage.html?lineage=BA.2.86.1) Alias of B.1.1.529.2.86.1, ORF1a:K1973R, mostly with C12815T, mainly Europe, from #2236
 - \+ [JN.4](https://cov-lineages.org/lineage.html?lineage=JN.4) Alias of B.1.1.529.2.86.1.4, S:A475V, lacking C12815T of most BA.2.86.1, Belgium/Netherlands/Denmark
