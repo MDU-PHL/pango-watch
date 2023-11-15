@@ -13,6 +13,10 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-11-15
+- \+ [JN.5](https://cov-lineages.org/lineage.html?lineage=JN.5) Alias of B.1.1.529.2.86.1.5, N:T135I
+- \+ [JN.6](https://cov-lineages.org/lineage.html?lineage=JN.6) Alias of B.1.1.529.2.86.1.6, S:V193L
+
 ### 2023-11-13
 - \+ [JD.1.2.1](https://cov-lineages.org/lineage.html?lineage=JD.1.2.1) Alias of XBB.1.5.102.1.2.1, S:E554Q, from sars-cov-2-variants/lineage-proposals#870
 - \+ [HK.3.2](https://cov-lineages.org/lineage.html?lineage=HK.3.2) Alias of XBB.1.9.2.5.1.1.3.2, S:Q14K, C853T, China，from sars-cov-2-variants/lineage-proposals#730
