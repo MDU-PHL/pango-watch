@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-11-17
+- \+ [JG.3.2](https://cov-lineages.org/lineage.html?lineage=JG.3.2) Alias of XBB.1.9.2.5.1.3.3.2, S:N450D, Canada, from #2376
+
 ### 2023-11-15
 - \+ [JN.5](https://cov-lineages.org/lineage.html?lineage=JN.5) Alias of B.1.1.529.2.86.1.5, N:T135I
 - \+ [JN.6](https://cov-lineages.org/lineage.html?lineage=JN.6) Alias of B.1.1.529.2.86.1.6, S:V193L
