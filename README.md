@@ -13,6 +13,16 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-11-18
+- \+ [JN.3.1](https://cov-lineages.org/lineage.html?lineage=JN.3.1) Alias of B.1.1.529.2.86.1.3.1, S:L922F, ORf7a:T28I, Spain
+- \+ [JN.7](https://cov-lineages.org/lineage.html?lineage=JN.7) Alias of B.1.1.529.2.86.1.7, S:G594S, Denmark
+- \+ [JN.8](https://cov-lineages.org/lineage.html?lineage=JN.8) Alias of B.1.1.529.2.86.1.8, S:T299I, Sweden/Denmark
+- \+ [JN.9](https://cov-lineages.org/lineage.html?lineage=JN.9) Alias of B.1.1.529.2.86.1.9, S:M1229I, Netherlands
+- \+ [GK.1.10](https://cov-lineages.org/lineage.html?lineage=GK.1.10) Alias of XBB.1.5.70.1.10, Orf1a:I573V, Orf1a:T4129I, Orf9b:T95M, Brazil, from #2375
+- \+ [HR.1.1](https://cov-lineages.org/lineage.html?lineage=HR.1.1) Alias of XBB.1.5.77.1.1, S:K304N, Costa Rica, from #2372
+- \+ [JG.3.3](https://cov-lineages.org/lineage.html?lineage=JG.3.3) Alias of XBB.1.9.2.5.1.3.3.3, S:A83S, Belgium, from #2363
+- \+ [XDD](https://cov-lineages.org/lineage.html?lineage=XDD) Recombinant lineage of EG.5.1.1, JN.1, EG.5.1.1 (breakpoints at 6541-7842 and 25416-26270), USA/France/Spain, from sars-cov-2-variants/lineage-proposals#1024
+
 ### 2023-11-17
 - \+ [JG.3.2](https://cov-lineages.org/lineage.html?lineage=JG.3.2) Alias of XBB.1.9.2.5.1.3.3.2, S:N450D, Canada, from #2376
 
