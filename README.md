@@ -13,6 +13,21 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-11-22
+- \+ [JN.2.1](https://cov-lineages.org/lineage.html?lineage=JN.2.1) Alias of B.1.1.529.2.86.1.2.1, S:S31F, Sweden/Australia
+- \+ [JN.5.1](https://cov-lineages.org/lineage.html?lineage=JN.5.1) Alias of B.1.1.529.2.86.1.5.1, S:A475S, T2950A, A28052G, C29541T, England/Belgium
+- \+ [JN.10](https://cov-lineages.org/lineage.html?lineage=JN.10) Alias of B.1.1.529.2.86.1.10, S:A475V, on T3565C branch with JN.1, Spain/France
+- \+ [BA.2.86.4](https://cov-lineages.org/lineage.html?lineage=BA.2.86.4) Alias of B.1.1.529.2.86.4, S:A222V, ORF1a:V3892A
+- \+ [JD.1.1.4](https://cov-lineages.org/lineage.html?lineage=JD.1.1.4) Alias of XBB.1.5.102.1.1.4, S:E554G, Australia, from #2380
+- \+ [FL.15.2](https://cov-lineages.org/lineage.html?lineage=FL.15.2) Alias of XBB.1.9.1.15.2, S:Q14H, C1684T, China, from sars-cov-2-variants/lineage-proposals#578
+- \+ [FL.15.4](https://cov-lineages.org/lineage.html?lineage=FL.15.4) Alias of XBB.1.9.1.15.4, S:Q14H, on G6819A branch, from #2359
+- \+ [HK.3.2.1](https://cov-lineages.org/lineage.html?lineage=HK.3.2.1) Alias of XBB.1.9.2.5.1.1.3.2.1, S:Q677H, Canada, from #2362
+- \+ [HK.3.8](https://cov-lineages.org/lineage.html?lineage=HK.3.8) Alias of XBB.1.9.2.5.1.1.3.8, S:E554K, China/Sweden, from #2377
+- \+ [HK.8.1](https://cov-lineages.org/lineage.html?lineage=HK.8.1) Alias of XBB.1.9.2.5.1.1.8.1, S:D1153Y, China, from #2356
+- \+ [KB.1](https://cov-lineages.org/lineage.html?lineage=KB.1) Alias of XBB.1.9.2.5.1.8.1, S:E654V, China, from #2347
+- \+ [XBB.1.16.27](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.27) S:F456L, S:E554K, ORF1a:A3889T, France, from #2345
+- \+ [XDE](https://cov-lineages.org/lineage.html?lineage=XDE) Recombinant lineage of GW.5.1 and FL.13.4 (breakpoint at 24034-24046), Pakistan, from #2352
+
 ### 2023-11-18
 - \+ [JN.3.1](https://cov-lineages.org/lineage.html?lineage=JN.3.1) Alias of B.1.1.529.2.86.1.3.1, S:L922F, ORf7a:T28I, Spain
 - \+ [JN.7](https://cov-lineages.org/lineage.html?lineage=JN.7) Alias of B.1.1.529.2.86.1.7, S:G594S, Denmark
