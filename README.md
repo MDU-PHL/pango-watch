@@ -13,6 +13,21 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-11-25
+- \+ [FL.37](https://cov-lineages.org/lineage.html?lineage=FL.37) Alias of XBB.1.9.1.37, C547T, C29614T
+- \+ [HK.3.2.2](https://cov-lineages.org/lineage.html?lineage=HK.3.2.2) Alias of XBB.1.9.2.5.1.1.3.2.2, S:N185D, Australia
+- \+ [HK.3.9](https://cov-lineages.org/lineage.html?lineage=HK.3.9) Alias of XBB.1.9.2.5.1.1.3.9, S:T732I, Australia
+- \+ [HK.3.10](https://cov-lineages.org/lineage.html?lineage=HK.3.10) Alias of XBB.1.9.2.5.1.1.3.10, S:A1078S
+- \+ [HK.3.11](https://cov-lineages.org/lineage.html?lineage=HK.3.11) Alias of XBB.1.9.2.5.1.1.3.11, S:A475V, Finland/Denmark/Sweden
+- \+ [HK.23](https://cov-lineages.org/lineage.html?lineage=HK.23) Alias of XBB.1.9.2.5.1.1.23, ORF8:A65V
+- \+ [HK.23.1](https://cov-lineages.org/lineage.html?lineage=HK.23.1) Alias of XBB.1.9.2.5.1.1.23.1, S:L455F, ORF1a:T2906N
+- \+ [HK.23.1.1](https://cov-lineages.org/lineage.html?lineage=HK.23.1.1) Alias of XBB.1.9.2.5.1.1.23.1.1, S:A348S, China/Canada
+- \+ [HK.24](https://cov-lineages.org/lineage.html?lineage=HK.24) Alias of XBB.1.9.2.5.1.1.24, S:E654K
+- \+ [HK.24.1](https://cov-lineages.org/lineage.html?lineage=HK.24.1) Alias of XBB.1.9.2.5.1.1.24.1, S:L455F, Australia
+- \+ [EG.5.2.4](https://cov-lineages.org/lineage.html?lineage=EG.5.2.4) Alias of XBB.1.9.2.5.2.4, S:K679R, on ORF3a:I118V branch
+- \+ [XDF](https://cov-lineages.org/lineage.html?lineage=XDF) Recombinant lineage of XBB* (with C335T) and EG.5.1.3 (breakpoint around 2335-9692), from sars-cov-2-variants/lineage-proposals#1088
+- \+ [XDG](https://cov-lineages.org/lineage.html?lineage=XDG) Recombinant lineage of FL.37 and EG.5.2.4 (breakpoint at 6729-9693), from #2348
+
 ### 2023-11-22
 - \+ [JN.2.1](https://cov-lineages.org/lineage.html?lineage=JN.2.1) Alias of B.1.1.529.2.86.1.2.1, S:S31F, Sweden/Australia
 - \+ [JN.5.1](https://cov-lineages.org/lineage.html?lineage=JN.5.1) Alias of B.1.1.529.2.86.1.5.1, S:A475S, T2950A, A28052G, C29541T, England/Belgium
