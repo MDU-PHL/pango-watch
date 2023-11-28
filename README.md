@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-11-28
+- \+ [HK.25](https://cov-lineages.org/lineage.html?lineage=HK.25) Alias of XBB.1.9.2.5.1.1.25, S:K356T, S:H681R, N:P365L, and 10 more nucs, Germany/Austria/France/US, from #2327 and sars-cov-2-variants/lineage-proposals#986
+
 ### 2023-11-25
 - \+ [FL.37](https://cov-lineages.org/lineage.html?lineage=FL.37) Alias of XBB.1.9.1.37, C547T, C29614T
 - \+ [HK.3.2.2](https://cov-lineages.org/lineage.html?lineage=HK.3.2.2) Alias of XBB.1.9.2.5.1.1.3.2.2, S:N185D, Australia
