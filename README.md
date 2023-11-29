@@ -13,6 +13,38 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-11-29
+- \+ [DV.7.1.6](https://cov-lineages.org/lineage.html?lineage=DV.7.1.6) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1.6, S:Q183K, N:A217S
+- \+ [DV.7.1.7](https://cov-lineages.org/lineage.html?lineage=DV.7.1.7) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1.7, S:V90I
+- \+ [JN.1.1](https://cov-lineages.org/lineage.html?lineage=JN.1.1) Alias of B.1.1.529.2.86.1.1.1, ORF1a:F499L, C11747T, France
+- \+ [BA.2.86.5](https://cov-lineages.org/lineage.html?lineage=BA.2.86.5) Alias of B.1.1.529.2.86.5, S:I197V, C5575T, T6085C, T23278C
+- \+ [JB.1.1](https://cov-lineages.org/lineage.html?lineage=JB.1.1) Alias of XBB.1.5.53.1.1, S:K478R, South Africa
+- \+ [KC.1](https://cov-lineages.org/lineage.html?lineage=KC.1) Alias of XBB.1.9.1.1.5.2.1, S:S490P, ORF1a:T4129I, ORF1a:S723F, Europe
+- \+ [KC.1.1](https://cov-lineages.org/lineage.html?lineage=KC.1.1) Alias of XBB.1.9.1.1.5.2.1.1, S:V1228L, England
+- \+ [HK.6](https://cov-lineages.org/lineage.html?lineage=HK.6) Alias of XBB.1.9.2.5.1.1.6, S:D253G, ORF1a:A1923T, on T14988C branch UK/USA, from #2184
+- \+ [HK.26](https://cov-lineages.org/lineage.html?lineage=HK.26) Alias of XBB.1.9.2.5.1.1.26, S:L455F, ORF3a:L52I, on 14988C branch, Finland
+- \+ [HK.26.1](https://cov-lineages.org/lineage.html?lineage=HK.26.1) Alias of XBB.1.9.2.5.1.1.26.1, S:A475V, Finland, formerly HK.3.11
+- \+ [HK.27](https://cov-lineages.org/lineage.html?lineage=HK.27) Alias of XBB.1.9.2.5.1.1.27, ORF1a:T1589I, China
+- \+ [HK.27.1](https://cov-lineages.org/lineage.html?lineage=HK.27.1) Alias of XBB.1.9.2.5.1.1.27.1, S:L455F, China
+- \+ [HK.27.1.1](https://cov-lineages.org/lineage.html?lineage=HK.27.1.1) Alias of XBB.1.9.2.5.1.1.27.1.1, S:Q14H, China
+- \+ [HK.28](https://cov-lineages.org/lineage.html?lineage=HK.28) Alias of XBB.1.9.2.5.1.1.28, C19170T, China
+- \+ [HK.29](https://cov-lineages.org/lineage.html?lineage=HK.29) Alias of XBB.1.9.2.5.1.1.29, ORF1a:G2509D, North America
+- \+ [HK.30](https://cov-lineages.org/lineage.html?lineage=HK.30) Alias of XBB.1.9.2.5.1.1.30, T26609C, China
+- \+ [HK.31](https://cov-lineages.org/lineage.html?lineage=HK.31) Alias of XBB.1.9.2.5.1.1.31, ORF1a:G604S
+- \+ [EG.5.1.8](https://cov-lineages.org/lineage.html?lineage=EG.5.1.8) Alias of XBB.1.9.2.5.1.8, S:L455F, China, on C29762T branch, from sars-cov-2-variants/lineage-proposals#537
+- \+ [KB.2](https://cov-lineages.org/lineage.html?lineage=KB.2) Alias of XBB.1.9.2.5.1.8.2, S:R214H
+- \+ [KB.3](https://cov-lineages.org/lineage.html?lineage=KB.3) Alias of XBB.1.9.2.5.1.8.2, S:A83T
+- \+ [KB.4](https://cov-lineages.org/lineage.html?lineage=KB.4) Alias of XBB.1.9.2.5.1.8.2, S:T95I
+- \+ [EG.5.1.12](https://cov-lineages.org/lineage.html?lineage=EG.5.1.12) Alias of XBB.1.9.2.5.1.12, T26972C, C28909T
+- \+ [EG.5.1.13](https://cov-lineages.org/lineage.html?lineage=EG.5.1.13) Alias of XBB.1.9.2.5.1.13, C12439T
+- \+ [EG.5.1.14](https://cov-lineages.org/lineage.html?lineage=EG.5.1.14) Alias of XBB.1.9.2.5.1.14, C16017T, C19524T
+- \+ [EG.5.1.15](https://cov-lineages.org/lineage.html?lineage=EG.5.1.15) Alias of XBB.1.9.2.5.1.15, ORF1a:T753I
+- \+ [EG.5.1.16](https://cov-lineages.org/lineage.html?lineage=EG.5.1.16) Alias of XBB.1.9.2.5.1.16, ORF1b:A2431V
+- \+ [EG.5.1.17](https://cov-lineages.org/lineage.html?lineage=EG.5.1.17) Alias of XBB.1.9.2.5.1.17, S:L455F (G22927C), China
+- \+ [EG.5.1.18](https://cov-lineages.org/lineage.html?lineage=EG.5.1.18) Alias of XBB.1.9.2.5.1.18, ORF1a:G3002S, ORF3a:S220I
+- \+ [EG.5.1.19](https://cov-lineages.org/lineage.html?lineage=EG.5.1.19) Alias of XBB.1.9.2.5.1.19, S:L455F, ORF1b:K1383R, ORF3a:M260K
+- \+ [\*HK.3.11](https://cov-lineages.org/lineage.html?lineage=*HK.3.11) Withdrawn, as part of 14988C sublineage of EG.5.1.1, not HK.3: Alias of XBB.1.9.2.5.1.1.3.11, S:A475V, Finland/Denmark/Sweden
+
 ### 2023-11-28
 - \+ [HK.25](https://cov-lineages.org/lineage.html?lineage=HK.25) Alias of XBB.1.9.2.5.1.1.25, S:K356T, S:H681R, N:P365L, and 10 more nucs, Germany/Austria/France/US, from #2327 and sars-cov-2-variants/lineage-proposals#986
 
