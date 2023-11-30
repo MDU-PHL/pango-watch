@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-11-30
+- \+ [JR.1.1.1](https://cov-lineages.org/lineage.html?lineage=JR.1.1.1) Alias of XBB.1.9.2.5.1.11.1.1.1, S:K356Q, Thailand
+
 ### 2023-11-29
 - \+ [DV.7.1.6](https://cov-lineages.org/lineage.html?lineage=DV.7.1.6) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1.6, S:Q183K, N:A217S
 - \+ [DV.7.1.7](https://cov-lineages.org/lineage.html?lineage=DV.7.1.7) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1.7, S:V90I
