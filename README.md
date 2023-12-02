@@ -13,6 +13,17 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-12-02
+- \+ [JP.1.1](https://cov-lineages.org/lineage.html?lineage=JP.1.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.31.1.1, S:G1219V, ORF1a:T1542I, South Africa
+- \+ [BN.1.2.8](https://cov-lineages.org/lineage.html?lineage=BN.1.2.8) Alias of B.1.1.529.2.75.5.1.2.8, S:N703K, Russia
+- \+ [XBC.1.3.1](https://cov-lineages.org/lineage.html?lineage=XBC.1.3.1) ORF1a:Q455K, ORF1a:T4174I, ORF1a:V2061A, ORF1b:S759N, Australia/New Zealand
+- \+ [KD.1](https://cov-lineages.org/lineage.html?lineage=KD.1) Alias of XBC.1.3.1.1, S:R346S, Australia
+- \+ [KD.2](https://cov-lineages.org/lineage.html?lineage=KD.2) Alias of XBC.1.3.1.2, ORF1a:M3661L, ORF1a:M3934I, Australia/New Zealand
+- \+ [KD.3](https://cov-lineages.org/lineage.html?lineage=KD.3) Alias of XBC.1.3.1.3, C10519T, C19524T, New Zealand
+- \+ [KD.4](https://cov-lineages.org/lineage.html?lineage=KD.4) Alias of XBC.1.3.1.4, ORF1a:K394R, ORF1a:L730F, ORF1a:T965I, Australia/Japan
+- \+ [KD.5](https://cov-lineages.org/lineage.html?lineage=KD.5) Alias of XBC.1.3.1.5, S:L244F, Australia
+- \+ [XDH](https://cov-lineages.org/lineage.html?lineage=XDH) Recombinant lineage of BN.1.2.8 and XBB.1.9.1 (or XBB.1.22) (breakpoint between 22630-22663), Lithuania/Belarus
+
 ### 2023-12-01
 - \+ [EG.10.1.1](https://cov-lineages.org/lineage.html?lineage=EG.10.1.1) Alias of XBB.1.9.2.10.1.1, ORF1a:V2703L, ORF1a:V3683I, ORF1b:P1570S
 - \+ [GY.1.1](https://cov-lineages.org/lineage.html?lineage=GY.1.1) Alias of XBB.1.16.2.1.1, S:F456L, S:L455F, China
