@@ -38,12 +38,12 @@ graph.nodes.forEach(function(d, i) {
 });
 
 var graphLayout = d3.forceSimulation(graph.nodes)
-    .force("charge", d3.forceManyBody().strength(-3000))
+    .force("charge", d3.forceManyBody().strength(-10000))
     .force("center", d3.forceCenter(width / 2, height / 2))
-    .force("x", d3.forceX(width / 2).strength(1))
-    .force("y", d3.forceY(height / 2).strength(1))
-    .force("link", d3.forceLink(graph.links).id(function(d) {return d.id; }).distance(50).strength(1))
-    .on("tick", ticked)
+    .force("x", d3.forceX(width / 2).strength(0.1))
+    .force("y", d3.forceY(height / 2).strength(0.1))
+    .force("link", d3.forceLink(graph.links).id(function(d) {return d.id; }).strength(1))
+    .on("tick", ticked);
 
 var adjlist = [];
 
@@ -86,16 +86,17 @@ var link = container.append("g").attr("class", "links")
     .data(graph.links)
     .enter()
     .append("line")
-    .attr("stroke", "#aaa")
-    .attr("stroke-width", "1px");
+    .attr("stroke", "#34495e")
+    .attr("stroke-width", "6px");
 
 function centerNode(source) {
   t = d3.zoomTransform(svg.node());
+  scale = 0.5
   x = -source.x
   y = -source.y
-  x = (x * t.k) + (width / 2);
-  y = y * t.k + height / 2;
-  d3.select('svg').transition().duration(750).call( zoomListener.transform, d3.zoomIdentity.translate(x,y).scale(t.k) );
+  x = (x * scale) + (width / 2);
+  y = y * scale + height / 2;
+  d3.select('svg').transition().duration(750).call( zoomListener.transform, d3.zoomIdentity.translate(x,y).scale(scale) );
 }
 
 var node = container.append("g").attr("class", "nodes")
@@ -103,9 +104,9 @@ var node = container.append("g").attr("class", "nodes")
     .data(graph.nodes)
     .enter()
     .append("circle")
-    .attr("r", 12)
+    .attr("r", 82)
     .attr("fill", function(d) { return color(d.group); })
-    .attr("stroke-width", 2)
+    .attr("stroke-width", 6)
 
 node.on("mouseover", focus).on("mouseout", unfocus);
 
@@ -122,23 +123,34 @@ var labelNode = container.append("g").attr("class", "labelNodes")
     .enter()
     .append("text")
     .text(function(d, i) { return i % 2 == 0 ? "" : d.node.label; })
-    .style("fill", "#555")
+    .style("fill", "white")
     .style("font-family", "Arial")
-    .style("font-size", 15)
+    .style("font-size", 30)
+    .style("font-weight", "bold")
     .style("pointer-events", "none"); // to prevent mouseover/drag capture
 
 node.on("mouseover", focus).on("mouseout", unfocus);
 
 function ticked() {
+    labelNode.each(function(d, i) {
+        if(i % 2 == 0) {
+            // Position the invisible node at the center of the node
+            d.x = d.node.x;
+            d.y = d.node.y;
+        } else {
+            // Position the label node
+            var bbox = this.getBBox(); // Get the bounding box of the text element
+            var textWidth = bbox.width;
+            var textHeight = bbox.height;
+            d.x = d.node.x - textWidth / 2; // Center the text horizontally
+            d.y = d.node.y + textHeight / 4; // Adjust vertically to center
+        }
+    });
+    labelNode.call(updateNode);
 
     node.call(updateNode);
     link.call(updateLink);
 
-    labelNode.each(function(d, i) {
-        d.x = d.node.x - (d.node.label.length * 4.3);
-        d.y = d.node.y - 15;
-    });
-    labelNode.call(updateNode);
 
 }
 
@@ -156,7 +168,7 @@ function focus(d) {
         return neigh(index, o.index) || group == o.group ? 1 : 0.1;
     });
     node.style("stroke", function(o) {
-        return index == o.index ? "black" : "none";
+        return index == o.index ? "#34495e" : "none";
     });
     labelNode.attr("display", function(o) {
       return neigh(index, o.node.index) || group == o.node.group ? "block" : "none";
