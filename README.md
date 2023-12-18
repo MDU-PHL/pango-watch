@@ -13,6 +13,45 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-12-18
+- \+ [KG.1](https://cov-lineages.org/lineage.html?lineage=KG.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1.5.1, S:M153I
+- \+ [KG.2](https://cov-lineages.org/lineage.html?lineage=KG.2) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1.5.2, S:H49Y, S:A264D, S:G485R, Spain/Canada
+- \+ [DV.7.1.8](https://cov-lineages.org/lineage.html?lineage=DV.7.1.8) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1.8, S:T961M, Spain
+- \+ [DV.7.1.9](https://cov-lineages.org/lineage.html?lineage=DV.7.1.9) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1.9, S:R1185H, Australia
+- \+ [JD.1.1.7](https://cov-lineages.org/lineage.html?lineage=JD.1.1.7) Alias of XBB.1.5.102.1.1.7, ORF1b:R2257S
+- \+ [JD.1.1.8](https://cov-lineages.org/lineage.html?lineage=JD.1.1.8) Alias of XBB.1.5.102.1.1.8, ORF1a:N1094K, without C19185T, Brazil
+- \+ [JD.1.2.2](https://cov-lineages.org/lineage.html?lineage=JD.1.2.2) Alias of XBB.1.5.102.1.2.2, S:A1078T, Brazil
+- \+ [XBB.1.5.108](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.108) S:F456L, S:K304N
+- \+ [XBB.1.5.109](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.109) S:F456L, ORF1a:T654A
+- \+ [XBB.1.5.110](https://cov-lineages.org/lineage.html?lineage=XBB.1.5.110) ORF1aT4129I, Mexico
+- \+ [HN.4.1](https://cov-lineages.org/lineage.html?lineage=HN.4.1) Alias of XBB.1.9.1.1.5.1.4.1, S:A1020S
+- \+ [HN.4.1.1](https://cov-lineages.org/lineage.html?lineage=HN.4.1.1) Alias of XBB.1.9.1.1.5.1.4.1.1, S:I68T, S:L452R, S:E554K, New Zealand/Canada
+- \+ [HN.4.2](https://cov-lineages.org/lineage.html?lineage=HN.4.2) Alias of XBB.1.9.1.1.5.1.4.2, S:Q14H, Georgia/Russia
+- \+ [HN.7](https://cov-lineages.org/lineage.html?lineage=HN.7) Alias of XBB.1.9.1.1.5.1.7, C6388T, T20028C, C20115T, Europe
+- \+ [FL.1.8](https://cov-lineages.org/lineage.html?lineage=FL.1.8) Alias of XBB.1.9.1.1.8, S:K478R, S:P521T, M:I8V, Russia
+- \+ [FL.24.1](https://cov-lineages.org/lineage.html?lineage=FL.24.1) Alias of XBB.1.9.1.24.1, S:478R, T9139C, C24919T, Russia
+- \+ [FL.38](https://cov-lineages.org/lineage.html?lineage=FL.38) Alias of XBB.1.9.1.38, S:K478R, S:Q613H, C25482T, Russia
+- \+ [FL.39](https://cov-lineages.org/lineage.html?lineage=FL.39) Alias of XBB.1.9.1.39, ORF1a:E663K, Russia
+- \+ [FL.39.1](https://cov-lineages.org/lineage.html?lineage=FL.39.1) Alias of XBB.1.9.1.39.1, S:K478R, S:P521S, Russia
+- \+ [FL.40](https://cov-lineages.org/lineage.html?lineage=FL.40) Alias of XBB.1.9.1.40, ORF1a:I3758V, Russia
+- \+ [JG.3.4](https://cov-lineages.org/lineage.html?lineage=JG.3.4) Alias of XBB.1.9.2.5.1.3.3.4, S:478R, USA
+- \+ [HV.2](https://cov-lineages.org/lineage.html?lineage=HV.2) Alias of XBB.1.9.2.5.1.6.2, S:L455F, Canada
+- \+ [JF.3](https://cov-lineages.org/lineage.html?lineage=JF.3) Alias of XBB.1.16.6.3, S:L455F, S:Q14H, S:S810L, USA/Australia
+- \+ [XBB.1.16.28](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.28) S:V1230A, S:Q613H, S:Q675K, Russia
+- \+ [XBB.1.16.29](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.29) S:T883I, on C7765T branch, TrinidadTobago
+- \+ [XBB.1.16.30](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.30) S:E554Q, on C7765T branch, USA/Germany
+- \+ [XBB.1.16.31](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.31) T9004C, on C7765T branch
+- \+ [FY.1.2.1](https://cov-lineages.org/lineage.html?lineage=FY.1.2.1) Alias of XBB.1.22.1.1.2.1, S:W64L
+- \+ [FY.1.2.2](https://cov-lineages.org/lineage.html?lineage=FY.1.2.2) Alias of XBB.1.22.1.1.2.2, S:V1129I
+- \+ [FY.1.2.3](https://cov-lineages.org/lineage.html?lineage=FY.1.2.3) Alias of XBB.1.22.1.1.2.3, S:D215H
+- \+ [GE.1.2.1](https://cov-lineages.org/lineage.html?lineage=GE.1.2.1) Alias of XBB.2.3.10.1.2.1, S:478T, S:A376S
+- \+ [XBB.2.3.21](https://cov-lineages.org/lineage.html?lineage=XBB.2.3.21) S:T883I, ORF1a:D3042N, 670T reversion, Japan
+- \+ [XBB.2.3.22](https://cov-lineages.org/lineage.html?lineage=XBB.2.3.22) S:S937T, ORF8:K94T, Romania/Bulgaria
+- \+ [XCF.3](https://cov-lineages.org/lineage.html?lineage=XCF.3) S:R78M
+- \+ [XDA.1](https://cov-lineages.org/lineage.html?lineage=XDA.1) S:L176F
+- \+ [XDJ](https://cov-lineages.org/lineage.html?lineage=XDJ) Recombinant lineage of XBB.1.16.6 and HK.3.1 (breakpoint between 14857 and 16877), France, from sars-cov-2-variants/lineage-proposals#997
+- \+ [XDK](https://cov-lineages.org/lineage.html?lineage=XDK) Recombinant lineage of XBB.1.16.11 (likely) and JN.1.1.1 (breakpoint between 5315 and 6182), France, from #2415
+
 ### 2023-12-16
 - \+ [HK.34.1](https://cov-lineages.org/lineage.html?lineage=HK.34.1) Alias of XBB.1.9.2.5.1.1.34.1, S:K356T, Singapore, from sars-cov-2-variants/lineage-proposals#1048
 
