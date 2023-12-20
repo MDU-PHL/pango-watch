@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-12-20
+- \+ [FL.39](https://cov-lineages.org/lineage.html?lineage=FL.39) Alias of XBB.1.9.1.39, ORF1a:E633K, Russia
+
 ### 2023-12-18
 - \+ [KG.1](https://cov-lineages.org/lineage.html?lineage=KG.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1.5.1, S:M153I
 - \+ [KG.2](https://cov-lineages.org/lineage.html?lineage=KG.2) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1.5.2, S:H49Y, S:A264D, S:G485R, Spain/Canada
