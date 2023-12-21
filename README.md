@@ -13,6 +13,15 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-12-21
+- \+ [JN.1.3](https://cov-lineages.org/lineage.html?lineage=JN.1.3) Alias of B.1.1.529.2.86.1.1.3, ORF8:Q18*, Netherlands
+- \+ [JF.1.1](https://cov-lineages.org/lineage.html?lineage=JF.1.1) Alias of XBB.1.16.6.1.1, ORF1a:S2030L
+- \+ [JF.1.1.1](https://cov-lineages.org/lineage.html?lineage=JF.1.1.1) Alias of XBB.1.16.6.1.1.1, S:A475V, ORF2a:P2005S, Canada
+- \+ [JF.1.1.2](https://cov-lineages.org/lineage.html?lineage=JF.1.1.2) Alias of XBB.1.16.6.1.1.2, S:V1264L
+- \+ [JF.4](https://cov-lineages.org/lineage.html?lineage=JF.4) Alias of XBB.1.16.6.4, ORF1a:S212L, ORF8:A15V
+- \+ [JE.1.1.1](https://cov-lineages.org/lineage.html?lineage=JE.1.1.1) Alias of XBB.2.3.3.1.2.1.1.1.1, S:V1122A, from #2390
+- \+ [KH.1](https://cov-lineages.org/lineage.html?lineage=KH.1) Alias of XBB.2.3.3.1.2.1.1.1.1.1, S:E554K, on N:L13F, ORF1a:R135S (reversion) branch, from #2390
+
 ### 2023-12-20
 - \+ [FL.39](https://cov-lineages.org/lineage.html?lineage=FL.39) Alias of XBB.1.9.1.39, ORF1a:E633K, Russia
 
