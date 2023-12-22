@@ -13,6 +13,18 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-12-22
+- \+ [GK.1.8.1](https://cov-lineages.org/lineage.html?lineage=GK.1.8.1) Alias of XBB.1.5.70.1.8.1, S:K187I, S:A222P, Brazil/Paraguay
+- \+ [GK.1.11](https://cov-lineages.org/lineage.html?lineage=GK.1.11) Alias of XBB.1.5.70.1.11, S:A475V, ORF1a:P309L, Brazil
+- \+ [GK.1.11.1](https://cov-lineages.org/lineage.html?lineage=GK.1.11.1) Alias of XBB.1.5.70.1.11.1, S:I68V, Brazil
+- \+ [GN.1.4](https://cov-lineages.org/lineage.html?lineage=GN.1.4) Alias of XBB.1.5.73.1.4, S:G181V, Peru
+- \+ [FL.2.7](https://cov-lineages.org/lineage.html?lineage=FL.2.7) Alias of XBB.1.9.1.2.7, ORF1a:A2618T
+- \+ [FL.2.7.1](https://cov-lineages.org/lineage.html?lineage=FL.2.7.1) Alias of XBB.1.9.1.2.7.1, S:K478R on ORF1a:V3718F branch, South Africa
+- \+ [XBB.1.16.32](https://cov-lineages.org/lineage.html?lineage=XBB.1.16.32) S:S490P, South Africa/USA
+- \+ [KJ.1](https://cov-lineages.org/lineage.html?lineage=KJ.1) Alias of XBB.1.16.32.1, S:T573I, ORF1a:P1659L, South Africa
+- \+ [JC.5.1](https://cov-lineages.org/lineage.html?lineage=JC.5.1) Alias of XBB.1.41.1.5.1, S:Q173K, USA
+- \+ [JW.1.1](https://cov-lineages.org/lineage.html?lineage=JW.1.1) Alias of XBB.1.41.3.1.1, S:Q14K, South Africa
+
 ### 2023-12-21
 - \+ [JN.1.3](https://cov-lineages.org/lineage.html?lineage=JN.1.3) Alias of B.1.1.529.2.86.1.1.3, ORF8:Q18*, Netherlands
 - \+ [JF.1.1](https://cov-lineages.org/lineage.html?lineage=JF.1.1) Alias of XBB.1.16.6.1.1, ORF1a:S2030L
