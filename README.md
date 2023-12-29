@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2023-12-29
+- \+ [JF.1.1.1](https://cov-lineages.org/lineage.html?lineage=JF.1.1.1) Alias of XBB.1.16.6.1.1.1, S:A475V, ORF1a:P2005S, Canada
+
 ### 2023-12-22
 - \+ [GK.1.8.1](https://cov-lineages.org/lineage.html?lineage=GK.1.8.1) Alias of XBB.1.5.70.1.8.1, S:K187I, S:A222P, Brazil/Paraguay
 - \+ [GK.1.11](https://cov-lineages.org/lineage.html?lineage=GK.1.11) Alias of XBB.1.5.70.1.11, S:A475V, ORF1a:P309L, Brazil
