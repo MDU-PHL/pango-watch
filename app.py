@@ -58,8 +58,6 @@ def count_children(node):
 
     return node
 
-count_children(data)
-
 @app.command()
 def check(
     url: str = typer.Argument(
