@@ -34,6 +34,31 @@ def send_slack_msg(hook_url, diff):
 
 app = typer.Typer()
 
+def count_children(node):
+    """
+    Recursive function to count the number of children of each node in a tree structure.
+
+    :param node: The node of the tree.
+    :return: The node with an additional field 'num_children' indicating the number of children.
+    """
+    # Base case: If the node has no children, return 0
+    if 'children' not in node or not node['children']:
+        node['num_children'] = 0
+        return node
+
+    # Recursive case: Count children of each child node
+    child_count = 0
+    for child in node['children']:
+        # Recursive call
+        updated_child = count_children(child)
+        child_count += 1 + updated_child['num_children']
+
+    # Update the current node with the count of its children
+    node['num_children'] = child_count
+
+    return node
+
+count_children(data)
 
 @app.command()
 def check(
@@ -203,7 +228,7 @@ def tree():
         insertNodeIntoTree(root, ".".join(parent), node)
 
     with open('tree/data.json', 'w') as f:
-        json.dump(root, f)
+        json.dump(count_children(root), f)
 
     nodes, links = treeTograph(root)
     with open('graph/data.json', 'w') as f:
