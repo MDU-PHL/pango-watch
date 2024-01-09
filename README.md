@@ -13,6 +13,12 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-01-09
+- \+ [JN.1.4](https://cov-lineages.org/lineage.html?lineage=JN.1.4) Alias of B.1.1.529.2.86.1.1.4, ORF1a:T170I, Denmark/Singapore, from #2381
+- \+ [JN.2](https://cov-lineages.org/lineage.html?lineage=JN.2) Alias of B.1.1.529.2.86.1.2, ORF1a:Y621C, Europe/North America, from #2284
+- \+ [XDL](https://cov-lineages.org/lineage.html?lineage=XDL) Recombinant lineage of EG.5.1.1 and non-EG.5 (breakpoint between 25573-29624) with S:L455F and S:I1114T, China, from #2351
+- \+ [\*KD.5](https://cov-lineages.org/lineage.html?lineage=*KD.5) Withdrawn: Alias of XBC.1.3.1.5, S:L244F, Australia, indel artefact caused false S:L244F (#2405)
+
 ### 2023-12-29
 - \+ [JF.1.1.1](https://cov-lineages.org/lineage.html?lineage=JF.1.1.1) Alias of XBB.1.16.6.1.1.1, S:A475V, ORF1a:P2005S, Canada
 
