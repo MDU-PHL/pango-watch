@@ -13,6 +13,28 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-01-10
+- \+ [JN.1.1.2](https://cov-lineages.org/lineage.html?lineage=JN.1.1.2) Alias of B.1.1.529.2.86.1.1.1.2, S:G181E, France
+- \+ [JN.1.1.3](https://cov-lineages.org/lineage.html?lineage=JN.1.1.3) Alias of B.1.1.529.2.86.1.1.1.3, S:R346T, ORF1b:H2388Y, France/Sweden
+- \+ [JN.1.5](https://cov-lineages.org/lineage.html?lineage=JN.1.5) Alias of B.1.1.529.2.86.1.1.5, ORF1b:V1271T, Singapore/Malaysia/Indonesia, from #2419
+- \+ [JN.1.6](https://cov-lineages.org/lineage.html?lineage=JN.1.6) Alias of B.1.1.529.2.86.1.1.6, G22627A
+- \+ [JN.1.6.1](https://cov-lineages.org/lineage.html?lineage=JN.1.6.1) Alias of B.1.1.529.2.86.1.1.6.1, S:R346T, Sweden
+- \+ [JN.1.7](https://cov-lineages.org/lineage.html?lineage=JN.1.7) Alias of B.1.1.529.2.86.1.1.7, S:T572I, S:E1150D, USA/France
+- \+ [JN.1.8](https://cov-lineages.org/lineage.html?lineage=JN.1.8) Alias of B.1.1.529.2.86.1.1.8, ORF7a:T28I
+- \+ [JN.1.8.1](https://cov-lineages.org/lineage.html?lineage=JN.1.8.1) Alias of B.1.1.529.2.86.1.1.8.1, S:T572I, USA/Denmark
+- \+ [JN.1.9](https://cov-lineages.org/lineage.html?lineage=JN.1.9) Alias of B.1.1.529.2.86.1.1.9, S:Q183H, USA/UK/Canada
+- \+ [JN.2.2](https://cov-lineages.org/lineage.html?lineage=JN.2.2) Alias of B.1.1.529.2.86.1.2.2, S:T572I, N:G25C, ORF1a:L3644F, Netherlands
+- \+ [JN.2.3](https://cov-lineages.org/lineage.html?lineage=JN.2.3) Alias of B.1.1.529.2.86.1.2.3, S:V193L, from #2442
+- \+ [JN.2.4](https://cov-lineages.org/lineage.html?lineage=JN.2.4) Alias of B.1.1.529.2.86.1.2.4, S:L242F, Sweden
+- \+ [JN.2.5](https://cov-lineages.org/lineage.html?lineage=JN.2.5) Alias of B.1.1.529.2.86.1.2.5, S:L455S, Canada, USA, Lithuania
+- \+ [HN.8](https://cov-lineages.org/lineage.html?lineage=HN.8) Alias of XBB.1.9.1.1.5.1.8, S:ins248KRD, ORF1a:E2042D, not requiring S:494P, Haiti/USA, from #2438
+- \+ [HV.1.8](https://cov-lineages.org/lineage.html?lineage=HV.1.8) Alias of XBB.1.9.2.5.1.6.1.8, S:T208M, USA
+- \+ [HV.1.9](https://cov-lineages.org/lineage.html?lineage=HV.1.9) Alias of XBB.1.9.2.5.1.6.1.9, S:N211I, S:T1117I, New Zealand
+- \+ [HV.1.10](https://cov-lineages.org/lineage.html?lineage=HV.1.10) Alias of XBB.1.9.2.5.1.6.1.10, S:R452W, USA
+- \+ [XDD.1](https://cov-lineages.org/lineage.html?lineage=XDD.1) S:S704L
+- \+ [XDD.1.1](https://cov-lineages.org/lineage.html?lineage=XDD.1.1) S:I584V
+- \+ [XDD.2](https://cov-lineages.org/lineage.html?lineage=XDD.2) S:T307I
+
 ### 2024-01-09
 - \+ [JN.1.4](https://cov-lineages.org/lineage.html?lineage=JN.1.4) Alias of B.1.1.529.2.86.1.1.4, ORF1a:T170I, Denmark/Singapore, from #2381
 - \+ [JN.2](https://cov-lineages.org/lineage.html?lineage=JN.2) Alias of B.1.1.529.2.86.1.2, ORF1a:Y621C, Europe/North America, from #2284
