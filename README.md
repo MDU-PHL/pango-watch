@@ -13,6 +13,16 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-01-11
+- \+ [KK.1](https://cov-lineages.org/lineage.html?lineage=KK.1) Alias of XBB.1.5.102.1.1.8.1, S:D1153H, Brazil/USA
+- \+ [KK.2](https://cov-lineages.org/lineage.html?lineage=KK.2) Alias of XBB.1.5.102.1.1.8.2, S:N481K, Brazil
+- \+ [HK.3.14](https://cov-lineages.org/lineage.html?lineage=HK.3.14) Alias of XBB.1.9.2.5.1.1.3.14, S:A475V, ORF1b:2378T, England/Australia
+- \+ [KL.1](https://cov-lineages.org/lineage.html?lineage=KL.1) Alias of XBB.1.9.2.5.1.6.1.6.1.1, S:K444N, Canada
+- \+ [KL.1.1](https://cov-lineages.org/lineage.html?lineage=KL.1.1) Alias of XBB.1.9.2.5.1.6.1.6.1.1.1, S:H1101Y, Canada
+- \+ [HV.1.11](https://cov-lineages.org/lineage.html?lineage=HV.1.11) Alias of XBB.1.9.2.5.1.6.1.11, S:N450D, USA
+- \+ [FW.1.1.1](https://cov-lineages.org/lineage.html?lineage=FW.1.1.1) Alias of XBB.1.28.1.1.1.1, S:A684T, ORF1a:S2285F, ORF1a:K3353R, UK
+- \+ [XDM](https://cov-lineages.org/lineage.html?lineage=XDM) Recombinant lineage of XDA, GW.5, XDA (breakpoints between 22107-22926 and 24047-25838), from sars-cov-2-variants/lineage-proposals#1163
+
 ### 2024-01-10
 - \+ [JN.1.1.2](https://cov-lineages.org/lineage.html?lineage=JN.1.1.2) Alias of B.1.1.529.2.86.1.1.1.2, S:G181E, France
 - \+ [JN.1.1.3](https://cov-lineages.org/lineage.html?lineage=JN.1.1.3) Alias of B.1.1.529.2.86.1.1.1.3, S:R346T, ORF1b:H2388Y, France/Sweden
