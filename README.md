@@ -13,6 +13,10 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-01-12
+- \+ [JN.1.10](https://cov-lineages.org/lineage.html?lineage=JN.1.10) Alias of B.1.1.529.2.86.1.1.10, S:T95I, USA/Canada
+- \+ [JN.1.11](https://cov-lineages.org/lineage.html?lineage=JN.1.11) Alias of B.1.1.529.2.86.1.1.11, S:V1104L, G17334T, India, from #2446
+
 ### 2024-01-11
 - \+ [KK.1](https://cov-lineages.org/lineage.html?lineage=KK.1) Alias of XBB.1.5.102.1.1.8.1, S:D1153H, Brazil/USA
 - \+ [KK.2](https://cov-lineages.org/lineage.html?lineage=KK.2) Alias of XBB.1.5.102.1.1.8.2, S:N481K, Brazil
