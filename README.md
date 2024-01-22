@@ -13,6 +13,12 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-01-22
+- \+ [JN.1.11.1](https://cov-lineages.org/lineage.html?lineage=JN.1.11.1) Alias of B.1.1.529.2.86.1.1.11.1, S:F456L, India
+- \+ [JN.1.12](https://cov-lineages.org/lineage.html?lineage=JN.1.12) Alias of B.1.1.529.2.86.1.1.12, S:F456V, ORF7a:A8T
+- \+ [JN.11](https://cov-lineages.org/lineage.html?lineage=JN.11) Alias of B.1.1.529.2.86.1.11, S:V1104L, Asia, from sars-cov-2-variants/lineage-proposals#1303
+- \+ [JN.12](https://cov-lineages.org/lineage.html?lineage=JN.12) Alias of B.1.1.529.2.86.1.12, S:F456V, ORF1a:A498G
+
 ### 2024-01-17
 - \+ [DV.7.1](https://cov-lineages.org/lineage.html?lineage=DV.7.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1, S:L455F (G22927T), S:F456L (T22928C), Spain/Austria, from sars-cov-2-variants/lineage-proposals#135
 - \+ [KG.1](https://cov-lineages.org/lineage.html?lineage=KG.1) Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1.5.1, S:M153I, from sars-cov-2-variants/lineage-proposals#951
