@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-02-01
+- \+ [KM.1](https://cov-lineages.org/lineage.html?lineage=KM.1) Alias of XBB.1.5.4.1, S:K478R, S:M177I, S:N185D, N:A155V, ORF1a:T3696A, Guinea/Senegal
+
 ### 2024-01-22
 - \+ [JN.1.11.1](https://cov-lineages.org/lineage.html?lineage=JN.1.11.1) Alias of B.1.1.529.2.86.1.1.11.1, S:F456L, India
 - \+ [JN.1.12](https://cov-lineages.org/lineage.html?lineage=JN.1.12) Alias of B.1.1.529.2.86.1.1.12, S:F456V, ORF7a:A8T
