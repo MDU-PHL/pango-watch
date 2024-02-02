@@ -13,6 +13,20 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-02-02
+- \+ [JN.1.2.1](https://cov-lineages.org/lineage.html?lineage=JN.1.2.1) Alias of B.1.1.529.2.86.1.1.2.1, S:H1101Y, Ireland
+- \+ [JN.1.4.1](https://cov-lineages.org/lineage.html?lineage=JN.1.4.1) Alias of B.1.1.529.2.86.1.1.4.1, S:E654V, Ireland
+- \+ [JN.1.13](https://cov-lineages.org/lineage.html?lineage=JN.1.13) Alias of B.1.1.529.2.86.1.1.13, S:A1087S, USA
+- \+ [JN.1.14](https://cov-lineages.org/lineage.html?lineage=JN.1.14) Alias of B.1.1.529.2.86.1.1.14, S:R346S, USA
+- \+ [JN.1.15](https://cov-lineages.org/lineage.html?lineage=JN.1.15) Alias of B.1.1.529.2.86.1.1.15, S:A688V
+- \+ [JN.1.16](https://cov-lineages.org/lineage.html?lineage=JN.1.16) Alias of B.1.1.529.2.86.1.1.16, S:F456L
+- \+ [JN.1.17](https://cov-lineages.org/lineage.html?lineage=JN.1.17) Alias of B.1.1.529.2.86.1.1.17, S:A222V, USA
+- \+ [BA.2.87](https://cov-lineages.org/lineage.html?lineage=BA.2.87) Alias of B.1.1.529.2.87, C18744T, no C9866T
+- \+ [BA.2.87.1](https://cov-lineages.org/lineage.html?lineage=BA.2.87.1) Alias of B.1.1.529.2.87.1, saltation with 15+ spike AA mutations, South Africa, from #2484
+- \+ [GK.1.10.1](https://cov-lineages.org/lineage.html?lineage=GK.1.10.1) Alias of XBB.1.5.70.1.10.1, S:A475V, C29668T, Brazil, from #2479
+- \+ [XDQ](https://cov-lineages.org/lineage.html?lineage=XDQ) Recombinant lineage of BA.2.86.1 and FL.15.1.1 (breakpoint between 223605 and 24377), from #2481
+- \+ [XDR](https://cov-lineages.org/lineage.html?lineage=XDR) Recombinant lineage of JD.1.1.1 and JN.1.1 (breakpoint between 11043 and 11726), Brazil, from #2477
+
 ### 2024-02-01
 - \+ [KM.1](https://cov-lineages.org/lineage.html?lineage=KM.1) Alias of XBB.1.5.4.1, S:K478R, S:M177I, S:N185D, N:A155V, ORF1a:T3696A, Guinea/Senegal
 
