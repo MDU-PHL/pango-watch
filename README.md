@@ -13,6 +13,14 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-02-13
+- \+ [JN.1.1.4](https://cov-lineages.org/lineage.html?lineage=JN.1.1.4) Alias of B.1.1.529.2.86.1.1.1.4, S:V1264L, from #2476
+- \+ [JN.1.4.3](https://cov-lineages.org/lineage.html?lineage=JN.1.4.3) Alias of B.1.1.529.2.86.1.1.4.3, S:T572I, USA, from #2487
+- \+ [KN.1](https://cov-lineages.org/lineage.html?lineage=KN.1) Alias of XBB.1.5.70.1.10.1.1, S:Y200C, Brazil, from #2479
+- \+ [KN.1.1](https://cov-lineages.org/lineage.html?lineage=KN.1.1) Alias of XBB.1.5.70.1.10.1.1.1, S:N450D, Brazil, from #2479
+- \+ [HK.13.2.1](https://cov-lineages.org/lineage.html?lineage=HK.13.2.1) Alias of XBB.1.9.2.5.1.1.13.2.1, S:T250I, N:T379I, Greece, from #2480
+- \+ [XDT](https://cov-lineages.org/lineage.html?lineage=XDT) Recombinant lineage of BA.2.86.4, GK.1 (breakpoint between 23673-24378), Ireland/UK, from #2485
+
 ### 2024-02-05
 - \+ [JN.1.9.1](https://cov-lineages.org/lineage.html?lineage=JN.1.9.1) Alias of B.1.1.529.2.86.1.1.9.1, S:T572I, ORF1a:A3143V
 - \+ [JN.1.18](https://cov-lineages.org/lineage.html?lineage=JN.1.18) Alias of B.1.1.529.2.86.1.1.18, S:R346T, directly on JN.1 polytomy
