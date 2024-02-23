@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-02-23
+- \+ [KP.1](https://cov-lineages.org/lineage.html?lineage=KP.1) Alias of B.1.1.529.2.86.1.1.11.1.1, S:K1086R
+
 ### 2024-02-21
 - \+ [JN.1.23](https://cov-lineages.org/lineage.html?lineage=JN.1.23) Alias of B.1.1.529.2.86.1.1.23, S:K444R, S:Y453F, ORF1a:A307V, ORF1a:P2144L, Brazil, from #2488
 
