@@ -13,6 +13,19 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-03-05
+- \+ [JN.1.1.4](https://cov-lineages.org/lineage.html?lineage=JN.1.1.4) Alias of B.1.1.529.2.86.1.1.1.4, S:V1264L, after C9142T, from #2476
+- \+ [JN.1.1.5](https://cov-lineages.org/lineage.html?lineage=JN.1.1.5) Alias of B.1.1.529.2.86.1.1.1.5, S:R346T, after C9142T
+- \+ [KR.1](https://cov-lineages.org/lineage.html?lineage=KR.1) Alias of B.1.1.529.2.86.1.1.1.5.1, S:F456L, after C28498T
+- \+ [JN.1.11.1](https://cov-lineages.org/lineage.html?lineage=JN.1.11.1) Alias of B.1.1.529.2.86.1.1.11.1, S:F456L, after ORF1a:T2283I, India
+- \+ [KP.1.1](https://cov-lineages.org/lineage.html?lineage=KP.1.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1, S:R346T
+- \+ [KP.2](https://cov-lineages.org/lineage.html?lineage=KP.2) Alias of B.1.1.529.2.86.1.1.11.1.2, S:R346T on JN.1.11.1 polytomy
+- \+ [JN.1.24](https://cov-lineages.org/lineage.html?lineage=JN.1.24) Alias of B.1.1.529.2.86.1.1.24, S:C1243F, USA
+- \+ [JN.1.25](https://cov-lineages.org/lineage.html?lineage=JN.1.25) Alias of B.1.1.529.2.86.1.1.25, C706T, A7708T, India
+- \+ [JN.1.25.1](https://cov-lineages.org/lineage.html?lineage=JN.1.25.1) Alias of B.1.1.529.2.86.1.1.25.1, S:R346T, India
+- \+ [XDK.1](https://cov-lineages.org/lineage.html?lineage=XDK.1) S:R346T, G11596A
+- \+ [XDQ.1](https://cov-lineages.org/lineage.html?lineage=XDQ.1) S:A475V, Japan
+
 ### 2024-03-02
 - \+ [JN.1.1.5](https://cov-lineages.org/lineage.html?lineage=JN.1.1.5) Alias of B.1.1.529.2.86.1.1.1.5, S:R346T
 - \+ [KQ.1](https://cov-lineages.org/lineage.html?lineage=KQ.1) Alias of B.1.1.529.2.86.1.1.4.3.1, S:R346T, USA
