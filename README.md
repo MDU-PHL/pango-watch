@@ -13,6 +13,27 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-03-06
+- \+ [JN.1.1.1](https://cov-lineages.org/lineage.html?lineage=JN.1.1.1) Alias of B.1.1.529.2.86.1.1.1.1, S:T572I on C9142T branch, France/Sweden/Poland, from sars-cov-2-variants/lineage-proposals#1097
+- \+ [JN.1.1.4](https://cov-lineages.org/lineage.html?lineage=JN.1.1.4) Alias of B.1.1.529.2.86.1.1.1.4, S:V1264L on C9142T branch, from #2476
+- \+ [JN.1.1.5](https://cov-lineages.org/lineage.html?lineage=JN.1.1.5) Alias of B.1.1.529.2.86.1.1.1.5, S:R346T on C9142T branch, from #2492
+- \+ [JN.1.2.1](https://cov-lineages.org/lineage.html?lineage=JN.1.2.1) Alias of B.1.1.529.2.86.1.1.2.1, S:H1101Y, Ireland, from sars-cov-2-variants/lineage-proposals#1322
+- \+ [JN.1.4.1](https://cov-lineages.org/lineage.html?lineage=JN.1.4.1) Alias of B.1.1.529.2.86.1.1.4.1, S:E654V, Ireland, from sars-cov-2-variants/lineage-proposals#1175
+- \+ [KQ.1](https://cov-lineages.org/lineage.html?lineage=KQ.1) Alias of B.1.1.529.2.86.1.1.4.3.1, S:R346T, USA from #2487
+- \+ [JN.1.9.1](https://cov-lineages.org/lineage.html?lineage=JN.1.9.1) Alias of B.1.1.529.2.86.1.1.9.1, S:T572I, ORF1a:A3143V, from sars-cov-2-variants/lineage-proposals#1097
+- \+ [JN.1.11.1](https://cov-lineages.org/lineage.html?lineage=JN.1.11.1) Alias of B.1.1.529.2.86.1.1.11.1, S:F456L, after ORF1a:T2283I, India, from sars-cov-2-variants/lineage-proposals#1253
+- \+ [KP.1](https://cov-lineages.org/lineage.html?lineage=KP.1) Alias of B.1.1.529.2.86.1.1.11.1.1, S:K1086R, from sars-cov-2-variants/lineage-proposals#1364
+- \+ [JN.1.12](https://cov-lineages.org/lineage.html?lineage=JN.1.12) Alias of B.1.1.529.2.86.1.1.12, S:F456V, ORF7a:A8T, from sars-cov-2-variants/lineage-proposals#1253
+- \+ [JN.1.13](https://cov-lineages.org/lineage.html?lineage=JN.1.13) Alias of B.1.1.529.2.86.1.1.13, S:A1087S, after C26894T,C25680T, USA, from #2464
+- \+ [JN.1.16](https://cov-lineages.org/lineage.html?lineage=JN.1.16) Alias of B.1.1.529.2.86.1.1.16, S:F456L, from sars-cov-2-variants/lineage-proposals#1253
+- \+ [JN.1.18](https://cov-lineages.org/lineage.html?lineage=JN.1.18) Alias of B.1.1.529.2.86.1.1.18, S:R346T, directly on JN.1 polytomy, from sars-cov-2-variants/lineage-proposals#1089
+- \+ [JN.1.21](https://cov-lineages.org/lineage.html?lineage=JN.1.21) Alias of B.1.1.529.2.86.1.1.21, S:H1058Y, from sars-cov-2-variants/lineage-proposals#1162
+- \+ [JN.1.22](https://cov-lineages.org/lineage.html?lineage=JN.1.22) Alias of B.1.1.529.2.86.1.1.22, ORF1a:S505F, C13019T, from #2465
+- \+ [JN.12](https://cov-lineages.org/lineage.html?lineage=JN.12) Alias of B.1.1.529.2.86.1.12, S:F456V, ORF1a:A498G, from sars-cov-2-variants/lineage-proposals#1102
+- \+ [JQ.2](https://cov-lineages.org/lineage.html?lineage=JQ.2) Alias of B.1.1.529.2.86.3.2, S:R346T, G2944A, South Africa, from #2505
+- \+ [JH.2](https://cov-lineages.org/lineage.html?lineage=JH.2) Alias of B.1.1.529.5.3.1.1.1.1.1.2.2.2, S:A484K, S:V486A, USA/Canada/Finland, from sars-cov-2-variants/lineage-proposals#650, from #2068, from #2068, from #2068, from #2068
+- \+ [GN.1.4](https://cov-lineages.org/lineage.html?lineage=GN.1.4) Alias of XBB.1.5.73.1.4, S:G181V, Peru, from #2349
+
 ### 2024-03-05
 - \+ [JN.1.1.4](https://cov-lineages.org/lineage.html?lineage=JN.1.1.4) Alias of B.1.1.529.2.86.1.1.1.4, S:V1264L, after C9142T, from #2476
 - \+ [JN.1.1.5](https://cov-lineages.org/lineage.html?lineage=JN.1.1.5) Alias of B.1.1.529.2.86.1.1.1.5, S:R346T, after C9142T
