@@ -13,6 +13,20 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-03-10
+- \+ [JN.1.1.6](https://cov-lineages.org/lineage.html?lineage=JN.1.1.6) Alias of B.1.1.529.2.86.1.1.1.6, S:F456L
+- \+ [JN.1.1.7](https://cov-lineages.org/lineage.html?lineage=JN.1.1.7) Alias of B.1.1.529.2.86.1.1.1.7, S:S31F
+- \+ [JN.1.4.2](https://cov-lineages.org/lineage.html?lineage=JN.1.4.2) Alias of B.1.1.529.2.86.1.1.4.2, S:N185D, after T18453C, USA, from #2462
+- \+ [JN.1.4.4](https://cov-lineages.org/lineage.html?lineage=JN.1.4.4) Alias of B.1.1.529.2.86.1.1.4.4, S:R346T
+- \+ [JN.1.8.1](https://cov-lineages.org/lineage.html?lineage=JN.1.8.1) Alias of B.1.1.529.2.86.1.1.8.1, S:T572I, after A12928G, USA/Denmark, from sars-cov-2-variants/lineage-proposals#1097
+- \+ [JN.1.8.2](https://cov-lineages.org/lineage.html?lineage=JN.1.8.2) Alias of B.1.1.529.2.86.1.1.8.2, S:R346T, after A12928G
+- \+ [JN.1.13](https://cov-lineages.org/lineage.html?lineage=JN.1.13) Alias of B.1.1.529.2.86.1.1.13, S:A1087S, after C26894T, C25680T, USA, from #2464
+- \+ [JN.1.14](https://cov-lineages.org/lineage.html?lineage=JN.1.14) Alias of B.1.1.529.2.86.1.1.14, S:R346S, after C26894T, C25680T, USA
+- \+ [JN.1.26](https://cov-lineages.org/lineage.html?lineage=JN.1.26) Alias of B.1.1.529.2.86.1.1.26, S:R346T, after C26894T, USA
+- \+ [JN.1.27](https://cov-lineages.org/lineage.html?lineage=JN.1.27) Alias of B.1.1.529.2.86.1.1.27, S:M153I, after C26894T, C25680T, USA
+- \+ [JN.1.28](https://cov-lineages.org/lineage.html?lineage=JN.1.28) Alias of B.1.1.529.2.86.1.1.28, C24034T, A29700G, East Asia/Oceania
+- \+ [JN.1.29](https://cov-lineages.org/lineage.html?lineage=JN.1.29) Alias of B.1.1.529.2.86.1.1.29, ORF1a:T3224A, after C2644T, Brazil
+
 ### 2024-03-07
 - \+ [JN.13](https://cov-lineages.org/lineage.html?lineage=JN.13) Alias of B.1.1.529.2.86.1.13, A14397G
 - \+ [JN.13.1](https://cov-lineages.org/lineage.html?lineage=JN.13.1) Alias of B.1.1.529.2.86.1.13.1, S:A475V, USA/Malaysia
