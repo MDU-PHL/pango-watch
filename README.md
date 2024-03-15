@@ -13,6 +13,20 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-03-15
+- \+ [JN.1.1.6](https://cov-lineages.org/lineage.html?lineage=JN.1.1.6) Alias of B.1.1.529.2.86.1.1.1.6, S:F456L,from sars-cov-2-variants/lineage-proposals#1253
+- \+ [JN.1.4.4](https://cov-lineages.org/lineage.html?lineage=JN.1.4.4) Alias of B.1.1.529.2.86.1.1.4.4, S:R346T,from sars-cov-2-variants/lineage-proposals#1089
+- \+ [JN.1.4.5](https://cov-lineages.org/lineage.html?lineage=JN.1.4.5) Alias of B.1.1.529.2.86.1.1.4.5, ORF8:S103L, after T18453C, from #2426
+- \+ [JN.1.4.6](https://cov-lineages.org/lineage.html?lineage=JN.1.4.6) Alias of B.1.1.529.2.86.1.1.4.6, S:T572I, after T18453C
+- \+ [JN.1.13.1](https://cov-lineages.org/lineage.html?lineage=JN.1.13.1) Alias of B.1.1.529.2.86.1.1.13.1, S:R346T, S:F59S, USA, from sars-cov-2-variants/lineage-proposals/issues/1386
+- \+ [KS.1](https://cov-lineages.org/lineage.html?lineage=KS.1) Alias of B.1.1.529.2.86.1.1.13.1.1, S:F456L
+- \+ [JN.1.16.1](https://cov-lineages.org/lineage.html?lineage=JN.1.16.1) Alias of B.1.1.529.2.86.1.1.16.1, S:R346T
+- \+ [JN.1.18.1](https://cov-lineages.org/lineage.html?lineage=JN.1.18.1) Alias of B.1.1.529.2.86.1.1.18.1, S:T250N
+- \+ [JN.1.27](https://cov-lineages.org/lineage.html?lineage=JN.1.27) Alias of B.1.1.529.2.86.1.1.27, S:M153I, after C26894T, C25680T, USA, from sars-cov-2-variants/lineage-proposals#1403
+- \+ [JN.1.30](https://cov-lineages.org/lineage.html?lineage=JN.1.30) Alias of B.1.1.529.2.86.1.1.30, G21255T
+- \+ [JN.1.31](https://cov-lineages.org/lineage.html?lineage=JN.1.31) Alias of B.1.1.529.2.86.1.1.31, ORF3a:V13L, C19186T
+- \+ [JN.1.32](https://cov-lineages.org/lineage.html?lineage=JN.1.32) Alias of B.1.1.529.2.86.1.1.32, S:T572I, directly on JN.1 polytomy
+
 ### 2024-03-10
 - \+ [JN.1.1.6](https://cov-lineages.org/lineage.html?lineage=JN.1.1.6) Alias of B.1.1.529.2.86.1.1.1.6, S:F456L
 - \+ [JN.1.1.7](https://cov-lineages.org/lineage.html?lineage=JN.1.1.7) Alias of B.1.1.529.2.86.1.1.1.7, S:S31F
