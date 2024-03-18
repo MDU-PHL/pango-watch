@@ -13,6 +13,18 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-03-18
+- \+ [KP.3](https://cov-lineages.org/lineage.html?lineage=KP.3) Alias of B.1.1.529.2.86.1.1.11.1.3, S:Q493E
+- \+ [JN.1.33](https://cov-lineages.org/lineage.html?lineage=JN.1.33) Alias of B.1.1.529.2.86.1.1.33, S:A67V, G2782T, C5512T, China
+- \+ [JN.1.34](https://cov-lineages.org/lineage.html?lineage=JN.1.34) Alias of B.1.1.529.2.86.1.1.34, S:S704L
+- \+ [JN.1.35](https://cov-lineages.org/lineage.html?lineage=JN.1.35) Alias of B.1.1.529.2.86.1.1.35, S:S680Y, after T18471C, Australia/New Zealand
+- \+ [JN.1.36](https://cov-lineages.org/lineage.html?lineage=JN.1.36) Alias of B.1.1.529.2.86.1.1.36, S:Q677H, after A29086T
+- \+ [GE.1.2.1](https://cov-lineages.org/lineage.html?lineage=GE.1.2.1) Alias of XBB.2.3.10.1.2.1, S:478T, S:A376S, ORF7a-ORF8 possibly completely deleted, from sars-cov-2-variants/lineage-proposals#1103
+- \+ [KT.1](https://cov-lineages.org/lineage.html?lineage=KT.1) Alias of XBB.2.3.10.1.2.1.1, S:K77R, US/UK
+- \+ [KT.1.1](https://cov-lineages.org/lineage.html?lineage=KT.1.1) Alias of XBB.2.3.10.1.2.1.1.1, C683T, G15957A, USA
+- \+ [KT.1.2](https://cov-lineages.org/lineage.html?lineage=KT.1.2) Alias of XBB.2.3.10.1.2.1.1.2, ORF1b:N2328S, C583T
+- \+ [GE.1.2.2](https://cov-lineages.org/lineage.html?lineage=GE.1.2.2) Alias of XBB.2.3.10.1.2.2, S:S408N, ORF1b:A517V, ORF1b:D1899E, ORF7a-ORF8 possibly completed deleted, Kenya
+
 ### 2024-03-15
 - \+ [JN.1.1.6](https://cov-lineages.org/lineage.html?lineage=JN.1.1.6) Alias of B.1.1.529.2.86.1.1.1.6, S:F456L,from sars-cov-2-variants/lineage-proposals#1253
 - \+ [JN.1.4.4](https://cov-lineages.org/lineage.html?lineage=JN.1.4.4) Alias of B.1.1.529.2.86.1.1.4.4, S:R346T,from sars-cov-2-variants/lineage-proposals#1089
