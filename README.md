@@ -13,6 +13,27 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-03-26
+- \+ [Lineage](https://cov-lineages.org/lineage.html?lineage=Lineage) Description
+- \+ [KV.1](https://cov-lineages.org/lineage.html?lineage=KV.1) Alias of B.1.1.529.2.86.1.1.4.5, S:S680F,
+- \+ [KP.1.1.1](https://cov-lineages.org/lineage.html?lineage=KP.1.1.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.1, S:K182N
+- \+ [JN.1.18.2](https://cov-lineages.org/lineage.html?lineage=JN.1.18.2) Alias of B.1.1.529.2.86.1.1.18.2, S:F59S, after C4331T, T22321C
+- \+ [JN.1.28.1](https://cov-lineages.org/lineage.html?lineage=JN.1.28.1) Alias of B.1.1.529.2.86.1.1.28.1, ORF1a:P1640L, C19545T, C24370T
+- \+ [KW.1](https://cov-lineages.org/lineage.html?lineage=KW.1) Alias of B.1.1.529.2.86.1.1.28.1.1, S:T572I, Australia
+- \+ [KU.1](https://cov-lineages.org/lineage.html?lineage=KU.1) Alias of B.1.1.529.2.86.1.1.30.1.1, S:K182Q
+- \+ [KU.2](https://cov-lineages.org/lineage.html?lineage=KU.2) Alias of B.1.1.529.2.86.1.1.30.1.2, S:F456L
+- \+ [JN.1.36.1](https://cov-lineages.org/lineage.html?lineage=JN.1.36.1) Alias of B.1.1.529.2.86.1.1.36.1, S:S680F, South Korea
+- \+ [JN.1.37](https://cov-lineages.org/lineage.html?lineage=JN.1.37) Alias of B.1.1.529.2.86.1.1.37, S:S680F
+- \+ [JN.1.38](https://cov-lineages.org/lineage.html?lineage=JN.1.38) Alias of B.1.1.529.2.86.1.1.38, ORF1b:R1736K, USA
+- \+ [JN.1.39](https://cov-lineages.org/lineage.html?lineage=JN.1.39) Alias of B.1.1.529.2.86.1.1.39, G2782T
+- \+ [JN.1.40](https://cov-lineages.org/lineage.html?lineage=JN.1.40) Alias of B.1.1.529.2.86.1.1.40, S:S31P, Mexico
+- \+ [JN.1.41](https://cov-lineages.org/lineage.html?lineage=JN.1.41) Alias of B.1.1.529.2.86.1.1.41, S:S1252F, on A29086T, USA
+- \+ [JN.1.42](https://cov-lineages.org/lineage.html?lineage=JN.1.42) Alias of B.1.1.529.2.86.1.1.42, C5581A, South America
+- \+ [JN.1.43](https://cov-lineages.org/lineage.html?lineage=JN.1.43) Alias of B.1.1.529.2.86.1.1.43, A25237G
+- \+ [JN.1.43.1](https://cov-lineages.org/lineage.html?lineage=JN.1.43.1) Alias of B.1.1.529.2.86.1.1.43.1, C19488T, C29218T, Brazil
+- \+ [JN.1.44](https://cov-lineages.org/lineage.html?lineage=JN.1.44) Alias of B.1.1.529.2.86.1.1.44, ORF6:P57L
+- \+ [XDD.1.1.1](https://cov-lineages.org/lineage.html?lineage=XDD.1.1.1) S:R346T
+
 ### 2024-03-21
 - \+ [JQ.2.1](https://cov-lineages.org/lineage.html?lineage=JQ.2.1) Alias of B.1.1.529.2.86.3.2.1, S:L455S, South Africa
 
