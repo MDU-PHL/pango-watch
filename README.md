@@ -13,6 +13,12 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-03-30
+- \+ [KY.1](https://cov-lineages.org/lineage.html?lineage=KY.1) Alias of B.1.1.529.2.86.1.1.8.2.1, ORF1a:N3774D, Nigeria
+- \+ [JN.1.8.3](https://cov-lineages.org/lineage.html?lineage=JN.1.8.3) Alias of B.1.1.529.2.86.1.1.8.3, C13821T, C14925T
+- \+ [JN.1.45](https://cov-lineages.org/lineage.html?lineage=JN.1.45) Alias of B.1.1.529.2.86.1.1.45, G18756T
+- \+ [JN.14](https://cov-lineages.org/lineage.html?lineage=JN.14) Alias of B.1.1.529.2.86.1.14, C29614T, S:S680F, Thailand/Japan
+
 ### 2024-03-27
 - \+ [JN.2.2.1](https://cov-lineages.org/lineage.html?lineage=JN.2.2.1) Alias of B.1.1.529.2.86.1.2.2.1, S:N487D, Netherlands
 - \+ [XDP.1](https://cov-lineages.org/lineage.html?lineage=XDP.1) S:E1092D, after ORF1a:L397P, ORF1a:H388Y
