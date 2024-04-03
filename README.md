@@ -13,6 +13,15 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-04-03
+- \+ [KV.1](https://cov-lineages.org/lineage.html?lineage=KV.1) Alias of B.1.1.529.2.86.1.1.4.5.1, S:S680F
+- \+ [KV.2](https://cov-lineages.org/lineage.html?lineage=KV.2) Alias of B.1.1.529.2.86.1.1.4.5.2, S:T572I, ORF1a:P971L, C11956T, USA
+- \+ [JN.1.4.7](https://cov-lineages.org/lineage.html?lineage=JN.1.4.7) Alias of B.1.1.529.2.86.1.1.4.7, ORF3a:G18D
+- \+ [JN.1.42.1](https://cov-lineages.org/lineage.html?lineage=JN.1.42.1) Alias of B.1.1.529.2.86.1.1.42.1, S:F59S
+- \+ [JN.1.46](https://cov-lineages.org/lineage.html?lineage=JN.1.46) Alias of B.1.1.529.2.86.1.1.46, ORF1a:L3116F, T4885C
+- \+ [XDV](https://cov-lineages.org/lineage.html?lineage=XDV) Recombinant lineage of XDE, JN.1, XDE, JN.1 (breakpoints between 19326-21608, 27915-28297, 28958-29535), from #2402
+- \+ [XDV.1](https://cov-lineages.org/lineage.html?lineage=XDV.1) S:F456L (T22930A), on C11572T branch
+
 ### 2024-03-30
 - \+ [KY.1](https://cov-lineages.org/lineage.html?lineage=KY.1) Alias of B.1.1.529.2.86.1.1.8.2.1, ORF1a:N3774D, Nigeria
 - \+ [JN.1.8.3](https://cov-lineages.org/lineage.html?lineage=JN.1.8.3) Alias of B.1.1.529.2.86.1.1.8.3, C13821T, C14925T
