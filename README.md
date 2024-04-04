@@ -13,6 +13,11 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-04-04
+- \+ [KP.1.1.1](https://cov-lineages.org/lineage.html?lineage=KP.1.1.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.1, S:K182N from #2510
+- \+ [KW.1.1](https://cov-lineages.org/lineage.html?lineage=KW.1.1) Alias of B.1.1.529.2.86.1.1.28.1.1.1, S:F456L, ORF1b:R2009K, Australia/Japan
+- \+ [XDU](https://cov-lineages.org/lineage.html?lineage=XDU) Recombinant lineage of BA.2.86.1, XBB.1.16 (breakpoint between 11957-12729), Japan, from #2502
+
 ### 2024-04-03
 - \+ [KV.1](https://cov-lineages.org/lineage.html?lineage=KV.1) Alias of B.1.1.529.2.86.1.1.4.5.1, S:S680F
 - \+ [KV.2](https://cov-lineages.org/lineage.html?lineage=KV.2) Alias of B.1.1.529.2.86.1.1.4.5.2, S:T572I, ORF1a:P971L, C11956T, USA
