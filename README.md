@@ -13,6 +13,12 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-04-05
+- \+ [KZ.1](https://cov-lineages.org/lineage.html?lineage=KZ.1) Alias of B.1.1.529.2.86.1.1.1.6.1, ORF1b:V1092F
+- \+ [KZ.1.1](https://cov-lineages.org/lineage.html?lineage=KZ.1.1) Alias of B.1.1.529.2.86.1.1.1.6.1.1, S:R346T
+- \+ [KZ.1.1.1](https://cov-lineages.org/lineage.html?lineage=KZ.1.1.1) Alias of B.1.1.529.2.86.1.1.1.6.1.1.1, S:T572I
+- \+ [JN.1.7.3](https://cov-lineages.org/lineage.html?lineage=JN.1.7.3) Alias of B.1.1.529.2.86.1.1.7.3, S:R346T
+
 ### 2024-04-04
 - \+ [KP.1.1.1](https://cov-lineages.org/lineage.html?lineage=KP.1.1.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.1, S:K182N from #2510
 - \+ [KW.1.1](https://cov-lineages.org/lineage.html?lineage=KW.1.1) Alias of B.1.1.529.2.86.1.1.28.1.1.1, S:F456L, ORF1b:R2009K, Australia/Japan
