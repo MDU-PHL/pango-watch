@@ -13,6 +13,48 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-04-06
+- \+ [KZ.1.1](https://cov-lineages.org/lineage.html?lineage=KZ.1.1) Alias of B.1.1.529.2.86.1.1.1.6.1.1, S:R346T from #2548
+- \+ [KZ.1.1.1](https://cov-lineages.org/lineage.html?lineage=KZ.1.1.1) Alias of B.1.1.529.2.86.1.1.1.6.1.1.1, S:T572I from #2548
+- \+ [KV.1](https://cov-lineages.org/lineage.html?lineage=KV.1) Alias of B.1.1.529.2.86.1.1.4.5.1, S:S680F, after C28948T then A2356T
+- \+ [JN.1.33](https://cov-lineages.org/lineage.html?lineage=JN.1.33) Alias of B.1.1.529.2.86.1.1.33, S:A67V, G2782T, C5512T, China from #2498
+- \+ [JN.14](https://cov-lineages.org/lineage.html?lineage=JN.14) Alias of B.1.1.529.2.86.1.14, C29614T, S:S680F, Thailand/Japan，from #2424
+- \+ [BQ.1.1.43](https://cov-lineages.org/lineage.html?lineage=BQ.1.1.43) Alias of B.1.1.529.5.3.1.1.1.1.1.1.43 USA, S:Q613H (G23401C), C26292T
+- \+ [XBB.1.9](https://cov-lineages.org/lineage.html?lineage=XBB.1.9) ORF1a:G1819S, ORF1a:T4175I, on ORF9b:I5T branch
+- \+ [XBB.1.9.2](https://cov-lineages.org/lineage.html?lineage=XBB.1.9.2) S:F486P (after A27507C, A16878T), Indonesia/Singapore, from #1602
+- \+ [EG.1](https://cov-lineages.org/lineage.html?lineage=EG.1) Alias of XBB.1.9.2.1, S:Q613H on N:L219F branch, from #1664 and jmcbroome/auto-pango-designation#193
+- \+ [EG.4.3](https://cov-lineages.org/lineage.html?lineage=EG.4.3) Alias of XBB.1.9.2.4.3, S:Q613H (G23401C)
+- \+ [XBB.1.9.3](https://cov-lineages.org/lineage.html?lineage=XBB.1.9.3) ORF1b:G2005S, ORF1b:G1568C, Europe, from jmcbroome/auto-pango-designation#193
+- \+ [FE.1.1.3](https://cov-lineages.org/lineage.html?lineage=FE.1.1.3) Alias of XBB.1.18.1.1.1.3, A24775G, on G28371T (N:G33V, ORF9b:V30L) branch, China
+- \+ [XBB.1.22](https://cov-lineages.org/lineage.html?lineage=XBB.1.22) Defined by S:486P, on ORF9b:I5T branch, from #1704
+- \+ [XBB.1.23](https://cov-lineages.org/lineage.html?lineage=XBB.1.23) Defined by E:S68F, on ORF9b:I5T branch, South East Asia
+- \+ [XBB.1.25](https://cov-lineages.org/lineage.html?lineage=XBB.1.25) Defined by C673T, G487T, on ORF9b:I5T branch
+- \+ [XBB.1.26](https://cov-lineages.org/lineage.html?lineage=XBB.1.26) Defined by T10663C, on ORF9b:I5T branch, Canada
+- \+ [XBB.2.5](https://cov-lineages.org/lineage.html?lineage=XBB.2.5) S:Q613H, from jmcbroome/auto-pango-designation#193
+- \+ [XBB.3](https://cov-lineages.org/lineage.html?lineage=XBB.3) ORF1b:I1988V, on ORF1a:D82G branch
+- \+ [XBB.3.1](https://cov-lineages.org/lineage.html?lineage=XBB.3.1) S:Q677R, after T1993C, India-TN/Singapore, from #1241
+- \+ [XBB.3.2](https://cov-lineages.org/lineage.html?lineage=XBB.3.2) S:M177T
+- \+ [XBB.3.3](https://cov-lineages.org/lineage.html?lineage=XBB.3.3) S:V1122L, after T1993C, USA
+- \+ [XBB.3.4](https://cov-lineages.org/lineage.html?lineage=XBB.3.4) S:E990D
+- \+ [XBB.4](https://cov-lineages.org/lineage.html?lineage=XBB.4) S:K444R, on ORF1a:D82G branch, from #1239
+- \+ [XBB.5](https://cov-lineages.org/lineage.html?lineage=XBB.5) S:A653V, after G5518A, on ORF1a:D82G branch, India-TN, Singapore, Australia
+- \+ [XBB.6](https://cov-lineages.org/lineage.html?lineage=XBB.6) C14178T, on ORF1a:D82G branch, USA/India/England
+- \+ [XBB.6.1](https://cov-lineages.org/lineage.html?lineage=XBB.6.1) S:F486P, USA, from #1459
+- \+ [XBB.7](https://cov-lineages.org/lineage.html?lineage=XBB.7) S:Q613H, after G5518A, on ORF1a:D82G branch, Malaysia
+- \+ [XBB.8](https://cov-lineages.org/lineage.html?lineage=XBB.8) T14574C, on ORF1a:D82G branch, India/Malaysia/Brunei
+- \+ [XBB.8.1](https://cov-lineages.org/lineage.html?lineage=XBB.8.1) S:486P, ORF1a:K634N, ORF1a:K3353R, Malaysia
+- \+ [XBB.9](https://cov-lineages.org/lineage.html?lineage=XBB.9) N:T49I, on ORF1a:D82G branch, Philippines
+- \+ [XBC](https://cov-lineages.org/lineage.html?lineage=XBC) Recombinant lineage of BA.2 and B.1.617.2(21I), predominantly in Philippines, from #1100
+- \+ [XBF](https://cov-lineages.org/lineage.html?lineage=XBF) Recombinant lineage of BA.5.2* and CJ.1, Australia, from #1259
+- \+ [XBF.4](https://cov-lineages.org/lineage.html?lineage=XBF.4) Europe, ORF1a:H417Y, from jmcbroome/auto-pango-designation#193
+- \+ [XBK.1](https://cov-lineages.org/lineage.html?lineage=XBK.1) S:P1162S, from #1551 and jmcbroome/auto-pango-designation#193
+- \+ [XDL](https://cov-lineages.org/lineage.html?lineage=XDL) Recombinant lineage of EG.5.1.1 and non-EG.5 (breakpoint between 25573-29624) with S:I1114T, most with S:L455F(G22927T), China, from #2351
+- \+ [XDQ](https://cov-lineages.org/lineage.html?lineage=XDQ) Recombinant lineage of BA.2.86.1 and FL.15.1.1 (breakpoint between 23605 and 24377), most with T22846C, Vietnam/Japan/South Korea, from #2481
+- \+ [XDQ.1](https://cov-lineages.org/lineage.html?lineage=XDQ.1) S:A475V, Japan/South Korea, from #2497
+- \+ [XDV](https://cov-lineages.org/lineage.html?lineage=XDV) Recombinant lineage of XDE, JN.1, XDE, JN.1 (breakpoints between 19327-21608, 27916-28296, 28959-29534), USA/China, from #2402
+- \+ [XDV.1](https://cov-lineages.org/lineage.html?lineage=XDV.1) S:F456L (T22930A), on C11572T branch, Hong Kong
+- \+ [\*HK.1.1](https://cov-lineages.org/lineage.html?lineage=*HK.1.1) Withdrawn as smaller than thought (only 6 sequences have 257V and G22927T): Alias of XBB.1.9.2.5.1.1.1.1, S:L455F (G22927T), China (now considered as an HK.3+S:G257D branch being misplaced with HK.1+S:L455F)
+
 ### 2024-04-05
 - \+ [KZ.1](https://cov-lineages.org/lineage.html?lineage=KZ.1) Alias of B.1.1.529.2.86.1.1.1.6.1, ORF1b:V1092F
 - \+ [KZ.1.1](https://cov-lineages.org/lineage.html?lineage=KZ.1.1) Alias of B.1.1.529.2.86.1.1.1.6.1.1, S:R346T
