@@ -13,6 +13,40 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-04-13
+- \+ [KR.1](https://cov-lineages.org/lineage.html?lineage=KR.1) Alias of B.1.1.529.2.86.1.1.1.5.1, S:F456L, after C28498T, from sars-cov-2-variants/lineage-proposals#1253
+- \+ [KV.2](https://cov-lineages.org/lineage.html?lineage=KV.2) Alias of B.1.1.529.2.86.1.1.4.5.2, S:T572I, ORF1a:P971L, C11956T, USA, from sars-cov-2-variants/lineage-proposals#1097
+- \+ [JN.1.4.6](https://cov-lineages.org/lineage.html?lineage=JN.1.4.6) Alias of B.1.1.529.2.86.1.1.4.6, S:T572I, after T18453C, from sars-cov-2-variants/lineage-proposals#1097
+- \+ [JN.1.7.1](https://cov-lineages.org/lineage.html?lineage=JN.1.7.1) Alias of B.1.1.529.2.86.1.1.7.1, S:R346K, England, from sars-cov-2-variants/lineage-proposals#1371
+- \+ [JN.1.7.3](https://cov-lineages.org/lineage.html?lineage=JN.1.7.3) Alias of B.1.1.529.2.86.1.1.7.3, S:R346T, from sars-cov-2-variants/lineage-proposals#1343
+- \+ [JN.1.8.2](https://cov-lineages.org/lineage.html?lineage=JN.1.8.2) Alias of B.1.1.529.2.86.1.1.8.2, S:R346T, after A12928G, from sars-cov-2-variants/lineage-proposals#1089
+- \+ [KP.2.1](https://cov-lineages.org/lineage.html?lineage=KP.2.1) Alias of B.1.1.529.2.86.1.1.11.1.2.1, S:Q1201K, from sars-cov-2-variants/lineage-proposals#1440
+- \+ [KP.2.2](https://cov-lineages.org/lineage.html?lineage=KP.2.2) Alias of B.1.1.529.2.86.1.1.11.1.2.2, S:F59L, S:K1266R, from sars-cov-2-variants/lineage-proposals#1446
+- \+ [KP.3](https://cov-lineages.org/lineage.html?lineage=KP.3) Alias of B.1.1.529.2.86.1.1.11.1.3, S:Q493E, from sars-cov-2-variants/lineage-proposals#1410
+- \+ [JN.1.18.1](https://cov-lineages.org/lineage.html?lineage=JN.1.18.1) Alias of B.1.1.529.2.86.1.1.18.1, S:T250N, from sars-cov-2-variants/lineage-proposals#1414
+- \+ [JN.1.18.2](https://cov-lineages.org/lineage.html?lineage=JN.1.18.2) Alias of B.1.1.529.2.86.1.1.18.2, S:F59S, after C4331T, T22321C, from sars-cov-2-variants/lineage-proposals#1441
+- \+ [JN.1.26](https://cov-lineages.org/lineage.html?lineage=JN.1.26) Alias of B.1.1.529.2.86.1.1.26, S:R346T, after C26894T, USA, from sars-cov-2-variants/lineage-proposals#1089
+- \+ [JN.1.28.1](https://cov-lineages.org/lineage.html?lineage=JN.1.28.1) Alias of B.1.1.529.2.86.1.1.28.1, ORF1a:P1640L, C19545T, C24370T, from sars-cov-2-variants/lineage-proposals#1244
+- \+ [KW.1](https://cov-lineages.org/lineage.html?lineage=KW.1) Alias of B.1.1.529.2.86.1.1.28.1.1, S:T572I, Australia, from sars-cov-2-variants/lineage-proposals#1244
+- \+ [KW.1.1](https://cov-lineages.org/lineage.html?lineage=KW.1.1) Alias of B.1.1.529.2.86.1.1.28.1.1.1, S:F456L, ORF1b:R2009K, Australia/Japan, from sars-cov-2-variants/lineage-proposals#1244
+- \+ [JN.1.30.1](https://cov-lineages.org/lineage.html?lineage=JN.1.30.1) Alias of B.1.1.529.2.86.1.1.30.1, S:R346T, after T7789C, India, from sars-cov-2-variants/lineage-proposals#1089
+- \+ [KU.2](https://cov-lineages.org/lineage.html?lineage=KU.2) Alias of B.1.1.529.2.86.1.1.30.1.2, S:F456L, from sars-cov-2-variants/lineage-proposals#1089
+- \+ [JN.1.31](https://cov-lineages.org/lineage.html?lineage=JN.1.31) Alias of B.1.1.529.2.86.1.1.31, ORF3a:V13L, C19186T, from sars-cov-2-variants/lineage-proposals#1319
+- \+ [JN.1.35](https://cov-lineages.org/lineage.html?lineage=JN.1.35) Alias of B.1.1.529.2.86.1.1.35, S:S680Y, after T18471C, Australia/New Zealand, from sars-cov-2-variants/lineage-proposals#1362
+- \+ [JN.1.36](https://cov-lineages.org/lineage.html?lineage=JN.1.36) Alias of B.1.1.529.2.86.1.1.36, S:Q677H, after A29086T, from sars-cov-2-variants/lineage-proposals#1326
+- \+ [JN.1.36.1](https://cov-lineages.org/lineage.html?lineage=JN.1.36.1) Alias of B.1.1.529.2.86.1.1.36.1, S:S680F, South Korea, from sars-cov-2-variants/lineage-proposals#1326
+- \+ [JN.1.40](https://cov-lineages.org/lineage.html?lineage=JN.1.40) Alias of B.1.1.529.2.86.1.1.40, S:S31P, Mexico, from sars-cov-2-variants/lineage-proposals#1451
+- \+ [JN.1.41](https://cov-lineages.org/lineage.html?lineage=JN.1.41) Alias of B.1.1.529.2.86.1.1.41, S:S1252F, on A29086T, USA, from sars-cov-2-variants/lineage-proposals#1256
+- \+ [JN.1.42.1](https://cov-lineages.org/lineage.html?lineage=JN.1.42.1) Alias of B.1.1.529.2.86.1.1.42.1, S:F59S, from sars-cov-2-variants/lineage-proposals#1474
+- \+ [JN.1.44](https://cov-lineages.org/lineage.html?lineage=JN.1.44) Alias of B.1.1.529.2.86.1.1.44, ORF6:P57L, from sars-cov-2-variants/lineage-proposals#987
+- \+ [JN.13.1](https://cov-lineages.org/lineage.html?lineage=JN.13.1) Alias of B.1.1.529.2.86.1.13.1, S:A475V, USA/Malaysia, from sars-cov-2-variants/lineage-proposals#1386
+- \+ [JQ.2.1](https://cov-lineages.org/lineage.html?lineage=JQ.2.1) Alias of B.1.1.529.2.86.3.2.1, S:L455S, South Africa, from sars-cov-2-variants/lineage-proposals#1373
+- \+ [JH.2](https://cov-lineages.org/lineage.html?lineage=JH.2) Alias of B.1.1.529.5.3.1.1.1.1.1.2.2.2, S:A484K, S:V486A, USA/Canada/Finland, from sars-cov-2-variants/lineage-proposals#650, from #2068, from #2068, from #2068, from #2068, from #2068, from #2068
+- \+ [GE.1.2.2](https://cov-lineages.org/lineage.html?lineage=GE.1.2.2) Alias of XBB.2.3.10.1.2.2, S:S408N, ORF1b:A517V, ORF1b:D1899E, ORF7a-ORF8 possibly completed deleted, Kenya, from sars-cov-2-variants/lineage-proposals#1340
+- \+ [XDD.1.1.1](https://cov-lineages.org/lineage.html?lineage=XDD.1.1.1) S:R346T, from sars-cov-2-variants/lineage-proposals#1450
+- \+ [XDK.1](https://cov-lineages.org/lineage.html?lineage=XDK.1) S:R346T, G11596A, from sars-cov-2-variants/lineage-proposals#1407
+- \+ [XDP.1](https://cov-lineages.org/lineage.html?lineage=XDP.1) S:E1092D, after ORF1a:L397P, ORF1a:H388Y, from sars-cov-2-variants/lineage-proposals#1358
+
 ### 2024-04-06
 - \+ [KZ.1.1](https://cov-lineages.org/lineage.html?lineage=KZ.1.1) Alias of B.1.1.529.2.86.1.1.1.6.1.1, S:R346T from #2548
 - \+ [KZ.1.1.1](https://cov-lineages.org/lineage.html?lineage=KZ.1.1.1) Alias of B.1.1.529.2.86.1.1.1.6.1.1.1, S:T572I from #2548
