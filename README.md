@@ -13,6 +13,11 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-04-19
+- \+ [XDQ.2](https://cov-lineages.org/lineage.html?lineage=XDQ.2) S:N487D, Vietnam
+- \+ [XDQ.3](https://cov-lineages.org/lineage.html?lineage=XDQ.3) S:681H, Indonesia
+- \+ [XDW](https://cov-lineages.org/lineage.html?lineage=XDW) Recombinant lineage of JN.2 (T1030C branch), XDA (breakpoint between 23424-23603), Japan, from sars-cov-2-variants/lineage-proposals#1471
+
 ### 2024-04-17
 - \+ [JN.1.48.1](https://cov-lineages.org/lineage.html?lineage=JN.1.48.1) Alias of B.1.1.529.2.86.1.1.48.1, S:S60P, S:R346T, S:F456L, after ORF3a:A99V from #2547
 
