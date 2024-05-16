@@ -13,6 +13,41 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-05-16
+- \+ [LE.1](https://cov-lineages.org/lineage.html?lineage=LE.1) Alias of B.1.1.529.2.86.1.1.4.7.1, S:R346T
+- \+ [LE.1.1](https://cov-lineages.org/lineage.html?lineage=LE.1.1) Alias of B.1.1.529.2.86.1.1.4.7.1.1, S:F456V
+- \+ [LE.1.2](https://cov-lineages.org/lineage.html?lineage=LE.1.2) Alias of B.1.1.529.2.86.1.1.4.7.1.2, S:K304N
+- \+ [LE.2](https://cov-lineages.org/lineage.html?lineage=LE.2) Alias of B.1.1.529.2.86.1.1.4.7.2, S:R346S, C7423T
+- \+ [KP.1.1.2](https://cov-lineages.org/lineage.html?lineage=KP.1.1.2) Alias of B.1.1.529.2.86.1.1.11.1.1.1.2, S:P1162S, T2152C
+- \+ [KP.2.3.1](https://cov-lineages.org/lineage.html?lineage=KP.2.3.1) Alias of B.1.1.529.2.86.1.1.11.1.2.3, S:A475V
+- \+ [KP.2.4](https://cov-lineages.org/lineage.html?lineage=KP.2.4) Alias of B.1.1.529.2.86.1.1.11.1.2.4, S:T250N
+- \+ [KP.2.5](https://cov-lineages.org/lineage.html?lineage=KP.2.5) Alias of B.1.1.529.2.86.1.1.11.1.2.5, S:N185D
+- \+ [KP.2.6](https://cov-lineages.org/lineage.html?lineage=KP.2.6) Alias of B.1.1.529.2.86.1.1.11.1.2.6, S:W64R
+- \+ [KP.2.7](https://cov-lineages.org/lineage.html?lineage=KP.2.7) Alias of B.1.1.529.2.86.1.1.11.1.2.7, S:S31F
+- \+ [KP.2.8](https://cov-lineages.org/lineage.html?lineage=KP.2.8) Alias of B.1.1.529.2.86.1.1.11.1.2.8, S:S60P
+- \+ [KP.2.9](https://cov-lineages.org/lineage.html?lineage=KP.2.9) Alias of B.1.1.529.2.86.1.1.11.1.2.9, S:T572I
+- \+ [KP.2.10](https://cov-lineages.org/lineage.html?lineage=KP.2.10) Alias of B.1.1.529.2.86.1.1.11.1.2.10, S:F59S, Singapore
+- \+ [KP.2.11](https://cov-lineages.org/lineage.html?lineage=KP.2.11) Alias of B.1.1.529.2.86.1.1.11.1.2.11, S:F56V, ORF1a:T2093I, England
+- \+ [KP.2.12](https://cov-lineages.org/lineage.html?lineage=KP.2.12) Alias of B.1.1.529.2.86.1.1.11.1.2.12, S:V1176F, G25088T, Australia
+- \+ [KP.4.2.1](https://cov-lineages.org/lineage.html?lineage=KP.4.2.1) Alias of B.1.1.529.2.86.1.1.11.1.4.2.1, S:S31F
+- \+ [LF.1](https://cov-lineages.org/lineage.html?lineage=LF.1) Alias of B.1.1.529.2.86.1.1.16.1.1, ORF1a:A1268T, ORF1a:S2103F
+- \+ [LF.1.1](https://cov-lineages.org/lineage.html?lineage=LF.1.1) Alias of B.1.1.529.2.86.1.1.16.1.1.1, S:P1263L
+- \+ [KW.1.1.1](https://cov-lineages.org/lineage.html?lineage=KW.1.1.1) Alias of B.1.1.529.2.86.1.1.28.1.1.1.1, S:T95S, Australia
+- \+ [LG.1](https://cov-lineages.org/lineage.html?lineage=LG.1) Alias of B.1.1.529.2.86.1.1.28.1.1.1.1.1, S:R346T, Australia
+- \+ [JN.1.39.1](https://cov-lineages.org/lineage.html?lineage=JN.1.39.1) Alias of B.1.1.529.2.86.1.1.39.1, S:R346T, S:F456L, C21034T, T25631C, A16011G, T6913C
+- \+ [JN.1.42.2](https://cov-lineages.org/lineage.html?lineage=JN.1.42.2) Alias of B.1.1.529.2.86.1.1.42.2, S:R346T, Peru
+- \+ [LD.1](https://cov-lineages.org/lineage.html?lineage=LD.1) Alias of B.1.1.529.2.86.1.1.48.1.1, S:T572I
+- \+ [JN.1.48.2](https://cov-lineages.org/lineage.html?lineage=JN.1.48.2) Alias of B.1.1.529.2.86.1.1.48.2, S:R346T, ORF1a:A427V, A3829G, India
+- \+ [JN.1.49](https://cov-lineages.org/lineage.html?lineage=JN.1.49) Alias of B.1.1.529.2.86.1.1.49, ORF3a:T89I, India
+- \+ [JN.1.49.1](https://cov-lineages.org/lineage.html?lineage=JN.1.49.1) Alias of B.1.1.529.2.86.1.1.49.1, S:R346T
+- \+ [JN.1.49.2](https://cov-lineages.org/lineage.html?lineage=JN.1.49.2) Alias of B.1.1.529.2.86.1.1.49.2, S:F456L
+- \+ [XDK.1.1](https://cov-lineages.org/lineage.html?lineage=XDK.1.1) S:K182R, S:E213G, India
+- \+ [XDK.1.2](https://cov-lineages.org/lineage.html?lineage=XDK.1.2) S:F456L
+- \+ [XDK.2](https://cov-lineages.org/lineage.html?lineage=XDK.2) S:K679R, T4996A, C11173T, A23598G, C27297T
+- \+ [XDK.3](https://cov-lineages.org/lineage.html?lineage=XDK.3) S:F456L, ORF1a:F3397L
+- \+ [XDQ.1.1](https://cov-lineages.org/lineage.html?lineage=XDQ.1.1) S:S60P, C1594T, Japan
+- \+ [XDR.1](https://cov-lineages.org/lineage.html?lineage=XDR.1) S:F59S, G6077T, A14031G, C26801T, Brazil/Peru
+
 ### 2024-04-19
 - \+ [XDQ.2](https://cov-lineages.org/lineage.html?lineage=XDQ.2) S:N487D, Vietnam
 - \+ [XDQ.3](https://cov-lineages.org/lineage.html?lineage=XDQ.3) S:681H, Indonesia
