@@ -13,6 +13,24 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-05-17
+- \+ [KP.3.1](https://cov-lineages.org/lineage.html?lineage=KP.3.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1, G15372T, A19722G
+- \+ [KP.3.2](https://cov-lineages.org/lineage.html?lineage=KP.3.2) Alias of B.1.1.529.2.86.1.1.11.1.3.2, A2611C, C22858T
+- \+ [KP.3.3](https://cov-lineages.org/lineage.html?lineage=KP.3.3) Alias of B.1.1.529.2.86.1.1.11.1.3.3, S:R204P
+- \+ [KP.5](https://cov-lineages.org/lineage.html?lineage=KP.5) Alias of B.1.1.529.2.86.1.1.11.1.5, S:T572I
+- \+ [JN.1.39.2](https://cov-lineages.org/lineage.html?lineage=JN.1.39.2) Alias of B.1.1.529.2.86.1.1.39.2, S:R346T, T111C
+- \+ [JN.1.39.3](https://cov-lineages.org/lineage.html?lineage=JN.1.39.3) Alias of B.1.1.529.2.86.1.1.39.3, S:A67V, T111C, C5512T, China from #2498 (originally known as JN.1.33)
+- \+ [JN.3.3](https://cov-lineages.org/lineage.html?lineage=JN.3.3) Alias of B.1.1.529.2.86.1.3.3, A5641G, C14478T, C21676T
+- \+ [JN.11.1](https://cov-lineages.org/lineage.html?lineage=JN.11.1) Alias of B.1.1.529.2.86.1.11.1, S:L455S
+- \+ [JN.15](https://cov-lineages.org/lineage.html?lineage=JN.15) Alias of B.1.1.529.2.86.1.15, C24319T, Japan
+- \+ [JN.16](https://cov-lineages.org/lineage.html?lineage=JN.16) Alias of B.1.1.529.2.86.1.16, ORF3a:T229I, Japan
+- \+ [JN.17](https://cov-lineages.org/lineage.html?lineage=JN.17) Alias of B.1.1.529.2.86.1.17, C12781T, Japan
+- \+ [JN.18](https://cov-lineages.org/lineage.html?lineage=JN.18) Alias of B.1.1.529.2.86.1.18, T11614C
+- \+ [JN.19](https://cov-lineages.org/lineage.html?lineage=JN.19) Alias of B.1.1.529.2.86.1.19, A14601G, Japan
+- \+ [JQ.2.1.1](https://cov-lineages.org/lineage.html?lineage=JQ.2.1.1) Alias of B.1.1.529.2.86.3.2.1.1, S:F456L, South Africa
+- \+ [BA.2.86.6](https://cov-lineages.org/lineage.html?lineage=BA.2.86.6) Alias of B.1.1.529.2.86.6, C9226T
+- \+ [\*JN.1.33](https://cov-lineages.org/lineage.html?lineage=*JN.1.33) Redesignated as JN.1.39.3, Alias of B.1.1.529.2.86.1.1.33, S:A67V, G2782T, C5512T, China from #2498
+
 ### 2024-05-16
 - \+ [LE.1](https://cov-lineages.org/lineage.html?lineage=LE.1) Alias of B.1.1.529.2.86.1.1.4.7.1, S:R346T
 - \+ [LE.1.1](https://cov-lineages.org/lineage.html?lineage=LE.1.1) Alias of B.1.1.529.2.86.1.1.4.7.1.1, S:F456V
