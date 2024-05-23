@@ -128,21 +128,21 @@ treeJSON = d3.json("data.json", function(error, treeData) {
           }
           update(find)
         });
-  
-  
+    
       select.append("option")
         .attr("value", "Select")
         .attr("selected", "true")
         .text("Select");
   
-      nodeList.forEach(function(d) {
-        if (d.compressed_name) {
-            select.append("option")
-                .attr("value", d.compressed_name)
-                .text(d.compressed_name);
-        }
-        
-  
+      nodeSelect = []
+      nodeList.forEach(function (d) {
+          if (d.compressed_name) nodeSelect.push(d.compressed_name)
+      });
+
+      nodeSelect.sort().forEach(function (node) {
+        select.append("option")
+            .attr("value", node)
+            .text(node);
       });
 
     d3.select("#toolbar").append("button")
