@@ -13,6 +13,18 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-05-29
+- \+ [LL.1](https://cov-lineages.org/lineage.html?lineage=LL.1) Alias of B.1.1.529.2.86.1.1.4.2.1, S:F456L (T22930A), S:S680F, USA
+- \+ [KS.1.1](https://cov-lineages.org/lineage.html?lineage=KS.1.1) Alias of B.1.1.529.2.86.1.1.13.1.1, S:T22N
+- \+ [LM.1](https://cov-lineages.org/lineage.html?lineage=LM.1) Alias of B.1.1.529.2.86.1.1.25.1.1, S:F456L
+- \+ [JN.1.52](https://cov-lineages.org/lineage.html?lineage=JN.1.52) Alias of B.1.1.529.2.86.1.1.52, ORF1a:K3353R
+- \+ [JN.1.53](https://cov-lineages.org/lineage.html?lineage=JN.1.53) Alias of B.1.1.529.2.86.1.1.53, C15720T, Senegal
+- \+ [JN.1.53.1](https://cov-lineages.org/lineage.html?lineage=JN.1.53.1) Alias of B.1.1.529.2.86.1.1.53.1, C583T
+- \+ [JN.1.54](https://cov-lineages.org/lineage.html?lineage=JN.1.54) Alias of B.1.1.529.2.86.1.1.54, A9085G
+- \+ [JN.1.54.1](https://cov-lineages.org/lineage.html?lineage=JN.1.54.1) Alias of B.1.1.529.2.86.1.1.54.1, S:F456L, S:V407I, Spain
+- \+ [LN.1](https://cov-lineages.org/lineage.html?lineage=LN.1) Alias of B.1.1.529.2.86.1.1.53.1.1, S:R346T
+- \+ [LN.1.1](https://cov-lineages.org/lineage.html?lineage=LN.1.1) Alias of B.1.1.529.2.86.1.1.53.1.1.1, S:F456L, S:478I
+
 ### 2024-05-28
 - \+ [Lineage](https://cov-lineages.org/lineage.html?lineage=Lineage) Description
 - \+ [JN.1.7.5](https://cov-lineages.org/lineage.html?lineage=JN.1.7.5) Alias of B.1.1.529.2.86.1.1.7.5, ORF1a:H3395Y
