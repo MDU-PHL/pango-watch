@@ -106,44 +106,63 @@ treeJSON = d3.json("data.json", function(error, treeData) {
         }    
     }
 
-      var select = d3.select("#toolbar")
-        .append("select")
-        .on("change", function() {
-          
-          var select = d3.select("select").node().value;
-          if (select == "Select"){
-            doReset();
-            return;
-          }
-          var find = flatten(root).find(function(d) {
-            if (d.compressed_name == select)
-                return true;
-          });
-
-          doReset()
-          centerNode(find)
-          while (find.parent) {
-            find.color = "#e74c3c";
-            find = find.parent;
-          }
-          update(find)
+    var select = d3.select("#toolbar")
+    .append("select")
+    .on("change", function() {
+        
+        var select = d3.select("select").node().value;
+        if (select == "Select"){
+        doReset();
+        return;
+        }
+        var find = flatten(root).find(function(d) {
+        if (d.compressed_name == select)
+            return true;
         });
-    
-      select.append("option")
-        .attr("value", "Select")
-        .attr("selected", "true")
-        .text("Select");
-  
-      nodeSelect = []
-      nodeList.forEach(function (d) {
-          if (d.compressed_name) nodeSelect.push(d.compressed_name)
-      });
 
-      nodeSelect.sort().forEach(function (node) {
+        doReset()
+        centerNode(find)
+        while (find.parent) {
+        find.color = "#e74c3c";
+        find = find.parent;
+        }
+        update(find)
+    });
+    
+    select.append("option")
+    .attr("value", "Select")
+    .attr("selected", "true")
+    .text("Select");
+  
+    nodeSelect = []
+    nodeList.forEach(function (d) {
+        if (d.compressed_name) nodeSelect.push(d.compressed_name)
+    });
+
+    convert = function(t) {return(isNaN(Number(t)) ? t.toLowerCase() : Number(t))}
+    compare = function compare(value1, value2) {
+        value1 = convert(value1); value2 = convert(value2);
+        if (value1 === value2) return 0;
+        else if (value1 < value2) return -1;
+        else return 1;
+        }
+
+    sortDecLexo = function (a, b) {
+        var result;
+        a = a.split('.');
+        b = b.split('.');
+        while (a.length) {
+            result = compare(a.shift(), (b.shift() || 0))
+            if (result !== 0) return result;
+        }
+        return -b.length;
+    }
+
+    nodeSelect.toSorted(sortDecLexo).forEach(function (node) {
         select.append("option")
             .attr("value", node)
             .text(node);
-      });
+    });
 
     d3.select("#toolbar").append("button")
     .text("Reset").on("click", function(){
