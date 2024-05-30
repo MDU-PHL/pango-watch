@@ -139,26 +139,24 @@ treeJSON = d3.json("data.json", function(error, treeData) {
         if (d.compressed_name) nodeSelect.push(d.compressed_name)
     });
 
-    convert = function(t) {return(isNaN(Number(t)) ? t.toLowerCase() : Number(t))}
-    compare = function compare(value1, value2) {
-        value1 = convert(value1); value2 = convert(value2);
-        if (value1 === value2) return 0;
-        else if (value1 < value2) return -1;
-        else return 1;
-        }
+    castIntOrStr = function(t) {return(isNaN(Number(t)) ? t.toLowerCase() : Number(t))}
+    triCompare = function (value1, value2) {
+        value1 = castIntOrStr(value1); value2 = castIntOrStr(value2);
+        return((value1 === value2) ? 0 : (value1 < value2) ? -1 : 1)
+    }
 
-    sortDecLexo = function (a, b) {
+    sortLexicographic = function (a, b) {
         var result;
         a = a.split('.');
         b = b.split('.');
         while (a.length) {
-            result = compare(a.shift(), (b.shift() || 0))
-            if (result !== 0) return result;
+          result = triCompare(a.shift(), (b.shift() || 0))
+          if (result !== 0) return result;
         }
-        return -b.length;
+        return -1;
     }
 
-    nodeSelect.toSorted(sortDecLexo).forEach(function (node) {
+    nodeSelect.toSorted(sortLexicographic).forEach(function (node) {
         select.append("option")
             .attr("value", node)
             .text(node);
