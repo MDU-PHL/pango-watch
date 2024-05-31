@@ -13,6 +13,25 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-05-31
+- \+ [KR.1](https://cov-lineages.org/lineage.html?lineage=KR.1) Alias of B.1.1.529.2.86.1.1.1.5.1, S:F456L (22928C), after C28498T, from sars-cov-2-variants/lineage-proposals#1253
+- \+ [KR.1.1](https://cov-lineages.org/lineage.html?lineage=KR.1.1) Alias of B.1.1.529.2.86.1.1.1.5.1.1, S:F59L
+- \+ [KR.1.2](https://cov-lineages.org/lineage.html?lineage=KR.1.2) Alias of B.1.1.529.2.86.1.1.1.5.1.2, S:R683Q
+- \+ [KR.2](https://cov-lineages.org/lineage.html?lineage=KR.2) Alias of B.1.1.529.2.86.1.1.1.5.2, S:F456V, L176F, USA/Canada
+- \+ [KR.3](https://cov-lineages.org/lineage.html?lineage=KR.3) Alias of B.1.1.529.2.86.1.1.1.5.3, S:F456L (22930A)
+- \+ [KR.4](https://cov-lineages.org/lineage.html?lineage=KR.4) Alias of B.1.1.529.2.86.1.1.1.5.4, S:Q218E
+- \+ [KR.5](https://cov-lineages.org/lineage.html?lineage=KR.5) Alias of B.1.1.529.2.86.1.1.1.5.5, ORF1a:L642F, ORF1a:T2087I, Brazil
+- \+ [KP.2.3](https://cov-lineages.org/lineage.html?lineage=KP.2.3) Alias of B.1.1.529.2.86.1.1.11.1.2.3, S:H146Q, ORF3a:K67N, S:31del
+- \+ [KP.2.15](https://cov-lineages.org/lineage.html?lineage=KP.2.15) Alias of B.1.1.529.2.86.1.1.11.1.2.15, A10861G, S:31del, USA/Canada
+- \+ [KP.3.2.2](https://cov-lineages.org/lineage.html?lineage=KP.3.2.2) Alias of B.1.1.529.2.86.1.1.11.1.3.2.2, S:W258R
+- \+ [KS.1.1](https://cov-lineages.org/lineage.html?lineage=KS.1.1) Alias of B.1.1.529.2.86.1.1.13.1.1, S:T22N, C19716T, Singapore/Taiwan/Canada
+- \+ [KS.1.2](https://cov-lineages.org/lineage.html?lineage=KS.1.2) Alias of B.1.1.529.2.86.1.1.13.1.2, S:T678I, Russia
+- \+ [LN.1](https://cov-lineages.org/lineage.html?lineage=LN.1) Alias of B.1.1.529.2.86.1.1.53.1.1, S:R346T
+- \+ [LN.1.1](https://cov-lineages.org/lineage.html?lineage=LN.1.1) Alias of B.1.1.529.2.86.1.1.53.1.1.1, S:F456L, S:478I
+- \+ [JN.1.55](https://cov-lineages.org/lineage.html?lineage=JN.1.55) Alias of B.1.1.529.2.86.1.1.55, ORF1a:K399R
+- \+ [JN.1.55.1](https://cov-lineages.org/lineage.html?lineage=JN.1.55.1) Alias of B.1.1.529.2.86.1.1.55.1, S:F456L, ORF1a:T1017I, Thailand
+- \+ [JN.1.55.2](https://cov-lineages.org/lineage.html?lineage=JN.1.55.2) Alias of B.1.1.529.2.86.1.1.55.2, S:F456L, ORF1b:P2321H, Brazil
+
 ### 2024-05-30
 - \+ [KP.3.2.1](https://cov-lineages.org/lineage.html?lineage=KP.3.2.1) Alias of B.1.1.529.2.86.1.1.11.1.3.2.1, S:A263V, Australia/Singapore
 - \+ [KP.3.3](https://cov-lineages.org/lineage.html?lineage=KP.3.3) Alias of B.1.1.529.2.86.1.1.11.1.3.3, N:R204P
