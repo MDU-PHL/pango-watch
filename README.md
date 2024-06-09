@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-06-09
+- \+ [JN.1.62](https://cov-lineages.org/lineage.html?lineage=JN.1.62) Alias of B.1.1.529.2.86.1.1.62, S:F456L (22928C), S:V62F, S:R681H
+
 ### 2024-06-08
 - \+ [JN.1.18.5](https://cov-lineages.org/lineage.html?lineage=JN.1.18.5) Alias of B.1.1.529.2.86.1.1.18.5, S:F456L (T22930A)
 - \+ [LS.1](https://cov-lineages.org/lineage.html?lineage=LS.1) Alias of B.1.1.529.2.86.1.1.18.5.1, S:Y28H, S:L189P, S:184-188del, ORF1a:E940D
