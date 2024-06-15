@@ -13,6 +13,23 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-06-15
+- \+ [JN.1.1.10](https://cov-lineages.org/lineage.html?lineage=JN.1.1.10) Alias of B.1.1.529.2.86.1.1.1.10, C23557T, Ukraine
+- \+ [LE.1](https://cov-lineages.org/lineage.html?lineage=LE.1) Alias of B.1.1.529.2.86.1.1.4.7.1, S:R346T, Africa
+- \+ [LE.1.3](https://cov-lineages.org/lineage.html?lineage=LE.1.3) Alias of B.1.1.529.2.86.1.1.4.7.1.3, S:L84V, ORF7a:T120I, Kenya
+- \+ [LE.1.3.1](https://cov-lineages.org/lineage.html?lineage=LE.1.3.1) Alias of B.1.1.529.2.86.1.1.4.7.1.3.1, S:Q173K, S:F456L (T22928C), ORF7a:A66V
+- \+ [JN.1.58.3](https://cov-lineages.org/lineage.html?lineage=JN.1.58.3) Alias of B.1.1.529.2.86.1.1.58.3, S:S31F
+- \+ [JN.1.63](https://cov-lineages.org/lineage.html?lineage=JN.1.63) Alias of B.1.1.529.2.86.1.1.63, ORF1b:K82R
+- \+ [JN.1.63.1](https://cov-lineages.org/lineage.html?lineage=JN.1.63.1) Alias of B.1.1.529.2.86.1.1.63.1, ORF1a:D1513E, ORF1a:A2529S, Asia
+- \+ [LV.1](https://cov-lineages.org/lineage.html?lineage=LV.1) Alias of B.1.1.529.2.86.6.1, ORF1b:D294N
+- \+ [LV.2](https://cov-lineages.org/lineage.html?lineage=LV.2) Alias of B.1.1.529.2.86.6.2, S:R346T, S:L455S, S:F456L, ORF1a:E148G, ORF1a:W630C, ORF1a:G1069R, ORF1a:G3546D, ORF1b:A520V
+- \+ [XDP](https://cov-lineages.org/lineage.html?lineage=XDP) Recombinant lineage of JN.1.4+T18453C and FL.15 (breakpoint between 26834 and 27809), from #2451
+- \+ [XDP.2](https://cov-lineages.org/lineage.html?lineage=XDP.2) S:E309Q, Brazil/Canada
+- \+ [XDP.3](https://cov-lineages.org/lineage.html?lineage=XDP.3) S:S255F, USA
+- \+ [XDZ](https://cov-lineages.org/lineage.html?lineage=XDZ) Recombinant lineage of JG.3 and JN.1.1.10 (breakpoint between 11043-12788), Europe/North America
+- \+ [XEA](https://cov-lineages.org/lineage.html?lineage=XEA) Recombinant lineage of JN.1.63.1 and EG.5 (breakpoint between 27057-27915), East Asia
+- \+ [XEB](https://cov-lineages.org/lineage.html?lineage=XEB) Recombinant lineage of FL.15, JN.1.4+T18453C, FL.15 (breakpoints at 774-896 and 26834-27809), USA
+
 ### 2024-06-14
 - \+ [BA.2.86.7](https://cov-lineages.org/lineage.html?lineage=BA.2.86.7) Alias of B.1.1.529.2.86.7, ORF1b:Y1344H, T10819C, C28720T, South Africa
 
