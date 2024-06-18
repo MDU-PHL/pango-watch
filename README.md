@@ -13,6 +13,15 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-06-18
+- \+ [LP.3](https://cov-lineages.org/lineage.html?lineage=LP.3) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.3, S:K182E, ORF1b:R276S, Singapore
+- \+ [KP.1.1.5](https://cov-lineages.org/lineage.html?lineage=KP.1.1.5) Alias of B.1.1.529.2.86.1.1.11.1.1.1.5, S:F59S
+- \+ [KP.3.1.5](https://cov-lineages.org/lineage.html?lineage=KP.3.1.5) Alias of B.1.1.529.2.86.1.1.11.1.3.1.5, S:N556K, ORF1a:Q998H, ORF3a:I186V, England
+- \+ [LW.1](https://cov-lineages.org/lineage.html?lineage=LW.1) Alias of B.1.1.529.2.86.1.1.11.1.3.2.3.1, S:K182E, England
+- \+ [KP.4.1.1](https://cov-lineages.org/lineage.html?lineage=KP.4.1.1) Alias of B.1.1.529.2.86.1.1.11.1.4.1.1, S:W258R, India
+- \+ [KP.4.1.2](https://cov-lineages.org/lineage.html?lineage=KP.4.1.2) Alias of B.1.1.529.2.86.1.1.11.1.4.1.2, S:L441V
+- \+ [KP.4.1.3](https://cov-lineages.org/lineage.html?lineage=KP.4.1.3) Alias of B.1.1.529.2.86.1.1.11.1.4.1.3, ORF1a:M598V, A5245G, S:31del
+
 ### 2024-06-15
 - \+ [JN.1.1.10](https://cov-lineages.org/lineage.html?lineage=JN.1.1.10) Alias of B.1.1.529.2.86.1.1.1.10, C23557T, Ukraine
 - \+ [LE.1](https://cov-lineages.org/lineage.html?lineage=LE.1) Alias of B.1.1.529.2.86.1.1.4.7.1, S:R346T, Africa
