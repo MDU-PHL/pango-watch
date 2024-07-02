@@ -13,6 +13,17 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-07-02
+- \+ [LU.1](https://cov-lineages.org/lineage.html?lineage=LU.1) Alias of B.1.1.529.2.86.1.1.15.1.1, S:R346T, after C19269T
+- \+ [LU.2](https://cov-lineages.org/lineage.html?lineage=LU.2) Alias of B.1.1.529.2.86.1.1.15.1.2, S:R346T, after T20865C
+- \+ [JN.1.64](https://cov-lineages.org/lineage.html?lineage=JN.1.64) Alias of B.1.1.529.2.86.1.1.64, ORF1a:N2147S (A6705G)
+- \+ [JN.1.64.1](https://cov-lineages.org/lineage.html?lineage=JN.1.64.1) Alias of B.1.1.529.2.86.1.1.64.1, S:R346T
+- \+ [MD.1](https://cov-lineages.org/lineage.html?lineage=MD.1) Alias of B.1.1.529.2.86.1.1.64.1.1, S:F456L (T22930A)
+- \+ [MD.1.1](https://cov-lineages.org/lineage.html?lineage=MD.1.1) Alias of B.1.1.529.2.86.1.1.64.1.1.1, S:K679R
+- \+ [MD.2](https://cov-lineages.org/lineage.html?lineage=MD.2) Alias of B.1.1.529.2.86.1.1.64.1.2, S:F456V, ORF1a:T2800I
+- \+ [MD.3](https://cov-lineages.org/lineage.html?lineage=MD.3) Alias of B.1.1.529.2.86.1.1.64.1.3, C1060T, C9319T, C28657T
+- \+ [MD.3.1](https://cov-lineages.org/lineage.html?lineage=MD.3.1) Alias of B.1.1.529.2.86.1.1.64.1.3.1, S:F456L (T22928C), ORF3a:L106F, C10138T, South Africa
+
 ### 2024-06-30
 - \+ [LB.1.3.1](https://cov-lineages.org/lineage.html?lineage=LB.1.3.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1, S:445P, N:T379I
 - \+ [LP.1.1](https://cov-lineages.org/lineage.html?lineage=LP.1.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.1.1, S:S255F, Dominican Republic
