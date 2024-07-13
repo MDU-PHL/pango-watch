@@ -13,6 +13,22 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-07-13
+- \+ [MM.1](https://cov-lineages.org/lineage.html?lineage=MM.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.4.1, S:S680P, Europe
+- \+ [MM.2](https://cov-lineages.org/lineage.html?lineage=MM.2) Alias of B.1.1.529.2.86.1.1.11.1.3.1.4.2, S:G35R, S:N185D
+- \+ [KP.3.1.6](https://cov-lineages.org/lineage.html?lineage=KP.3.1.6) Alias of B.1.1.529.2.86.1.1.11.1.3.1.6, T19305C
+- \+ [MK.1](https://cov-lineages.org/lineage.html?lineage=MK.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.6.1, S:S31F, UK
+- \+ [MK.2](https://cov-lineages.org/lineage.html?lineage=MK.2) Alias of B.1.1.529.2.86.1.1.11.1.3.1.6.2, S:D745G, after E:L21F
+- \+ [KP.3.3.3](https://cov-lineages.org/lineage.html?lineage=KP.3.3.3) Alias of B.1.1.529.2.86.1.1.11.1.3.3.3, G9424T, Japan/Canada
+- \+ [ML.1](https://cov-lineages.org/lineage.html?lineage=ML.1) Alias of B.1.1.529.2.86.1.1.11.1.3.3.3.1, S:681H
+- \+ [ML.2](https://cov-lineages.org/lineage.html?lineage=ML.2) Alias of B.1.1.529.2.86.1.1.11.1.3.3.3.2, S:Q677H, USA
+- \+ [KP.3.4](https://cov-lineages.org/lineage.html?lineage=KP.3.4) Alias of B.1.1.529.2.86.1.1.11.1.3.4, ORF3a:L73F, C25521T, Asia
+- \+ [KP.3.4.1](https://cov-lineages.org/lineage.html?lineage=KP.3.4.1) Alias of B.1.1.529.2.86.1.1.11.1.3.4.1, S:S31F, N:A134V, ORF1a:E1192K
+- \+ [KP.3.5](https://cov-lineages.org/lineage.html?lineage=KP.3.5) Alias of B.1.1.529.2.86.1.1.11.1.3.5, S:G213E, most with C1420T, America
+- \+ [JN.1.18.7](https://cov-lineages.org/lineage.html?lineage=JN.1.18.7) Alias of B.1.1.529.2.86.1.1.18.7, S:T22N, S:F59S, S:D1260Y
+- \+ [MN.1](https://cov-lineages.org/lineage.html?lineage=MN.1) Alias of B.1.1.529.2.86.1.1.18.7.1, S:D80Y, S:P174S, S:S689N, England/Wales
+- \+ [JN.1.66](https://cov-lineages.org/lineage.html?lineage=JN.1.66) Alias of B.1.1.529.2.86.1.1.66, S:H445P, S:F456L (T22930A), S:T1117I, ORF1a:L2146F, ORF3a:L106F, Iceland/Sweden
+
 ### 2024-07-11
 - \+ [JN.1.7.9](https://cov-lineages.org/lineage.html?lineage=JN.1.7.9) Alias of B.1.1.529.2.86.1.1.7.9, G347A, C1057T, C7834T, S:F456L (22930A)
 - \+ [LB.1.3.2](https://cov-lineages.org/lineage.html?lineage=LB.1.3.2) Alias of B.1.1.529.2.86.1.1.9.2.1.3.2, C25413T
