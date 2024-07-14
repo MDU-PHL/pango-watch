@@ -13,6 +13,12 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-07-14
+- \+ [LB.1.4.1](https://cov-lineages.org/lineage.html?lineage=LB.1.4.1) Alias of B.1.1.529.2.86.1.1.9.2.1.4.1, S:R190S
+- \+ [LB.1.7.1](https://cov-lineages.org/lineage.html?lineage=LB.1.7.1) Alias of B.1.1.529.2.86.1.1.9.2.1.7.1, S:N148T, USA-NY
+- \+ [LB.1.7.2](https://cov-lineages.org/lineage.html?lineage=LB.1.7.2) Alias of B.1.1.529.2.86.1.1.9.2.1.7.2, S:S680P
+- \+ [LB.1.7.3](https://cov-lineages.org/lineage.html?lineage=LB.1.7.3) Alias of B.1.1.529.2.86.1.1.9.2.1.7.3, S:R34C
+
 ### 2024-07-13
 - \+ [MM.1](https://cov-lineages.org/lineage.html?lineage=MM.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.4.1, S:S680P, Europe
 - \+ [MM.2](https://cov-lineages.org/lineage.html?lineage=MM.2) Alias of B.1.1.529.2.86.1.1.11.1.3.1.4.2, S:G35R, S:N185D
