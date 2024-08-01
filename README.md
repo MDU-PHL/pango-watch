@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-08-01
+- \+ [L.4](https://cov-lineages.org/lineage.html?lineage=L.4) Alias of B.1.1.10.4, USA lineage
+
 ### 2024-07-31
 - \+ [KS.1.1](https://cov-lineages.org/lineage.html?lineage=KS.1.1) Alias of B.1.1.529.2.86.1.1.13.1.1.1, S:T22N, Singapore/Taiwan/Canada, from sars-cov-2-variants/lineage-proposals#1565
 - \+ [KS.1.2](https://cov-lineages.org/lineage.html?lineage=KS.1.2) Alias of B.1.1.529.2.86.1.1.13.1.1.2, S:T678I, Russia
