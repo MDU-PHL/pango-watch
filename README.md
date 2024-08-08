@@ -13,6 +13,17 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-08-08
+- \+ [LB.1.2.2](https://cov-lineages.org/lineage.html?lineage=LB.1.2.2) Alias of B.1.1.529.2.86.1.1.9.2.1.2.2, S:T572I, C22075T
+- \+ [LB.1.2.3](https://cov-lineages.org/lineage.html?lineage=LB.1.2.3) Alias of B.1.1.529.2.86.1.1.9.2.1.2.3, S:F175L, ORF1a:I1568F
+- \+ [LP.1.2](https://cov-lineages.org/lineage.html?lineage=LP.1.2) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.1.2, S:R190S, T18300A, USA
+- \+ [LP.4](https://cov-lineages.org/lineage.html?lineage=LP.4) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.4, S:T572I, ORF8:A65V
+- \+ [KP.2.3.5](https://cov-lineages.org/lineage.html?lineage=KP.2.3.5) Alias of B.1.1.529.2.86.1.1.11.1.2.3.5, S:K535T, A1087G
+- \+ [KP.2.3.6](https://cov-lineages.org/lineage.html?lineage=KP.2.3.6) Alias of B.1.1.529.2.86.1.1.11.1.2.3.6, S:T572I
+- \+ [KP.2.14.1](https://cov-lineages.org/lineage.html?lineage=KP.2.14.1) Alias of B.1.1.529.2.86.1.1.11.1.2.14.1, S:T22N
+- \+ [KP.2.18](https://cov-lineages.org/lineage.html?lineage=KP.2.18) Alias of B.1.1.529.2.86.1.1.11.1.2.18, S:T22N, on T22795G branch
+- \+ [XEC](https://cov-lineages.org/lineage.html?lineage=XEC) Recombinant lineage of KS.1.1 (JN.1.13.1.1.1) and KP.3.3 (breakpoint 21738-22599), Europe, from #2717
+
 ### 2024-08-01
 - \+ [L.4](https://cov-lineages.org/lineage.html?lineage=L.4) Alias of B.1.1.10.4, USA lineage
 
