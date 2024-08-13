@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-08-13
+- \+ [LZ.2](https://cov-lineages.org/lineage.html?lineage=LZ.2) Alias of B.1.1.529.2.86.1.1.18.2.2, S:F456L (T22928C), ORF1a:K1226E, China
+
 ### 2024-08-10
 - \+ [KR.1.3](https://cov-lineages.org/lineage.html?lineage=KR.1.3) Alias of B.1.1.529.2.86.1.1.1.5.1.3, S:K304Q, S:S60P, Philippines
 - \+ [KP.2.3.6](https://cov-lineages.org/lineage.html?lineage=KP.2.3.6) Alias of B.1.1.529.2.86.1.1.11.1.2.3.6, S:T572I on a C28714T branch
