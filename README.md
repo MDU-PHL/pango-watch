@@ -13,6 +13,21 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-08-15
+- \+ [LU.2.1](https://cov-lineages.org/lineage.html?lineage=LU.2.1) Alias of B.1.1.529.2.86.1.1.15.1.2.1, S:L176F, Ecuador
+- \+ [LU.2.1.1](https://cov-lineages.org/lineage.html?lineage=LU.2.1.1) Alias of B.1.1.529.2.86.1.1.15.1.2.1.1, S:S60P, S:K182N, ORF1a:L204F, ORF1a:T1854I, Ecuador
+- \+ [JN.1.16.4](https://cov-lineages.org/lineage.html?lineage=JN.1.16.4) Alias of B.1.1.529.2.86.1.1.16.4, S:Q493E, ORF1a:G400S, ORF7a:F59K, East Asia
+- \+ [MT.1](https://cov-lineages.org/lineage.html?lineage=MT.1) Alias of B.1.1.529.2.86.1.1.16.4.1, S:S31P, N:P279S
+- \+ [MA.1.1](https://cov-lineages.org/lineage.html?lineage=MA.1.1) Alias of B.1.1.529.2.86.1.1.18.3.1.1, S:E780A
+- \+ [MA.1.1.1](https://cov-lineages.org/lineage.html?lineage=MA.1.1.1) Alias of B.1.1.529.2.86.1.1.18.3.1.1.1, S:H445P
+- \+ [JN.1.18.8](https://cov-lineages.org/lineage.html?lineage=JN.1.18.8) Alias of B.1.1.529.2.86.1.1.18.8, S:S31del, ORF1a:A690V, ORF1b:S2339F, France
+- \+ [KU.2.1](https://cov-lineages.org/lineage.html?lineage=KU.2.1) Alias of B.1.1.529.2.86.1.1.30.1.2.1, S:S60P, USA
+- \+ [KU.2.2](https://cov-lineages.org/lineage.html?lineage=KU.2.2) Alias of B.1.1.529.2.86.1.1.30.1.2.2, S:G213E, UK
+- \+ [MS.1](https://cov-lineages.org/lineage.html?lineage=MS.1) Alias of B.1.1.529.2.86.1.1.42.2.1, S:31del, ORF1a:E940G, USA/Guatemala
+- \+ [JN.1.59.1](https://cov-lineages.org/lineage.html?lineage=JN.1.59.1) Alias of B.1.1.529.2.86.1.1.59.1, S:S31del, S:R190S, S:R346T, ORF1a:I841V, Americas
+- \+ [XEC](https://cov-lineages.org/lineage.html?lineage=XEC) Recombinant lineage of KS.1.1 (JN.1.13.1.1.1) and KP.3.3 (breakpoint 21738-22599), Europe (Germany), from #2717
+- \+ [XEC.1](https://cov-lineages.org/lineage.html?lineage=XEC.1) S:K182R, ORF1a:L4182F, France/Ireland/Canada
+
 ### 2024-08-13
 - \+ [LZ.2](https://cov-lineages.org/lineage.html?lineage=LZ.2) Alias of B.1.1.529.2.86.1.1.18.2.2, S:F456L (T22928C), ORF1a:K1226E, China
 
