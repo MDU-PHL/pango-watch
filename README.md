@@ -13,6 +13,16 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-08-18
+- \+ [XDR.1.1](https://cov-lineages.org/lineage.html?lineage=XDR.1.1) S:F456L, ORF1a:A2142V, ORF1b:A2480D, ORF8:E92K
+- \+ [XDR.1.2](https://cov-lineages.org/lineage.html?lineage=XDR.1.2) ORF1a:L3754F, ORF1b:L1890F
+- \+ [XDV.1.7](https://cov-lineages.org/lineage.html?lineage=XDV.1.7) ORF1a:D2980N, C8950T, China
+- \+ [XDV.1.8](https://cov-lineages.org/lineage.html?lineage=XDV.1.8) T2551C, T9892G
+- \+ [XDV.1.9](https://cov-lineages.org/lineage.html?lineage=XDV.1.9) ORF1a:T2197I
+- \+ [XDV.1.10](https://cov-lineages.org/lineage.html?lineage=XDV.1.10) ORF1a:T4175I, S:G181V, China-Hubei
+- \+ [XDV.1.11](https://cov-lineages.org/lineage.html?lineage=XDV.1.11) T4057C
+- \+ [XEG](https://cov-lineages.org/lineage.html?lineage=XEG) Recombinant lineage of JN.3.2.1, GJ.1.2, JN.3.2.1, GJ.1.2 (breakpoints: 2940-3430, 11043-12788, 28210-28957), from sars-cov-2-variants/lineage-proposals#1428
+
 ### 2024-08-17
 - \+ [KR.4.1](https://cov-lineages.org/lineage.html?lineage=KR.4.1) Alias of B.1.1.529.2.86.1.1.1.5.4.1, S:F456L (22928C), S:K478T, South Africa
 - \+ [LB.1.9](https://cov-lineages.org/lineage.html?lineage=LB.1.9) Alias of B.1.1.529.2.86.1.1.9.2.1.9, S:K478T (reversion), G20931T, T29194C, C15960T, India
