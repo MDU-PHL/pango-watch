@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-08-21
+- \+ [LU.2.2](https://cov-lineages.org/lineage.html?lineage=LU.2.2) Alias of B.1.1.529.2.86.1.1.15.1.2.2, S:Q677P, ORF1a:T1000I, Ecuador
+
 ### 2024-08-18
 - \+ [XDR.1.1](https://cov-lineages.org/lineage.html?lineage=XDR.1.1) S:F456L, ORF1a:A2142V, ORF1b:A2480D, ORF8:E92K
 - \+ [XDR.1.2](https://cov-lineages.org/lineage.html?lineage=XDR.1.2) ORF1a:L3754F, ORF1b:L1890F
