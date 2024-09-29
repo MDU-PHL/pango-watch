@@ -13,6 +13,13 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-09-29
+- \+ [XEC.1](https://cov-lineages.org/lineage.html?lineage=XEC.1) S:K182R, ORF1a:L4182F, on ORF1a:A599T branch, France/Ireland/Canada
+- \+ [XEC.2](https://cov-lineages.org/lineage.html?lineage=XEC.2) ORF1a:I1367L, lacking ORF1a:A599T
+- \+ [XEH](https://cov-lineages.org/lineage.html?lineage=XEH) Recombinant lineage of KP.1.1.3, KP.3 (breakpoint: 22599-23039), from #2790
+- \+ [XEJ](https://cov-lineages.org/lineage.html?lineage=XEJ) Recombinant lineage of JN.1, LF.1.1.1 (breakpoint: 6574-16550), from #2786
+- \+ [XEK](https://cov-lineages.org/lineage.html?lineage=XEK) Recombinant lineage of KP.2.3, XEC (breakpoint: 9286-15402), from #2774
+
 ### 2024-09-06
 - \+ [LZ.2.1](https://cov-lineages.org/lineage.html?lineage=LZ.2.1) Alias of B.1.1.529.2.86.1.1.18.2.2.1, ORF10:Q29*
 - \+ [MZ.1](https://cov-lineages.org/lineage.html?lineage=MZ.1) Alias of B.1.1.529.2.86.1.1.67.1.1, S:S31F
