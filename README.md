@@ -13,6 +13,14 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-10-20
+- \+ [LF.7.1](https://cov-lineages.org/lineage.html?lineage=LF.7.1) Alias of B.1.1.529.2.86.1.1.16.1.7.1, C6310T
+- \+ [LF.7.1.1](https://cov-lineages.org/lineage.html?lineage=LF.7.1.1) Alias of B.1.1.529.2.86.1.1.16.1.7.1.1, S:Q677L
+- \+ [LF.7.2](https://cov-lineages.org/lineage.html?lineage=LF.7.2) Alias of B.1.1.529.2.86.1.1.16.1.7.2, T20799C
+- \+ [LF.7.2.1](https://cov-lineages.org/lineage.html?lineage=LF.7.2.1) Alias of B.1.1.529.2.86.1.1.16.1.7.2.1, S:A475V
+- \+ [LF.7.3](https://cov-lineages.org/lineage.html?lineage=LF.7.3) Alias of B.1.1.529.2.86.1.1.16.1.7.3, C17436T
+- \+ [LF.7.4](https://cov-lineages.org/lineage.html?lineage=LF.7.4) Alias of B.1.1.529.2.86.1.1.16.1.7.4, S:T961M, G25494A
+
 ### 2024-09-29
 - \+ [XEC.1](https://cov-lineages.org/lineage.html?lineage=XEC.1) S:K182R, ORF1a:L4182F, on ORF1a:A599T branch, France/Ireland/Canada
 - \+ [XEC.2](https://cov-lineages.org/lineage.html?lineage=XEC.2) ORF1a:I1367L, lacking ORF1a:A599T
