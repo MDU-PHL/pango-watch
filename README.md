@@ -13,6 +13,37 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-10-21
+- \+ [KP.2.2.1](https://cov-lineages.org/lineage.html?lineage=KP.2.2.1) Alias of B.1.1.529.2.86.1.1.11.1.2.2.1, S:T22N, ORF1b:K2660R
+- \+ [KP.2.25](https://cov-lineages.org/lineage.html?lineage=KP.2.25) Alias of B.1.1.529.2.86.1.1.11.1.2.25, ORF1a:P1803L, C14220T
+- \+ [KP.2.25.1](https://cov-lineages.org/lineage.html?lineage=KP.2.25.1) Alias of B.1.1.529.2.86.1.1.11.1.2.25.1, S:I934V, S:N30K, China
+- \+ [KP.2.25.2](https://cov-lineages.org/lineage.html?lineage=KP.2.25.2) Alias of B.1.1.529.2.86.1.1.11.1.2.25.2, S:K558N
+- \+ [KP.2.25.3](https://cov-lineages.org/lineage.html?lineage=KP.2.25.3) Alias of B.1.1.529.2.86.1.1.11.1.2.25.2, S:P793S
+- \+ [MC.10.1](https://cov-lineages.org/lineage.html?lineage=MC.10.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1, S:A435S
+- \+ [KS.1.1.1](https://cov-lineages.org/lineage.html?lineage=KS.1.1.1) Alias of B.1.1.529.2.86.1.1.13.1.1.1.1, C2091T, A1674C
+- \+ [NC.1](https://cov-lineages.org/lineage.html?lineage=NC.1) Alias of B.1.1.529.2.86.1.1.13.1.1.1.1.1, S:R190S
+- \+ [KS.1.1.2](https://cov-lineages.org/lineage.html?lineage=KS.1.1.2) Alias of B.1.1.529.2.86.1.1.13.1.1.1.2, ORF1a:L2146F, C19716T
+- \+ [LF.3.1.2](https://cov-lineages.org/lineage.html?lineage=LF.3.1.2) Alias of B.1.1.529.2.86.1.1.16.1.3.1.2, S:D745A, South America
+- \+ [ND.1](https://cov-lineages.org/lineage.html?lineage=ND.1) Alias of B.1.1.529.2.86.1.1.16.1.8.1.1, ORF1a:L4391F
+- \+ [ND.1.1](https://cov-lineages.org/lineage.html?lineage=ND.1.1) Alias of B.1.1.529.2.86.1.1.16.1.8.1.1.1, S:K478T
+- \+ [ND.2](https://cov-lineages.org/lineage.html?lineage=ND.2) Alias of B.1.1.529.2.86.1.1.16.1.8.1.2, S:K478E
+- \+ [ND.3](https://cov-lineages.org/lineage.html?lineage=ND.3) Alias of B.1.1.529.2.86.1.1.16.1.8.1.3, S:K478I
+- \+ [MV.2](https://cov-lineages.org/lineage.html?lineage=MV.2) Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.2, S:A67V
+- \+ [MB.1.1.2](https://cov-lineages.org/lineage.html?lineage=MB.1.1.2) Alias of B.1.1.529.2.86.1.1.49.1.1.1.2, T27288A
+- \+ [NA.1](https://cov-lineages.org/lineage.html?lineage=NA.1) Alias of B.1.1.529.2.86.1.1.49.1.1.1.2.1, C19200T, A20079G
+- \+ [NA.1.1](https://cov-lineages.org/lineage.html?lineage=NA.1.1) Alias of B.1.1.529.2.86.1.1.49.1.1.1.2.1.1, S:K444R
+- \+ [MB.1.1.3](https://cov-lineages.org/lineage.html?lineage=MB.1.1.3) Alias of B.1.1.529.2.86.1.1.49.1.1.1.3, G10465A
+- \+ [JN.1.49.3](https://cov-lineages.org/lineage.html?lineage=JN.1.49.3) Alias of B.1.1.529.2.86.1.1.49.3, T18471C, China
+- \+ [MD.1.1.1](https://cov-lineages.org/lineage.html?lineage=MD.1.1.1) Alias of B.1.1.529.2.86.1.1.64.1.1.1.1, S:H445P, ORF1a:K3353R, Australia/Taiwan
+- \+ [MD.1.2](https://cov-lineages.org/lineage.html?lineage=MD.1.2) Alias of B.1.1.529.2.86.1.1.64.1.1.2, S:F58Y, S:F59L, Philipines
+- \+ [MD.3.1.1](https://cov-lineages.org/lineage.html?lineage=MD.3.1.1) Alias of B.1.1.529.2.86.1.1.64.1.3.1.1, ORF9b:S50L (C28432T), South Africa
+- \+ [MD.3.1.2](https://cov-lineages.org/lineage.html?lineage=MD.3.1.2) Alias of B.1.1.529.2.86.1.1.64.1.3.1.2, S:I19- (S:T19I rev + S:21- if aligned against Wuhan-Hu-1), C12049T
+- \+ [MD.3.1.3](https://cov-lineages.org/lineage.html?lineage=MD.3.1.3) Alias of B.1.1.529.2.86.1.1.64.1.3.1.3, S:K182E
+- \+ [MD.3.1.4](https://cov-lineages.org/lineage.html?lineage=MD.3.1.4) Alias of B.1.1.529.2.86.1.1.64.1.3.1.4, S:S31F
+- \+ [XDV.1.5.1](https://cov-lineages.org/lineage.html?lineage=XDV.1.5.1) ORF1a:H1141Y, ORF1a:A1473V, ORF3a:R134H, China
+- \+ [NB.1](https://cov-lineages.org/lineage.html?lineage=NB.1) Alias of XDV.1.5.1.1, S:T22N, S:F59S, ORF1a:I2709V, ORF1a:P4197S, China
+- \+ [XEL](https://cov-lineages.org/lineage.html?lineage=XEL) Recombinant lineage of KS.1.1.2, JN.1 (breakpoint: 22929-24820), from #2751
+
 ### 2024-10-20
 - \+ [LF.7.1](https://cov-lineages.org/lineage.html?lineage=LF.7.1) Alias of B.1.1.529.2.86.1.1.16.1.7.1, C6310T
 - \+ [LF.7.1.1](https://cov-lineages.org/lineage.html?lineage=LF.7.1.1) Alias of B.1.1.529.2.86.1.1.16.1.7.1.1, S:Q677L
