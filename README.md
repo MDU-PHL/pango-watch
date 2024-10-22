@@ -13,6 +13,20 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-10-22
+- \+ [KP.2.26](https://cov-lineages.org/lineage.html?lineage=KP.2.26) Alias of B.1.1.529.2.86.1.1.11.1.2.26, S:T22N, S:S31P, S:K478T (on T25039C branch)
+- \+ [MC.1.1](https://cov-lineages.org/lineage.html?lineage=MC.1.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.1.1, S:A942S, C13297T, C14220T
+- \+ [MC.17](https://cov-lineages.org/lineage.html?lineage=MC.17) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.17, S:A575S, C5512T
+- \+ [MC.18](https://cov-lineages.org/lineage.html?lineage=MC.18) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.18, S:T259R
+- \+ [LW.1.2](https://cov-lineages.org/lineage.html?lineage=LW.1.2) Alias of B.1.1.529.2.86.1.1.11.1.3.2.3.1.2, S:T22N
+- \+ [KP.3.2.6](https://cov-lineages.org/lineage.html?lineage=KP.3.2.6) Alias of B.1.1.529.2.86.1.1.11.1.3.2.6, S:S31P, G11761A, G25617A, Asia
+- \+ [KS.1.1.1](https://cov-lineages.org/lineage.html?lineage=KS.1.1.1) Alias of B.1.1.529.2.86.1.1.13.1.1.1.1, Orf1a:T609I (C2091T), Orf1a:N470T (A1674C)
+- \+ [LF.8.1.1](https://cov-lineages.org/lineage.html?lineage=LF.8.1.1) Alias of B.1.1.529.2.86.1.1.16.1.8.1.1, S:T22N
+- \+ [ND.1](https://cov-lineages.org/lineage.html?lineage=ND.1) Alias of B.1.1.529.2.86.1.1.16.1.8.1.1.1, ORF1a:L4391F
+- \+ [ND.1.1](https://cov-lineages.org/lineage.html?lineage=ND.1.1) Alias of B.1.1.529.2.86.1.1.16.1.8.1.1.1.1, S:K478T
+- \+ [ND.2](https://cov-lineages.org/lineage.html?lineage=ND.2) Alias of B.1.1.529.2.86.1.1.16.1.8.1.1.2, S:K478E
+- \+ [ND.3](https://cov-lineages.org/lineage.html?lineage=ND.3) Alias of B.1.1.529.2.86.1.1.16.1.8.1.1.3, S:K478I
+
 ### 2024-10-21
 - \+ [KP.2.2.1](https://cov-lineages.org/lineage.html?lineage=KP.2.2.1) Alias of B.1.1.529.2.86.1.1.11.1.2.2.1, S:T22N, ORF1b:K2660R
 - \+ [KP.2.25](https://cov-lineages.org/lineage.html?lineage=KP.2.25) Alias of B.1.1.529.2.86.1.1.11.1.2.25, ORF1a:P1803L, C14220T
