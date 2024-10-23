@@ -13,6 +13,17 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-10-23
+- \+ [KP.1.1.6](https://cov-lineages.org/lineage.html?lineage=KP.1.1.6) Alias of B.1.1.529.2.86.1.1.11.1.1.1.6, S:S31F, after ORF1b:L2213F, from #2649
+- \+ [NE.1](https://cov-lineages.org/lineage.html?lineage=NE.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.6.1, S:K478T, S:F32S
+- \+ [KP.2.2.2](https://cov-lineages.org/lineage.html?lineage=KP.2.2.2) Alias of B.1.1.529.2.86.1.1.11.1.2.2.2, S:T572I
+- \+ [KP.2.3.8](https://cov-lineages.org/lineage.html?lineage=KP.2.3.8) Alias of B.1.1.529.2.86.1.1.11.1.2.3.8, S:T572, without C28714T
+- \+ [KP.2.27](https://cov-lineages.org/lineage.html?lineage=KP.2.27) Alias of B.1.1.529.2.86.1.1.11.1.2.27, S:T572I, C3811T, C9857T, A23080G
+- \+ [MC.18](https://cov-lineages.org/lineage.html?lineage=MC.18) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.18, S:N185D, ORF1a:G465S, Spain/Canada
+- \+ [KP.3.1.9](https://cov-lineages.org/lineage.html?lineage=KP.3.1.9) Alias of B.1.1.529.2.86.1.1.11.1.3.1.9, S:N148S, S:P174S
+- \+ [XEM](https://cov-lineages.org/lineage.html?lineage=XEM) Recombinant lineage of KS.1, KP.3.3.1 (breakpoint: 22600-23038), from sars-cov-2-variants/lineage-proposals#2105
+- \+ [XEN](https://cov-lineages.org/lineage.html?lineage=XEN) Recombinant lineage of KP.1.1.6, JN.1.11.1 (breakpoint: 22620-24818), from #2791
+
 ### 2024-10-22
 - \+ [KP.2.26](https://cov-lineages.org/lineage.html?lineage=KP.2.26) Alias of B.1.1.529.2.86.1.1.11.1.2.26, S:T22N, S:S31P, S:K478T (on T25039C branch)
 - \+ [MC.1.1](https://cov-lineages.org/lineage.html?lineage=MC.1.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.1.1, S:A942S, C13297T, C14220T
