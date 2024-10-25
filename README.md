@@ -13,6 +13,14 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-10-25
+- \+ [NH.1](https://cov-lineages.org/lineage.html?lineage=NH.1) Alias of B.1.1.529.2.86.1.1.11.1.2.2.1.1, S:K478T (rev), S:K97E, on ORF1a:T1794I branch
+- \+ [NH.2](https://cov-lineages.org/lineage.html?lineage=NH.2) Alias of B.1.1.529.2.86.1.1.11.1.2.2.1.2, S:K478Q, on ORF1a:T1794I branch
+- \+ [NH.3](https://cov-lineages.org/lineage.html?lineage=NH.3) Alias of B.1.1.529.2.86.1.1.11.1.2.2.1.3, S:A475V, ORF1a:A776S
+- \+ [KP.2.3.9](https://cov-lineages.org/lineage.html?lineage=KP.2.3.9) Alias of B.1.1.529.2.86.1.1.11.1.2.3.9, S:Q173R
+- \+ [NG.1](https://cov-lineages.org/lineage.html?lineage=NG.1) Alias of B.1.1.529.2.86.1.1.11.1.2.3.9.1, S:T22N, ORF1a:I1215M, Brazil
+- \+ [NF.1](https://cov-lineages.org/lineage.html?lineage=NF.1) Alias of B.1.1.529.2.86.1.1.16.5.1, S:S31P
+
 ### 2024-10-23
 - \+ [KP.1.1.6](https://cov-lineages.org/lineage.html?lineage=KP.1.1.6) Alias of B.1.1.529.2.86.1.1.11.1.1.1.6, S:S31F, after ORF1b:L2213F, from #2649
 - \+ [NE.1](https://cov-lineages.org/lineage.html?lineage=NE.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.6.1, S:K478T, S:F32S
