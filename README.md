@@ -13,6 +13,22 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-10-26
+- \+ [NL.1](https://cov-lineages.org/lineage.html?lineage=NL.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1, S:R190S, S:C1243F
+- \+ [LP.5](https://cov-lineages.org/lineage.html?lineage=LP.5) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.5, S:K478T (rev)
+- \+ [LP.6](https://cov-lineages.org/lineage.html?lineage=LP.6) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.6, S:M153I, C14403T
+- \+ [LP.7](https://cov-lineages.org/lineage.html?lineage=LP.7) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.7, S:R190S
+- \+ [MU.2](https://cov-lineages.org/lineage.html?lineage=MU.2) Alias of B.1.1.529.2.86.1.1.11.1.1.1.5.2, ORF1a:A2785V, ORF1a:A4357V
+- \+ [MU.2.1](https://cov-lineages.org/lineage.html?lineage=MU.2.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.5.2.1, S:S680Y
+- \+ [KP.2.3.10](https://cov-lineages.org/lineage.html?lineage=KP.2.3.10) Alias of B.1.1.529.2.86.1.1.11.1.2.3.10, S:K478T (rev), India
+- \+ [NK.1](https://cov-lineages.org/lineage.html?lineage=NK.1) Alias of B.1.1.529.2.86.1.1.11.1.2.3.10.1, S:R190S, ORF8:S67F, India
+- \+ [KP.2.3.11](https://cov-lineages.org/lineage.html?lineage=KP.2.3.11) Alias of B.1.1.529.2.86.1.1.11.1.2.3.11, ORF1a:R1973S, A29647G
+- \+ [KP.3.1.10](https://cov-lineages.org/lineage.html?lineage=KP.3.1.10) Alias of B.1.1.529.2.86.1.1.11.1.3.1.10, S:N185D, ORF1a:V3917I
+- \+ [KP.3.7](https://cov-lineages.org/lineage.html?lineage=KP.3.7) Alias of B.1.1.529.2.86.1.1.11.1.3.7, S:A435S, ORF8:E59*
+- \+ [JN.1.11.2](https://cov-lineages.org/lineage.html?lineage=JN.1.11.2) Alias of B.1.1.529.2.86.1.1.11.2, S:R346T, S:F59L, India
+- \+ [NJ.1](https://cov-lineages.org/lineage.html?lineage=NJ.1) Alias of B.1.1.529.2.86.1.1.11.2.1, S:F456L, S:K478T (rev), ORF3a:K16N, India
+- \+ [LD.2](https://cov-lineages.org/lineage.html?lineage=LD.2) Alias of B.1.1.529.2.86.1.1.48.1.2, S:N185D, ORF1a:E637K, ORF1b:T2099I, N:T166I
+
 ### 2024-10-25
 - \+ [NH.1](https://cov-lineages.org/lineage.html?lineage=NH.1) Alias of B.1.1.529.2.86.1.1.11.1.2.2.1.1, S:K478T (rev), S:K97E, on ORF1a:T1794I branch
 - \+ [NH.2](https://cov-lineages.org/lineage.html?lineage=NH.2) Alias of B.1.1.529.2.86.1.1.11.1.2.2.1.2, S:K478Q, on ORF1a:T1794I branch
