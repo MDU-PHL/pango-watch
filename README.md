@@ -13,6 +13,17 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-10-28
+- \+ [KR.1.4](https://cov-lineages.org/lineage.html?lineage=KR.1.4) Alias of B.1.1.529.2.86.1.1.1.5.1.4, S:F59S
+- \+ [LP.8](https://cov-lineages.org/lineage.html?lineage=LP.8) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8, S:H445R, S:Q493E, S:F186L, ORF3a:P178L, Singapore/Philippines, from #2811
+- \+ [NM.1](https://cov-lineages.org/lineage.html?lineage=NM.1) Alias of B.1.1.529.2.86.1.1.11.1.2.3.4.1, S:G184V, S:S155I
+- \+ [KP.2.3.12](https://cov-lineages.org/lineage.html?lineage=KP.2.3.12) Alias of B.1.1.529.2.86.1.1.11.1.2.3.12, S:A1174V, Brazil, #2765
+- \+ [KP.4.2.4](https://cov-lineages.org/lineage.html?lineage=KP.4.2.4) Alias of B.1.1.529.2.86.1.1.11.1.4.2.4, S:S31-, S:S256L, from #2759
+- \+ [KP.4.2.5](https://cov-lineages.org/lineage.html?lineage=KP.4.2.5) Alias of B.1.1.529.2.86.1.1.11.1.4.2.5, S:S60P, S:I212T
+- \+ [LF.7.1.2](https://cov-lineages.org/lineage.html?lineage=LF.7.1.2) Alias of B.1.1.529.2.86.1.1.16.1.7.1.2, S:A475V, Qatar, #2805
+- \+ [LZ.2.1.1](https://cov-lineages.org/lineage.html?lineage=LZ.2.1.1) Alias of B.1.1.529.2.86.1.1.18.2.2.1.1, S:K478E
+- \+ [LZ.2.1.2](https://cov-lineages.org/lineage.html?lineage=LZ.2.1.2) Alias of B.1.1.529.2.86.1.1.18.2.2.1.2, S:K478T (rev)
+
 ### 2024-10-26
 - \+ [NL.1](https://cov-lineages.org/lineage.html?lineage=NL.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1, S:R190S, S:C1243F
 - \+ [LP.5](https://cov-lineages.org/lineage.html?lineage=LP.5) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.5, S:K478T (rev)
