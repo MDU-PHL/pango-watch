@@ -13,6 +13,20 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-11-02
+- \+ [KP.2.6.1](https://cov-lineages.org/lineage.html?lineage=KP.2.6.1) Alias of B.1.1.529.2.86.1.1.11.1.2.6.1, S:L441F
+- \+ [MC.10.2](https://cov-lineages.org/lineage.html?lineage=MC.10.2) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2, S:I101T, S:A376D, ORF1a:K3353R
+- \+ [MC.19](https://cov-lineages.org/lineage.html?lineage=MC.19) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.19, S:R346T
+- \+ [MC.20](https://cov-lineages.org/lineage.html?lineage=MC.20) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.20, S:K182E, ORF1a:K1655N, Australia
+- \+ [KP.3.2.7](https://cov-lineages.org/lineage.html?lineage=KP.3.2.7) Alias of B.1.1.529.2.86.1.1.11.1.3.2.7, S:S31-, ORF1a:I1005L
+- \+ [KP.3.2.8](https://cov-lineages.org/lineage.html?lineage=KP.3.2.8) Alias of B.1.1.529.2.86.1.1.11.1.3.2.8, S:S31-, C14790T, C21590T, C18981T
+- \+ [KP.3.2.9](https://cov-lineages.org/lineage.html?lineage=KP.3.2.9) Alias of B.1.1.529.2.86.1.1.11.1.3.2.9, ORF1b:K2557R
+- \+ [XEC.3](https://cov-lineages.org/lineage.html?lineage=XEC.3) S:E1202Q
+- \+ [XEC.4](https://cov-lineages.org/lineage.html?lineage=XEC.4) S:T572I
+- \+ [XEC.5](https://cov-lineages.org/lineage.html?lineage=XEC.5) S:G72R
+- \+ [XEC.6](https://cov-lineages.org/lineage.html?lineage=XEC.6) S:S680F
+- \+ [XEC.7](https://cov-lineages.org/lineage.html?lineage=XEC.7) S:W152R, S:P1263Q
+
 ### 2024-10-31
 - \+ [KR.1.3](https://cov-lineages.org/lineage.html?lineage=KR.1.3) Alias of B.1.1.529.2.86.1.1.1.5.1.3, S:K304Q, S:S60P, Philippines, from sars-cov-2-variants/lineage-proposals#1676
 - \+ [LK.2.1](https://cov-lineages.org/lineage.html?lineage=LK.2.1) Alias of B.1.1.529.2.86.1.1.7.5.2.1, S:S455A, S:T547K, Central America, from sars-cov-2-variants/lineage-proposals#1679
