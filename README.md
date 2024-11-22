@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-11-22
+- \+ [XDV.1.10](https://cov-lineages.org/lineage.html?lineage=XDV.1.10) ORF1a:T4175I, S:G181V, China, from sars-cov-2-variants/lineage-proposals#1849
+
 ### 2024-11-15
 - \+ [MG.4](https://cov-lineages.org/lineage.html?lineage=MG.4) Alias of B.1.1.529.2.86.1.1.11.1.1.1.1.4, S:I934V, ORF1a:S692F
 
