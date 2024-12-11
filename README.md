@@ -13,6 +13,32 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-12-11
+- \+ [LP.8.1.1](https://cov-lineages.org/lineage.html?lineage=LP.8.1.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1, S:K679R
+- \+ [LP.8.2.1](https://cov-lineages.org/lineage.html?lineage=LP.8.2.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.2.1, S:A475V, ORF1a:T1246I
+- \+ [LP.11](https://cov-lineages.org/lineage.html?lineage=LP.11) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.11, ORF1a:L3900S, C5512T, on ORF3a:P178L, G1954A branch with LP.8
+- \+ [MU.1.1](https://cov-lineages.org/lineage.html?lineage=MU.1.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.5.1.1, S:T22N, Canada
+- \+ [MU.2.1.1](https://cov-lineages.org/lineage.html?lineage=MU.2.1.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.5.2.1.1, S:A435S, S:H445P
+- \+ [MU.4](https://cov-lineages.org/lineage.html?lineage=MU.4) Alias of B.1.1.529.2.86.1.1.11.1.1.1.5.4, A8107G, China
+- \+ [MU.5](https://cov-lineages.org/lineage.html?lineage=MU.5) Alias of B.1.1.529.2.86.1.1.11.1.1.1.5.5, S:H445P
+- \+ [MC.23](https://cov-lineages.org/lineage.html?lineage=MC.23) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.23, ORF1b:K2557R
+- \+ [LF.7.3.1](https://cov-lineages.org/lineage.html?lineage=LF.7.3.1) Alias of B.1.1.529.2.86.1.1.16.1.7.3.1, S:A475V
+- \+ [MV.1.1](https://cov-lineages.org/lineage.html?lineage=MV.1.1) Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.1, ORF1b:K2557R
+- \+ [XEC.2.1](https://cov-lineages.org/lineage.html?lineage=XEC.2.1) ORF1a:V3336F
+- \+ [XEC.2.2](https://cov-lineages.org/lineage.html?lineage=XEC.2.2) ORF1a:I280T
+- \+ [XEC.2.3](https://cov-lineages.org/lineage.html?lineage=XEC.2.3) N:T379I, T16476C
+- \+ [XEC.2.3.1](https://cov-lineages.org/lineage.html?lineage=XEC.2.3.1) S:G181V
+- \+ [XEC.8](https://cov-lineages.org/lineage.html?lineage=XEC.8) T24376C
+- \+ [XEC.9](https://cov-lineages.org/lineage.html?lineage=XEC.9) ORF1a:T2274I
+- \+ [XEC.10](https://cov-lineages.org/lineage.html?lineage=XEC.10) S:G75R
+- \+ [XEC.11](https://cov-lineages.org/lineage.html?lineage=XEC.11) S:K182N, C829T
+- \+ [XEC.12](https://cov-lineages.org/lineage.html?lineage=XEC.12) S:G252S, T25039C
+- \+ [XEK.1](https://cov-lineages.org/lineage.html?lineage=XEK.1) ORF1a:R1170H
+- \+ [XEK.1.1](https://cov-lineages.org/lineage.html?lineage=XEK.1.1) S:S680P
+- \+ [XEK.2](https://cov-lineages.org/lineage.html?lineage=XEK.2) ORF3a:A23S
+- \+ [XEK.3](https://cov-lineages.org/lineage.html?lineage=XEK.3) ORF1b:P970L, ORF1b:T1511I
+- \+ [XEQ](https://cov-lineages.org/lineage.html?lineage=XEQ) Recombinant lineage of KS.1.1.2, KP.3 (breakpoint: 22600-23038), from #2817
+
 ### 2024-11-22
 - \+ [XDV.1.10](https://cov-lineages.org/lineage.html?lineage=XDV.1.10) ORF1a:T4175I, S:G181V, China, from sars-cov-2-variants/lineage-proposals#1849
 
