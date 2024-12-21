@@ -13,6 +13,13 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-12-21
+- \+ [KP.3.1.9](https://cov-lineages.org/lineage.html?lineage=KP.3.1.9) Alias of B.1.1.529.2.86.1.1.11.1.3.1.9, S:N148S, S:P174S, S:T22N, S:N30-,S:S31-,S:F32I from sars-cov-2-variants/lineage-proposals#2171
+- \+ [NV.1](https://cov-lineages.org/lineage.html?lineage=NV.1) Alias of B.1.1.529.2.86.1.1.11.1.3.2.9.1, S:S31-, with C7267T
+- \+ [KP.3.3.5](https://cov-lineages.org/lineage.html?lineage=KP.3.3.5) Alias of B.1.1.529.2.86.1.1.11.1.3.3.5, S:A435S, Chile, from #2844
+- \+ [XET](https://cov-lineages.org/lineage.html?lineage=XET) Recombinant lineage of KP.1.1.1., KP.3.1.1 (breakpoint: 20105-21652), from sars-cov-2-variants/lineage-proposals#2302
+- \+ [XEU](https://cov-lineages.org/lineage.html?lineage=XEU) Recombinant lineage of XEK, XEC.8 (breakpoint: 3506-7112), from sars-cov-2-variants/lineage-proposals#2298
+
 ### 2024-12-20
 - \+ [MC.19.1](https://cov-lineages.org/lineage.html?lineage=MC.19.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.19.1, S:H445R
 
