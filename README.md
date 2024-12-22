@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2024-12-22
+- \+ [KP.3.1.11](https://cov-lineages.org/lineage.html?lineage=KP.3.1.11) Alias of B.1.1.529.2.86.1.1.11.1.3.1.11, ∆29728-29776 ORF1a:A2784V, T2593C, ORF1a:E452G, Spain
+
 ### 2024-12-21
 - \+ [KP.3.1.9](https://cov-lineages.org/lineage.html?lineage=KP.3.1.9) Alias of B.1.1.529.2.86.1.1.11.1.3.1.9, S:N148S, S:P174S, S:T22N, S:N30-,S:S31-,S:F32I from sars-cov-2-variants/lineage-proposals#2171
 - \+ [NV.1](https://cov-lineages.org/lineage.html?lineage=NV.1) Alias of B.1.1.529.2.86.1.1.11.1.3.2.9.1, S:S31-, with C7267T
