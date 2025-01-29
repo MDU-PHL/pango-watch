@@ -13,6 +13,33 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-01-29
+- \+ [MC.1.1.1](https://cov-lineages.org/lineage.html?lineage=MC.1.1.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.1.1.1, ORF1a:P1096L, C13264T, Australia-SA
+- \+ [MC.29](https://cov-lineages.org/lineage.html?lineage=MC.29) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.29, ORF1a:N615K
+- \+ [NB.1.1](https://cov-lineages.org/lineage.html?lineage=NB.1.1) Alias of XDV.1.5.1.1.1, S:I478T (rev), from sars-cov-2-variants/lineage-proposals#2280
+- \+ [NB.1.2](https://cov-lineages.org/lineage.html?lineage=NB.1.2) Alias of XDV.1.5.1.1.2, S:V1264L, China
+- \+ [NB.1.3](https://cov-lineages.org/lineage.html?lineage=NB.1.3) Alias of XDV.1.5.1.1.3, G19824A
+- \+ [NB.1.3.1](https://cov-lineages.org/lineage.html?lineage=NB.1.3.1) Alias of XDV.1.5.1.1.3.1, S:T572I
+- \+ [NB.1.4](https://cov-lineages.org/lineage.html?lineage=NB.1.4) Alias of XDV.1.5.1.1.4, C26801T
+- \+ [NB.1.5](https://cov-lineages.org/lineage.html?lineage=NB.1.5) Alias of XDV.1.5.1.1.5, ORF1a:A117T
+- \+ [XDY.1.1](https://cov-lineages.org/lineage.html?lineage=XDY.1.1) S:T572I
+- \+ [XDY.2](https://cov-lineages.org/lineage.html?lineage=XDY.2) S:Q677H, S:R346T
+- \+ [XDY.3](https://cov-lineages.org/lineage.html?lineage=XDY.3) S:A435S, ORF1a:T4129I
+- \+ [XDY.4](https://cov-lineages.org/lineage.html?lineage=XDY.4) S:R346T
+- \+ [XDY.5](https://cov-lineages.org/lineage.html?lineage=XDY.5) G18756A
+- \+ [XDY.5.1](https://cov-lineages.org/lineage.html?lineage=XDY.5.1) S:T572I, USA
+- \+ [XDY.6](https://cov-lineages.org/lineage.html?lineage=XDY.6) ORF3a:I35T
+- \+ [XDY.7](https://cov-lineages.org/lineage.html?lineage=XDY.7) C6781T
+- \+ [XEC.4.1](https://cov-lineages.org/lineage.html?lineage=XEC.4.1) T23584C, C27294T, C29353T, Australia
+- \+ [XEC.17](https://cov-lineages.org/lineage.html?lineage=XEC.17) S:T95I, on ORF1a:A599T branch, Israel, from #2879
+- \+ [XEC.18](https://cov-lineages.org/lineage.html?lineage=XEC.18) G28378T
+- \+ [XEV](https://cov-lineages.org/lineage.html?lineage=XEV) Recombinant lineage of KP.3.1.1, XEC.18 (breakpoint: 12617-13120)
+- \+ [XEW](https://cov-lineages.org/lineage.html?lineage=XEW) Recombinant lineage of KP.3.1.1, XEC.8 (breakpoint: 13122-15371)
+- \+ [XEY](https://cov-lineages.org/lineage.html?lineage=XEY) Recombinant lineage of MC.29, XEC (breakpoint: 17335-18656)
+- \+ [XEZ](https://cov-lineages.org/lineage.html?lineage=XEZ) Recombinant lineage of MC.6, XEC (breakpoint: 15373-17333)
+- \+ [XFA](https://cov-lineages.org/lineage.html?lineage=XFA) Recombinant lineage of MC.1.1.1, XEC.4.1 (breakpoint: 13297-15371), from #2878
+- \+ [XFB](https://cov-lineages.org/lineage.html?lineage=XFB) Recombinant lineage of MC.24, XDY.1.1, MC.24 (breakpoints: 19723-22110,23278-25081), from #2877
+
 ### 2025-01-15
 - \+ [NL.6](https://cov-lineages.org/lineage.html?lineage=NL.6) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.6, S:V1176F, ORF1b:R1687C, from sars-cov-2-variants/lineage-proposals#2027
 - \+ [NL.7](https://cov-lineages.org/lineage.html?lineage=NL.7) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.7, S:S256L, N:N47Y, from sars-cov-2-variants/lineage-proposals#2069
