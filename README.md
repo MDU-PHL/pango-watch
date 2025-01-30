@@ -13,6 +13,28 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-01-30
+- \+ [NZ.1](https://cov-lineages.org/lineage.html?lineage=NZ.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.4.1, S:H445R, South Africa
+- \+ [LB.1.3.5](https://cov-lineages.org/lineage.html?lineage=LB.1.3.5) Alias of B.1.1.529.2.86.1.1.9.2.1.3.5, ORF3a:T64I
+- \+ [NY.1](https://cov-lineages.org/lineage.html?lineage=NY.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.1.1, S:P85S
+- \+ [NY.2](https://cov-lineages.org/lineage.html?lineage=NY.2) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.1.2, ORF1a:T2846I
+- \+ [NY.3](https://cov-lineages.org/lineage.html?lineage=NY.3) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.1.3, S:R765L
+- \+ [NY.4](https://cov-lineages.org/lineage.html?lineage=NY.4) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.1.4, ORF1b:V1649I
+- \+ [NY.5](https://cov-lineages.org/lineage.html?lineage=NY.5) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.1.5, ORF1a:F843Y
+- \+ [NY.6](https://cov-lineages.org/lineage.html?lineage=NY.6) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.1.6, S:A475V
+- \+ [NY.7](https://cov-lineages.org/lineage.html?lineage=NY.7) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.1.7, S:T22N
+- \+ [NW.1](https://cov-lineages.org/lineage.html?lineage=NW.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1, S:A1174V, ORF3a:L101F
+- \+ [LP.8.1.3](https://cov-lineages.org/lineage.html?lineage=LP.8.1.3) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.3, S:Q677H, from #2876
+- \+ [LP.8.1.4](https://cov-lineages.org/lineage.html?lineage=LP.8.1.4) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.4, C16308T, Brazil
+- \+ [LP.8.1.5](https://cov-lineages.org/lineage.html?lineage=LP.8.1.5) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.5, ORF1a:K3353R
+- \+ [LP.8.1.6](https://cov-lineages.org/lineage.html?lineage=LP.8.1.6) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.6, S:T22N
+- \+ [LP.8.1.7](https://cov-lineages.org/lineage.html?lineage=LP.8.1.7) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.7, ORF1b:V980I
+- \+ [LP.8.1.8](https://cov-lineages.org/lineage.html?lineage=LP.8.1.8) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.8, N:A134V
+- \+ [LP.8.1.9](https://cov-lineages.org/lineage.html?lineage=LP.8.1.9) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.9, S:A475V
+- \+ [MC.24.1](https://cov-lineages.org/lineage.html?lineage=MC.24.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.24.1, S:G184D
+- \+ [LD.1.1](https://cov-lineages.org/lineage.html?lineage=LD.1.1) Alias of B.1.1.529.2.86.1.1.48.1.1.1, S:A522P
+- \+ [XFC](https://cov-lineages.org/lineage.html?lineage=XFC) Recombinant lineage of LP.8.1.1, LF.7, LP.8.1.1 (breakpoints: 8818-122891,22120-22892), from sars-cov-2-variants/lineage-proposals#2323
+
 ### 2025-01-29
 - \+ [MC.1.1.1](https://cov-lineages.org/lineage.html?lineage=MC.1.1.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.1.1.1, ORF1a:P1096L, C13264T, Australia-SA
 - \+ [MC.29](https://cov-lineages.org/lineage.html?lineage=MC.29) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.29, ORF1a:N615K
