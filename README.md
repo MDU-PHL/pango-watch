@@ -13,6 +13,38 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-01-31
+- \+ [NL.1.1](https://cov-lineages.org/lineage.html?lineage=NL.1.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.1.1, S:D111N
+- \+ [NL.4.1](https://cov-lineages.org/lineage.html?lineage=NL.4.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.4.1, S:N1187S
+- \+ [NL.4.1.1](https://cov-lineages.org/lineage.html?lineage=NL.4.1.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.4.1.1, S:T572I, Canada
+- \+ [NL.8](https://cov-lineages.org/lineage.html?lineage=NL.8) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.8, ORF3a:S171L
+- \+ [MC.10.1.1](https://cov-lineages.org/lineage.html?lineage=MC.10.1.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.1, T22501C
+- \+ [MC.10.1.2](https://cov-lineages.org/lineage.html?lineage=MC.10.1.2) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.2, N:A90V
+- \+ [MC.10.1.3](https://cov-lineages.org/lineage.html?lineage=MC.10.1.3) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.3, N:T379I
+- \+ [MC.10.1.4](https://cov-lineages.org/lineage.html?lineage=MC.10.1.4) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.4, ORF7b:S31L, Europe
+- \+ [MC.10.1.5](https://cov-lineages.org/lineage.html?lineage=MC.10.1.5) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.5, T22981C
+- \+ [MC.10.1.6](https://cov-lineages.org/lineage.html?lineage=MC.10.1.6) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.6, S:R346T
+- \+ [MC.10.2.1](https://cov-lineages.org/lineage.html?lineage=MC.10.2.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1, S:K679R, ORf7a:A105S, Australia/New Zealand
+- \+ [KP.3.3.6](https://cov-lineages.org/lineage.html?lineage=KP.3.3.6) Alias of B.1.1.529.2.86.1.1.11.1.3.3.6, S:S31del, S:D138H, Oceania
+- \+ [KS.1.1.3](https://cov-lineages.org/lineage.html?lineage=KS.1.1.3) Alias of B.1.1.529.2.86.1.1.13.1.1.1.3, S:A575S, ORF1a:H1160Y, Russia
+- \+ [KS.1.5](https://cov-lineages.org/lineage.html?lineage=KS.1.5) Alias of B.1.1.529.2.86.1.1.13.1.1.5, N:T282I, C20148T, Russia
+- \+ [ND.1.1.3](https://cov-lineages.org/lineage.html?lineage=ND.1.1.3) Alias of B.1.1.529.2.86.1.1.16.1.8.1.1.1.1.3, S:F32S, ORF1a:D1547Y, ORF1a:A4155S, ORF6:I33M
+- \+ [LQ.1](https://cov-lineages.org/lineage.html?lineage=LQ.1) Alias of B.1.1.529.2.86.1.1.18.1.1, S:F456L (22928C), from #2596
+- \+ [LQ.1.1](https://cov-lineages.org/lineage.html?lineage=LQ.1.1) Alias of B.1.1.529.2.86.1.1.18.1.1.1, S:P272H, from #2596
+- \+ [LQ.1.1.1](https://cov-lineages.org/lineage.html?lineage=LQ.1.1.1) Alias of B.1.1.529.2.86.1.1.18.1.1.1.1, S:K679R
+- \+ [LQ.1.2](https://cov-lineages.org/lineage.html?lineage=LQ.1.2) Alias of B.1.1.529.2.86.1.1.18.1.1.2, ORF3a: T221I
+- \+ [LZ.2.2](https://cov-lineages.org/lineage.html?lineage=LZ.2.2) Alias of B.1.1.529.2.86.1.1.18.2.2.2, T2032C, C19041T, China
+- \+ [LZ.3](https://cov-lineages.org/lineage.html?lineage=LZ.3) Alias of B.1.1.529.2.86.1.1.18.2.3, S:T572I, on ORF1a:K1226E branch with LZ.2
+- \+ [LZ.4](https://cov-lineages.org/lineage.html?lineage=LZ.4) Alias of B.1.1.529.2.86.1.1.18.2.4, S:R190S, on T23377C branch with LZ.1
+- \+ [LZ.5](https://cov-lineages.org/lineage.html?lineage=LZ.5) Alias of B.1.1.529.2.86.1.1.18.2.5, C19185T
+- \+ [MA.1.2](https://cov-lineages.org/lineage.html?lineage=MA.1.2) Alias of B.1.1.529.2.86.1.1.18.3.1.2, A9604G, C27259A (rev)
+- \+ [JN.1.18.9](https://cov-lineages.org/lineage.html?lineage=JN.1.18.9) Alias of B.1.1.529.2.86.1.1.18.9, C18348T
+- \+ [MD.4](https://cov-lineages.org/lineage.html?lineage=MD.4) Alias of B.1.1.529.2.86.1.1.64.1.4, S:Y269N, Russia
+- \+ [MD.4.1](https://cov-lineages.org/lineage.html?lineage=MD.4.1) Alias of B.1.1.529.2.86.1.1.64.1.4.1, S:F456L
+- \+ [JN.1.69](https://cov-lineages.org/lineage.html?lineage=JN.1.69) Alias of B.1.1.529.2.86.1.1.69, C16329T
+- \+ [XEK.5](https://cov-lineages.org/lineage.html?lineage=XEK.5) C478T
+- \+ [XEK.6](https://cov-lineages.org/lineage.html?lineage=XEK.6) S:Y1155F
+
 ### 2025-01-30
 - \+ [NZ.1](https://cov-lineages.org/lineage.html?lineage=NZ.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.4.1, S:H445R, South Africa
 - \+ [LB.1.3.5](https://cov-lineages.org/lineage.html?lineage=LB.1.3.5) Alias of B.1.1.529.2.86.1.1.9.2.1.3.5, ORF3a:T64I
