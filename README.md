@@ -13,6 +13,28 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-02-01
+- \+ [MC.1.4](https://cov-lineages.org/lineage.html?lineage=MC.1.4) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.1.4, ORF1a:I671V
+- \+ [MC.1.5](https://cov-lineages.org/lineage.html?lineage=MC.1.5) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.1.5, T1030C, C19875T
+- \+ [MC.1.6](https://cov-lineages.org/lineage.html?lineage=MC.1.6) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.1.6, C589T, C9857T
+- \+ [MC.1.7](https://cov-lineages.org/lineage.html?lineage=MC.1.7) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.1.7, S:A942S, ORF1a:L3806M, A11500G, A20559G
+- \+ [PA.1](https://cov-lineages.org/lineage.html?lineage=PA.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.1.1, S:H445P, N:A152S
+- \+ [MC.17.1](https://cov-lineages.org/lineage.html?lineage=MC.17.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.17.1, S:R346T
+- \+ [MC.24.2](https://cov-lineages.org/lineage.html?lineage=MC.24.2) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.24.2, C4999T
+- \+ [MC.28.1.1](https://cov-lineages.org/lineage.html?lineage=MC.28.1.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.28.1.1, S:R346T
+- \+ [MC.30](https://cov-lineages.org/lineage.html?lineage=MC.30) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.30, C1093T, T15750C
+- \+ [MC.30.1](https://cov-lineages.org/lineage.html?lineage=MC.30.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.30.1, ORF1b:P1645S, NA119T, C23896T, C26801T
+- \+ [MC.30.1.1](https://cov-lineages.org/lineage.html?lineage=MC.30.1.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.30.1.1, S:T572I, S:A435S
+- \+ [MC.31](https://cov-lineages.org/lineage.html?lineage=MC.31) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.31, S:R346T, S:A435S, ORF1a:L552F, ORF1a:S1825N
+- \+ [MC.32](https://cov-lineages.org/lineage.html?lineage=MC.32) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.32, ORF1a:T1840I
+- \+ [MC.32.1](https://cov-lineages.org/lineage.html?lineage=MC.32.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.32.1, S:R346T, S:H445R, ORF1a:T1004P, ORF1b:P2256S, South Africa
+- \+ [MC.33](https://cov-lineages.org/lineage.html?lineage=MC.33) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.33, ORF1b:R1736K
+- \+ [MC.33.1](https://cov-lineages.org/lineage.html?lineage=MC.33.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.33.1, S:R346T, S:H445R
+- \+ [MC.33.2](https://cov-lineages.org/lineage.html?lineage=MC.33.2) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.33.2, S:R346T, S:S929T
+- \+ [MC.34](https://cov-lineages.org/lineage.html?lineage=MC.34) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.34, A29716T
+- \+ [MC.35](https://cov-lineages.org/lineage.html?lineage=MC.35) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.35, C10432T
+- \+ [KP.3.3.7](https://cov-lineages.org/lineage.html?lineage=KP.3.3.7) Alias of B.1.1.529.2.86.1.1.11.1.3.3.7, ORF1a:T2093I, ORF1a:L642F
+
 ### 2025-01-31
 - \+ [NL.1.1](https://cov-lineages.org/lineage.html?lineage=NL.1.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.1.1, S:D111N
 - \+ [NL.4.1](https://cov-lineages.org/lineage.html?lineage=NL.4.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.4.1, S:N1187S
