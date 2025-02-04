@@ -13,6 +13,21 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-02-04
+- \+ [MC.10.1.7](https://cov-lineages.org/lineage.html?lineage=MC.10.1.7) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.7, ORF1a:D1228G, ORF1b:T1230I, Canada/US
+- \+ [MC.21.2](https://cov-lineages.org/lineage.html?lineage=MC.21.2) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.21.2, S:P217T, ORF1a:N1922S, Brazil
+- \+ [PC.1](https://cov-lineages.org/lineage.html?lineage=PC.1) Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.1, S:N137K
+- \+ [PC.2](https://cov-lineages.org/lineage.html?lineage=PC.2) Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.2, S:L441R, S:H445P, Wales/Scotland
+- \+ [LF.7.6.2](https://cov-lineages.org/lineage.html?lineage=LF.7.6.2) Alias of B.1.1.529.2.86.1.1.16.1.7.6.2, S:L441R, S:R444K (rev), S:H445P
+- \+ [LS.1](https://cov-lineages.org/lineage.html?lineage=LS.1) Alias of B.1.1.529.2.86.1.1.18.5.1, S:Y28H, S:L189A, S:184-188del, ORF1a:E940D, Senegal
+- \+ [LS.2](https://cov-lineages.org/lineage.html?lineage=LS.2) Alias of B.1.1.529.2.86.1.1.18.5.2, T4369C, C20178T, Senegal
+- \+ [MZ.2](https://cov-lineages.org/lineage.html?lineage=MZ.2) Alias of B.1.1.529.2.86.1.1.67.1.2, T177C, China
+- \+ [MZ.3](https://cov-lineages.org/lineage.html?lineage=MZ.3) Alias of B.1.1.529.2.86.1.1.67.1.3, S:R346T, S:F59S, China
+- \+ [MZ.4](https://cov-lineages.org/lineage.html?lineage=MZ.4) Alias of B.1.1.529.2.86.1.1.67.1.4, S:K478T (rev), N:T379A, China
+- \+ [MZ.4.1](https://cov-lineages.org/lineage.html?lineage=MZ.4.1) Alias of B.1.1.529.2.86.1.1.67.1.4.1, S:V1264L
+- \+ [MZ.5](https://cov-lineages.org/lineage.html?lineage=MZ.5) Alias of B.1.1.529.2.86.1.1.67.1.5, S:T572I
+- \+ [XFF](https://cov-lineages.org/lineage.html?lineage=XFF) Recombinant lineage of LB.1.3, MZ.4.1 (breakpoint: 22599-22994)
+
 ### 2025-02-02
 - \+ [MU.6](https://cov-lineages.org/lineage.html?lineage=MU.6) Alias of B.1.1.529.2.86.1.1.11.1.1.1.5.6, S:A435S, S:T22N, ORF1a:A498V, USA
 - \+ [KP.2.14.1](https://cov-lineages.org/lineage.html?lineage=KP.2.14.1) Alias of B.1.1.529.2.86.1.1.11.1.2.14.1, S:T572I
