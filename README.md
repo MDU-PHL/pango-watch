@@ -13,6 +13,17 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-02-14
+- \+ [NY.8](https://cov-lineages.org/lineage.html?lineage=NY.8) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.8, S:R214H, ORF1b:A241V, USA, from #2894
+- \+ [KP.2.6.4](https://cov-lineages.org/lineage.html?lineage=KP.2.6.4) Alias of B.1.1.529.2.86.1.1.11.1.2.6.4, S:Q493E, ORf7b:L25F, Israel
+- \+ [MC.13.3.1](https://cov-lineages.org/lineage.html?lineage=MC.13.3.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.13.3.1, S:R346T, from #2875
+- \+ [MC.38](https://cov-lineages.org/lineage.html?lineage=MC.38) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.38, S:Q239R, ORF1a:L2146F, USA/HK
+- \+ [MC.39](https://cov-lineages.org/lineage.html?lineage=MC.39) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.39, ORF3a:A39T, Japan
+- \+ [KP.3.3.9](https://cov-lineages.org/lineage.html?lineage=KP.3.3.9) Alias of B.1.1.529.2.86.1.1.11.1.3.3.9, S:T22N, S:S31F, S:P1162S
+- \+ [LF.7.1.4](https://cov-lineages.org/lineage.html?lineage=LF.7.1.4) Alias of B.1.1.529.2.86.1.1.16.1.7.1.4, S:K529R
+- \+ [LF.7.1.5](https://cov-lineages.org/lineage.html?lineage=LF.7.1.5) Alias of B.1.1.529.2.86.1.1.16.1.7.1.5, S:K529T
+- \+ [XEC.21](https://cov-lineages.org/lineage.html?lineage=XEC.21) S:T572I, C2788T, USA, from #2891
+
 ### 2025-02-08
 - \+ [NL.1.1](https://cov-lineages.org/lineage.html?lineage=NL.1.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.1.1, S:D111N, from #2806
 - \+ [NL.4.1](https://cov-lineages.org/lineage.html?lineage=NL.4.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.4.1, S:N1187S, from from sars-cov-2-variants/lineage-proposals#2342
