@@ -13,6 +13,18 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-02-19
+- \+ [KP.2.28](https://cov-lineages.org/lineage.html?lineage=KP.2.28) Alias of B.1.1.529.2.86.1.1.11.1.2.28, ORF1a:P2079L, Ecuador
+- \+ [KP.2.28.1](https://cov-lineages.org/lineage.html?lineage=KP.2.28.1) Alias of B.1.1.529.2.86.1.1.11.1.2.28.1, S:H445, Ecuador
+- \+ [MC.9.1](https://cov-lineages.org/lineage.html?lineage=MC.9.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.9.1, S:T638R
+- \+ [MC.40](https://cov-lineages.org/lineage.html?lineage=MC.40) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.40, T16251C
+- \+ [NF.1.2](https://cov-lineages.org/lineage.html?lineage=NF.1.2) Alias of B.1.1.529.2.86.1.1.16.5.1.2, S:D1260Y, Canada/US
+- \+ [NF.1.3](https://cov-lineages.org/lineage.html?lineage=NF.1.3) Alias of B.1.1.529.2.86.1.1.16.5.1.3, S:T572I
+- \+ [NF.1.4](https://cov-lineages.org/lineage.html?lineage=NF.1.4) Alias of B.1.1.529.2.86.1.1.16.5.1.4, S:T1273I
+- \+ [NF.1.5](https://cov-lineages.org/lineage.html?lineage=NF.1.5) Alias of B.1.1.529.2.86.1.1.16.5.1.5, S:R346T, Sweden
+- \+ [XEC.23](https://cov-lineages.org/lineage.html?lineage=XEC.23) T26540C
+- \+ [XEC.24](https://cov-lineages.org/lineage.html?lineage=XEC.24) C28849T
+
 ### 2025-02-15
 - \+ [MC.6.1](https://cov-lineages.org/lineage.html?lineage=MC.6.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.6.1, S:T572I
 - \+ [LF.7.8](https://cov-lineages.org/lineage.html?lineage=LF.7.8) Alias of B.1.1.529.2.86.1.1.16.1.7.8, S:H445P, S:T676N, ORF1a:K3353R, T22993C (rev), USA/Canada
