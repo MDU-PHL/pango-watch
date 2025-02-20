@@ -13,6 +13,10 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-02-20
+- \+ [KP.2.28](https://cov-lineages.org/lineage.html?lineage=KP.2.28) Alias of B.1.1.529.2.86.1.1.11.1.2.28, ORF1a:P2079L, S:F32del Ecuador
+- \+ [KP.2.28.1](https://cov-lineages.org/lineage.html?lineage=KP.2.28.1) Alias of B.1.1.529.2.86.1.1.11.1.2.28.1, S:H445P, Ecuador
+
 ### 2025-02-19
 - \+ [KP.2.28](https://cov-lineages.org/lineage.html?lineage=KP.2.28) Alias of B.1.1.529.2.86.1.1.11.1.2.28, ORF1a:P2079L, Ecuador
 - \+ [KP.2.28.1](https://cov-lineages.org/lineage.html?lineage=KP.2.28.1) Alias of B.1.1.529.2.86.1.1.11.1.2.28.1, S:H445, Ecuador
