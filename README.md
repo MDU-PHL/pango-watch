@@ -13,6 +13,12 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-02-25
+- \+ [NF.1.2](https://cov-lineages.org/lineage.html?lineage=NF.1.2) Alias of B.1.1.529.2.86.1.1.16.5.1.2, S:D1260Y after ORF8:A65V, on ORF3a:N82Y branch, Canada/US
+- \+ [NF.1.3](https://cov-lineages.org/lineage.html?lineage=NF.1.3) Alias of B.1.1.529.2.86.1.1.16.5.1.3, S:T572I after ORF8:A65V, on ORF3a:N82Y branch
+- \+ [NF.1.4](https://cov-lineages.org/lineage.html?lineage=NF.1.4) Alias of B.1.1.529.2.86.1.1.16.5.1.4, S:T1273I, on ORF3a:N82Y branch
+- \+ [NF.1.5](https://cov-lineages.org/lineage.html?lineage=NF.1.5) Alias of B.1.1.529.2.86.1.1.16.5.1.5, S:R346T, on ORF3a:N82Y branch, Sweden
+
 ### 2025-02-20
 - \+ [KP.2.28](https://cov-lineages.org/lineage.html?lineage=KP.2.28) Alias of B.1.1.529.2.86.1.1.11.1.2.28, ORF1a:P2079L, S:F32del Ecuador
 - \+ [KP.2.28.1](https://cov-lineages.org/lineage.html?lineage=KP.2.28.1) Alias of B.1.1.529.2.86.1.1.11.1.2.28.1, S:H445P, Ecuador
