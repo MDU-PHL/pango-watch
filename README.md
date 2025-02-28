@@ -13,6 +13,11 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-02-28
+- \+ [XEC.11.1](https://cov-lineages.org/lineage.html?lineage=XEC.11.1) S:V1264L, ORF1a:V2090F
+- \+ [XEC.11.1.1](https://cov-lineages.org/lineage.html?lineage=XEC.11.1.1) S:G842S
+- \+ [XEC.25](https://cov-lineages.org/lineage.html?lineage=XEC.25) C10228T
+
 ### 2025-02-25
 - \+ [NF.1.2](https://cov-lineages.org/lineage.html?lineage=NF.1.2) Alias of B.1.1.529.2.86.1.1.16.5.1.2, S:D1260Y after ORF8:A65V, on ORF3a:N82Y branch, Canada/US
 - \+ [NF.1.3](https://cov-lineages.org/lineage.html?lineage=NF.1.3) Alias of B.1.1.529.2.86.1.1.16.5.1.3, S:T572I after ORF8:A65V, on ORF3a:N82Y branch
