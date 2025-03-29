@@ -13,6 +13,28 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-03-29
+- \+ [NL.9](https://cov-lineages.org/lineage.html?lineage=NL.9) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.9, S:R237K, S:K478I
+- \+ [MC.40.1](https://cov-lineages.org/lineage.html?lineage=MC.40.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.40.1, S:T345S
+- \+ [NT.2](https://cov-lineages.org/lineage.html?lineage=NT.2) Alias of B.1.1.529.2.86.1.1.16.1.7.1.2.2, S:S680F, ORF1a:K527N, Peru
+- \+ [LF.7.3.2](https://cov-lineages.org/lineage.html?lineage=LF.7.3.2) Alias of B.1.1.529.2.86.1.1.16.1.7.3.2, S:T385I
+- \+ [LF.7.3.3](https://cov-lineages.org/lineage.html?lineage=LF.7.3.3) Alias of B.1.1.529.2.86.1.1.16.1.7.3.3, S:D228E
+- \+ [LF.7.3.4](https://cov-lineages.org/lineage.html?lineage=LF.7.3.4) Alias of B.1.1.529.2.86.1.1.16.1.7.3.4, S:445Q
+- \+ [LF.7.3.5](https://cov-lineages.org/lineage.html?lineage=LF.7.3.5) Alias of B.1.1.529.2.86.1.1.16.1.7.3.5, S:S680F
+- \+ [LF.7.3.6](https://cov-lineages.org/lineage.html?lineage=LF.7.3.6) Alias of B.1.1.529.2.86.1.1.16.1.7.3.6, S:S680P
+- \+ [LF.7.9](https://cov-lineages.org/lineage.html?lineage=LF.7.9) Alias of B.1.1.529.2.86.1.1.16.1.7.9, S:L441R, S:H445P, S:A475V
+- \+ [BA.3.2](https://cov-lineages.org/lineage.html?lineage=BA.3.2) Alias of B.1.1.529.3.2, saltation with ~40 spike AA substitutions, South Africa, from #2909
+- \+ [NB.1.6](https://cov-lineages.org/lineage.html?lineage=NB.1.6) Alias of XDV.1.5.1.1.6, S:R346T
+- \+ [NB.1.7](https://cov-lineages.org/lineage.html?lineage=NB.1.7) Alias of XDV.1.5.1.1.7, S:T572I
+- \+ [NB.1.8](https://cov-lineages.org/lineage.html?lineage=NB.1.8) Alias of XDV.1.5.1.1.8, S:Q493E
+- \+ [NB.1.8.1](https://cov-lineages.org/lineage.html?lineage=NB.1.8.1) Alias of XDV.1.5.1.1.8.1, S:A435S
+- \+ [XEC.8.1](https://cov-lineages.org/lineage.html?lineage=XEC.8.1) S:G72R
+- \+ [XEC.24.1](https://cov-lineages.org/lineage.html?lineage=XEC.24.1) S:T345S
+- \+ [XEC.25.1](https://cov-lineages.org/lineage.html?lineage=XEC.25.1) S:A435S, ORF1b:A2222V
+- \+ [XFG](https://cov-lineages.org/lineage.html?lineage=XFG) Recombinant lineage of LF.7, LP.8.1.2, LF.7 (breakpoints: 22894-22895, 23040-24818), from sars-cov-2-variants/lineage-proposals#2449
+- \+ [XFH](https://cov-lineages.org/lineage.html?lineage=XFH) Recombinant lineage of LF.7.1, XEF, LF.7.1 (breakpoints: 22133-22565, 23040-24871), from #2910
+- \+ [\*PC.2](https://cov-lineages.org/lineage.html?lineage=*PC.2) Redesignated as LF.7.9, S:L441R, S:H445P, Wales/Scotland, from sars-cov-2-variants/lineage-proposals#2395
+
 ### 2025-02-28
 - \+ [XEC.11.1](https://cov-lineages.org/lineage.html?lineage=XEC.11.1) S:V1264L, ORF1a:V2090F
 - \+ [XEC.11.1.1](https://cov-lineages.org/lineage.html?lineage=XEC.11.1.1) S:G842S
