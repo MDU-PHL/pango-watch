@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-04-01
+- \+ [\*MC.34](https://cov-lineages.org/lineage.html?lineage=*MC.34) Withdrawn: Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.34, A29716T (29716 in UTR masked by pangolin)
+
 ### 2025-03-29
 - \+ [NL.9](https://cov-lineages.org/lineage.html?lineage=NL.9) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.9, S:R237K, S:K478I
 - \+ [MC.40.1](https://cov-lineages.org/lineage.html?lineage=MC.40.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.40.1, S:T345S
