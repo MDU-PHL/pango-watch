@@ -13,6 +13,10 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-04-07
+- \+ [XEC.5.1](https://cov-lineages.org/lineage.html?lineage=XEC.5.1) S:R346K
+- \+ [XFK](https://cov-lineages.org/lineage.html?lineage=XFK) Recombinant lineage of KP.3.1.1, XEC.5 (breakpoints: 17503-19722), from #sars-cov-2-variants/lineage-proposals#2514
+
 ### 2025-04-03
 - \+ [NL.4.1.1](https://cov-lineages.org/lineage.html?lineage=NL.4.1.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.4.1.1, S:T572I, Canada, from sars-cov-2-variants/lineage-proposals#2342
 - \+ [NL.5.2](https://cov-lineages.org/lineage.html?lineage=NL.5.2) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.5.2, S:R190S, from sars-cov-2-variants/lineage-proposals#1771
