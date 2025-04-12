@@ -13,6 +13,23 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-04-12
+- \+ [NY.9](https://cov-lineages.org/lineage.html?lineage=NY.9) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.9, S:K478T (rev)
+- \+ [NY.10](https://cov-lineages.org/lineage.html?lineage=NY.10) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.10, S:K478E
+- \+ [NY.11](https://cov-lineages.org/lineage.html?lineage=NY.11) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.11, S:N487D, N:A173V
+- \+ [PD.1](https://cov-lineages.org/lineage.html?lineage=PD.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.4.1, S:A522P
+- \+ [MC.1.4.1](https://cov-lineages.org/lineage.html?lineage=MC.1.4.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.1.4.1, S:R237K, S:A688V
+- \+ [PE.1](https://cov-lineages.org/lineage.html?lineage=PE.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1.1, S:S673T
+- \+ [PC.2](https://cov-lineages.org/lineage.html?lineage=PC.2) Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.2, ORF3a:V13L
+- \+ [PC.3](https://cov-lineages.org/lineage.html?lineage=PC.3) Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.3, ORF1a:R287G
+- \+ [PC.4](https://cov-lineages.org/lineage.html?lineage=PC.4) Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.4, ORF3a:K21N
+- \+ [MV.1.1.1](https://cov-lineages.org/lineage.html?lineage=MV.1.1.1) Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.1.1, S:M153I, S:P807S, S:H445P
+- \+ [MV.1.2](https://cov-lineages.org/lineage.html?lineage=MV.1.2) Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.2, S:Q183H
+- \+ [MV.1.3](https://cov-lineages.org/lineage.html?lineage=MV.1.3) Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.3, S:V1264L, ORF1b:S1003G
+- \+ [XEC.2.2.1](https://cov-lineages.org/lineage.html?lineage=XEC.2.2.1) S:T572I
+- \+ [XFK](https://cov-lineages.org/lineage.html?lineage=XFK) Recombinant lineage of KP.3.1.1, XEC.5 (breakpoints: 17503-19722), from sars-cov-2-variants/lineage-proposals#2514
+- \+ [XFL](https://cov-lineages.org/lineage.html?lineage=XFL) Recombinant lineage of XEU, XEC.18 (breakpoint: 24193-27995), from sars-cov-2-variants/lineage-proposals#2528
+
 ### 2025-04-07
 - \+ [XEC.5.1](https://cov-lineages.org/lineage.html?lineage=XEC.5.1) S:R346K
 - \+ [XFK](https://cov-lineages.org/lineage.html?lineage=XFK) Recombinant lineage of KP.3.1.1, XEC.5 (breakpoints: 17503-19722), from #sars-cov-2-variants/lineage-proposals#2514
