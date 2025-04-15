@@ -13,6 +13,22 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-04-15
+- \+ [NY.12](https://cov-lineages.org/lineage.html?lineage=NY.12) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.12, S:N185D, from #2926
+- \+ [PF.1](https://cov-lineages.org/lineage.html?lineage=PF.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.6.1, S:K478E, from #2933
+- \+ [PA.1.1](https://cov-lineages.org/lineage.html?lineage=PA.1.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.1.1.1, S:A688V
+- \+ [PA.1.2](https://cov-lineages.org/lineage.html?lineage=PA.1.2) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.1.1.2, S:A899S, S:R346T
+- \+ [MC.13.2.2](https://cov-lineages.org/lineage.html?lineage=MC.13.2.2) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.13.2.2, S:R346T, ORF1a:T1638I, ORF1a:K2511N
+- \+ [MC.33.1.1](https://cov-lineages.org/lineage.html?lineage=MC.33.1.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.33.1.1, S:R190S, from #2923
+- \+ [PG.1](https://cov-lineages.org/lineage.html?lineage=PG.1) Alias of B.1.1.529.2.86.1.1.11.1.3.3.5.1, S:N185D
+- \+ [PG.2](https://cov-lineages.org/lineage.html?lineage=PG.2) Alias of B.1.1.529.2.86.1.1.11.1.3.3.5.2, S:D215H
+- \+ [PG.3](https://cov-lineages.org/lineage.html?lineage=PG.3) Alias of B.1.1.529.2.86.1.1.11.1.3.3.5.3, S:R346T, from #2920
+- \+ [LF.7.1.6](https://cov-lineages.org/lineage.html?lineage=LF.7.1.6) Alias of B.1.1.529.2.86.1.1.16.1.7.1.6, ORF1a:S994G, ORF3a:L85F
+- \+ [LF.7.1.7](https://cov-lineages.org/lineage.html?lineage=LF.7.1.7) Alias of B.1.1.529.2.86.1.1.16.1.7.1.7, S:A475V, S:S680F, ORF1a:V2061F
+- \+ [MV.1.4](https://cov-lineages.org/lineage.html?lineage=MV.1.4) Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.4, S:S680P, Singapore
+- \+ [XEC.26](https://cov-lineages.org/lineage.html?lineage=XEC.26) S:V1176F, ORF3a:T89I, from #2932
+- \+ [XEC.27](https://cov-lineages.org/lineage.html?lineage=XEC.27) S:T240I, S:R346T, S:H445R, G13441A
+
 ### 2025-04-12
 - \+ [NY.9](https://cov-lineages.org/lineage.html?lineage=NY.9) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.9, S:K478T (rev)
 - \+ [NY.10](https://cov-lineages.org/lineage.html?lineage=NY.10) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.10, S:K478E
