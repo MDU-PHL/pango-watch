@@ -13,6 +13,37 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-05-05
+- \+ [JN.1.1.4](https://cov-lineages.org/lineage.html?lineage=JN.1.1.4) Alias of B.1.1.529.2.86.1.1.1.4, S:V1264L(G25352T) on C9142T branch, from #2476
+- \+ [NL.3.1](https://cov-lineages.org/lineage.html?lineage=NL.3.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.3.1, S:A435S
+- \+ [NL.10](https://cov-lineages.org/lineage.html?lineage=NL.10) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.10, C1387T, USA
+- \+ [NL.11](https://cov-lineages.org/lineage.html?lineage=NL.11) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.11, ORF1a:T4129I
+- \+ [NL.12](https://cov-lineages.org/lineage.html?lineage=NL.12) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.12, ORF1b:K2557R
+- \+ [NL.13](https://cov-lineages.org/lineage.html?lineage=NL.13) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.13, S:I934V, S:T572I
+- \+ [JN.1.23.1](https://cov-lineages.org/lineage.html?lineage=JN.1.23.1) Alias of B.1.1.529.2.86.1.1.23.1, S:V1264L(G25352T), S:N137K, Brazil, from sars-cov-2-variants/lineage-proposals#1552
+- \+ [MV.1.3](https://cov-lineages.org/lineage.html?lineage=MV.1.3) Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.3, S:V1264L(G25352T), ORF1b:S1003G
+- \+ [NA.2](https://cov-lineages.org/lineage.html?lineage=NA.2) Alias of B.1.1.529.2.86.1.1.49.1.1.1.2.2, S:K478T (rev), S:H445R, Brazil
+- \+ [MZ.4.1](https://cov-lineages.org/lineage.html?lineage=MZ.4.1) Alias of B.1.1.529.2.86.1.1.67.1.4.1, S:V1264L(G25352T)
+- \+ [BA.5.1.33](https://cov-lineages.org/lineage.html?lineage=BA.5.1.33) Alias of B.1.1.529.5.1.33, S:V1264L(G25352T)
+- \+ [CP.6](https://cov-lineages.org/lineage.html?lineage=CP.6) Alias of B.1.1.529.5.2.6.6, S:V1264L(G25352T)
+- \+ [CK.1.1.2](https://cov-lineages.org/lineage.html?lineage=CK.1.1.2) Alias of B.1.1.529.5.2.24.1.1.2, S:V1264L(G25352T), Japan, from #2271
+- \+ [BA.5.2.59](https://cov-lineages.org/lineage.html?lineage=BA.5.2.59) Alias of B.1.1.529.5.2.59 USA, S:V1264L(G25352T)
+- \+ [EN.1](https://cov-lineages.org/lineage.html?lineage=EN.1) Alias of B.1.1.529.5.3.1.1.1.1.1.1.46.1 France, S:V1264L(G25352T), from #1696
+- \+ [HK.16](https://cov-lineages.org/lineage.html?lineage=HK.16) Alias of XBB.1.9.2.5.1.1.16, N:P67S, S:A684V, S:V1264L(G25352T), from sars-cov-2-variants/lineage-proposals#841
+- \+ [JF.1.1.2](https://cov-lineages.org/lineage.html?lineage=JF.1.1.2) Alias of XBB.1.16.6.1.1.2, S:V1264L(G25352T)
+- \+ [NB.1.2](https://cov-lineages.org/lineage.html?lineage=NB.1.2) Alias of XDV.1.5.1.1.2, S:V1264L(G25352T), China, from sars-cov-2-variants/lineage-proposals#2307
+- \+ [XEC.11.1](https://cov-lineages.org/lineage.html?lineage=XEC.11.1) S:V1264L(G25352C), ORF1a:V2090F, from sars-cov-2-variants/lineage-proposals#2088
+- \+ [XEC.28](https://cov-lineages.org/lineage.html?lineage=XEC.28) ORF1a:A1679V
+- \+ [XEC.29](https://cov-lineages.org/lineage.html?lineage=XEC.29) C5812T
+- \+ [XEC.30](https://cov-lineages.org/lineage.html?lineage=XEC.30) T24022C
+- \+ [XEC.31](https://cov-lineages.org/lineage.html?lineage=XEC.31) ORF1a:L1249F
+- \+ [XEC.32](https://cov-lineages.org/lineage.html?lineage=XEC.32) ORF8:S67F
+- \+ [XEL.1](https://cov-lineages.org/lineage.html?lineage=XEL.1) S:V1264L(G25352T), from sars-cov-2-variants/lineage-proposals#2284
+- \+ [XFG.1](https://cov-lineages.org/lineage.html?lineage=XFG.1) S:R445P
+- \+ [XFG.2](https://cov-lineages.org/lineage.html?lineage=XFG.2) N:V270L, ORF1b:K2557R, USA-NY
+- \+ [XFJ](https://cov-lineages.org/lineage.html?lineage=XFJ) Recombinant lineage of LS.2, LF.7.2, LS.2, LF.7.2 (breakpoints: 8818-12892, 22792-22893, 27414-28297), from #2928
+- \+ [XFM](https://cov-lineages.org/lineage.html?lineage=XFM) Recombinant lineage of LF.7.6.2, LS.2 (breakpoints: 22600-22892), from #2928
+
 ### 2025-04-15
 - \+ [NY.12](https://cov-lineages.org/lineage.html?lineage=NY.12) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.12, S:N185D, from #2926
 - \+ [PF.1](https://cov-lineages.org/lineage.html?lineage=PF.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.6.1, S:K478E, from #2933
