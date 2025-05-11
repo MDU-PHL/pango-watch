@@ -13,6 +13,10 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-05-11
+- \+ [XEU](https://cov-lineages.org/lineage.html?lineage=XEU) Recombinant lineage of XEK, XEC.8 (breakpoint: 3506-5700), from sars-cov-2-variants/lineage-proposals#2298
+- \+ [XFL](https://cov-lineages.org/lineage.html?lineage=XFL) Recombinant lineage of XEU, XEC.18 (breakpoint: 24377-27994), from sars-cov-2-variants/lineage-proposals#2528
+
 ### 2025-05-05
 - \+ [JN.1.1.4](https://cov-lineages.org/lineage.html?lineage=JN.1.1.4) Alias of B.1.1.529.2.86.1.1.1.4, S:V1264L(G25352T) on C9142T branch, from #2476
 - \+ [NL.3.1](https://cov-lineages.org/lineage.html?lineage=NL.3.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.3.1, S:A435S
