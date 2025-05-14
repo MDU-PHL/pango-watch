@@ -13,6 +13,31 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-05-14
+- \+ [NL.3.1](https://cov-lineages.org/lineage.html?lineage=NL.3.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.3.1, S:A435S, from sars-cov-2-variants/lineage-proposals#2420
+- \+ [NL.13](https://cov-lineages.org/lineage.html?lineage=NL.13) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.13, S:I934V, S:T572I, from sars-cov-2-variants/lineage-proposals#2440
+- \+ [NY.9](https://cov-lineages.org/lineage.html?lineage=NY.9) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.9, S:K478T (rev), from sars-cov-2-variants/lineage-proposals#2199
+- \+ [NY.10](https://cov-lineages.org/lineage.html?lineage=NY.10) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.10, S:K478E, from sars-cov-2-variants/lineage-proposals#2199
+- \+ [NY.11](https://cov-lineages.org/lineage.html?lineage=NY.11) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.11, S:N487D, N:A173V, from sars-cov-2-variants/lineage-proposals#2199
+- \+ [PD.1](https://cov-lineages.org/lineage.html?lineage=PD.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.4.1, S:A522P, from sars-cov-2-variants/lineage-proposals#2199
+- \+ [MC.1.4.1](https://cov-lineages.org/lineage.html?lineage=MC.1.4.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.1.4.1, S:R237K, S:A688V, from sars-cov-2-variants/lineage-proposals#2196
+- \+ [PA.1.1](https://cov-lineages.org/lineage.html?lineage=PA.1.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.1.1.1, S:A688V, from sars-cov-2-variants/lineage-proposals#2475
+- \+ [PA.1.2](https://cov-lineages.org/lineage.html?lineage=PA.1.2) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.1.1.2, S:A899S, S:R346T, from sars-cov-2-variants/lineage-proposals#2453
+- \+ [PE.1](https://cov-lineages.org/lineage.html?lineage=PE.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1.1, S:S673T, from sars-cov-2-variants/lineage-proposals#2409
+- \+ [MC.13.2.2](https://cov-lineages.org/lineage.html?lineage=MC.13.2.2) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.13.2.2, S:R346T, ORF1a:T1638I, ORF1a:K2511N, from sars-cov-2-variants/lineage-proposals#2427
+- \+ [PG.1](https://cov-lineages.org/lineage.html?lineage=PG.1) Alias of B.1.1.529.2.86.1.1.11.1.3.3.5.1, S:N185D, from sars-cov-2-variants/lineage-proposals#2434
+- \+ [PG.2](https://cov-lineages.org/lineage.html?lineage=PG.2) Alias of B.1.1.529.2.86.1.1.11.1.3.3.5.2, S:D215H, from sars-cov-2-variants/lineage-proposals#2438
+- \+ [LF.7.1.7](https://cov-lineages.org/lineage.html?lineage=LF.7.1.7) Alias of B.1.1.529.2.86.1.1.16.1.7.1.7, S:A475V, S:S680F, ORF1a:V2061F, from sars-cov-2-variants/lineage-proposals#2474
+- \+ [PC.2](https://cov-lineages.org/lineage.html?lineage=PC.2) Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.2, ORF3a:V13L, from sars-cov-2-variants/lineage-proposals#2456
+- \+ [MV.1.1.1](https://cov-lineages.org/lineage.html?lineage=MV.1.1.1) Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.1.1, S:M153I, S:P807S, S:H445P, from sars-cov-2-variants/lineage-proposals#2437
+- \+ [MV.1.3](https://cov-lineages.org/lineage.html?lineage=MV.1.3) Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.3, S:V1264L(G25352T), ORF1b:S1003G, from sars-cov-2-variants/lineage-proposals#2341
+- \+ [MV.1.4](https://cov-lineages.org/lineage.html?lineage=MV.1.4) Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.4, S:S680P, Singapore, from sars-cov-2-variants/lineage-proposals#2419
+- \+ [NA.2](https://cov-lineages.org/lineage.html?lineage=NA.2) Alias of B.1.1.529.2.86.1.1.49.1.1.1.2.2, S:K478T (rev), S:H445R, Brazil, from sars-cov-2-variants/lineage-proposals#2466
+- \+ [XEC.2.2.1](https://cov-lineages.org/lineage.html?lineage=XEC.2.2.1) S:T572I, from sars-cov-2-variants/lineage-proposals#2088
+- \+ [XEC.27](https://cov-lineages.org/lineage.html?lineage=XEC.27) S:T240I, S:R346T, S:H445R, G13441A, from sars-cov-2-variants/lineage-proposals#2443
+- \+ [XFG.1](https://cov-lineages.org/lineage.html?lineage=XFG.1) S:R445P, from sars-cov-2-variants/lineage-proposals#2560
+- \+ [XFG.2](https://cov-lineages.org/lineage.html?lineage=XFG.2) N:V270L, ORF1b:K2557R, USA-NY, from sars-cov-2-variants/lineage-proposals#2553
+
 ### 2025-05-11
 - \+ [XEU](https://cov-lineages.org/lineage.html?lineage=XEU) Recombinant lineage of XEK, XEC.8 (breakpoint: 3506-5700), from sars-cov-2-variants/lineage-proposals#2298
 - \+ [XFL](https://cov-lineages.org/lineage.html?lineage=XFL) Recombinant lineage of XEU, XEC.18 (breakpoint: 24377-27994), from sars-cov-2-variants/lineage-proposals#2528
