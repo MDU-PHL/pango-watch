@@ -13,6 +13,12 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-05-16
+- \+ [PL.1](https://cov-lineages.org/lineage.html?lineage=PL.1) Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.1, S:A475V, C26873T
+- \+ [XEC.2.4](https://cov-lineages.org/lineage.html?lineage=XEC.2.4) S:T572I, S:R681H, Australia
+- \+ [XEC.11.1](https://cov-lineages.org/lineage.html?lineage=XEC.11.1) S:V1264L (G25352C), ORF1a:V2090F, from sars-cov-2-variants/lineage-proposals#2088
+- \+ [XEC.38](https://cov-lineages.org/lineage.html?lineage=XEC.38) S:V1264L (G25352T)
+
 ### 2025-05-15
 - \+ [NL.2.1](https://cov-lineages.org/lineage.html?lineage=NL.2.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.2.1, S:H1101Y, C28603T
 - \+ [NL.6.1](https://cov-lineages.org/lineage.html?lineage=NL.6.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.6.1, ORF1a:L3754
