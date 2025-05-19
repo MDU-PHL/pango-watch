@@ -13,6 +13,25 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-05-19
+- \+ [MC.11.2](https://cov-lineages.org/lineage.html?lineage=MC.11.2) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.11.2, C186T, T25473C
+- \+ [PM.1](https://cov-lineages.org/lineage.html?lineage=PM.1) Alias of B.1.1.529.2.86.1.1.11.1.3.2.6.1, ORF1a:P1213L
+- \+ [PM.1.1](https://cov-lineages.org/lineage.html?lineage=PM.1.1) Alias of B.1.1.529.2.86.1.1.11.1.3.2.6.1.1, N:A211D
+- \+ [PM.1.2](https://cov-lineages.org/lineage.html?lineage=PM.1.2) Alias of B.1.1.529.2.86.1.1.11.1.3.2.6.1.2, ORF1b:V2178F
+- \+ [PM.2](https://cov-lineages.org/lineage.html?lineage=PM.2) Alias of B.1.1.529.2.86.1.1.11.1.3.2.6.2, S:T22N, T18753C
+- \+ [PM.3](https://cov-lineages.org/lineage.html?lineage=PM.3) Alias of B.1.1.529.2.86.1.1.11.1.3.2.6.3, T16452C
+- \+ [PG.4](https://cov-lineages.org/lineage.html?lineage=PG.4) Alias of B.1.1.529.2.86.1.1.11.1.3.3.5.4, C2062T, T12142C, Chile
+- \+ [PG.4.1](https://cov-lineages.org/lineage.html?lineage=PG.4.1) Alias of B.1.1.529.2.86.1.1.11.1.3.3.5.4.1, S:K679R
+- \+ [PG.5](https://cov-lineages.org/lineage.html?lineage=PG.5) Alias of B.1.1.529.2.86.1.1.11.1.3.3.5.5, N:L219F, C29095T
+- \+ [PG.6](https://cov-lineages.org/lineage.html?lineage=PG.6) Alias of B.1.1.529.2.86.1.1.11.1.3.3.5.6, G29706T, Chile
+- \+ [XDV.1.7.1](https://cov-lineages.org/lineage.html?lineage=XDV.1.7.1) S:T22N, S:V62F, C5173T, from sars-cov-2-variants/lineage-proposals#1966
+- \+ [PN.1](https://cov-lineages.org/lineage.html?lineage=PN.1) S:K478T, ORF1a:L681F, ORF1a:A591V
+- \+ [XDV.1.7.2](https://cov-lineages.org/lineage.html?lineage=XDV.1.7.2) N:T366I, ORF1a:F3604L, C28606T
+- \+ [XDV.1.7.3](https://cov-lineages.org/lineage.html?lineage=XDV.1.7.3) ORF1a:M3733V, S:W64L, on C5173T branch
+- \+ [XDV.1.7.4](https://cov-lineages.org/lineage.html?lineage=XDV.1.7.4) S:K478T (rev), ORF1a:L1797I
+- \+ [XDV.1.7.5](https://cov-lineages.org/lineage.html?lineage=XDV.1.7.5) ORF1a:A516V
+- \+ [XDV.1.12](https://cov-lineages.org/lineage.html?lineage=XDV.1.12) C25416T
+
 ### 2025-05-17
 - \+ [NY.4.1](https://cov-lineages.org/lineage.html?lineage=NY.4.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.4.1, S:R765S
 - \+ [NY.11.1](https://cov-lineages.org/lineage.html?lineage=NY.11.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.11.1, S:A67V
