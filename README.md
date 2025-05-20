@@ -13,6 +13,16 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-05-20
+- \+ [LB.1.3.1](https://cov-lineages.org/lineage.html?lineage=LB.1.3.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1, S:445P, N:T379I, ORF7a:T28I, ORF1a:del84-85, from sars-cov-2-variants/lineage-proposals#1620
+- \+ [NL.2](https://cov-lineages.org/lineage.html?lineage=NL.2) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.2, ORF1a:D1600N, after ORF1a:T1429I, on ORF1a:del82-86 branch, USA
+- \+ [NL.6.1](https://cov-lineages.org/lineage.html?lineage=NL.6.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.6.1, Orf7b:F14- out of frame, ORF1a:L3754F
+- \+ [NL.14](https://cov-lineages.org/lineage.html?lineage=NL.14) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.14, ORF1a:H2092Y, on ORF1a:del82-86 branch
+- \+ [NL.15](https://cov-lineages.org/lineage.html?lineage=NL.15) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.15, C9532T, C29635T, after ORF1a:T1429I, on ORF1a:del82-86 branch
+- \+ [LF.7.1.10](https://cov-lineages.org/lineage.html?lineage=LF.7.1.10) Alias of B.1.1.529.2.86.1.1.16.1.7.1.10, S:H445P, C16767T, the non-PL.1 branch gains M>I mutation in insertion sector(S:ins16IPLF)
+- \+ [PL.1](https://cov-lineages.org/lineage.html?lineage=PL.1) Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.1, S:A475V, C26873T (S:ins16MPLF not mutated)
+- \+ [PN.1](https://cov-lineages.org/lineage.html?lineage=PN.1) Alias of XDV.1.7.1.1, S:K478T, ORF1a:L681F, ORF1a:A591V
+
 ### 2025-05-19
 - \+ [MC.11.2](https://cov-lineages.org/lineage.html?lineage=MC.11.2) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.11.2, C186T, T25473C
 - \+ [PM.1](https://cov-lineages.org/lineage.html?lineage=PM.1) Alias of B.1.1.529.2.86.1.1.11.1.3.2.6.1, ORF1a:P1213L
