@@ -13,6 +13,72 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-06-06
+- \+ [NL.8.1](https://cov-lineages.org/lineage.html?lineage=NL.8.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.8.1, S:K478T (rev)
+- \+ [NL.17](https://cov-lineages.org/lineage.html?lineage=NL.17) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.17, S:C1243F, ORF1b:K2557R
+- \+ [NL.18](https://cov-lineages.org/lineage.html?lineage=NL.18) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.18, ORF8:S67F
+- \+ [NL.19](https://cov-lineages.org/lineage.html?lineage=NL.19) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.19, S:T572I
+- \+ [NL.20](https://cov-lineages.org/lineage.html?lineage=NL.20) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.20, S:W64L, N:A156S, N:L219F
+- \+ [NL.21](https://cov-lineages.org/lineage.html?lineage=NL.21) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.21, S:S704L, T457C
+- \+ [NL.22](https://cov-lineages.org/lineage.html?lineage=NL.22) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.22, C4276T
+- \+ [NL.22.1](https://cov-lineages.org/lineage.html?lineage=NL.22.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.22.1, S:R190S
+- \+ [NY.3.1](https://cov-lineages.org/lineage.html?lineage=NY.3.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.1, ORF1a:T4311I
+- \+ [NY.3.1.1](https://cov-lineages.org/lineage.html?lineage=NY.3.1.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.1.1, S:K444R, S:A475V
+- \+ [NY.3.2](https://cov-lineages.org/lineage.html?lineage=NY.3.2) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.2, S:K478E
+- \+ [NY.12.1](https://cov-lineages.org/lineage.html?lineage=NY.12.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.12.1, S:Q957L
+- \+ [NY.15](https://cov-lineages.org/lineage.html?lineage=NY.15) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.15, ORF1a:S3344F, ORF3a:A103T
+- \+ [NY.16](https://cov-lineages.org/lineage.html?lineage=NY.16) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.16, C12253T
+- \+ [NY.16.1](https://cov-lineages.org/lineage.html?lineage=NY.16.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.16.1, S:T572I
+- \+ [NW.1.1](https://cov-lineages.org/lineage.html?lineage=NW.1.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.1, ORF1a:A540V, ORF1a:K1202N, Singapore
+- \+ [NW.1.1.1](https://cov-lineages.org/lineage.html?lineage=NW.1.1.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.1.1, S:T572I, S:S155I, Singapore
+- \+ [NW.1.2](https://cov-lineages.org/lineage.html?lineage=NW.1.2) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.2, S:T22N, ORF1b:P2256S
+- \+ [NW.1.3](https://cov-lineages.org/lineage.html?lineage=NW.1.3) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.3, S:L1265F
+- \+ [NW.2](https://cov-lineages.org/lineage.html?lineage=NW.2) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.2, ORF1a:A2529V, Singapore
+- \+ [PR.1](https://cov-lineages.org/lineage.html?lineage=PR.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.5.1, S:V1133I
+- \+ [PR.2](https://cov-lineages.org/lineage.html?lineage=PR.2) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.5.2, S:K679R
+- \+ [PR.3](https://cov-lineages.org/lineage.html?lineage=PR.3) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.5.3, ORF1a:K1689R
+- \+ [NM.3](https://cov-lineages.org/lineage.html?lineage=NM.3) Alias of B.1.1.529.2.86.1.1.11.1.2.3.4.3, S:R190T, ORF1a:A540V, ORF1a:M2796I, ORF1b:V248F, ORF1b:T1230I, Brazil
+- \+ [MC.9.2](https://cov-lineages.org/lineage.html?lineage=MC.9.2) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.9.2, S:T572I, S:T345S
+- \+ [PA.1.4](https://cov-lineages.org/lineage.html?lineage=PA.1.4) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.1.1.4, T7153C, on branch with S:A899S
+- \+ [MC.13.2.3](https://cov-lineages.org/lineage.html?lineage=MC.13.2.3) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.13.2.3, N:A182S
+- \+ [MC.13.2.4](https://cov-lineages.org/lineage.html?lineage=MC.13.2.4) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.13.2.4, S:R346T, G28942A
+- \+ [PL.1.1](https://cov-lineages.org/lineage.html?lineage=PL.1.1) Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.1.1, S:T345S, ORF1b:K469N
+- \+ [PL.2](https://cov-lineages.org/lineage.html?lineage=PL.2) Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.2, S:K478I, ORF1b:K2557R
+- \+ [LF.7.1.11](https://cov-lineages.org/lineage.html?lineage=LF.7.1.11) Alias of B.1.1.529.2.86.1.1.16.1.7.1.11, S:Q493E, ORF1a:G1125C
+- \+ [PV.1](https://cov-lineages.org/lineage.html?lineage=PV.1) Alias of B.1.1.529.2.86.1.1.16.1.7.7.1.1, S:S680P, ORF1b:K134R
+- \+ [PV.2](https://cov-lineages.org/lineage.html?lineage=PV.2) Alias of B.1.1.529.2.86.1.1.16.1.7.7.1.2, S:A688V
+- \+ [PV.3](https://cov-lineages.org/lineage.html?lineage=PV.3) Alias of B.1.1.529.2.86.1.1.16.1.7.7.1.3, S:A475V
+- \+ [PV.3.1](https://cov-lineages.org/lineage.html?lineage=PV.3.1) Alias of B.1.1.529.2.86.1.1.16.1.7.7.1.3.1, S:Q675K
+- \+ [PS.1](https://cov-lineages.org/lineage.html?lineage=PS.1) Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.1.1.1, S:A397V
+- \+ [PS.2](https://cov-lineages.org/lineage.html?lineage=PS.2) Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.1.1.2, S:N149D, S:R683Q
+- \+ [MV.1.5](https://cov-lineages.org/lineage.html?lineage=MV.1.5) Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.5, S:L441R
+- \+ [MV.1.6](https://cov-lineages.org/lineage.html?lineage=MV.1.6) Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.6, S:T572I
+- \+ [PT.1](https://cov-lineages.org/lineage.html?lineage=PT.1) Alias of XEC.4.1.1.1, S:A435S
+- \+ [PU.1](https://cov-lineages.org/lineage.html?lineage=PU.1) Alias of XEC.4.1.3.1, S:K679R
+- \+ [XEC.4.5.1](https://cov-lineages.org/lineage.html?lineage=XEC.4.5.1) S:A435S, ORF1a:H110Y, ORF1a:T2977I
+- \+ [XEC.4.6.1](https://cov-lineages.org/lineage.html?lineage=XEC.4.6.1) S:A435S
+- \+ [XEC.4.7](https://cov-lineages.org/lineage.html?lineage=XEC.4.7) S:R765H, on C5986T, C8683T branch
+- \+ [XEC.4.8](https://cov-lineages.org/lineage.html?lineage=XEC.4.8) S:T29I, on C5986T, C8683T branch
+- \+ [XEC.4.9](https://cov-lineages.org/lineage.html?lineage=XEC.4.9) S:S680Y
+- \+ [XEC.25.1.1](https://cov-lineages.org/lineage.html?lineage=XEC.25.1.1) S:T572I
+- \+ [XEC.25.1.2](https://cov-lineages.org/lineage.html?lineage=XEC.25.1.2) S:T29I
+- \+ [XEC.25.1.3](https://cov-lineages.org/lineage.html?lineage=XEC.25.1.3) S:A475V
+- \+ [XEC.32.2](https://cov-lineages.org/lineage.html?lineage=XEC.32.2) C10802T
+- \+ [XEC.32.3](https://cov-lineages.org/lineage.html?lineage=XEC.32.3) ORF1b:T2040I, on ORF1a:V2665I, ORF1b:H2065Y branch
+- \+ [XEC.40](https://cov-lineages.org/lineage.html?lineage=XEC.40) G2272A, C15540T
+- \+ [XEK.5.1](https://cov-lineages.org/lineage.html?lineage=XEK.5.1) S:A262D
+- \+ [XEK.5.2](https://cov-lineages.org/lineage.html?lineage=XEK.5.2) S:R346T
+- \+ [XEK.7](https://cov-lineages.org/lineage.html?lineage=XEK.7) S:ins16IPLF, C27429T
+- \+ [XEK.8](https://cov-lineages.org/lineage.html?lineage=XEK.8) S:T572I
+- \+ [XFC.1.1.1](https://cov-lineages.org/lineage.html?lineage=XFC.1.1.1) S:K478E
+- \+ [XFC.1.2](https://cov-lineages.org/lineage.html?lineage=XFC.1.2) S:H207Y
+- \+ [XFC.2](https://cov-lineages.org/lineage.html?lineage=XFC.2) S:A475V
+- \+ [XFG.3](https://cov-lineages.org/lineage.html?lineage=XFG.3) C13608T
+- \+ [XFG.3.1](https://cov-lineages.org/lineage.html?lineage=XFG.3.1) S:D1084G, ORF1a:L2122F
+- \+ [XFJ.3](https://cov-lineages.org/lineage.html?lineage=XFJ.3) S:V1264L
+- \+ [XFN](https://cov-lineages.org/lineage.html?lineage=XFN) Recombinant lineage of XEC.25.1, LF.7, XEC.25.1 (breakpoints: 16601-18656, 22600-22864), from sars-cov-2-variants/lineage-proposals#2562
+- \+ [XFP](https://cov-lineages.org/lineage.html?lineage=XFP) Recombinant lineage of LS.2, LF.7, LS.2 (breakpoints: 8819-12891, 22133-22883), from #2969
+
 ### 2025-05-24
 - \+ [PN.1](https://cov-lineages.org/lineage.html?lineage=PN.1) Alias of XDV.1.7.1.1, S:K478T, ORF1a:L681F, ORF1a:A591V
 
