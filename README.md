@@ -13,6 +13,17 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-06-07
+- \+ [NL.16.1](https://cov-lineages.org/lineage.html?lineage=NL.16.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.16.1, S:K478T (rev)
+- \+ [LS.2.1](https://cov-lineages.org/lineage.html?lineage=LS.2.1) Alias of B.1.1.529.2.86.1.1.18.5.2.1, G11926A, G27414A
+- \+ [LS.2.1.1](https://cov-lineages.org/lineage.html?lineage=LS.2.1.1) Alias of B.1.1.529.2.86.1.1.18.5.2.1.1, S:H445P, S:T791A
+- \+ [BA.3.2.1](https://cov-lineages.org/lineage.html?lineage=BA.3.2.1) Alias of B.1.1.529.3.2.1, S:H681R, S:P1162R
+- \+ [BA.3.2.2](https://cov-lineages.org/lineage.html?lineage=BA.3.2.2) Alias of B.1.1.529.3.2.2, S:K356T, S:A575S
+- \+ [XFJ](https://cov-lineages.org/lineage.html?lineage=XFJ) Recombinant lineage of LS.2.1.1, LF.7.2, LS.2.1.1, LF.7.2 (breakpoints: 8818-12892, 22792-22893, 27414-28297), from #2928
+- \+ [XFJ.4](https://cov-lineages.org/lineage.html?lineage=XFJ.4) S:K150N, S:K478T (rev)
+- \+ [XFM](https://cov-lineages.org/lineage.html?lineage=XFM) Recombinant lineage of LF.7.6.2, LS.2.1.1 (breakpoints: 22600-22892), from #2928
+- \+ [XFP](https://cov-lineages.org/lineage.html?lineage=XFP) Recombinant lineage of LS.2.1.1, LF.7, LS.2.1.1 (breakpoints: 8819-12891, 22133-22883), from #2969
+
 ### 2025-06-06
 - \+ [NL.8.1](https://cov-lineages.org/lineage.html?lineage=NL.8.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.8.1, S:K478T (rev)
 - \+ [NL.17](https://cov-lineages.org/lineage.html?lineage=NL.17) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.17, S:C1243F, ORF1b:K2557R
