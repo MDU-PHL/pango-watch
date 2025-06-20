@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-06-20
+- \+ [QC.5](https://cov-lineages.org/lineage.html?lineage=QC.5) Alias of B.1.1.529.2.86.1.1.16.1.7.6.2.5, S:K478L, ORF1a:L747F, ORF1a:P1213L, ORF1a:S2500F, France
+
 ### 2025-06-18
 - \+ [QC.1](https://cov-lineages.org/lineage.html?lineage=QC.1) Alias of B.1.1.529.2.86.1.1.16.1.7.6.2.1 S:K478T (rev), C29675T
 - \+ [QC.2](https://cov-lineages.org/lineage.html?lineage=QC.2) Alias of B.1.1.529.2.86.1.1.16.1.7.6.2.2, S:D1153A, ORF1a:V2356A
