@@ -13,6 +13,14 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-07-03
+- \+ [PY.1.1.1](https://cov-lineages.org/lineage.html?lineage=PY.1.1.1) Alias of B.1.1.529.2.86.1.1.16.1.7.9.1.1.1.1, S:A435S, ORF1a:M3862I, India
+- \+ [PY.1.2](https://cov-lineages.org/lineage.html?lineage=PY.1.2) Alias of B.1.1.529.2.86.1.1.16.1.7.9.1.1.2, ORF1a:F2173L, ORF8:A51V
+- \+ [PY.1.3](https://cov-lineages.org/lineage.html?lineage=PY.1.3) Alias of B.1.1.529.2.86.1.1.16.1.7.9.1.1.3, T24163C
+- \+ [PY.1.4](https://cov-lineages.org/lineage.html?lineage=PY.1.4) Alias of B.1.1.529.2.86.1.1.16.1.7.9.1.1.4, ORF1b:S638I
+- \+ [PY.1.4.1](https://cov-lineages.org/lineage.html?lineage=PY.1.4.1) Alias of B.1.1.529.2.86.1.1.16.1.7.9.1.1.4.1, S:A435S
+- \+ [PY.4.1](https://cov-lineages.org/lineage.html?lineage=PY.4.1) Alias of B.1.1.529.2.86.1.1.16.1.7.9.1.4.1, S:K478T (rev)
+
 ### 2025-06-29
 - \+ [PQ.2.1](https://cov-lineages.org/lineage.html?lineage=PQ.2.1) Alias of XDV.1.5.1.1.8.1.2.1, S:I478T (rev)
 - \+ [PQ.10.1](https://cov-lineages.org/lineage.html?lineage=PQ.10.1) Alias of XDV.1.5.1.1.8.1.10.1, S:I478T (rev)
