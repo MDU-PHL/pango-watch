@@ -13,6 +13,21 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-07-05
+- \+ [PE.1.4](https://cov-lineages.org/lineage.html?lineage=PE.1.4) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1.1.4, S:H445P, ORF7a:T28I, ORF1a:del84-85, Australia
+- \+ [NT.3](https://cov-lineages.org/lineage.html?lineage=NT.3) Alias of B.1.1.529.2.86.1.1.16.1.7.1.2.3, S:S680F, N:K387R, ORF8:Q23*
+- \+ [QA.7](https://cov-lineages.org/lineage.html?lineage=QA.7) Alias of B.1.1.529.2.86.1.1.16.1.7.1.3.7, ORF1a:L2062F, ORF3a:L41H, on C203T branch
+- \+ [LF.7.6.2](https://cov-lineages.org/lineage.html?lineage=LF.7.6.2) Alias of B.1.1.529.2.86.1.1.16.1.7.6.2, S:L441R, S:R444K (rev), S:H445P, most with C11008T, from sars-cov-2-variants/lineage-proposals#2346
+- \+ [QC.1](https://cov-lineages.org/lineage.html?lineage=QC.1) Alias of B.1.1.529.2.86.1.1.16.1.7.6.2.1 S:K478T (rev), C29675T, without C11008T
+- \+ [QC.2](https://cov-lineages.org/lineage.html?lineage=QC.2) Alias of B.1.1.529.2.86.1.1.16.1.7.6.2.2, S:D1153A, ORF1a:V2356A, on G27122A branch
+- \+ [QC.3](https://cov-lineages.org/lineage.html?lineage=QC.3) Alias of B.1.1.529.2.86.1.1.16.1.7.6.2.3, S:P251S, on G27122A branch
+- \+ [QC.4](https://cov-lineages.org/lineage.html?lineage=QC.4) Alias of B.1.1.529.2.86.1.1.16.1.7.6.2.4, N:R41Q, on G27122A branch
+- \+ [XEC.2.3](https://cov-lineages.org/lineage.html?lineage=XEC.2.3) N:T379I, T16476C, on T7168C branch, from sars-cov-2-variants/lineage-proposals#2104
+- \+ [XEC.2.8](https://cov-lineages.org/lineage.html?lineage=XEC.2.8) ORF1b:P1851S, on T7168C branch
+- \+ [XEC.2.9](https://cov-lineages.org/lineage.html?lineage=XEC.2.9) ORF1b:I1227M, on T7168C branch
+- \+ [XEC.2.10](https://cov-lineages.org/lineage.html?lineage=XEC.2.10) S:G75R, on T7168C branch
+- \+ [XFG.7](https://cov-lineages.org/lineage.html?lineage=XFG.7) N:K65I, ORF9b:N62Y, on C20178T branch, from #3001
+
 ### 2025-07-03
 - \+ [PY.1.1.1](https://cov-lineages.org/lineage.html?lineage=PY.1.1.1) Alias of B.1.1.529.2.86.1.1.16.1.7.9.1.1.1.1, S:A435S, ORF1a:M3862I, India
 - \+ [PY.1.2](https://cov-lineages.org/lineage.html?lineage=PY.1.2) Alias of B.1.1.529.2.86.1.1.16.1.7.9.1.1.2, ORF1a:F2173L, ORF8:A51V
