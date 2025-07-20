@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-07-20
+- \+ [NY.19](https://cov-lineages.org/lineage.html?lineage=NY.19) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.19, S:T572I
+
 ### 2025-07-19
 - \+ [NY.1.1](https://cov-lineages.org/lineage.html?lineage=NY.1.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.1.1, ORF1a:N1109S
 - \+ [NY.1.2](https://cov-lineages.org/lineage.html?lineage=NY.1.2) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.1.2, S:K478E
