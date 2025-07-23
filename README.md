@@ -13,6 +13,26 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-07-23
+- \+ [NW.1.4](https://cov-lineages.org/lineage.html?lineage=NW.1.4) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.4, S:L585F, ORF1b:P1727L, ORF1b:K2557R, England
+- \+ [NW.1.5](https://cov-lineages.org/lineage.html?lineage=NW.1.5) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.5, S:K679R, ORF7a:Q21H
+- \+ [NW.1.6](https://cov-lineages.org/lineage.html?lineage=NW.1.6) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.6, C27741T
+- \+ [NW.1.7](https://cov-lineages.org/lineage.html?lineage=NW.1.7) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.7, ORF1b:I1611V, C28519T
+- \+ [NW.3](https://cov-lineages.org/lineage.html?lineage=NW.3) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.3, T22972C
+- \+ [NW.3.1](https://cov-lineages.org/lineage.html?lineage=NW.3.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.3.1, T22972C
+- \+ [PP.1.1](https://cov-lineages.org/lineage.html?lineage=PP.1.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.8.1.1, S:D80G
+- \+ [PP.1.1.1](https://cov-lineages.org/lineage.html?lineage=PP.1.1.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.8.1.1.1, S:W64G, N:R204P, ORF1b:P2313S
+- \+ [PL.3](https://cov-lineages.org/lineage.html?lineage=PL.3) Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.3, S:L335F, S:K478T (rev), T1036C, G4936A, T24238A
+- \+ [PW.3](https://cov-lineages.org/lineage.html?lineage=PW.3) Alias of B.1.1.529.2.86.1.1.16.1.7.9.2.3, S:Q52R, Spain
+- \+ [LF.7.10.2](https://cov-lineages.org/lineage.html?lineage=LF.7.10.2) Alias of B.1.1.529.2.86.1.1.16.1.7.10.2, S:K478T (rev), T24523A, Kenya
+- \+ [XES.1](https://cov-lineages.org/lineage.html?lineage=XES.1) S:R346T
+- \+ [XES.1.1](https://cov-lineages.org/lineage.html?lineage=XES.1.1) S:A522P
+- \+ [XFC.1.5](https://cov-lineages.org/lineage.html?lineage=XFC.1.5) C9541T
+- \+ [XFC.1.6](https://cov-lineages.org/lineage.html?lineage=XFC.1.6) ORF1a:D5130
+- \+ [XFC.1.7](https://cov-lineages.org/lineage.html?lineage=XFC.1.7) C4084T
+- \+ [XFC.1.8](https://cov-lineages.org/lineage.html?lineage=XFC.1.8) G13201T
+- \+ [XFC.1.9](https://cov-lineages.org/lineage.html?lineage=XFC.1.9) T26756A
+
 ### 2025-07-22
 - \+ [XFG.14.1](https://cov-lineages.org/lineage.html?lineage=XFG.14.1) S:T604I
 - \+ [XFG.14.2](https://cov-lineages.org/lineage.html?lineage=XFG.14.2) S:Q677L
