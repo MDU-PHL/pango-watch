@@ -13,6 +13,10 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-07-25
+- \+ [XFN.1](https://cov-lineages.org/lineage.html?lineage=XFN.1) T28600C
+- \+ [XFN.2](https://cov-lineages.org/lineage.html?lineage=XFN.2) ORF1b:G1772S
+
 ### 2025-07-23
 - \+ [NW.1.4](https://cov-lineages.org/lineage.html?lineage=NW.1.4) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.4, S:L585F, ORF1b:P1727L, ORF1b:K2557R, England
 - \+ [NW.1.5](https://cov-lineages.org/lineage.html?lineage=NW.1.5) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.5, S:K679R, ORF7a:Q21H
