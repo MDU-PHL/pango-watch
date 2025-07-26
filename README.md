@@ -13,6 +13,15 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-07-26
+- \+ [PG.3.1](https://cov-lineages.org/lineage.html?lineage=PG.3.1) Alias of B.1.1.529.2.86.1.1.11.1.3.3.5.3.1, A9235G, C15240T, G29227T
+- \+ [XFG.2.1](https://cov-lineages.org/lineage.html?lineage=XFG.2.1) S:A1070V
+- \+ [XFG.2.2](https://cov-lineages.org/lineage.html?lineage=XFG.2.2) S:P1263L
+- \+ [XFG.3.4.3](https://cov-lineages.org/lineage.html?lineage=XFG.3.4.3) T24289A, on T15762C branch
+- \+ [XFG.20](https://cov-lineages.org/lineage.html?lineage=XFG.20) C10615T
+- \+ [XFG.21](https://cov-lineages.org/lineage.html?lineage=XFG.21) ORF1b:V2223L
+- \+ [XFG.22](https://cov-lineages.org/lineage.html?lineage=XFG.22) S:A958S
+
 ### 2025-07-25
 - \+ [XFN.1](https://cov-lineages.org/lineage.html?lineage=XFN.1) T28600C
 - \+ [XFN.2](https://cov-lineages.org/lineage.html?lineage=XFN.2) ORF1b:G1772S
