@@ -13,6 +13,11 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-07-29
+- \+ [LF.7.12](https://cov-lineages.org/lineage.html?lineage=LF.7.12) Alias of B.1.1.529.2.86.1.1.16.1.7.12, S:A475V, ORF1b:S997P
+- \+ [LF.7.12.1](https://cov-lineages.org/lineage.html?lineage=LF.7.12.1) Alias of B.1.1.529.2.86.1.1.16.1.7.12.1, S:H445R, S:K529N, S:T604I
+- \+ [\*XFG.20](https://cov-lineages.org/lineage.html?lineage=*XFG.20) Withdrawn: C10615T (didn't realize it was a dropout branch of XFG.3 when designating)
+
 ### 2025-07-26
 - \+ [PG.3.1](https://cov-lineages.org/lineage.html?lineage=PG.3.1) Alias of B.1.1.529.2.86.1.1.11.1.3.3.5.3.1, A9235G, C15240T, G29227T
 - \+ [XFG.2.1](https://cov-lineages.org/lineage.html?lineage=XFG.2.1) S:A1070V
