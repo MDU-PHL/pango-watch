@@ -13,6 +13,16 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-08-03
+- \+ [MC.44](https://cov-lineages.org/lineage.html?lineage=MC.44) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.44, A20712G, C21859T
+- \+ [MC.45](https://cov-lineages.org/lineage.html?lineage=MC.45) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.45, ORF1a:T2274I
+- \+ [MC.46](https://cov-lineages.org/lineage.html?lineage=MC.46) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.46, C26028T
+- \+ [MC.46.1](https://cov-lineages.org/lineage.html?lineage=MC.46.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.46.1, S:A435S, ORF1a:T2274I, Canada
+- \+ [XFG.5.1](https://cov-lineages.org/lineage.html?lineage=XFG.5.1) ORF1a:T2093I
+- \+ [XFG.5.2](https://cov-lineages.org/lineage.html?lineage=XFG.5.2) A9079G
+- \+ [XFG.5.3](https://cov-lineages.org/lineage.html?lineage=XFG.5.3) S:S254F, Canada
+- \+ [XFG.7.1](https://cov-lineages.org/lineage.html?lineage=XFG.7.1) ORF1a:K2029R, ORF1a:S3242G
+
 ### 2025-07-30
 - \+ [NL.5.2.1](https://cov-lineages.org/lineage.html?lineage=NL.5.2.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.5.2.1, N:L219F
 - \+ [NL.23](https://cov-lineages.org/lineage.html?lineage=NL.23) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.23, ORF1a:S2803P
