@@ -13,6 +13,15 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-08-04
+- \+ [PQ.2.3](https://cov-lineages.org/lineage.html?lineage=PQ.2.3) Alias of XDV.1.5.1.1.8.1.2.3, S:Q677H, T20310C
+- \+ [PQ.2.4](https://cov-lineages.org/lineage.html?lineage=PQ.2.4) Alias of XDV.1.5.1.1.8.1.2.4, T26890C, T17449C
+- \+ [PQ.2.5](https://cov-lineages.org/lineage.html?lineage=PQ.2.5) Alias of XDV.1.5.1.1.8.1.2.5, ORF3a:I20T
+- \+ [QK.1](https://cov-lineages.org/lineage.html?lineage=QK.1) S:Q218H
+- \+ [XFG.18.1](https://cov-lineages.org/lineage.html?lineage=XFG.18.1) S:L335F
+- \+ [XFG.23](https://cov-lineages.org/lineage.html?lineage=XFG.23) ORF1a:L1546I
+- \+ [XFG.23.1](https://cov-lineages.org/lineage.html?lineage=XFG.23.1) S:L335F, ORF1a:I114T
+
 ### 2025-08-03
 - \+ [MC.44](https://cov-lineages.org/lineage.html?lineage=MC.44) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.44, A20712G, C21859T
 - \+ [MC.45](https://cov-lineages.org/lineage.html?lineage=MC.45) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.45, ORF1a:T2274I
