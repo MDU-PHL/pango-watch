@@ -13,6 +13,43 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-08-05
+- \+ [NL.5.2.1](https://cov-lineages.org/lineage.html?lineage=NL.5.2.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.5.2.1, N:L219F, ORF1a:del82-85
+- \+ [NL.6.1](https://cov-lineages.org/lineage.html?lineage=NL.6.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.6.1, ORF7b:F14- out of frame, ORF1a:L3754F, from sars-cov-2-variants/lineage-proposals#2532
+- \+ [NL.22.1](https://cov-lineages.org/lineage.html?lineage=NL.22.1) Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.22.1, S:R190S, ORF7b:F14- out of frame
+- \+ [NY.3.5](https://cov-lineages.org/lineage.html?lineage=NY.3.5) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.5, ORF1b:T217M, on Orf1b:C688S branch
+- \+ [NY.3.6](https://cov-lineages.org/lineage.html?lineage=NY.3.6) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.6, S:A262V, S:K478T (rev), on Orf1b:C688S branch
+- \+ [NW.1.7](https://cov-lineages.org/lineage.html?lineage=NW.1.7) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.7, ORF1b:I1611V, ORF9b:T79I
+- \+ [MC.18.2](https://cov-lineages.org/lineage.html?lineage=MC.18.2) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.18.2, S:R346T, ORF1a:Y1920H, South Africa
+- \+ [KS.1.1.1](https://cov-lineages.org/lineage.html?lineage=KS.1.1.1) Alias of B.1.1.529.2.86.1.1.13.1.1.1.1, ORF1a:N470T (A1674C), ORF1a:T609I (C2091T), Russia/Uzbekistan
+- \+ [PL.3](https://cov-lineages.org/lineage.html?lineage=PL.3) Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.3, S:L335F, S:K478T (rev), T1036C, G4936A, T24238A, on S:ins16IPLF branch
+- \+ [QC.2.1](https://cov-lineages.org/lineage.html?lineage=QC.2.1) Alias of B.1.1.529.2.86.1.1.16.1.7.6.2.2.1, S:A475V, on ORF1b:V658I branch
+- \+ [QC.2.2](https://cov-lineages.org/lineage.html?lineage=QC.2.2) Alias of B.1.1.529.2.86.1.1.16.1.7.6.2.2.2, M:L29F, on ORF1b:V658I branch
+- \+ [LF.7.6.4](https://cov-lineages.org/lineage.html?lineage=LF.7.6.4) Alias of B.1.1.529.2.86.1.1.16.1.7.6.4, S:K478T (rev), S:T572I, on ORF1a:E1340D Branch
+- \+ [LF.7.6.5](https://cov-lineages.org/lineage.html?lineage=LF.7.6.5) Alias of B.1.1.529.2.86.1.1.16.1.7.6.5, S:T572I, C23575T, on ORF1a:E1340D Branch
+- \+ [JN.1.56](https://cov-lineages.org/lineage.html?lineage=JN.1.56) Alias of B.1.1.529.2.86.1.1.56, ORF3a:Q213K
+- \+ [B.1.429](https://cov-lineages.org/lineage.html?lineage=B.1.429) A lineage predominantly circulating in California but with exports to other countries. Characterised by the S:L452R mutation but also has S:W152C ORF1ab:D5584Y, and N:T205I, from #3
+- \+ [GK.1.10](https://cov-lineages.org/lineage.html?lineage=GK.1.10) Alias of XBB.1.5.70.1.10, ORF1a:I573V, ORF1a:T4129I, ORF9b:T95M, Brazil, from #2375
+- \+ [EG.14](https://cov-lineages.org/lineage.html?lineage=EG.14) Alias of XBB.1.9.2.14, ORF1b:K1383R, from #2274
+- \+ [PQ.5.1](https://cov-lineages.org/lineage.html?lineage=PQ.5.1) Alias of XDV.1.5.1.1.8.1.5.1, ORF3a:A99S, ORF8:T87I, after ORF3a:P42L
+- \+ [XFC.1.6](https://cov-lineages.org/lineage.html?lineage=XFC.1.6) ORF1b:D729E
+- \+ [XFG.1](https://cov-lineages.org/lineage.html?lineage=XFG.1) S:E96D, S:R445P, on T16224C branch, from sars-cov-2-variants/lineage-proposals#2560
+- \+ [QK.1](https://cov-lineages.org/lineage.html?lineage=QK.1) Alias of XFG.3.1.2.1, S:Q218H
+- \+ [XFG.3.5](https://cov-lineages.org/lineage.html?lineage=XFG.3.5) ORF1b:M2025V, on C10615T branch
+- \+ [XFG.3.6](https://cov-lineages.org/lineage.html?lineage=XFG.3.6) ORF1a:L3086F, on C10615T branch
+- \+ [XFG.3.7](https://cov-lineages.org/lineage.html?lineage=XFG.3.7) ORF3a:L52F, on C10615T branch
+- \+ [XFG.8](https://cov-lineages.org/lineage.html?lineage=XFG.8) T17610C, C19170T, A20163G, on C20178T branch
+- \+ [XFG.9](https://cov-lineages.org/lineage.html?lineage=XFG.9) ORF1a:G2499S, on C20178T branch
+- \+ [XFG.10](https://cov-lineages.org/lineage.html?lineage=XFG.10) T979A, on C20178T branch
+- \+ [XFG.11](https://cov-lineages.org/lineage.html?lineage=XFG.11) ORF7a:P34L, on C20178T branch
+- \+ [XFG.12](https://cov-lineages.org/lineage.html?lineage=XFG.12) ORF1b:T1453I, on C20178T branch
+- \+ [XFG.13](https://cov-lineages.org/lineage.html?lineage=XFG.13) S:A67V, ORF1a:T4090I, ORF1a:I4175V, ORF1b:L2017F, on C20178T branch
+- \+ [XFG.15](https://cov-lineages.org/lineage.html?lineage=XFG.15) S:R681H, ORF1b:A1525S, ORF1b:T2432I, on C20178T branch
+- \+ [XFG.16](https://cov-lineages.org/lineage.html?lineage=XFG.16) ORF1a:G507S, ORF9b:V30A, G4354A
+- \+ [XFG.17](https://cov-lineages.org/lineage.html?lineage=XFG.17) A9970T, most with A28877T,G28878C
+- \+ [XFG.21](https://cov-lineages.org/lineage.html?lineage=XFG.21) ORF1b:V2223L, on T16224C branch
+- \+ [XFG.22](https://cov-lineages.org/lineage.html?lineage=XFG.22) S:A958S, on C20178T branch
+
 ### 2025-08-04
 - \+ [PQ.2.3](https://cov-lineages.org/lineage.html?lineage=PQ.2.3) Alias of XDV.1.5.1.1.8.1.2.3, S:Q677H, T20310C
 - \+ [PQ.2.4](https://cov-lineages.org/lineage.html?lineage=PQ.2.4) Alias of XDV.1.5.1.1.8.1.2.4, T26890C, T17449C
