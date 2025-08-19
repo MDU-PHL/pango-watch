@@ -13,6 +13,20 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-08-19
+- \+ [QL.1](https://cov-lineages.org/lineage.html?lineage=QL.1) Alias of XDV.1.5.1.1.1.1.1, N:A208S, ORF1a:A372V, ORF1a:A3610V
+- \+ [QL.1.1](https://cov-lineages.org/lineage.html?lineage=QL.1.1) Alias of XDV.1.5.1.1.1.1.1.1, S:A435S, ORF1a:H45Y
+- \+ [NB.1.5.1](https://cov-lineages.org/lineage.html?lineage=NB.1.5.1) Alias of XDV.1.5.1.1.5.1, S:M177I
+- \+ [QN.1](https://cov-lineages.org/lineage.html?lineage=QN.1) Alias of XDV.1.5.1.1.5.1.1, S:R346T
+- \+ [NB.1.5.2](https://cov-lineages.org/lineage.html?lineage=NB.1.5.2) Alias of XDV.1.5.1.1.5.2, S:H445P
+- \+ [NB.1.5.3](https://cov-lineages.org/lineage.html?lineage=NB.1.5.3) Alias of XDV.1.5.1.1.5.3, S:I478T (rev)
+- \+ [PQ.29](https://cov-lineages.org/lineage.html?lineage=PQ.29) Alias of XDV.1.5.1.1.8.1.29, S:H445P, ORF1a:A859T, ORF1b:N734H, ORF1b:A1443T
+- \+ [NB.1.9](https://cov-lineages.org/lineage.html?lineage=NB.1.9) Alias of XDV.1.5.1.1.9, S:L176F, S:H445P
+- \+ [NB.1.10](https://cov-lineages.org/lineage.html?lineage=NB.1.10) Alias of XDV.1.5.1.1.10, S:S680F
+- \+ [NB.1.11](https://cov-lineages.org/lineage.html?lineage=NB.1.11) Alias of XDV.1.5.1.1.11, S:A958S, N:A182S, ORF1a:R1163G
+- \+ [NB.1.12](https://cov-lineages.org/lineage.html?lineage=NB.1.12) Alias of XDV.1.5.1.1.12, S:H445P, ORf1a:L624F, ORF1a:A2690V
+- \+ [NB.1.13](https://cov-lineages.org/lineage.html?lineage=NB.1.13) Alias of XDV.1.5.1.1.13, S:H445P, ORF1a:T708I, ORf1a:V1211F
+
 ### 2025-08-18
 - \+ [NY.13.1](https://cov-lineages.org/lineage.html?lineage=NY.13.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.13.1, N:T24I, on C23638T branch
 - \+ [NY.13.2](https://cov-lineages.org/lineage.html?lineage=NY.13.2) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.13.2, N:S201N
