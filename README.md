@@ -13,6 +13,22 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-08-21
+- \+ [LF.7.2.2](https://cov-lineages.org/lineage.html?lineage=LF.7.2.2) Alias of B.1.1.529.2.86.1.1.16.1.7.2.2, C16293T, C17745T
+- \+ [XDY.3.1](https://cov-lineages.org/lineage.html?lineage=XDY.3.1) S:R346T, ORF1b:Y710C
+- \+ [XDY.3.2](https://cov-lineages.org/lineage.html?lineage=XDY.3.2) C18657T, on G10870C branch
+- \+ [XDY.3.3](https://cov-lineages.org/lineage.html?lineage=XDY.3.3) ORF1a:I581V, on G10870C branch
+- \+ [XFG.3.9](https://cov-lineages.org/lineage.html?lineage=XFG.3.9) T7999C
+- \+ [XFG.3.10](https://cov-lineages.org/lineage.html?lineage=XFG.3.10) C27893T
+- \+ [XFG.3.11](https://cov-lineages.org/lineage.html?lineage=XFG.3.11) C15738T, Myanmar
+- \+ [XFG.3.12](https://cov-lineages.org/lineage.html?lineage=XFG.3.12) C556T
+- \+ [XFG.3.12.1](https://cov-lineages.org/lineage.html?lineage=XFG.3.12.1) S:A376S, ORF1a:R560C
+- \+ [XFG.17.1](https://cov-lineages.org/lineage.html?lineage=XFG.17.1) S:F59S
+- \+ [XFG.17.2](https://cov-lineages.org/lineage.html?lineage=XFG.17.2) S:K679R
+- \+ [XFG.17.3](https://cov-lineages.org/lineage.html?lineage=XFG.17.3) S:L335F
+- \+ [XFW](https://cov-lineages.org/lineage.html?lineage=XFW) Recombinant lineage of XDY.3, LF.7, XDY.3 (breakpoints 8818-12651, 22132-22865), from sars-cov-2-variants/lineage-proposals#2740
+- \+ [XFW.1](https://cov-lineages.org/lineage.html?lineage=XFW.1) S:T676P, S:R681H, ORF1b:S997L
+
 ### 2025-08-19
 - \+ [QL.1](https://cov-lineages.org/lineage.html?lineage=QL.1) Alias of XDV.1.5.1.1.1.1.1, N:A208S, ORF1a:A372V, ORF1a:A3610V
 - \+ [QL.1.1](https://cov-lineages.org/lineage.html?lineage=QL.1.1) Alias of XDV.1.5.1.1.1.1.1.1, S:A435S, ORF1a:H45Y
