@@ -13,6 +13,14 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-08-25
+- \+ [PG.3.2](https://cov-lineages.org/lineage.html?lineage=PG.3.2) Alias of B.1.1.529.2.86.1.1.11.1.3.3.5.3.2, ORF1a:N2531S
+- \+ [XFG.3.8](https://cov-lineages.org/lineage.html?lineage=XFG.3.8) ORF3a:E19G, on A28877T, G28878C branch
+- \+ [XFG.3.13](https://cov-lineages.org/lineage.html?lineage=XFG.3.13) S:G946R, ORF1a:L3339F, on A28877T, G28878C branch
+- \+ [XFG.17](https://cov-lineages.org/lineage.html?lineage=XFG.17) A9970T, most with A28877T, G28878C
+- \+ [XFY](https://cov-lineages.org/lineage.html?lineage=XFY) Recombinant lineage of XFG.5.1, NB.1.8.1 (breakpoint 25793-28432) with extra S:Q677H, from sars-cov-2-variants/lineage-proposals#2837
+- \+ [XFZ](https://cov-lineages.org/lineage.html?lineage=XFZ) Recombinant lineage of XFC.3, PG.3.2 (breakpoint 23600-24818), from sars-cov-2-variants/lineage-proposals#2805
+
 ### 2025-08-23
 - \+ [PQ.30](https://cov-lineages.org/lineage.html?lineage=PQ.30) Alias of XDV.1.5.1.1.8.1.30, ORF1a:A3697V, ORF3a:L101F
 - \+ [PQ.31](https://cov-lineages.org/lineage.html?lineage=PQ.31) Alias of XDV.1.5.1.1.8.1.31, C19662T, C23896T
