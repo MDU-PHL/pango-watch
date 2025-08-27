@@ -13,6 +13,23 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-08-27
+- \+ [QK.2](https://cov-lineages.org/lineage.html?lineage=QK.2) Alias of XFG.3.1.2.2, S:S680P, ORF1a:A1060T, ORF1a:H1113Y
+- \+ [XFG.3.1.4](https://cov-lineages.org/lineage.html?lineage=XFG.3.1.4) S:D936Y, ORF1b:S1779I
+- \+ [XFG.3.14](https://cov-lineages.org/lineage.html?lineage=XFG.3.14) S:S704L, C6031T
+- \+ [XFG.3.15](https://cov-lineages.org/lineage.html?lineage=XFG.3.15) G28681A
+- \+ [XFG.3.16](https://cov-lineages.org/lineage.html?lineage=XFG.3.16) C3565T (rev), C25096T
+- \+ [XFG.5.1.1](https://cov-lineages.org/lineage.html?lineage=XFG.5.1.1) S:A688V, ORF3a:I37T, England/Wales
+- \+ [XFG.10.1](https://cov-lineages.org/lineage.html?lineage=XFG.10.1) ORF1a:L2122F
+- \+ [XFG.17.2.1](https://cov-lineages.org/lineage.html?lineage=XFG.17.2.1) S:G219S
+- \+ [XFG.25](https://cov-lineages.org/lineage.html?lineage=XFG.25) S:A262V, C20178T, from sars-cov-2-variants/lineage-proposals#2854
+- \+ [XFG.26](https://cov-lineages.org/lineage.html?lineage=XFG.26) ORF8:E19*
+- \+ [XFG.28](https://cov-lineages.org/lineage.html?lineage=XFG.28) C18306T
+- \+ [XFG.29](https://cov-lineages.org/lineage.html?lineage=XFG.29) A13444G
+- \+ [XFG.30](https://cov-lineages.org/lineage.html?lineage=XFG.30) ORF1a:P1640S
+- \+ [XFG.31](https://cov-lineages.org/lineage.html?lineage=XFG.31) G5017A
+- \+ [XFG.32](https://cov-lineages.org/lineage.html?lineage=XFG.32) S:F127L, S:D253G
+
 ### 2025-08-25
 - \+ [PG.3.2](https://cov-lineages.org/lineage.html?lineage=PG.3.2) Alias of B.1.1.529.2.86.1.1.11.1.3.3.5.3.2, ORF1a:N2531S
 - \+ [XFG.3.8](https://cov-lineages.org/lineage.html?lineage=XFG.3.8) ORF3a:E19G, on A28877T, G28878C branch
