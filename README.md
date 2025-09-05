@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-09-05
+- \+ [XFG.17.4](https://cov-lineages.org/lineage.html?lineage=XFG.17.4) S:G219D, S:T345S
+
 ### 2025-08-31
 - \+ [XFG.3.5.2](https://cov-lineages.org/lineage.html?lineage=XFG.3.5.2) S:S680F
 - \+ [XFG.22.1](https://cov-lineages.org/lineage.html?lineage=XFG.22.1) S:A263S
