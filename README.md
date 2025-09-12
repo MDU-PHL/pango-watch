@@ -13,6 +13,10 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-09-12
+- \+ [NY.3.7](https://cov-lineages.org/lineage.html?lineage=NY.3.7) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.7, S:N137K, S:D138H
+- \+ [XFG.1.1](https://cov-lineages.org/lineage.html?lineage=XFG.1.1) S:W452R (rev), ORF7a:V8A (rev), M:V104L
+
 ### 2025-09-10
 - \+ [PG.6](https://cov-lineages.org/lineage.html?lineage=PG.6) Alias of B.1.1.529.2.86.1.1.11.1.3.3.5.6, S:R346T, S:S446N, G29706T
 
