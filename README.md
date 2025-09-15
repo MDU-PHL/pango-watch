@@ -13,6 +13,38 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-09-15
+- \+ [NW.1.7.1](https://cov-lineages.org/lineage.html?lineage=NW.1.7.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.7.1, G8017T
+- \+ [NW.1.7.2](https://cov-lineages.org/lineage.html?lineage=NW.1.7.2) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.7.2, ORF3a:N82Y
+- \+ [NW.1.7.3](https://cov-lineages.org/lineage.html?lineage=NW.1.7.3) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.7.3, S:K679R, N:A134V, ORF1a:T2121I
+- \+ [NW.1.7.4](https://cov-lineages.org/lineage.html?lineage=NW.1.7.4) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.7.4, ORF1a:E1047K
+- \+ [KP.7](https://cov-lineages.org/lineage.html?lineage=KP.7) Alias of B.1.1.529.2.86.1.1.11.1.7, T1411C
+- \+ [KP.7.1](https://cov-lineages.org/lineage.html?lineage=KP.7.1) Alias of B.1.1.529.2.86.1.1.11.1.7.1, M>I to S:ins16IPLF, ORF1a:L27F, Canada
+- \+ [PL.1.2](https://cov-lineages.org/lineage.html?lineage=PL.1.2) Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.1.2, T23443C
+- \+ [PL.2](https://cov-lineages.org/lineage.html?lineage=PL.2) Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.2, S:L5F, S:K478I, on S:ins16IPLF branch, from sars-cov-2-variants/lineage-proposals#2618
+- \+ [PL.4](https://cov-lineages.org/lineage.html?lineage=PL.4) Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.4, ORF1a:R24C, ORF1a:D2402N
+- \+ [PL.5](https://cov-lineages.org/lineage.html?lineage=PL.5) Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.5, ORF1a:T1638N, ORF1a:P2739S
+- \+ [PC.3.3](https://cov-lineages.org/lineage.html?lineage=PC.3.3) Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.3.3, S:T572I, S:S680F
+- \+ [PC.3.4](https://cov-lineages.org/lineage.html?lineage=PC.3.4) Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.3.4, S:S680F, ORF1b:A2222V
+- \+ [QR.1](https://cov-lineages.org/lineage.html?lineage=QR.1) Alias of B.1.1.529.2.86.1.1.16.1.7.7.2.1.1, T1183A, C7765T, T17166C, C24130T
+- \+ [QR.2](https://cov-lineages.org/lineage.html?lineage=QR.2) Alias of B.1.1.529.2.86.1.1.16.1.7.7.2.1.2, S:K478R, S:T572I
+- \+ [LF.7.11](https://cov-lineages.org/lineage.html?lineage=LF.7.11) Alias of B.1.1.529.2.86.1.1.16.1.7.11, S:H445P, S:K478T (rev), S:G946R
+- \+ [LF.7.11.1](https://cov-lineages.org/lineage.html?lineage=LF.7.11.1) Alias of B.1.1.529.2.86.1.1.16.1.7.11.1, ORF1b:N1932K, before S:A1174V, N:A90T branch
+- \+ [LF.7.11.2](https://cov-lineages.org/lineage.html?lineage=LF.7.11.2) Alias of B.1.1.529.2.86.1.1.16.1.7.11.2, ORF1a:S2488F, on S:A1174V, N:A90T branch
+- \+ [LF.7.11.3](https://cov-lineages.org/lineage.html?lineage=LF.7.11.3) Alias of B.1.1.529.2.86.1.1.16.1.7.11.3, ORF1b:E513D, on S:A1174V, N:A90T branch
+- \+ [XEK.7.1](https://cov-lineages.org/lineage.html?lineage=XEK.7.1) S:R346T
+- \+ [QS.1](https://cov-lineages.org/lineage.html?lineage=QS.1) Alias of XFG.3.4.3.1, C8419T
+- \+ [QS.2](https://cov-lineages.org/lineage.html?lineage=QS.2) Alias of XFG.3.4.3.2, S:K679R
+- \+ [XFG.3.18](https://cov-lineages.org/lineage.html?lineage=XFG.3.18) C11866T
+- \+ [XFG.6.2](https://cov-lineages.org/lineage.html?lineage=XFG.6.2) N:I379T (rev)
+- \+ [XFG.9.3](https://cov-lineages.org/lineage.html?lineage=XFG.9.3) T12865C
+- \+ [XFG.9.4](https://cov-lineages.org/lineage.html?lineage=XFG.9.4) T7225G
+- \+ [XFG.9.5](https://cov-lineages.org/lineage.html?lineage=XFG.9.5) S:L176F
+- \+ [XFG.14.3](https://cov-lineages.org/lineage.html?lineage=XFG.14.3) S:K147E, ORF1a:D1440G, ORF1b:P5371L, pre-ORF7a:E121Q
+- \+ [XFG.33](https://cov-lineages.org/lineage.html?lineage=XFG.33) ORF1a:F1594L
+- \+ [XGA](https://cov-lineages.org/lineage.html?lineage=XGA) Recombinant lineage of XFJ.4, PY.1, XFG.6.2 (breakpoints 15661-18251, 19030-20177), from #3077
+- \+ [XGB](https://cov-lineages.org/lineage.html?lineage=XGB) Recombinant lineage of NW.1.7.4, QS.1 (breakpoint 5239-6255), from sars-cov-2-variants/lineage-proposals#2916
+
 ### 2025-09-14
 - \+ [NY.20](https://cov-lineages.org/lineage.html?lineage=NY.20) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.20, ORF1a:S692F, ORF1a:A1049V, Spain
 - \+ [NY.20.1](https://cov-lineages.org/lineage.html?lineage=NY.20.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.20.1, S:M153V, Spain
