@@ -13,6 +13,65 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-09-17
+- \+ [LB.1.7.4](https://cov-lineages.org/lineage.html?lineage=LB.1.7.4) Alias of B.1.1.529.2.86.1.1.9.2.1.7.4, S:R190S, from sars-cov-2-variants/lineage-proposals#1771
+- \+ [LB.1.11](https://cov-lineages.org/lineage.html?lineage=LB.1.11) Alias of B.1.1.529.2.86.1.1.9.2.1.11, S:R190S (on polytomy), from sars-cov-2-variants/lineage-proposals#1771
+- \+ [NY.1.2](https://cov-lineages.org/lineage.html?lineage=NY.1.2) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.1.2, S:K478E, from sars-cov-2-variants/lineage-proposals#2199
+- \+ [NY.1.2.1](https://cov-lineages.org/lineage.html?lineage=NY.1.2.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.1.2, S:A67V, from sars-cov-2-variants/lineage-proposals#2199
+- \+ [NY.3.3.1](https://cov-lineages.org/lineage.html?lineage=NY.3.3.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.3.1, S:T572I, from sars-cov-2-variants/lineage-proposals#2661
+- \+ [NY.19](https://cov-lineages.org/lineage.html?lineage=NY.19) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.19, S:T572I, from sars-cov-2-variants/lineage-proposals#2199
+- \+ [NW.1.7](https://cov-lineages.org/lineage.html?lineage=NW.1.7) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.7, ORF1b:I1611V, ORF9b:T79I , from sars-cov-2-variants/lineage-proposals#2672
+- \+ [QH.1](https://cov-lineages.org/lineage.html?lineage=QH.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.7.1, S:A475V, from sars-cov-2-variants/lineage-proposals#2220
+- \+ [PP.1.1](https://cov-lineages.org/lineage.html?lineage=PP.1.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.8.1.1, S:D80G, from sars-cov-2-variants/lineage-proposals#2199
+- \+ [QE.1](https://cov-lineages.org/lineage.html?lineage=QE.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.16.1, S:A688V, from sars-cov-2-variants/lineage-proposals#2199
+- \+ [MC.45](https://cov-lineages.org/lineage.html?lineage=MC.45) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.45, ORF1a:T2274I, from sars-cov-2-variants/lineage-proposals#1653
+- \+ [MC.46.1](https://cov-lineages.org/lineage.html?lineage=MC.46.1) Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.46.1, S:A435S, ORF1a:T2274I, Canada, from sars-cov-2-variants/lineage-proposals#2322
+- \+ [QJ.1](https://cov-lineages.org/lineage.html?lineage=QJ.1) Alias of B.1.1.529.2.86.1.1.16.1.7.1.6.1, S:H445P, N:A398V, from sars-cov-2-variants/lineage-proposals#2535
+- \+ [QD.1](https://cov-lineages.org/lineage.html?lineage=QD.1) Alias of B.1.1.529.2.86.1.1.16.1.7.1.8.1, S:K478I, S:N641K, ORF1a:L1853F, ORf1a:A4285V, from sars-cov-2-variants/lineage-proposals#2215
+- \+ [PL.2](https://cov-lineages.org/lineage.html?lineage=PL.2) Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.2, S:L5F, S:K478I, ORF1b:K2557R, on S:ins16IPLF branch, from sars-cov-2-variants/lineage-proposals#2618
+- \+ [PL.3](https://cov-lineages.org/lineage.html?lineage=PL.3) Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.3, S:L335F, S:K478T (rev), T1036C, G4936A, T24238A, on S:ins16IPLF branch, from sars-cov-2-variants/lineage-proposals#2719
+- \+ [LF.7.1.14](https://cov-lineages.org/lineage.html?lineage=LF.7.1.14) Alias of B.1.1.529.2.86.1.1.16.1.7.1.14, S:K478R, from sars-cov-2-variants/lineage-proposals#2361
+- \+ [QC.2.1](https://cov-lineages.org/lineage.html?lineage=QC.2.1) Alias of B.1.1.529.2.86.1.1.16.1.7.6.2.2.1, S:A475V, on ORF1b:V658I branch, from sars-cov-2-variants/lineage-proposals#2543
+- \+ [LF.7.6.5](https://cov-lineages.org/lineage.html?lineage=LF.7.6.5) Alias of B.1.1.529.2.86.1.1.16.1.7.6.5, S:T572I, C23575T, on ORF1a:E1340D Branch, from sars-cov-2-variants/lineage-proposals#2215
+- \+ [PW.3](https://cov-lineages.org/lineage.html?lineage=PW.3) Alias of B.1.1.529.2.86.1.1.16.1.7.9.2.3, S:Q52R, Spain, from sars-cov-2-variants/lineage-proposals#2691
+- \+ [LF.7.11](https://cov-lineages.org/lineage.html?lineage=LF.7.11) Alias of B.1.1.529.2.86.1.1.16.1.7.11, S:H445P, S:K478T (rev), note: for now define broadly not requiring S:G946R, from sars-cov-2-variants/lineage-proposals#2714
+- \+ [LF.7.12](https://cov-lineages.org/lineage.html?lineage=LF.7.12) Alias of B.1.1.529.2.86.1.1.16.1.7.12, S:A475V, ORF1b:S997P, from sars-cov-2-variants/lineage-proposals#2526
+- \+ [LF.7.12.1](https://cov-lineages.org/lineage.html?lineage=LF.7.12.1) Alias of B.1.1.529.2.86.1.1.16.1.7.12.1, S:H445R, S:K529N, S:T604I, from sars-cov-2-variants/lineage-proposals#2526
+- \+ [PQ.1.2](https://cov-lineages.org/lineage.html?lineage=PQ.1.2) Alias of XDV.1.5.1.1.8.1.1.2, S:I478T (rev), from sars-cov-2-variants/lineage-proposals#2594
+- \+ [PQ.1.4](https://cov-lineages.org/lineage.html?lineage=PQ.1.4) Alias of XDV.1.5.1.1.8.1.1.4, S:T1117I, on ORF1b:V222I branch, from sars-cov-2-variants/lineage-proposals#2708
+- \+ [PQ.2.2](https://cov-lineages.org/lineage.html?lineage=PQ.2.2) Alias of XDV.1.5.1.1.8.1.2.2, S:H1088R, Malaysia, from sars-cov-2-variants/lineage-proposals#2705
+- \+ [PQ.2.3](https://cov-lineages.org/lineage.html?lineage=PQ.2.3) Alias of XDV.1.5.1.1.8.1.2.3, S:Q677H, T20310C, from sars-cov-2-variants/lineage-proposals#2776
+- \+ [PQ.2.4](https://cov-lineages.org/lineage.html?lineage=PQ.2.4) Alias of XDV.1.5.1.1.8.1.2.4, T2680C, T17449C, from sars-cov-2-variants/lineage-proposals#2597
+- \+ [PQ.4.1](https://cov-lineages.org/lineage.html?lineage=PQ.4.1) Alias of XDV.1.5.1.1.8.1.4.1, S:T572I, S:K679N, from sars-cov-2-variants/lineage-proposals#2773
+- \+ [PQ.5.1](https://cov-lineages.org/lineage.html?lineage=PQ.5.1) Alias of XDV.1.5.1.1.8.1.5.1, ORF3a:A99S, ORF8:T87I, after ORF3a:P42L, from sars-cov-2-variants/lineage-proposals#2577
+- \+ [PQ.8.1](https://cov-lineages.org/lineage.html?lineage=PQ.8.1) Alias of XDV.1.5.1.1.8.1.8.1, S:I478T, from sars-cov-2-variants/lineage-proposals#2594
+- \+ [PQ.9.1](https://cov-lineages.org/lineage.html?lineage=PQ.9.1) Alias of XDV.1.5.1.1.8.1.9.1, S:I478T (rev), from sars-cov-2-variants/lineage-proposals#2594
+- \+ [PQ.18](https://cov-lineages.org/lineage.html?lineage=PQ.18) Alias of XDV.1.5.1.1.8.1.18, S:S680F, from sars-cov-2-variants/lineage-proposals#2706
+- \+ [PQ.19](https://cov-lineages.org/lineage.html?lineage=PQ.19) Alias of XDV.1.5.1.1.8.1.19, S:T51A, S:R346K, from sars-cov-2-variants/lineage-proposals#2633
+- \+ [PQ.20](https://cov-lineages.org/lineage.html?lineage=PQ.20) Alias of XDV.1.5.1.1.8.1.20, S:G181A, from sars-cov-2-variants/lineage-proposals#2696
+- \+ [PQ.21](https://cov-lineages.org/lineage.html?lineage=PQ.21) Alias of XDV.1.5.1.1.8.1.21, S:A234S, Malaysia/Singapore, from sars-cov-2-variants/lineage-proposals#2723
+- \+ [PQ.25](https://cov-lineages.org/lineage.html?lineage=PQ.25) Alias of XDV.1.5.1.1.8.1.25, S:I1114T, from sars-cov-2-variants/lineage-proposals#2668
+- \+ [PQ.28](https://cov-lineages.org/lineage.html?lineage=PQ.28) Alias of XDV.1.5.1.1.8.1.28, S:S98F, from sars-cov-2-variants/lineage-proposals#2755
+- \+ [QG.1](https://cov-lineages.org/lineage.html?lineage=QG.1) Alias of XEC.4.1.2.1, S:Q1201K, from sars-cov-2-variants/lineage-proposals#2545
+- \+ [XES.1](https://cov-lineages.org/lineage.html?lineage=XES.1) S:R346T, from sars-cov-2-variants/lineage-proposals#2049
+- \+ [XFG.2.1](https://cov-lineages.org/lineage.html?lineage=XFG.2.1) S:A1070V, from sars-cov-2-variants/lineage-proposals#2751
+- \+ [XFG.2.2](https://cov-lineages.org/lineage.html?lineage=XFG.2.2) S:P1263L, from sars-cov-2-variants/lineage-proposals#2667
+- \+ [QK.1](https://cov-lineages.org/lineage.html?lineage=QK.1) Alias of XFG.3.1.2.1, S:Q218H, from sars-cov-2-variants/lineage-proposals#2785
+- \+ [XFG.3.3](https://cov-lineages.org/lineage.html?lineage=XFG.3.3) S:S680F, on C10615T branch, from sars-cov-2-variants/lineage-proposals#2609
+- \+ [XFG.3.4.1](https://cov-lineages.org/lineage.html?lineage=XFG.3.4.1) S:S680P, on T15762C branch, from sars-cov-2-variants/lineage-proposals#2602
+- \+ [XFG.3.5.1](https://cov-lineages.org/lineage.html?lineage=XFG.3.5.1) S:A688V, from sars-cov-2-variants/lineage-proposals#2697
+- \+ [XFG.3.7](https://cov-lineages.org/lineage.html?lineage=XFG.3.7) ORF3a:L52F, on C10615T branch, from sars-cov-2-variants/lineage-proposals#2656
+- \+ [XFG.4.1](https://cov-lineages.org/lineage.html?lineage=XFG.4.1) ORF1b:S997L, India, from sars-cov-2-variants/lineage-proposals#2677
+- \+ [XFG.9.1](https://cov-lineages.org/lineage.html?lineage=XFG.9.1) S:A845S, ORF1a:E745D, from sars-cov-2-variants/lineage-proposals#2745
+- \+ [XFG.14](https://cov-lineages.org/lineage.html?lineage=XFG.14) S:K529T, S:V1264L, ORF1a:Q998H, ORF1a:H2092Y, from sars-cov-2-variants/lineage-proposals#2624
+- \+ [XFG.14.2](https://cov-lineages.org/lineage.html?lineage=XFG.14.2) S:Q677L, from sars-cov-2-variants/lineage-proposals#2747
+- \+ [XFG.16](https://cov-lineages.org/lineage.html?lineage=XFG.16) ORF1a:G507S, ORF9b:V30A, G4354A, from sars-cov-2-variants/lineage-proposals#2666
+- \+ [XFG.18.1](https://cov-lineages.org/lineage.html?lineage=XFG.18.1) S:L335F, from sars-cov-2-variants/lineage-proposals#2586
+- \+ [XFG.19](https://cov-lineages.org/lineage.html?lineage=XFG.19) S:T286I, ORF1a:T2283I, ORF1b:T239I, from sars-cov-2-variants/lineage-proposals#2713
+- \+ [XFG.23.1](https://cov-lineages.org/lineage.html?lineage=XFG.23.1) S:L335F, ORF1a:I114T, from sars-cov-2-variants/lineage-proposals#2586
+- \+ [XFR](https://cov-lineages.org/lineage.html?lineage=XFR) Recombinant lineage of LF.7.3, LB.1.11.1 (breakpoint 21654-22106), from sars-cov-2-variants/lineage-proposals#2472
+- \+ [XFS](https://cov-lineages.org/lineage.html?lineage=XFS) Recombinant lineage of LF.7.1, LP.8.1.9 (breakpoint 22108-22892), from sars-cov-2-variants/lineage-proposals#2454
+
 ### 2025-09-15
 - \+ [NW.1.7.1](https://cov-lineages.org/lineage.html?lineage=NW.1.7.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.7.1, G8017T
 - \+ [NW.1.7.2](https://cov-lineages.org/lineage.html?lineage=NW.1.7.2) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.7.2, ORF3a:N82Y
