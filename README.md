@@ -13,6 +13,22 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-09-26
+- \+ [NW.1.2.6](https://cov-lineages.org/lineage.html?lineage=NW.1.2.6) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.2.6, S:S680Y, ORF1a:S2553F
+- \+ [PS.3](https://cov-lineages.org/lineage.html?lineage=PS.3) Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.1.1.3, S:N185T, ORF1a:T568I, ORF1a:P971L, ORF1a:P2079L, ORF1b:T2432A, USA
+- \+ [MV.1.3.1](https://cov-lineages.org/lineage.html?lineage=MV.1.3.1) Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.3.1, S:H445P, C5497T, A15369G, C22675T, Malaysia
+- \+ [MV.1.3.2](https://cov-lineages.org/lineage.html?lineage=MV.1.3.2) Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.3.2, S:A1070V, Thailand
+- \+ [MV.1.4.1](https://cov-lineages.org/lineage.html?lineage=MV.1.4.1) Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.4.1, S:A688V, ORF1a:T1542I, Australia
+- \+ [MV.1.7](https://cov-lineages.org/lineage.html?lineage=MV.1.7) Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.7, C4234T
+- \+ [MV.1.8](https://cov-lineages.org/lineage.html?lineage=MV.1.8) Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.8, ORF1a:A2618V
+- \+ [MV.1.9](https://cov-lineages.org/lineage.html?lineage=MV.1.9) Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.9, ORF1a:V2604I, ORF1a:P3613S, C26873T, Ecuador
+- \+ [MV.3](https://cov-lineages.org/lineage.html?lineage=MV.3) Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.3, S:K478R, G670A
+- \+ [XFG.3.19](https://cov-lineages.org/lineage.html?lineage=XFG.3.19) C2143T, on A28877T, G28878C branch
+- \+ [XFG.3.20](https://cov-lineages.org/lineage.html?lineage=XFG.3.20) C6040T, on A28877T, G28878C branch
+- \+ [XFG.3.21](https://cov-lineages.org/lineage.html?lineage=XFG.3.21) G2185A, on A28877T, G28878C branch
+- \+ [XFG.3.22](https://cov-lineages.org/lineage.html?lineage=XFG.3.22) ORF1a:E670K, C2455T, on A28877T, G28878C branch
+- \+ [XFG.22.2](https://cov-lineages.org/lineage.html?lineage=XFG.22.2) C7834T, G28878C, A28877T
+
 ### 2025-09-17
 - \+ [LB.1.7.4](https://cov-lineages.org/lineage.html?lineage=LB.1.7.4) Alias of B.1.1.529.2.86.1.1.9.2.1.7.4, S:R190S, from sars-cov-2-variants/lineage-proposals#1771
 - \+ [LB.1.11](https://cov-lineages.org/lineage.html?lineage=LB.1.11) Alias of B.1.1.529.2.86.1.1.9.2.1.11, S:R190S (on polytomy), from sars-cov-2-variants/lineage-proposals#1771
