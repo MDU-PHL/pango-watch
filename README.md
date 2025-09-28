@@ -13,6 +13,29 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-09-28
+- \+ [QK.1](https://cov-lineages.org/lineage.html?lineage=QK.1) Alias of XFG.3.1.2.1, S:Q218H, on ORF1b:D161G branch, from sars-cov-2-variants/lineage-proposals#2785
+- \+ [QK.4](https://cov-lineages.org/lineage.html?lineage=QK.4) Alias of XFG.3.1.2.4, ORF1a:P2018L, on ORF1b:D161G branch
+- \+ [XFG.3.1.6](https://cov-lineages.org/lineage.html?lineage=XFG.3.1.6) ORF3a:K16R, Singapore
+- \+ [QT.1](https://cov-lineages.org/lineage.html?lineage=QT.1) Alias of XFG.3.4.2.1, C3817T
+- \+ [QT.1.1](https://cov-lineages.org/lineage.html?lineage=QT.1.1) Alias of XFG.3.4.2.1.1, S:S680P, on ORF1b:T1637I branch
+- \+ [QT.1.2](https://cov-lineages.org/lineage.html?lineage=QT.1.2) Alias of XFG.3.4.2.1.2, ORF1a:L1914, ORf7a:T120I, on ORF1b:T1637I branch
+- \+ [QT.2](https://cov-lineages.org/lineage.html?lineage=QT.2) Alias of XFG.3.4.2.2, S:K529R, N:E136D, ORF1a:Y1920H, Brazil
+- \+ [XFG.3.23](https://cov-lineages.org/lineage.html?lineage=XFG.3.23) ORF1a:S944L
+- \+ [XFG.3.24](https://cov-lineages.org/lineage.html?lineage=XFG.3.24) A15189G
+- \+ [XFG.5.2.1](https://cov-lineages.org/lineage.html?lineage=XFG.5.2.1) S:S680F
+- \+ [XFG.5.2.2](https://cov-lineages.org/lineage.html?lineage=XFG.5.2.2) T26972C
+- \+ [XFJ.1.1](https://cov-lineages.org/lineage.html?lineage=XFJ.1.1) A12928G, C29200T, on A15036G branch
+- \+ [XFJ.1.2](https://cov-lineages.org/lineage.html?lineage=XFJ.1.2) S:K150E, on A15036G branch
+- \+ [XFJ.2.2](https://cov-lineages.org/lineage.html?lineage=XFJ.2.2) C7768T, C29386T
+- \+ [XFJ.3.1](https://cov-lineages.org/lineage.html?lineage=XFJ.3.1) S:I19V, ORF1a:T1543I
+- \+ [XFJ.4.1](https://cov-lineages.org/lineage.html?lineage=XFJ.4.1) T1501C, A27300T
+- \+ [XFJ.5](https://cov-lineages.org/lineage.html?lineage=XFJ.5) S:A262S, ORF1a:P2260L
+- \+ [XFJ.6](https://cov-lineages.org/lineage.html?lineage=XFJ.6) C7006T
+- \+ [XFJ.7](https://cov-lineages.org/lineage.html?lineage=XFJ.7) ORF6:L4P
+- \+ [XFJ.8](https://cov-lineages.org/lineage.html?lineage=XFJ.8) ORF1a:L552F, ORF1b:Q2335K
+- \+ [XFJ.9](https://cov-lineages.org/lineage.html?lineage=XFJ.9) T2308C, T10273C
+
 ### 2025-09-27
 - \+ [XEC.27.2.1](https://cov-lineages.org/lineage.html?lineage=XEC.27.2.1) ORF7a:I100V
 - \+ [XEC.27.2.2](https://cov-lineages.org/lineage.html?lineage=XEC.27.2.2) S:K478T (rev), T6763C
