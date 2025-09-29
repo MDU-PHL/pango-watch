@@ -13,6 +13,22 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-09-29
+- \+ [NY.3.1.2](https://cov-lineages.org/lineage.html?lineage=NY.3.1.2) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.1.2, ORF7b:L19F (rev), C16092T
+- \+ [QU.1](https://cov-lineages.org/lineage.html?lineage=QU.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.1.2.1, S:A475V
+- \+ [QU.2](https://cov-lineages.org/lineage.html?lineage=QU.2) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.1.2.2, ORF1a:V3420L
+- \+ [NY.3.1.3](https://cov-lineages.org/lineage.html?lineage=NY.3.1.3) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.1.3, ORF1a:M3129T
+- \+ [NY.3.7](https://cov-lineages.org/lineage.html?lineage=NY.3.7) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.7, S:N137K, S:D138H, on C6250T branch
+- \+ [NY.3.7.1](https://cov-lineages.org/lineage.html?lineage=NY.3.7.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.7.1, S:K150E, ORF1b:A1521V, Spain/France
+- \+ [NY.3.8](https://cov-lineages.org/lineage.html?lineage=NY.3.8) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.8, ORF1a:V3091I, ORF7a:V74I, on C6250T branch
+- \+ [PC.2.2.1](https://cov-lineages.org/lineage.html?lineage=PC.2.2.1) Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.2.2.1, S:G75V, ORF1b:D2183Y, Singapore
+- \+ [PQ.35](https://cov-lineages.org/lineage.html?lineage=PQ.35) Alias of XDV.1.5.1.1.8.1.35, ORF3a:T151I
+- \+ [XFG.6.3](https://cov-lineages.org/lineage.html?lineage=XFG.6.3) T8359C
+- \+ [XFG.6.4](https://cov-lineages.org/lineage.html?lineage=XFG.6.4) ORF1a:T2611I
+- \+ [XFG.14.1.1](https://cov-lineages.org/lineage.html?lineage=XFG.14.1.1) C9598T, C12754T
+- \+ [XFG.14.1.2](https://cov-lineages.org/lineage.html?lineage=XFG.14.1.2) S:A942T
+- \+ [XFG.14.1.3](https://cov-lineages.org/lineage.html?lineage=XFG.14.1.3) C10798T
+
 ### 2025-09-28
 - \+ [QK.1](https://cov-lineages.org/lineage.html?lineage=QK.1) Alias of XFG.3.1.2.1, S:Q218H, on ORF1b:D161G branch, from sars-cov-2-variants/lineage-proposals#2785
 - \+ [QK.4](https://cov-lineages.org/lineage.html?lineage=QK.4) Alias of XFG.3.1.2.4, ORF1a:P2018L, on ORF1b:D161G branch
