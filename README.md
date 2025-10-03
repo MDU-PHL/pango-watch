@@ -13,6 +13,21 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-10-03
+- \+ [PC.5](https://cov-lineages.org/lineage.html?lineage=PC.5) Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.5, S:H445P, ORF1a:P2079S
+- \+ [QV.1](https://cov-lineages.org/lineage.html?lineage=QV.1) Alias of B.1.1.529.2.86.1.1.16.1.7.2.2.1, S:A376S
+- \+ [QV.2](https://cov-lineages.org/lineage.html?lineage=QV.2) Alias of B.1.1.529.2.86.1.1.16.1.7.2.2.2, S:R273S, ORF1a:H3580Y
+- \+ [PQ.2.4.1](https://cov-lineages.org/lineage.html?lineage=PQ.2.4.1) Alias of XDV.1.5.1.1.8.1.2.4.1, S:D111N, ORF1b:T1034A
+- \+ [PQ.2.4.2](https://cov-lineages.org/lineage.html?lineage=PQ.2.4.2) Alias of XDV.1.5.1.1.8.1.2.4.2, S:I478T (rev)
+- \+ [PQ.2.5.1](https://cov-lineages.org/lineage.html?lineage=PQ.2.5.1) Alias of XDV.1.5.1.1.8.1.2.5.1, S:N532S
+- \+ [PQ.2.5.2](https://cov-lineages.org/lineage.html?lineage=PQ.2.5.2) Alias of XDV.1.5.1.1.8.1.2.5.2, C1912T
+- \+ [PQ.2.7](https://cov-lineages.org/lineage.html?lineage=PQ.2.7) Alias of XDV.1.5.1.1.8.1.2.7, C28603T
+- \+ [PQ.2.7.1](https://cov-lineages.org/lineage.html?lineage=PQ.2.7.1) Alias of XDV.1.5.1.1.8.1.2.7.1, S:N148H
+- \+ [PQ.2.8](https://cov-lineages.org/lineage.html?lineage=PQ.2.8) Alias of XDV.1.5.1.1.8.1.2.8, C8344T
+- \+ [PQ.2.8.1](https://cov-lineages.org/lineage.html?lineage=PQ.2.8.1) Alias of XDV.1.5.1.1.8.1.2.8.1, S:H445P
+- \+ [XFG.3.1.7](https://cov-lineages.org/lineage.html?lineage=XFG.3.1.7) S:G268S, S:A376S
+- \+ [XFV.2](https://cov-lineages.org/lineage.html?lineage=XFV.2) S:A688V
+
 ### 2025-10-02
 - \+ [KS.1.4](https://cov-lineages.org/lineage.html?lineage=KS.1.4) Alias of B.1.1.529.2.86.1.1.13.1.1.4, S:K478T (rev), S:R237K, C22414T, from sars-cov-2-variants/lineage-proposals#1752
 - \+ [XFG.5.1.2](https://cov-lineages.org/lineage.html?lineage=XFG.5.1.2) S:V1228L
