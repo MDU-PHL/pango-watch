@@ -13,6 +13,19 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-10-05
+- \+ [PQ.10.1.1](https://cov-lineages.org/lineage.html?lineage=PQ.10.1.1) Alias of XDV.1.5.1.1.8.1.10.1.1, S:S221L
+- \+ [PQ.10.1.2](https://cov-lineages.org/lineage.html?lineage=PQ.10.1.2) Alias of XDV.1.5.1.1.8.1.10.1.2, S:P174S
+- \+ [PQ.10.1.3](https://cov-lineages.org/lineage.html?lineage=PQ.10.1.3) Alias of XDV.1.5.1.1.8.1.10.1.3, ORF3a:A103S, New Zealand
+- \+ [PQ.10.1.4](https://cov-lineages.org/lineage.html?lineage=PQ.10.1.4) Alias of XDV.1.5.1.1.8.1.10.1.4, ORF1a:G519C
+- \+ [PQ.17.3](https://cov-lineages.org/lineage.html?lineage=PQ.17.3) Alias of XDV.1.5.1.1.8.1.17.3, S:S680F
+- \+ [PQ.17.4](https://cov-lineages.org/lineage.html?lineage=PQ.17.4) Alias of XDV.1.5.1.1.8.1.17.4, S:R683Q
+- \+ [PQ.25.3](https://cov-lineages.org/lineage.html?lineage=PQ.25.3) Alias of XDV.1.5.1.1.8.1.25.3, C22498T
+- \+ [PQ.25.3.1](https://cov-lineages.org/lineage.html?lineage=PQ.25.3.1) Alias of XDV.1.5.1.1.8.1.25.3.1, S:T95I
+- \+ [PQ.34.1](https://cov-lineages.org/lineage.html?lineage=PQ.34.1) Alias of XDV.1.5.1.1.8.1.34.1, S:T572I
+- \+ [PQ.36](https://cov-lineages.org/lineage.html?lineage=PQ.36) Alias of XDV.1.5.1.1.8.1.36, T13120C
+- \+ [PQ.37](https://cov-lineages.org/lineage.html?lineage=PQ.37) Alias of XDV.1.5.1.1.8.1.37, S:S680P, ORF1a:V2061F, M:L29F
+
 ### 2025-10-04
 - \+ [NY.25](https://cov-lineages.org/lineage.html?lineage=NY.25) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.25, C13225T
 - \+ [NW.1.2.1](https://cov-lineages.org/lineage.html?lineage=NW.1.2.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.2.1, ORF8:A51T, ORF9b:G38D, on G9646A branch
