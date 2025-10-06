@@ -13,6 +13,22 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-10-06
+- \+ [XFG.3.4.5](https://cov-lineages.org/lineage.html?lineage=XFG.3.4.5) S:S680P, S:A1174V, N:G5E
+- \+ [XFG.3.4.6](https://cov-lineages.org/lineage.html?lineage=XFG.3.4.6) C15763T
+- \+ [XFG.3.4.7](https://cov-lineages.org/lineage.html?lineage=XFG.3.4.7) ORF1b:P2169S, T580A
+- \+ [XFG.3.4.8](https://cov-lineages.org/lineage.html?lineage=XFG.3.4.8) C29200T
+- \+ [XFG.3.4.9](https://cov-lineages.org/lineage.html?lineage=XFG.3.4.9) ORF1a:V2766F
+- \+ [XFG.3.18.1](https://cov-lineages.org/lineage.html?lineage=XFG.3.18.1) S:A845S, Brazil
+- \+ [XFG.6.2.1](https://cov-lineages.org/lineage.html?lineage=XFG.6.2.1) S:D253G
+- \+ [XFG.6.5](https://cov-lineages.org/lineage.html?lineage=XFG.6.5) C23758T
+- \+ [XFG.6.6](https://cov-lineages.org/lineage.html?lineage=XFG.6.6) ORF1a:T1881I, ORF3a:L94F, ORF3a:A110V, ORF10:N22D
+- \+ [XFG.9.4.1](https://cov-lineages.org/lineage.html?lineage=XFG.9.4.1) S:V227L, ORF3a:S40P
+- \+ [XFG.9.4.2](https://cov-lineages.org/lineage.html?lineage=XFG.9.4.2) S:L189F
+- \+ [XFW.1](https://cov-lineages.org/lineage.html?lineage=XFW.1) S:R681H, ORF1b:S997L
+- \+ [XFW.1.1](https://cov-lineages.org/lineage.html?lineage=XFW.1.1) S:T676P
+- \+ [XFW.1.2](https://cov-lineages.org/lineage.html?lineage=XFW.1.2) S:Q677R, ORF7a:T39I
+
 ### 2025-10-05
 - \+ [PQ.10.1.1](https://cov-lineages.org/lineage.html?lineage=PQ.10.1.1) Alias of XDV.1.5.1.1.8.1.10.1.1, S:S221L
 - \+ [PQ.10.1.2](https://cov-lineages.org/lineage.html?lineage=PQ.10.1.2) Alias of XDV.1.5.1.1.8.1.10.1.2, S:P174S
