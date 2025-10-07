@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-10-07
+- \+ [XGC](https://cov-lineages.org/lineage.html?lineage=XGC) Recombinant lineage of PY.2, XFG.4, PY.2 (breakpoints 12892-15660, 25523-29408), from sars-cov-2-variants/lineage-proposals#2651
+
 ### 2025-10-06
 - \+ [XFG.3.4.5](https://cov-lineages.org/lineage.html?lineage=XFG.3.4.5) S:S680P, S:A1174V, N:G5E
 - \+ [XFG.3.4.6](https://cov-lineages.org/lineage.html?lineage=XFG.3.4.6) C15763T
