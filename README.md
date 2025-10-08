@@ -13,6 +13,14 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-10-08
+- \+ [XEC.18.1.1](https://cov-lineages.org/lineage.html?lineage=XEC.18.1.1) S:K478E, S:V1264L, ORF1a:E1801D, ORF3a:Q38R, Malaysia/Thailand
+- \+ [QT.3](https://cov-lineages.org/lineage.html?lineage=QT.3) Alias of XFG.3.4.2.3, S:K679R
+- \+ [XFG.3.16.1](https://cov-lineages.org/lineage.html?lineage=XFG.3.16.1) S:W64L
+- \+ [XFG.6.5.1](https://cov-lineages.org/lineage.html?lineage=XFG.6.5.1) S:S680Y, UK
+- \+ [XFG.6.7](https://cov-lineages.org/lineage.html?lineage=XFG.6.7) ORF1b:A1291V, USA
+- \+ [XFG.6.8](https://cov-lineages.org/lineage.html?lineage=XFG.6.8) C583T, T6673C
+
 ### 2025-10-07
 - \+ [XGC](https://cov-lineages.org/lineage.html?lineage=XGC) Recombinant lineage of PY.2, XFG.4, PY.2 (breakpoints 12892-15660, 25523-29408), from sars-cov-2-variants/lineage-proposals#2651
 
