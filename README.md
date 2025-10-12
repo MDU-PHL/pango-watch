@@ -13,6 +13,42 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-10-12
+- \+ [PQ.2.9](https://cov-lineages.org/lineage.html?lineage=PQ.2.9) Alias of XDV.1.5.1.1.8.1.2.9, C18814T
+- \+ [XFC.3.1](https://cov-lineages.org/lineage.html?lineage=XFC.3.1) S:K478E, C5020T, C21697T, T25072C, C28732T, Costa Rica
+- \+ [XFC.3.2](https://cov-lineages.org/lineage.html?lineage=XFC.3.2) S:K478T (rev), ORF3a:R134C
+- \+ [XFC.3.3](https://cov-lineages.org/lineage.html?lineage=XFC.3.3) ORF1b:A2431V
+- \+ [XFG.2.4](https://cov-lineages.org/lineage.html?lineage=XFG.2.4) S:L176F
+- \+ [QK.1.1](https://cov-lineages.org/lineage.html?lineage=QK.1.1) Alias of XFG.3.1.2.1.1, S:A845S
+- \+ [XFG.3.1.8](https://cov-lineages.org/lineage.html?lineage=XFG.3.1.8) ORF1a:D996N, ORF1a:T1240I
+- \+ [XFG.3.1.9](https://cov-lineages.org/lineage.html?lineage=XFG.3.1.9) N:I379T (rev)
+- \+ [XFG.3.1.10](https://cov-lineages.org/lineage.html?lineage=XFG.3.1.10) S:S704L, C5167T
+- \+ [XFG.3.25](https://cov-lineages.org/lineage.html?lineage=XFG.3.25) S:L441I, N:T24I, ORF1a:H2092Y
+- \+ [XFG.3.26](https://cov-lineages.org/lineage.html?lineage=XFG.3.26) S:K679R, ORF1b:Y2329H
+- \+ [XFG.5.1.3](https://cov-lineages.org/lineage.html?lineage=XFG.5.1.3) S:S680F, UK
+- \+ [XFG.5.1.4](https://cov-lineages.org/lineage.html?lineage=XFG.5.1.4) C2485T
+- \+ [XFG.5.1.5](https://cov-lineages.org/lineage.html?lineage=XFG.5.1.5) S:L44I, C24034T
+- \+ [XFG.5.1.6](https://cov-lineages.org/lineage.html?lineage=XFG.5.1.6) S:A688T
+- \+ [XFG.5.2.3](https://cov-lineages.org/lineage.html?lineage=XFG.5.2.3) C23758T
+- \+ [XFG.5.2.4](https://cov-lineages.org/lineage.html?lineage=XFG.5.2.4) ORF1a:D2980G
+- \+ [XFG.5.2.5](https://cov-lineages.org/lineage.html?lineage=XFG.5.2.5) ORF1a:P2079S, N:T24I, ORF7a:A66V, ORF7b:Y10C, ORF10:I27M
+- \+ [XFG.5.2.6](https://cov-lineages.org/lineage.html?lineage=XFG.5.2.6) S:S704L, C12295T
+- \+ [XFG.5.4](https://cov-lineages.org/lineage.html?lineage=XFG.5.4) T2698C
+- \+ [XFG.5.4.1](https://cov-lineages.org/lineage.html?lineage=XFG.5.4.1) ORF3a:D155Y
+- \+ [QW.1](https://cov-lineages.org/lineage.html?lineage=QW.1) Alias of XFG.5.4.1.1, S:Q677R, ORF1a:G400S
+- \+ [XFG.8.1](https://cov-lineages.org/lineage.html?lineage=XFG.8.1) C15024T
+- \+ [XFG.8.2](https://cov-lineages.org/lineage.html?lineage=XFG.8.2) ORF1a:T1597I
+- \+ [XFG.8.3](https://cov-lineages.org/lineage.html?lineage=XFG.8.3) C2857T
+- \+ [XFG.10.2](https://cov-lineages.org/lineage.html?lineage=XFG.10.2) ORF1a:T1847I
+- \+ [XFG.10.3](https://cov-lineages.org/lineage.html?lineage=XFG.10.3) C11416T
+- \+ [XFG.10.4](https://cov-lineages.org/lineage.html?lineage=XFG.10.4) S:A435S
+- \+ [XFG.14.2.1](https://cov-lineages.org/lineage.html?lineage=XFG.14.2.1) S:P1162L, ORf1a:L3694F, ORF3a:I35T
+- \+ [XFG.14.4](https://cov-lineages.org/lineage.html?lineage=XFG.14.4) ORF1a:A3548V, C25680T, C28744T
+- \+ [QQ.1](https://cov-lineages.org/lineage.html?lineage=QQ.1) Alias of XFG.17.2.1, S:Q677H, N:F307L
+- \+ [XFG.22.3](https://cov-lineages.org/lineage.html?lineage=XFG.22.3) N:T282I
+- \+ [XFG.34](https://cov-lineages.org/lineage.html?lineage=XFG.34) S:F135L, South America
+- \+ [XFG.35](https://cov-lineages.org/lineage.html?lineage=XFG.35) ORF8:R52I, C5581T, T10913C, T19158C, Costa Rica
+
 ### 2025-10-08
 - \+ [XEC.18.1.1](https://cov-lineages.org/lineage.html?lineage=XEC.18.1.1) S:K478E, S:V1264L, ORF1a:E1801D, ORF3a:Q38R, Malaysia/Thailand
 - \+ [QT.3](https://cov-lineages.org/lineage.html?lineage=QT.3) Alias of XFG.3.4.2.3, S:K679R
