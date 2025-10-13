@@ -13,6 +13,17 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-10-13
+- \+ [PL.6](https://cov-lineages.org/lineage.html?lineage=PL.6) Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.6, S:K478T (rev), S:T500A
+- \+ [LF.7.1.15](https://cov-lineages.org/lineage.html?lineage=LF.7.1.15) Alias of B.1.1.529.2.86.1.1.16.1.7.1.15, ORF1a:L2146I
+- \+ [XFG.3.27](https://cov-lineages.org/lineage.html?lineage=XFG.3.27) ORF3a:R134H, A1588G
+- \+ [XFG.3.27.1](https://cov-lineages.org/lineage.html?lineage=XFG.3.27.1) ORF1a:K1753R, on A4624G branch
+- \+ [XFG.3.27.2](https://cov-lineages.org/lineage.html?lineage=XFG.3.27.2) C11339T, C12085T, on A4624G branch
+- \+ [QY.1](https://cov-lineages.org/lineage.html?lineage=QY.1) Alias of XFG.4.1.3.1, S:R638Q, ORF7a:L12H, India
+- \+ [XFG.4.1.5](https://cov-lineages.org/lineage.html?lineage=XFG.4.1.5) S:A67V, ORF10:A8V
+- \+ [XFG.8.4](https://cov-lineages.org/lineage.html?lineage=XFG.8.4) T18630C
+- \+ [XFG.8.5](https://cov-lineages.org/lineage.html?lineage=XFG.8.5) C21306T
+
 ### 2025-10-12
 - \+ [PQ.2.9](https://cov-lineages.org/lineage.html?lineage=PQ.2.9) Alias of XDV.1.5.1.1.8.1.2.9, C18814T
 - \+ [XFC.3.1](https://cov-lineages.org/lineage.html?lineage=XFC.3.1) S:K478E, C5020T, C21697T, T25072C, C28732T, Costa Rica
