@@ -13,6 +13,14 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-10-14
+- \+ [NY.26](https://cov-lineages.org/lineage.html?lineage=NY.26) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.26, G709A, C24109T
+- \+ [NY.26.1](https://cov-lineages.org/lineage.html?lineage=NY.26.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.26.1, S:L441V
+- \+ [NY.26.2](https://cov-lineages.org/lineage.html?lineage=NY.26.2) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.26.2, ORF1b:T2432I
+- \+ [NY.26.3](https://cov-lineages.org/lineage.html?lineage=NY.26.3) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.26.3, S:D936Y
+- \+ [NY.26.4](https://cov-lineages.org/lineage.html?lineage=NY.26.4) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.26.4, S:N657S, T1237C
+- \+ [PD.1.2.1](https://cov-lineages.org/lineage.html?lineage=PD.1.2.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.4.1.2.1, S:L441V, Brazil
+
 ### 2025-10-13
 - \+ [PL.6](https://cov-lineages.org/lineage.html?lineage=PL.6) Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.6, S:K478T (rev), S:T500A
 - \+ [LF.7.1.15](https://cov-lineages.org/lineage.html?lineage=LF.7.1.15) Alias of B.1.1.529.2.86.1.1.16.1.7.1.15, ORF1a:L2146I
