@@ -13,6 +13,22 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-10-28
+- \+ [QF.1.1](https://cov-lineages.org/lineage.html?lineage=QF.1.1) Alias of XFG.3.4.1.1.1, ORF8:G66V
+- \+ [QF.1.1.1](https://cov-lineages.org/lineage.html?lineage=QF.1.1.1) Alias of XFG.3.4.1.1.1.1, S:A1174V
+- \+ [QF.2](https://cov-lineages.org/lineage.html?lineage=QF.2) Alias of XFG.3.4.1.2, C27812T
+- \+ [QF.3](https://cov-lineages.org/lineage.html?lineage=QF.3) Alias of XFG.3.4.1.3, ORF1a:P1921L
+- \+ [QF.4](https://cov-lineages.org/lineage.html?lineage=QF.4) Alias of XFG.3.4.1.4, C15960A, C28651T
+- \+ [QF.5](https://cov-lineages.org/lineage.html?lineage=QF.5) Alias of XFG.3.4.1.5, C5284T
+- \+ [XFG.3.28](https://cov-lineages.org/lineage.html?lineage=XFG.3.28) S:G184A, ORF1a:S2500F, N:P67S
+- \+ [XFG.9.3.1](https://cov-lineages.org/lineage.html?lineage=XFG.9.3.1) S:E154V
+- \+ [XFG.9.3.2](https://cov-lineages.org/lineage.html?lineage=XFG.9.3.2) ORF1a:H2125Y
+- \+ [XFJ.1.3](https://cov-lineages.org/lineage.html?lineage=XFJ.1.3) S:I105V, S:K444R, ORF1a:T708I, USA
+- \+ [XFJ.3.1.1](https://cov-lineages.org/lineage.html?lineage=XFJ.3.1.1) S:K679N (rev)
+- \+ [XFJ.3.1.2](https://cov-lineages.org/lineage.html?lineage=XFJ.3.1.2) N:A152S, N:K229T
+- \+ [XFJ.3.2](https://cov-lineages.org/lineage.html?lineage=XFJ.3.2) ORF1b:A241T
+- \+ [XFN.2.1](https://cov-lineages.org/lineage.html?lineage=XFN.2.1) S:K484R, ORF1a:P1921S, ORF1b:A374S, Orf9b:S10F, UK
+
 ### 2025-10-16
 - \+ [QU.1](https://cov-lineages.org/lineage.html?lineage=QU.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.1.2.1, S:A475V, from sars-cov-2-variants/lineage-proposals#2644
 - \+ [NY.20.1](https://cov-lineages.org/lineage.html?lineage=NY.20.1) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.20.1, S:M153V, Spain, from sars-cov-2-variants/lineage-proposals#2199
