@@ -13,6 +13,12 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-11-03
+- \+ [QF.5.1](https://cov-lineages.org/lineage.html?lineage=QF.5.1) Alias of XFG.3.4.1.5.1, S:S704L
+- \+ [QF.6](https://cov-lineages.org/lineage.html?lineage=QF.6) Alias of XFG.3.4.1.6, S:A958S, UK
+- \+ [XFG.3.7.1](https://cov-lineages.org/lineage.html?lineage=XFG.3.7.1) S:S680F
+- \+ [XFG.3.29](https://cov-lineages.org/lineage.html?lineage=XFG.3.29) S:N532S, T15330C
+
 ### 2025-10-28
 - \+ [QF.1.1](https://cov-lineages.org/lineage.html?lineage=QF.1.1) Alias of XFG.3.4.1.1.1, ORF8:G66V
 - \+ [QF.1.1.1](https://cov-lineages.org/lineage.html?lineage=QF.1.1.1) Alias of XFG.3.4.1.1.1.1, S:A1174V
