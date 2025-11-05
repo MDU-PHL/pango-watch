@@ -13,6 +13,21 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-11-05
+- \+ [XFG.3.25](https://cov-lineages.org/lineage.html?lineage=XFG.3.25) S:L441I, N:T24I, ORF1a:H2092Y, on C10615T branch, from sars-cov-2-variants/lineage-proposals#2998
+- \+ [XFG.3.26](https://cov-lineages.org/lineage.html?lineage=XFG.3.26) S:K679R, ORF1b:Y2329H, on C10615T branch, from sars-cov-2-variants/lineage-proposals#2795
+- \+ [XFG.3.27](https://cov-lineages.org/lineage.html?lineage=XFG.3.27) ORF3a:R134H, A1588G, on C10615T branch, from sars-cov-2-variants/lineage-proposals#2891
+- \+ [XFG.3.28](https://cov-lineages.org/lineage.html?lineage=XFG.3.28) S:G184A, ORF1a:S2500F, N:P67S, on C10615T branch
+- \+ [XFG.3.29](https://cov-lineages.org/lineage.html?lineage=XFG.3.29) S:N532S, T15330C, on C10615T branch
+- \+ [XFG.3.30](https://cov-lineages.org/lineage.html?lineage=XFG.3.30) C10207T
+- \+ [XFG.3.30.1](https://cov-lineages.org/lineage.html?lineage=XFG.3.30.1) S:G219D
+- \+ [XFG.3.30.2](https://cov-lineages.org/lineage.html?lineage=XFG.3.30.2) S:K679T, ORF1a:T1638N, ORF1a:L4126F
+- \+ [XFG.4.5](https://cov-lineages.org/lineage.html?lineage=XFG.4.5) S:G219D, ORF1a:N854D
+- \+ [XFG.34](https://cov-lineages.org/lineage.html?lineage=XFG.34) S:F135L, on C20178T branch, South America, from sars-cov-2-variants/lineage-proposals#2942
+- \+ [XFG.35](https://cov-lineages.org/lineage.html?lineage=XFG.35) ORF8:R52I, C5581T, T10913C, T19158C, on C20178T branch, Costa Rica
+- \+ [XGA](https://cov-lineages.org/lineage.html?lineage=XGA) Recombinant lineage of XFJ.4.1, PY.1, XFG.6.2 (breakpoints 15661-18251, 19030-20177), from #3077
+- \+ [XGC](https://cov-lineages.org/lineage.html?lineage=XGC) Recombinant lineage of PY.2, XFG.4 (breakpoints 12892-15660), from sars-cov-2-variants/lineage-proposals#2651
+
 ### 2025-11-03
 - \+ [QF.5.1](https://cov-lineages.org/lineage.html?lineage=QF.5.1) Alias of XFG.3.4.1.5.1, S:S704L
 - \+ [QF.6](https://cov-lineages.org/lineage.html?lineage=QF.6) Alias of XFG.3.4.1.6, S:A958S, UK
