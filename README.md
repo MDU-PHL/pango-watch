@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-11-08
+- \+ [XFG.3.30](https://cov-lineages.org/lineage.html?lineage=XFG.3.30) C10207T, on C10615T branch
+
 ### 2025-11-05
 - \+ [XFG.3.25](https://cov-lineages.org/lineage.html?lineage=XFG.3.25) S:L441I, N:T24I, ORF1a:H2092Y, on C10615T branch, from sars-cov-2-variants/lineage-proposals#2998
 - \+ [XFG.3.26](https://cov-lineages.org/lineage.html?lineage=XFG.3.26) S:K679R, ORF1b:Y2329H, on C10615T branch, from sars-cov-2-variants/lineage-proposals#2795
