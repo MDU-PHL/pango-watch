@@ -13,6 +13,21 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-11-17
+- \+ [XFG.3.6.1](https://cov-lineages.org/lineage.html?lineage=XFG.3.6.1) S:A942S, ORF1a:T1638I, ORF1b:P1666S
+- \+ [XFG.6.3.1](https://cov-lineages.org/lineage.html?lineage=XFG.6.3.1) C920T
+- \+ [XFG.6.3.2](https://cov-lineages.org/lineage.html?lineage=XFG.6.3.2) S:K679R
+- \+ [XFG.6.9](https://cov-lineages.org/lineage.html?lineage=XFG.6.9) C27059T
+- \+ [XFG.6.10](https://cov-lineages.org/lineage.html?lineage=XFG.6.10) G28079T
+- \+ [XFG.6.11](https://cov-lineages.org/lineage.html?lineage=XFG.6.11) ORF1b:G1772S
+- \+ [XFG.6.12](https://cov-lineages.org/lineage.html?lineage=XFG.6.12) G2875A
+- \+ [XFG.7.1.1](https://cov-lineages.org/lineage.html?lineage=XFG.7.1.1) S:K150E, G28079T
+- \+ [QZ.1](https://cov-lineages.org/lineage.html?lineage=QZ.1) S:A688V, from sars-cov-2-variants/lineage-proposals#2906
+- \+ [XFG.7.1.2](https://cov-lineages.org/lineage.html?lineage=XFG.7.1.2) S:V90I, S:W152R
+- \+ [XFG.8.2.1](https://cov-lineages.org/lineage.html?lineage=XFG.8.2.1) S:G946R, ORF1a:T1844I
+- \+ [XFG.36](https://cov-lineages.org/lineage.html?lineage=XFG.36) T10567C
+- \+ [XFY.1](https://cov-lineages.org/lineage.html?lineage=XFY.1) S:I1169V, C4456T, ORF1b:K1537R
+
 ### 2025-11-15
 - \+ [XFG.9.6](https://cov-lineages.org/lineage.html?lineage=XFG.9.6) S:V1104L, C24337T
 - \+ [XFW.1.1.1](https://cov-lineages.org/lineage.html?lineage=XFW.1.1.1) S:Q677R, ORF7a:T39I
