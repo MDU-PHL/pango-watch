@@ -13,6 +13,44 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-12-02
+- \+ [RC.1](https://cov-lineages.org/lineage.html?lineage=RC.1) Alias of XDV.1.5.1.1.8.1.2.8.1.1, S:I478T (rev)
+- \+ [RC.2](https://cov-lineages.org/lineage.html?lineage=RC.2) Alias of XDV.1.5.1.1.8.1.2.8.1.2, ORF1a:K958R
+- \+ [PQ.2.8.2](https://cov-lineages.org/lineage.html?lineage=PQ.2.8.2) Alias of XDV.1.5.1.1.8.1.2.8.2, S:V289I
+- \+ [PQ.14.1](https://cov-lineages.org/lineage.html?lineage=PQ.14.1) Alias of XDV.1.5.1.1.8.1.14.1, A532G
+- \+ [PQ.14.1.1](https://cov-lineages.org/lineage.html?lineage=PQ.14.1.1) Alias of XDV.1.5.1.1.8.1.14.1.1, S:I478T (rev), T11371C, A16311G
+- \+ [PQ.14.2](https://cov-lineages.org/lineage.html?lineage=PQ.14.2) Alias of XDV.1.5.1.1.8.1.14.2, C12664T, on C28603T
+- \+ [PQ.14.3](https://cov-lineages.org/lineage.html?lineage=PQ.14.3) Alias of XDV.1.5.1.1.8.1.14.3, M:L29F, on C28603T
+- \+ [PQ.14.3.1](https://cov-lineages.org/lineage.html?lineage=PQ.14.3.1) Alias of XDV.1.5.1.1.8.1.14.3.1, S:H445P, S:K679R, S:A829T
+- \+ [PQ.14.4](https://cov-lineages.org/lineage.html?lineage=PQ.14.4) Alias of XDV.1.5.1.1.8.1.14.4, C12049T
+- \+ [PQ.38](https://cov-lineages.org/lineage.html?lineage=PQ.38) Alias of XDV.1.5.1.1.8.1.38, ORF1a:T1840I, C27513T
+- \+ [PQ.39](https://cov-lineages.org/lineage.html?lineage=PQ.39) Alias of XDV.1.5.1.1.8.1.39, S:H445P
+- \+ [XFC.1.2.1](https://cov-lineages.org/lineage.html?lineage=XFC.1.2.1) S:R445P, ORF1a:S1561A, ORF1a:T2280I
+- \+ [XFC.1.3.1](https://cov-lineages.org/lineage.html?lineage=XFC.1.3.1) S:A435S, S:A475V
+- \+ [XFC.1.10](https://cov-lineages.org/lineage.html?lineage=XFC.1.10) ORF1a:Y947H
+- \+ [XFC.1.11](https://cov-lineages.org/lineage.html?lineage=XFC.1.11) ORF1b:Q1546H, ORF7a:I103V
+- \+ [XFC.1.12](https://cov-lineages.org/lineage.html?lineage=XFC.1.12) T1771A
+- \+ [XFC.4](https://cov-lineages.org/lineage.html?lineage=XFC.4) A1393G, C15720T
+- \+ [XFG.1.2](https://cov-lineages.org/lineage.html?lineage=XFG.1.2) C16111T
+- \+ [XFG.1.3](https://cov-lineages.org/lineage.html?lineage=XFG.1.3) ORF7a:I10V
+- \+ [QF.2.1](https://cov-lineages.org/lineage.html?lineage=QF.2.1) Alias of XFG.3.4.1.2, S:N641K
+- \+ [XFG.3.6.2](https://cov-lineages.org/lineage.html?lineage=XFG.3.6.2) N:S197L, ORF1a:T1597I, ORF1b:N1790S
+- \+ [XFG.3.10.1](https://cov-lineages.org/lineage.html?lineage=XFG.3.10.1) T3616C, C6445T, A29125G
+- \+ [XFG.3.10.2](https://cov-lineages.org/lineage.html?lineage=XFG.3.10.2) ORF1b:T2332A
+- \+ [QW.1.1](https://cov-lineages.org/lineage.html?lineage=QW.1.1) Alias of XFG.5.4.1.1.1, S:L176F, C7834T
+- \+ [XFG.23.1.1](https://cov-lineages.org/lineage.html?lineage=XFG.23.1.1) N:P67H, N:P365L, on C29137T
+- \+ [RB.1](https://cov-lineages.org/lineage.html?lineage=RB.1) Alias of XFG.23.1.1.1, S:I210S
+- \+ [RB.2](https://cov-lineages.org/lineage.html?lineage=RB.2) Alias of XFG.23.1.1.2, S:S704L
+- \+ [XFG.23.1.3](https://cov-lineages.org/lineage.html?lineage=XFG.23.1.3) S:A1174V, on C29137T
+- \+ [XFG.23.1.4](https://cov-lineages.org/lineage.html?lineage=XFG.23.1.4) S:W258R, ORF1a:A2855V, ORF3a:T89I
+- \+ [XFG.23.1.5](https://cov-lineages.org/lineage.html?lineage=XFG.23.1.5) ORF1a:S944L, ORF3a:S74F
+- \+ [XFG.23.2](https://cov-lineages.org/lineage.html?lineage=XFG.23.2) S:Y796H
+- \+ [RA.1](https://cov-lineages.org/lineage.html?lineage=RA.1) Alias of XFJ.3.1.1.1, S:T236S
+- \+ [XFJ.3.1.3](https://cov-lineages.org/lineage.html?lineage=XFJ.3.1.3) ORF1a:H1108Y
+- \+ [XFJ.8.1](https://cov-lineages.org/lineage.html?lineage=XFJ.8.1) S:V1264L, ORF1a:N434D
+- \+ [XFJ.10](https://cov-lineages.org/lineage.html?lineage=XFJ.10) C21682T
+- \+ [XGD](https://cov-lineages.org/lineage.html?lineage=XGD) Recombinant lineage of XFJ.4, XFJ.3.1.3 (breakpoints 6278-18252)
+
 ### 2025-11-17
 - \+ [XFG.3.6.1](https://cov-lineages.org/lineage.html?lineage=XFG.3.6.1) S:A942S, ORF1a:T1638I, ORF1b:P1666S
 - \+ [XFG.6.3.1](https://cov-lineages.org/lineage.html?lineage=XFG.6.3.1) C920T
