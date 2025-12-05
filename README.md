@@ -13,6 +13,17 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-12-05
+- \+ [PQ.14.2](https://cov-lineages.org/lineage.html?lineage=PQ.14.2) Alias of XDV.1.5.1.1.8.1.14.2, C12664T, on C28603T branch
+- \+ [PQ.14.3](https://cov-lineages.org/lineage.html?lineage=PQ.14.3) Alias of XDV.1.5.1.1.8.1.14.3, M:L29F, on C28603T branch
+- \+ [XFG.3.32](https://cov-lineages.org/lineage.html?lineage=XFG.3.32) S:L189F, C1150T, on C10615T branch, from #3126
+- \+ [XFG.4.2](https://cov-lineages.org/lineage.html?lineage=XFG.4.2) S:K1191R, ORF3a:del24-27, F28I, on C16887T, C29762T branch, from sars-cov-2-variants/lineage-proposals#2734
+- \+ [XFG.4.3](https://cov-lineages.org/lineage.html?lineage=XFG.4.3) T28474A, on C16887T, C29762T branch
+- \+ [XFG.4.4](https://cov-lineages.org/lineage.html?lineage=XFG.4.4) G8017T, on C16887T, C29762T branch
+- \+ [XFG.4.5](https://cov-lineages.org/lineage.html?lineage=XFG.4.5) S:G219D, ORF1a:N854D, on C16887T, C29762T branch
+- \+ [QZ.1](https://cov-lineages.org/lineage.html?lineage=QZ.1) Alias of XFG.7.1.1.1, S:A688V, from sars-cov-2-variants/lineage-proposals#2906
+- \+ [XFG.36](https://cov-lineages.org/lineage.html?lineage=XFG.36) T10567C, on C20178T branch
+
 ### 2025-12-04
 - \+ [PQ.2.1.1](https://cov-lineages.org/lineage.html?lineage=PQ.2.1.1) Alias of XDV.1.5.1.1.8.1.2.1.1, ORF1b:A2575V, on C10969T, C18814T branch
 - \+ [PQ.2.1.2](https://cov-lineages.org/lineage.html?lineage=PQ.2.1.2) Alias of XDV.1.5.1.1.8.1.2.1.2, S:Q677H, on C10969T, C18814T branch
