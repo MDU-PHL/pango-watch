@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-12-18
+- \+ [LF.8.1.1](https://cov-lineages.org/lineage.html?lineage=LF.8.1.1) Alias of B.1.1.529.2.86.1.1.16.1.8.1.1, S:T22N, from sars-cov-2-variants/lineage-proposals#1863
+
 ### 2025-12-14
 - \+ [PQ.4.6.2](https://cov-lineages.org/lineage.html?lineage=PQ.4.6.2) Alias of XDV.1.5.1.1.8.1.4.6.2, ORF8:8*
 - \+ [RJ.1](https://cov-lineages.org/lineage.html?lineage=RJ.1) Alias of XDV.1.5.1.1.8.1.4.6.2.1, S:K150N
