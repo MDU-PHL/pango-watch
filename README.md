@@ -13,6 +13,19 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-12-19
+- \+ [PQ.4.2](https://cov-lineages.org/lineage.html?lineage=PQ.4.2) Alias of XDV.1.5.1.1.8.1.4.2, S:A522P, on C21742T branch after C11833T
+- \+ [PQ.4.3](https://cov-lineages.org/lineage.html?lineage=PQ.4.3) Alias of XDV.1.5.1.1.8.1.4.3, S:V193L, on C21742T branch after C11833T
+- \+ [PQ.4.6.2](https://cov-lineages.org/lineage.html?lineage=PQ.4.6.2) Alias of XDV.1.5.1.1.8.1.4.6.2, ORF8:G8*
+- \+ [PQ.4.7](https://cov-lineages.org/lineage.html?lineage=PQ.4.7) Alias of XDV.1.5.1.1.8.1.4.7, ORF1b:V165I, on C11833T branch
+- \+ [PQ.4.9](https://cov-lineages.org/lineage.html?lineage=PQ.4.9) Alias of XDV.1.5.1.1.8.1.4.9, ORF1a:V757F, ORF1a:T1597I, on C11833T branch
+- \+ [PQ.17.7.1](https://cov-lineages.org/lineage.html?lineage=PQ.17.7.1) Alias of XDV.1.5.1.1.8.1.17.7.1, S:S680F, on A26046G branch, South Korea
+- \+ [PQ.17.7.2](https://cov-lineages.org/lineage.html?lineage=PQ.17.7.2) Alias of XDV.1.5.1.1.8.1.17.7.2, S:H445P, on A26046G branch, South Korea
+- \+ [RK.1](https://cov-lineages.org/lineage.html?lineage=RK.1) Alias of XDV.1.5.1.1.8.1.17.7.2.1, S:D420N
+- \+ [PQ.25](https://cov-lineages.org/lineage.html?lineage=PQ.25) Alias of XDV.1.5.1.1.8.1.25, S:I1114T, most with C28957T, from sars-cov-2-variants/lineage-proposals#2668
+- \+ [PQ.25.1](https://cov-lineages.org/lineage.html?lineage=PQ.25.1) Alias of XDV.1.5.1.1.8.1.25.1, T29524C, without C28957T
+- \+ [XFC.3](https://cov-lineages.org/lineage.html?lineage=XFC.3) ORF1a:A2128T, most with ORF9b:T79I
+
 ### 2025-12-18
 - \+ [LF.8.1.1](https://cov-lineages.org/lineage.html?lineage=LF.8.1.1) Alias of B.1.1.529.2.86.1.1.16.1.8.1.1, S:T22N, from sars-cov-2-variants/lineage-proposals#1863
 
