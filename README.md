@@ -13,6 +13,13 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-12-20
+- \+ [RL.1](https://cov-lineages.org/lineage.html?lineage=RL.1) Alias of XFG.14.1.2.1, S:Q675H, Canada
+- \+ [XFG.14.1.6](https://cov-lineages.org/lineage.html?lineage=XFG.14.1.6) S:V705F, USA
+- \+ [XFG.14.1.7](https://cov-lineages.org/lineage.html?lineage=XFG.14.1.7) S:R346I, Canada
+- \+ [XFG.14.1.8](https://cov-lineages.org/lineage.html?lineage=XFG.14.1.8) ORF1b:T250I
+- \+ [XFG.14.9](https://cov-lineages.org/lineage.html?lineage=XFG.14.9) S:A1070T
+
 ### 2025-12-19
 - \+ [PQ.4.2](https://cov-lineages.org/lineage.html?lineage=PQ.4.2) Alias of XDV.1.5.1.1.8.1.4.2, S:A522P, on C21742T branch after C11833T
 - \+ [PQ.4.3](https://cov-lineages.org/lineage.html?lineage=PQ.4.3) Alias of XDV.1.5.1.1.8.1.4.3, S:V193L, on C21742T branch after C11833T
