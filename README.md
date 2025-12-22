@@ -13,6 +13,42 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-12-22
+- \+ [RQ.1](https://cov-lineages.org/lineage.html?lineage=RQ.1) Alias of XDV.1.5.1.1.8.1.2.5.2.1, S:I478V, ORF1a:G519S, ORF1b:V389I
+- \+ [RQ.2](https://cov-lineages.org/lineage.html?lineage=RQ.2) Alias of XDV.1.5.1.1.8.1.2.5.2.2, S:H445P, S:P1263L, South Korea
+- \+ [PQ.2.5.3](https://cov-lineages.org/lineage.html?lineage=PQ.2.5.3) Alias of XDV.1.5.1.1.8.1.2.5.3, ORF1b:Q1509R
+- \+ [PQ.2.5.4](https://cov-lineages.org/lineage.html?lineage=PQ.2.5.4) Alias of XDV.1.5.1.1.8.1.2.5.4, ORF3a:K21N
+- \+ [PQ.2.5.5](https://cov-lineages.org/lineage.html?lineage=PQ.2.5.5) Alias of XDV.1.5.1.1.8.1.2.5.5, S:R346T, ORF1a:H45Y, M:L29F
+- \+ [RC.2.1](https://cov-lineages.org/lineage.html?lineage=RC.2.1) Alias of XDV.1.5.1.1.8.1.2.8.1.2.1, S:S680Y
+- \+ [RC.3](https://cov-lineages.org/lineage.html?lineage=RC.3) Alias of XDV.1.5.1.1.8.1.2.8.1.3, C21952T
+- \+ [RC.4](https://cov-lineages.org/lineage.html?lineage=RC.4) Alias of XDV.1.5.1.1.8.1.2.8.1.4, T3802C
+- \+ [PQ.2.11](https://cov-lineages.org/lineage.html?lineage=PQ.2.11) Alias of XDV.1.5.1.1.8.1.2.11, ORF1b:N79S
+- \+ [PQ.2.11.1](https://cov-lineages.org/lineage.html?lineage=PQ.2.11.1) Alias of XDV.1.5.1.1.8.1.2.11.1, S:I478T (rev), T4640C
+- \+ [PQ.13.3](https://cov-lineages.org/lineage.html?lineage=PQ.13.3) Alias of XDV.1.5.1.1.8.1.13.3, C16293T, C25416T
+- \+ [PQ.13.3.1](https://cov-lineages.org/lineage.html?lineage=PQ.13.3.1) Alias of XDV.1.5.1.1.8.1.13.3.1, S:T572I
+- \+ [PQ.41](https://cov-lineages.org/lineage.html?lineage=PQ.41) Alias of XDV.1.5.1.1.8.1.41, S:V1264L, C29627T
+- \+ [PQ.41.1](https://cov-lineages.org/lineage.html?lineage=PQ.41.1) Alias of XDV.1.5.1.1.8.1.41.1, ORF1a:Q768R, ORF1a:N869S
+- \+ [PQ.41.1.1](https://cov-lineages.org/lineage.html?lineage=PQ.41.1.1) Alias of XDV.1.5.1.1.8.1.41.1.1, S:R346T, S:H445P
+- \+ [PQ.42](https://cov-lineages.org/lineage.html?lineage=PQ.42) Alias of XDV.1.5.1.1.8.1.42, S:L176F, S:K478T (rev), S:T572I, T26491C, A26492T, 26492del, T26497C
+- \+ [RP.1](https://cov-lineages.org/lineage.html?lineage=RP.1) Alias of XFG.1.1.1.1, S:D1146G, C2065T, A16890G
+- \+ [RP.2](https://cov-lineages.org/lineage.html?lineage=RP.2) Alias of XFG.1.1.1.2, S:T307I
+- \+ [XFG.1.1.2](https://cov-lineages.org/lineage.html?lineage=XFG.1.1.2) S:A688V
+- \+ [XFG.2.7.1](https://cov-lineages.org/lineage.html?lineage=XFG.2.7.1) T1570C, A2410G, T18099A, T27546C
+- \+ [XFG.2.7.2](https://cov-lineages.org/lineage.html?lineage=XFG.2.7.2) T14415C, C19572T, C25607T
+- \+ [XFG.2.9](https://cov-lineages.org/lineage.html?lineage=XFG.2.9) C25413T
+- \+ [XFG.2.10](https://cov-lineages.org/lineage.html?lineage=XFG.2.10) ORF1a:N3537T
+- \+ [XFG.2.11](https://cov-lineages.org/lineage.html?lineage=XFG.2.11) T26491C, A26492T, T26494-, T26497C
+- \+ [XFG.3.1.11](https://cov-lineages.org/lineage.html?lineage=XFG.3.1.11) C1288T, C29119T
+- \+ [RN.1](https://cov-lineages.org/lineage.html?lineage=RN.1) Alias of XFG.3.4.6.1, ORF1a:G519S, ORF3a:L106F
+- \+ [RN.2](https://cov-lineages.org/lineage.html?lineage=RN.2) Alias of XFG.3.4.6.2, N:T24I
+- \+ [RN.2.1](https://cov-lineages.org/lineage.html?lineage=RN.2.1) Alias of XFG.3.4.6.2.1, S:K679R
+- \+ [RM.1](https://cov-lineages.org/lineage.html?lineage=RM.1) Alias of XFG.5.2.5.1, S:I1172V
+- \+ [RM.2](https://cov-lineages.org/lineage.html?lineage=RM.2) Alias of XFG.5.2.5.2, S:A67V
+- \+ [XFG.8.1.1](https://cov-lineages.org/lineage.html?lineage=XFG.8.1.1) S:L54F, S:W258R
+- \+ [XFG.37](https://cov-lineages.org/lineage.html?lineage=XFG.37) T5911C, C28475A, A29671G
+- \+ [XFG.38](https://cov-lineages.org/lineage.html?lineage=XFG.38) ORF1a:G445S, ORF1a:T1543I
+- \+ [XFG.39](https://cov-lineages.org/lineage.html?lineage=XFG.39) ORF7a:F114S
+
 ### 2025-12-20
 - \+ [RL.1](https://cov-lineages.org/lineage.html?lineage=RL.1) Alias of XFG.14.1.2.1, S:Q675H, Canada
 - \+ [XFG.14.1.6](https://cov-lineages.org/lineage.html?lineage=XFG.14.1.6) S:V705F, USA
