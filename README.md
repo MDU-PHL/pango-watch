@@ -13,6 +13,13 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-12-23
+- \+ [XFG.2.12](https://cov-lineages.org/lineage.html?lineage=XFG.2.12) A5560G
+- \+ [XFG.3.1.12](https://cov-lineages.org/lineage.html?lineage=XFG.3.1.12) A5560G
+- \+ [XGJ](https://cov-lineages.org/lineage.html?lineage=XGJ) Recombinant lineage of XFG.10, XFG.17.2.1 (breakpoint 11173-15939), from sars-cov-2-variants/lineage-proposals#3065
+- \+ [XGK](https://cov-lineages.org/lineage.html?lineage=XGK) Recombinant lineage of XFG.2.12, XFG.17.2.1 (breakpoint 11173-20178), from sars-cov-2-variants/lineage-proposals#3065
+- \+ [XGL](https://cov-lineages.org/lineage.html?lineage=XGL) Recombinant lineage of XFG.3.1.12, XFG.17.2.1 (breakpoint 11173-13608), from sars-cov-2-variants/lineage-proposals#3065
+
 ### 2025-12-22
 - \+ [RQ.1](https://cov-lineages.org/lineage.html?lineage=RQ.1) Alias of XDV.1.5.1.1.8.1.2.5.2.1, S:I478V, ORF1a:G519S, ORF1b:V389I
 - \+ [RQ.2](https://cov-lineages.org/lineage.html?lineage=RQ.2) Alias of XDV.1.5.1.1.8.1.2.5.2.2, S:H445P, S:P1263L, South Korea
