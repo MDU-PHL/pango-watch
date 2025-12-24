@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2025-12-24
+- \+ [XGM](https://cov-lineages.org/lineage.html?lineage=XGM) Recombinant lineage of NY.3.3, LF.7.3, NY.3.3 (breakpoints 7114-7868, 21654-22119), from sars-cov-2-variants/lineage-proposals#2958
+
 ### 2025-12-23
 - \+ [XFG.2.12](https://cov-lineages.org/lineage.html?lineage=XFG.2.12) A5560G
 - \+ [XFG.3.1.12](https://cov-lineages.org/lineage.html?lineage=XFG.3.1.12) A5560G
