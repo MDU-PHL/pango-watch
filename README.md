@@ -13,6 +13,13 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2026-01-07
+- \+ [RG.2](https://cov-lineages.org/lineage.html?lineage=RG.2) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.2.2.2, ORF1a:L1507F
+- \+ [RG.3](https://cov-lineages.org/lineage.html?lineage=RG.3) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.2.2.3, C27649T, on 28032- branch, from sars-cov-2-variants/lineage-proposals#3212
+- \+ [XFG.3.3.2](https://cov-lineages.org/lineage.html?lineage=XFG.3.3.2) C1426T, C4331T, C10718A
+- \+ [XFG.3.3.3](https://cov-lineages.org/lineage.html?lineage=XFG.3.3.3) S:L335F, ORF1a:V4102I
+- \+ [XGN](https://cov-lineages.org/lineage.html?lineage=XGN) Recombinant lineage of XFG.3.5.2, RG.3, XFG.3.5.2 (breakpoints 23277-23598, 27649-28032), from sars-cov-2-variants/lineage-proposals#3212
+
 ### 2025-12-24
 - \+ [XGM](https://cov-lineages.org/lineage.html?lineage=XGM) Recombinant lineage of NY.3.3, LF.7.3, NY.3.3 (breakpoints 7114-7868, 21654-22119), from sars-cov-2-variants/lineage-proposals#2958
 
