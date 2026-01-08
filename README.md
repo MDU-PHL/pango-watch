@@ -13,6 +13,26 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2026-01-08
+- \+ [RD.1.1.1](https://cov-lineages.org/lineage.html?lineage=RD.1.1.1) Alias of B.1.1.529.3.2.1.1.1.1, N:T271I, Netherlands/Denmark
+- \+ [RE.1.1.1](https://cov-lineages.org/lineage.html?lineage=RE.1.1.1) Alias of B.1.1.529.3.2.2.1.1.1, ORF1b:H1897Y, on C18747T branch, Australia
+- \+ [RE.1.1.2](https://cov-lineages.org/lineage.html?lineage=RE.1.1.2) Alias of B.1.1.529.3.2.2.1.1.2, S:H49Y, ORF1a:R1467K, Australia
+- \+ [RE.1.1.3](https://cov-lineages.org/lineage.html?lineage=RE.1.1.3) Alias of B.1.1.529.3.2.2.1.1.3, S:P1162L, Australia
+- \+ [RE.2.1](https://cov-lineages.org/lineage.html?lineage=RE.2.1) Alias of B.1.1.529.3.2.2.2.1, N:T296I, on ORF1a:T1896I branch, Europe
+- \+ [RE.2.1.1](https://cov-lineages.org/lineage.html?lineage=RE.2.1.1) Alias of B.1.1.529.3.2.2.2.1.1, C4891T, T8803C
+- \+ [RE.2.1.2](https://cov-lineages.org/lineage.html?lineage=RE.2.1.2) Alias of B.1.1.529.3.2.2.2.1.2, ORF3a:I63T, on C10594T branch
+- \+ [RE.2.1.3](https://cov-lineages.org/lineage.html?lineage=RE.2.1.3) Alias of B.1.1.529.3.2.2.2.1.3, ORF1a:P1640L, on C10594T branch
+- \+ [RE.2.2](https://cov-lineages.org/lineage.html?lineage=RE.2.2) Alias of B.1.1.529.3.2.2.2.2, N:A173V, C5884T, on A10864G branch
+- \+ [RE.2.2.1](https://cov-lineages.org/lineage.html?lineage=RE.2.2.1) Alias of B.1.1.529.3.2.2.2.2.1, ORF1a:G30D, C1663T, on T1177C branch
+- \+ [RE.2.2.2](https://cov-lineages.org/lineage.html?lineage=RE.2.2.2) Alias of B.1.1.529.3.2.2.2.2.2, ORF1a:G3578S, ORF1a:A3889T, on T1177C branch
+- \+ [RE.2.2.3](https://cov-lineages.org/lineage.html?lineage=RE.2.2.3) Alias of B.1.1.529.3.2.2.2.2.3, C11020T, on T1177C branch
+- \+ [RE.2.2.4](https://cov-lineages.org/lineage.html?lineage=RE.2.2.4) Alias of B.1.1.529.3.2.2.2.2.4, ORF1a:S2500F, on T1177C branch
+- \+ [RE.2.2.5](https://cov-lineages.org/lineage.html?lineage=RE.2.2.5) Alias of B.1.1.529.3.2.2.2.2.5, C4438T
+- \+ [RE.2.2.6](https://cov-lineages.org/lineage.html?lineage=RE.2.2.6) Alias of B.1.1.529.3.2.2.2.2.6, ORF1a:Q998H
+- \+ [RE.2.3](https://cov-lineages.org/lineage.html?lineage=RE.2.3) Alias of B.1.1.529.3.2.2.2.3, ORF1a:T2648N, ORF1a:T4065I, on A10864G branch
+- \+ [RE.3](https://cov-lineages.org/lineage.html?lineage=RE.3) Alias of B.1.1.529.3.2.2.3, ORF1b:T2084I
+- \+ [RE.3.1](https://cov-lineages.org/lineage.html?lineage=RE.3.1) Alias of B.1.1.529.3.2.2.3.1, ORF1a:L3796I, ORF1b:L1681F
+
 ### 2026-01-07
 - \+ [RG.2](https://cov-lineages.org/lineage.html?lineage=RG.2) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.2.2.2, ORF1a:L1507F
 - \+ [RG.3](https://cov-lineages.org/lineage.html?lineage=RG.3) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.2.2.3, C27649T, on 28032- branch, from sars-cov-2-variants/lineage-proposals#3212
