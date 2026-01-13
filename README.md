@@ -13,6 +13,11 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2026-01-13
+- \+ [PP.1.2](https://cov-lineages.org/lineage.html?lineage=PP.1.2) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.8.1.2, A9274G
+- \+ [PQ.17.2.1](https://cov-lineages.org/lineage.html?lineage=PQ.17.2.1) Alias of XDV.1.5.1.1.8.1.17.2.1, C1102G
+- \+ [XGQ](https://cov-lineages.org/lineage.html?lineage=XGQ) Recombinant lineage of PP.1.2, XFG.26, PP.1.2 (breakpoints 21629-21649, 28675-29407), from sars-cov-2-variants/lineage-proposals#3191
+
 ### 2026-01-12
 - \+ [RE.2.4](https://cov-lineages.org/lineage.html?lineage=RE.2.4) Alias of B.1.1.529.3.2.2.2.4, N:N126K
 - \+ [PQ.4.10](https://cov-lineages.org/lineage.html?lineage=PQ.4.10) Alias of XDV.1.5.1.1.8.1.4.10, A5536G, C20235T, T21820C
