@@ -13,6 +13,9 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2026-01-14
+- \+ [\*XFG.3.31.1](https://cov-lineages.org/lineage.html?lineage=*XFG.3.31.1) Withdrawn: only one sequence had S:K554E
+
 ### 2026-01-13
 - \+ [PP.1.2](https://cov-lineages.org/lineage.html?lineage=PP.1.2) Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.8.1.2, A9274G
 - \+ [PQ.17.2.1](https://cov-lineages.org/lineage.html?lineage=PQ.17.2.1) Alias of XDV.1.5.1.1.8.1.17.2.1, C1102G
