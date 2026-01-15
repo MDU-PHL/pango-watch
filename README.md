@@ -13,6 +13,13 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2026-01-15
+- \+ [RF.5](https://cov-lineages.org/lineage.html?lineage=RF.5) Alias of B.1.1.529.2.86.1.1.16.1.7.9.1.1.1.1.5, S:M153I, S:K478T (rev)
+- \+ [RS.1](https://cov-lineages.org/lineage.html?lineage=RS.1) Alias of B.1.1.529.3.2.2.1.1.1.1, C4012T, C13375T (rev), C14889T, Australia
+- \+ [RE.1.2](https://cov-lineages.org/lineage.html?lineage=RE.1.2) Alias of B.1.1.529.3.2.2.1.2, C203T, C5654T, C9836T, C22594T, C28987T, South Africa
+- \+ [RT.1](https://cov-lineages.org/lineage.html?lineage=RT.1) Alias of B.1.1.529.3.2.2.2.2.4.1, S:S98F, S:Q173H, Netherlands/Germany
+- \+ [PQ.42](https://cov-lineages.org/lineage.html?lineage=PQ.42) Alias of XDV.1.5.1.1.8.1.42, S:L176F, S:K478T (rev), S:T572I, T26491C, A26492T, 26494del, T26497C
+
 ### 2026-01-14
 - \+ [\*XFG.3.31.1](https://cov-lineages.org/lineage.html?lineage=*XFG.3.31.1) Withdrawn: only one sequence had S:K554E
 
