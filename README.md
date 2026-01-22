@@ -13,6 +13,21 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2026-01-22
+- \+ [RU.1](https://cov-lineages.org/lineage.html?lineage=RU.1) Alias of B.1.1.529.3.2.2.2.2.2.1, N:L219F
+- \+ [PQ.44](https://cov-lineages.org/lineage.html?lineage=PQ.44) Alias of XDV.1.5.1.1.8.1.44, ORF1a:L969F
+- \+ [PQ.45](https://cov-lineages.org/lineage.html?lineage=PQ.45) Alias of XDV.1.5.1.1.8.1.45, C6031T
+- \+ [PQ.46](https://cov-lineages.org/lineage.html?lineage=PQ.46) Alias of XDV.1.5.1.1.8.1.46, C745T
+- \+ [PQ.46.1](https://cov-lineages.org/lineage.html?lineage=PQ.46.1) Alias of XDV.1.5.1.1.8.1.46.1, ORF1a:T770I, ORF3a:S171L
+- \+ [PQ.47](https://cov-lineages.org/lineage.html?lineage=PQ.47) Alias of XDV.1.5.1.1.8.1.47, S:S446N, ORF1a:M2254I
+- \+ [XFG.3.33](https://cov-lineages.org/lineage.html?lineage=XFG.3.33) C829T
+- \+ [QW.2](https://cov-lineages.org/lineage.html?lineage=QW.2) Alias of XFG.5.4.1.2, C1420T, T16695C, G24199A, T27484C, A29617G
+- \+ [RV.1](https://cov-lineages.org/lineage.html?lineage=RV.1) S:S446N
+- \+ [XFY.2](https://cov-lineages.org/lineage.html?lineage=XFY.2) C8626T
+- \+ [XFY.3](https://cov-lineages.org/lineage.html?lineage=XFY.3) C29272T
+- \+ [XGR](https://cov-lineages.org/lineage.html?lineage=XGR) Recombinant lineage of NW.1.7.4, RN.1 (breakpoint 18298-18885), from sars-cov-2-variants/lineage-proposals#3067
+- \+ [XGS](https://cov-lineages.org/lineage.html?lineage=XGS) Recombinant lineage of XFG, PY.1, XFG (breakpoints 4587-8349, 10979-15659), from sars-cov-2-variants/lineage-proposals#3242
+
 ### 2026-01-21
 - \+ [RE.2.2.7](https://cov-lineages.org/lineage.html?lineage=RE.2.2.7) Alias of B.1.1.529.3.2.2.2.2.7, S:K300R, ORF1a:G30D, on T1177C branch
 - \+ [RE.2.2.8](https://cov-lineages.org/lineage.html?lineage=RE.2.2.8) Alias of B.1.1.529.3.2.2.2.2.8, S:T827I, on C10726T branch
