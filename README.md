@@ -13,6 +13,15 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2026-01-29
+- \+ [PQ.48](https://cov-lineages.org/lineage.html?lineage=PQ.48) Alias of XDV.1.5.1.1.8.1.48, ORF1a:T4175I
+- \+ [PQ.48.1](https://cov-lineages.org/lineage.html?lineage=PQ.48.1) Alias of XDV.1.5.1.1.8.1.48.1, S:Q677H
+- \+ [PQ.49](https://cov-lineages.org/lineage.html?lineage=PQ.49) Alias of XDV.1.5.1.1.8.1.49, C28657T
+- \+ [QF.2.3](https://cov-lineages.org/lineage.html?lineage=QF.2.3) Alias of XFG.3.4.1.2.3, C13247T
+- \+ [QF.2.4](https://cov-lineages.org/lineage.html?lineage=QF.2.4) Alias of XFG.3.4.1.2.4, C21811T
+- \+ [XFG.6.2.2](https://cov-lineages.org/lineage.html?lineage=XFG.6.2.2) A18585T
+- \+ [XGT](https://cov-lineages.org/lineage.html?lineage=XGT) Recombinant lineage of QF.2, PQ.17, QF.2 (breakpoints 6501-7113, 23277-23600), from sars-cov-2-variants/lineage-proposals#3179
+
 ### 2026-01-22
 - \+ [RU.1](https://cov-lineages.org/lineage.html?lineage=RU.1) Alias of B.1.1.529.3.2.2.2.2.2.1, N:L219F
 - \+ [PQ.44](https://cov-lineages.org/lineage.html?lineage=PQ.44) Alias of XDV.1.5.1.1.8.1.44, ORF1a:L969F
