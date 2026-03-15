@@ -13,6 +13,35 @@ Watch for updates in [pango-designation](https://github.com/cov-lineages/pango-d
 ## Changes
 > Note: Links to lineages on https://cov-lineages.org will not work until the site is updated to include the changes.
 
+### 2026-03-15
+- \+ [RZ.1](https://cov-lineages.org/lineage.html?lineage=RZ.1) Alias of XDV.1.5.1.1.8.1.2.1.7.1, S:R445P, England
+- \+ [RZ.2](https://cov-lineages.org/lineage.html?lineage=RZ.2) Alias of XDV.1.5.1.1.8.1.2.1.7.2, S:E156V
+- \+ [RZ.2.1](https://cov-lineages.org/lineage.html?lineage=RZ.2.1) Alias of XDV.1.5.1.1.8.1.2.1.7.2.1, S:R346T
+- \+ [RC.5](https://cov-lineages.org/lineage.html?lineage=RC.5) Alias of XDV.1.5.1.1.8.1.2.8.1.5, ORF1a:T654I, many with S:S943G
+- \+ [RC.6](https://cov-lineages.org/lineage.html?lineage=RC.6) Alias of XDV.1.5.1.1.8.1.2.8.1.6, S:680Y, ORF1a:T333M, Japan/Canada
+- \+ [PQ.2.12](https://cov-lineages.org/lineage.html?lineage=PQ.2.12) Alias of XDV.1.5.1.1.8.1.2.12, T712A
+- \+ [PQ.2.12.1](https://cov-lineages.org/lineage.html?lineage=PQ.2.12.1) Alias of XDV.1.5.1.1.8.1.2.12.1, S:S446T
+- \+ [PQ.2.13](https://cov-lineages.org/lineage.html?lineage=PQ.2.13) Alias of XDV.1.5.1.1.8.1.2.13, C27513T
+- \+ [PQ.2.13.1](https://cov-lineages.org/lineage.html?lineage=PQ.2.13.1) Alias of XDV.1.5.1.1.8.1.2.13.1, S:S221L, S:S446T
+- \+ [RY.1](https://cov-lineages.org/lineage.html?lineage=RY.1) Alias of XDV.1.5.1.1.8.1.4.10.1.1, S:K478T (rev)
+- \+ [RY.1.1](https://cov-lineages.org/lineage.html?lineage=RY.1.1) Alias of XDV.1.5.1.1.8.1.4.10.1.1.1, S:T547I, on G19326A (rev) branch
+- \+ [SA.1](https://cov-lineages.org/lineage.html?lineage=SA.1) Alias of XDV.1.5.1.1.8.1.10.1.3.1, S:T286I
+- \+ [SA.1.1](https://cov-lineages.org/lineage.html?lineage=SA.1.1) Alias of XDV.1.5.1.1.8.1.10.1.3.1.1, S:H445P
+- \+ [PQ.17.12](https://cov-lineages.org/lineage.html?lineage=PQ.17.12) Alias of XDV.1.5.1.1.8.1.17.12, S:R346T, ORF7a:T28I
+- \+ [XFG.1.1.3](https://cov-lineages.org/lineage.html?lineage=XFG.1.1.3) S:E156D
+- \+ [XFG.1.1.4](https://cov-lineages.org/lineage.html?lineage=XFG.1.1.4) ORF1b:A1643T
+- \+ [XFG.1.1.5](https://cov-lineages.org/lineage.html?lineage=XFG.1.1.5) ORF1a:R542C
+- \+ [QY.2.1](https://cov-lineages.org/lineage.html?lineage=QY.2.1) Alias of XFG.4.1.3.2.1, S:A435S, N:L221F, Brazil
+- \+ [XFG.5.2.7](https://cov-lineages.org/lineage.html?lineage=XFG.5.2.7) S:L335S, S:A376S, on ORF3a:L95F branch
+- \+ [XFG.6.13](https://cov-lineages.org/lineage.html?lineage=XFG.6.13) S:K529T, S:N532K, Australia
+- \+ [XFG.10.4.1](https://cov-lineages.org/lineage.html?lineage=XFG.10.4.1) S:R445P, ORF7a:T120I, Canada
+- \+ [XFG.14.10](https://cov-lineages.org/lineage.html?lineage=XFG.14.10) S:V642G
+- \+ [RW.1](https://cov-lineages.org/lineage.html?lineage=RW.1) Alias of XFJ.3.1.2.1, S:K478T (rev)
+- \+ [RW.1.1](https://cov-lineages.org/lineage.html?lineage=RW.1.1) Alias of XFJ.3.1.2.1.1, S:A435S
+- \+ [XFZ.2.1](https://cov-lineages.org/lineage.html?lineage=XFZ.2.1) S:D1146G, Canada
+- \+ [XFZ.3](https://cov-lineages.org/lineage.html?lineage=XFZ.3) ORF1a:T1638I, C19170T, T4330C, C2221T, A7864G
+- \+ [XGU](https://cov-lineages.org/lineage.html?lineage=XGU) Recombinant lineage of XFG.5.2, XFZ (breakpoint 20179-22791), from sars-cov-2-variants/lineage-proposals#3260
+
 ### 2026-03-13
 - \+ [XFG.5.4.2](https://cov-lineages.org/lineage.html?lineage=XFG.5.4.2) C1420T, T16695C, G24199A, T27484C, A29617G
 
